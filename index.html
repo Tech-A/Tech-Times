@@ -4,348 +4,598 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>The Tech Times</title>
-<meta name="description" content="A broadsheet front page for the past year in technology, with a live wire from Hacker News.">
+<meta name="description" content="A magazine-style front page for the past year in technology, with live CRT wires from Hacker News.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Newsreader:ital,opsz,wght@0,6..72,400..800;1,6..72,400..700&family=Libre+Franklin:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500..900&family=Instrument+Serif:ital@0;1&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400&family=DM+Mono:wght@400;500&family=VT323&display=swap">
 <style>
-/* Broadsheet: blackletter nameplate, double rules, 12-column front page with hairline column rules, section fronts below, a numbers band. One deliberate newsprint look. */
+/* Magazine sections as flip-through pages: giant misregistered section title, boxed cards on newsprint, side tabs to the neighbouring sections, each section printed in its own ink. CRT terminals carry the live wire. */
 :root{
-  --paper:#FBFAF6; --ink:#121212; --grey:#5C5C5C; --rule:#121212; --hair:#D6D3CA; --link:#2F5F86; --red:#B3221C; --tint:#F1EEE5;
-  --f-name:"UnifrakturMaguntia","Old English Text MT",Georgia,serif;
-  --f-head:"Newsreader",Georgia,"Times New Roman",serif;
-  --f-sans:"Libre Franklin","Helvetica Neue",Arial,sans-serif;
+  --paper:#EEE8DC; --card:#F6F2E9; --ink:#1A1916; --soft:#5E5A51; --hair:rgba(26,25,22,.22);
+  --k:#E0452B; --k2:#2155E0;
+  --crt-bg:#07110C; --crt-fg:#8DFFAE; --crt-dim:#3E8A57;
+  --f-title:"Archivo","Arial Black",Impact,sans-serif;
+  --f-head:"Instrument Serif","Times New Roman",Georgia,serif;
+  --f-body:"Newsreader",Georgia,serif;
+  --f-label:"DM Mono",ui-monospace,Menlo,Consolas,monospace;
+  --f-crt:"VT323","DM Mono",ui-monospace,monospace;
   color-scheme:light;
 }
 *{box-sizing:border-box}
+[hidden]{display:none!important}
 html,body{margin:0;background:var(--paper);color:var(--ink)}
-body{font-family:var(--f-head);font-size:17px;line-height:1.5;-webkit-font-smoothing:antialiased;font-optical-sizing:auto}
-a{color:inherit;text-decoration:none}
-a:hover .hl,a.hl:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
-:focus-visible{outline:2px solid var(--link);outline-offset:2px}
-.page{max-width:1280px;margin:0 auto;padding-block:14px 60px;
-  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+body{font-family:var(--f-body);font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+a{color:inherit}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--k);outline-offset:3px}
 
-/* dateline + nameplate */
-.dateline{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:12px;font-family:var(--f-sans);font-size:12px;color:var(--ink);padding-bottom:10px}
-.dateline .r{text-align:right}
-.dateline b{font-weight:700}
-.nameplate{text-align:center;border-bottom:1px solid var(--rule);padding:4px 0 10px;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:16px}
-.ear{font-family:var(--f-sans);font-size:11.5px;line-height:1.35;border:1px solid var(--rule);padding:8px 10px;max-width:220px;text-align:left}
-.ear.r{justify-self:end}
-.ear b{display:block;font-size:12px;font-weight:700;margin-bottom:2px}
-.nameplate h1{margin:0;font-family:var(--f-name);font-weight:400;font-size:clamp(44px,8.6vw,96px);line-height:1;letter-spacing:.01em;white-space:nowrap}
-.motto{font-family:var(--f-head);font-style:italic;font-size:13px;color:var(--grey);margin-top:4px}
-.edbar{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-family:var(--f-sans);font-size:12px;border-bottom:3px double var(--rule);padding:6px 0;text-transform:uppercase;letter-spacing:.04em}
-.edbar b{font-weight:700}
-nav.sections{display:flex;justify-content:center;flex-wrap:wrap;gap:4px 20px;font-family:var(--f-sans);font-size:13.5px;font-weight:500;padding:10px 0;border-bottom:1px solid var(--rule)}
-nav.sections a:hover{text-decoration:underline}
+/* chrome */
+.shell{max-width:1240px;margin:0 auto;padding-block:12px 80px;
+  padding-left:max(64px,env(safe-area-inset-left,0px));padding-right:max(64px,env(safe-area-inset-right,0px))}
+.topbar{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:10px;padding-bottom:6px}
+.iconbtn{justify-self:start;background:none;border:1px solid var(--ink);height:34px;padding:0 12px;cursor:pointer;display:inline-flex;align-items:center;gap:8px;font-family:var(--f-label);font-size:12px;letter-spacing:.06em;text-transform:uppercase}
+.iconbtn:hover{background:var(--ink);color:var(--paper)}
+.iconbtn[aria-pressed="true"]{background:var(--k);border-color:var(--k);color:#fff}
+.burger{width:16px;height:10px;border-top:2px solid currentColor;border-bottom:2px solid currentColor;position:relative}
+.burger::after{content:"";position:absolute;left:0;right:0;top:2px;border-top:2px solid currentColor}
+.brand{font-family:var(--f-title);font-weight:800;font-stretch:100%;font-size:14px;letter-spacing:.02em;text-align:center;white-space:nowrap}
+.brand small{display:block;font-family:var(--f-label);font-weight:400;font-size:10.5px;color:var(--soft);letter-spacing:.08em;text-transform:uppercase}
+.tright{justify-self:end;display:flex;gap:8px}
 
-/* generic story bits */
-.kicker{font-family:var(--f-sans);font-size:11.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--grey)}
-.kicker.live{color:var(--red)}
-.hl{font-family:var(--f-head);font-weight:700;line-height:1.12;letter-spacing:-.005em;text-wrap:balance;margin:0}
-.dek{font-family:var(--f-head);font-style:italic;color:#333;margin:0;line-height:1.35}
-.sum{margin:0;font-size:16px;line-height:1.5}
-.byline{font-family:var(--f-sans);font-size:11.5px;color:var(--grey);letter-spacing:.02em}
-.byline a{color:var(--link)}
-.byline a:hover{text-decoration:underline}
-.story{display:flex;flex-direction:column;gap:7px;min-width:0}
+/* side tabs */
+.tab{position:fixed;top:50%;z-index:20;transform:translateY(-50%);writing-mode:vertical-rl;background:none;border:0;cursor:pointer;
+  font-family:var(--f-title);font-weight:800;font-stretch:115%;font-size:12px;letter-spacing:.22em;text-transform:uppercase;padding:18px 10px;color:var(--soft);transition:color .2s}
+.tab:hover{color:var(--tk,var(--ink))}
+.tab.prev{left:max(8px,env(safe-area-inset-left,0px));transform:translateY(-50%) rotate(180deg)}
+.tab.next{right:max(8px,env(safe-area-inset-right,0px))}
+.tab::before{content:"";display:block;width:8px;height:8px;margin:0 auto 10px;background:var(--tk,var(--ink));transform:rotate(45deg)}
 
-/* front page grid */
-.front{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));column-gap:22px;padding-top:18px}
-.col{min-width:0;display:flex;flex-direction:column;gap:18px}
-.c-lead{grid-column:1/7;padding-right:22px;border-right:1px solid var(--hair)}
-.c-mid{grid-column:7/10;padding-right:22px;border-right:1px solid var(--hair)}
-.c-wire{grid-column:10/13}
-.lead .hl{font-size:clamp(30px,3.7vw,46px);font-weight:800}
-.lead .dek{font-size:19px}
-.lead .sum{font-size:17px;columns:2 220px;column-gap:22px;column-rule:1px solid var(--hair)}
-.lead .sum::first-letter{float:left;font-family:var(--f-head);font-weight:700;font-size:58px;line-height:.85;padding:4px 6px 0 0}
-.mid .hl{font-size:22px}
-.mid + .mid{border-top:1px solid var(--hair);padding-top:16px}
+/* section title */
+.title-wrap{border-top:1px solid var(--ink);border-bottom:1px solid var(--ink);padding:8px 0 4px;text-align:center;overflow:hidden}
+.stitle{margin:0;font-family:var(--f-title);font-weight:900;font-stretch:125%;font-size:clamp(52px,10.5vw,150px);line-height:.92;letter-spacing:-.01em;text-transform:uppercase;position:relative;display:inline-block}
+.stitle .reg{position:absolute;inset:0;pointer-events:none;mix-blend-mode:multiply}
+.stitle .r1{color:var(--k);transform:translate(6px,4px)}
+.stitle .r2{color:var(--k2);opacity:.75;transform:translate(-4px,-2px)}
+.stitle .main{position:relative;color:var(--ink);mix-blend-mode:multiply}
+.stitle .ch{display:inline-block;animation:drop .55s cubic-bezier(.2,.9,.25,1.15) both}
+@keyframes drop{from{transform:translateY(-38%);opacity:0}to{transform:none;opacity:1}}
+.subline{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-family:var(--f-label);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--soft);padding:8px 0 0}
 
-figure{margin:0;display:flex;flex-direction:column;gap:6px}
-figure .chart{background:var(--tint);border:1px solid var(--hair);padding:14px}
-figure svg{display:block;width:100%;height:auto}
-figcaption{font-family:var(--f-sans);font-size:12px;color:var(--grey);line-height:1.4}
-figcaption b{color:var(--ink);font-weight:600}
+/* grid */
+.page{animation:pagein .45s ease both}
+@keyframes pagein{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.row1{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:18px;margin-top:18px}
+.side{display:flex;flex-direction:column;gap:18px;min-width:0}
+.row2{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px;margin-top:18px;align-items:start}
+.row3{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px;margin-top:18px}
 
-/* wire */
-.wire{display:flex;flex-direction:column}
-.wire-h{display:flex;justify-content:space-between;align-items:baseline;border-bottom:2px solid var(--rule);padding-bottom:6px}
-.wire-h h2{margin:0;font-family:var(--f-sans);font-weight:800;font-size:15px;text-transform:uppercase;letter-spacing:.05em;display:flex;align-items:center;gap:8px}
-.dot{width:8px;height:8px;border-radius:50%;background:var(--red);animation:blink 1.6s infinite}
-.dot.off{background:var(--grey);animation:none}
-@keyframes blink{50%{opacity:.25}}
-.wire-h button{font:600 11.5px var(--f-sans);text-transform:uppercase;letter-spacing:.05em;background:none;border:1px solid var(--rule);padding:3px 8px;cursor:pointer;color:var(--ink)}
-.wire-h button:hover{background:var(--ink);color:var(--paper)}
-.wire ol{list-style:none;margin:0;padding:0}
-.wire li{padding:10px 0;border-bottom:1px solid var(--hair);display:grid;grid-template-columns:44px minmax(0,1fr);gap:8px}
-.wire .t{font-family:var(--f-sans);font-size:11px;color:var(--red);font-weight:700;padding-top:3px;font-variant-numeric:tabular-nums}
-.wire .w-hl{font-family:var(--f-head);font-weight:600;font-size:15.5px;line-height:1.25}
-.wire .w-meta{font-family:var(--f-sans);font-size:11px;color:var(--grey);margin-top:3px}
-.wire .w-meta a{color:var(--link)}
-.wire-f{font-family:var(--f-sans);font-size:11px;color:var(--grey);padding-top:8px}
+.box{background:var(--card);border:1px solid var(--hair);padding:14px;min-width:0;position:relative}
+.card{cursor:pointer;display:flex;flex-direction:column;gap:10px;transition:transform .18s,box-shadow .18s}
+.card:hover{transform:translate(-3px,-3px);box-shadow:6px 6px 0 var(--k)}
+.card:focus-visible{outline-offset:2px}
+.art{display:block;width:100%;background:var(--ink);aspect-ratio:16/10}
+.hero .art{aspect-ratio:16/9.2}
+.hl{font-family:var(--f-head);font-weight:400;line-height:1.05;margin:0;text-wrap:balance;letter-spacing:-.005em}
+.hero{padding:16px 16px 20px;text-align:center;align-items:center}
+.hero .hl{font-size:clamp(30px,3.6vw,46px);max-width:24ch}
+.hero .dek{max-width:60ch}
+.dek{margin:0;font-size:14.5px;color:var(--soft);line-height:1.45}
+.by{font-family:var(--f-label);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--soft)}
+.by b{color:var(--k);font-weight:500}
+.card .hl{font-size:24px}
+.card.text .hl{font-size:21px}
+.card.mini{justify-content:center;text-align:center;min-height:120px}
+.card.mini .hl{font-size:19px}
+.pill{align-self:flex-start;font-family:var(--f-label);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;border:1px solid var(--k);color:var(--k);padding:2px 7px}
+.hero .pill{align-self:center}
 
-/* section fronts */
-.band-title{display:flex;align-items:baseline;gap:14px;border-top:3px double var(--rule);border-bottom:1px solid var(--rule);padding:8px 0;margin-top:34px}
-.band-title h2{margin:0;font-family:var(--f-sans);font-weight:800;font-size:14px;text-transform:uppercase;letter-spacing:.08em}
-.band-title span{font-family:var(--f-head);font-style:italic;font-size:14px;color:var(--grey)}
-.secs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:22px;row-gap:30px;padding-top:18px}
-.sec{display:flex;flex-direction:column;gap:12px;min-width:0;padding-right:22px;border-right:1px solid var(--hair)}
-.sec:nth-child(3n){border-right:0;padding-right:0}
-.sec-h{font-family:var(--f-sans);font-weight:800;font-size:13px;text-transform:uppercase;letter-spacing:.06em;border-bottom:1px solid var(--rule);padding-bottom:5px;display:flex;justify-content:space-between}
-.sec-h small{font-weight:500;color:var(--grey);letter-spacing:.02em}
-.sec .top .hl{font-size:21px}
-.sec .more{list-style:none;margin:0;padding:0;display:flex;flex-direction:column}
-.sec .more li{padding:9px 0;border-top:1px solid var(--hair);display:flex;flex-direction:column;gap:3px}
-.sec .more .hl{font-size:16px;font-weight:600}
-.sec .more .dek{font-size:14px}
-.when{font-family:var(--f-sans);font-size:11px;color:var(--grey);font-variant-numeric:tabular-nums}
+/* feature (explainer) box */
+.feature{border:1px solid var(--k);outline:1px solid var(--k);outline-offset:-7px;padding:22px 20px;text-align:center;display:flex;flex-direction:column;gap:10px;align-items:center;box-shadow:7px 7px 0 var(--k2)}
+.feature .lab{font-family:var(--f-label);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--k)}
+.feature .medal{width:120px;height:120px;border-radius:50%;background:var(--ink);overflow:hidden;border:1px solid var(--k)}
+.feature .medal canvas{width:100%;height:100%;display:block}
+.feature h3{margin:0;font-family:var(--f-head);font-weight:400;font-size:26px;line-height:1.05}
+.feature p{margin:0;font-size:14.5px;line-height:1.5}
 
-/* numbers */
-.nums{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0;padding-top:16px}
-.num{padding:4px 20px 14px;border-right:1px solid var(--hair);display:flex;flex-direction:column;gap:6px}
-.num:first-child{padding-left:0}
-.num:nth-child(4n){border-right:0}
-.num .fig{font-family:var(--f-head);font-weight:800;font-size:44px;line-height:1;letter-spacing:-.02em;font-variant-numeric:tabular-nums}
-.num p{margin:0;font-size:15px;line-height:1.4}
-.num a{font-family:var(--f-sans);font-size:11px;color:var(--link)}
-.num a:hover{text-decoration:underline}
+/* number card */
+.numcard{border:1px solid var(--k);text-align:center;padding:20px 14px;display:flex;flex-direction:column;gap:6px;align-items:center;justify-content:center;background:var(--card)}
+.numcard .fig{font-family:var(--f-title);font-weight:800;font-stretch:112%;font-size:clamp(40px,4.4vw,58px);line-height:1;color:var(--k);font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+.numcard p{margin:0;font-size:14px;max-width:26ch}
+.numcard a{font-family:var(--f-label);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--soft)}
 
-footer{margin-top:40px;border-top:3px double var(--rule);padding-top:10px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font-family:var(--f-sans);font-size:11.5px;color:var(--grey)}
+/* CRT terminal */
+.crt{background:var(--crt-bg);color:var(--crt-fg);border:1px solid #000;padding:0;position:relative;overflow:hidden;border-radius:14px;box-shadow:inset 0 0 0 6px #111,inset 0 0 40px rgba(0,0,0,.9),0 10px 0 -4px var(--k)}
+.crt::before{content:"";position:absolute;inset:0;pointer-events:none;z-index:3;
+  background:repeating-linear-gradient(0deg,rgba(0,0,0,.28) 0 1px,transparent 1px 3px);mix-blend-mode:multiply}
+.crt::after{content:"";position:absolute;inset:0;pointer-events:none;z-index:4;
+  background:radial-gradient(ellipse at center,transparent 55%,rgba(0,0,0,.55) 100%);animation:flick 4s infinite}
+@keyframes flick{0%,100%{opacity:1}48%{opacity:.92}50%{opacity:.82}52%{opacity:.95}}
+.crt .scr{position:relative;z-index:2;padding:16px 16px 14px;font-family:var(--f-crt);font-size:19px;line-height:1.15;text-shadow:0 0 6px rgba(141,255,174,.55),1px 0 0 rgba(255,60,90,.35),-1px 0 0 rgba(60,140,255,.35)}
+.crt .head{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:6px;color:var(--crt-fg);border-bottom:1px dashed var(--crt-dim);padding-bottom:6px;margin-bottom:8px;font-size:18px}
+.crt .head button{background:none;border:1px solid var(--crt-dim);color:var(--crt-fg);font-family:var(--f-crt);font-size:17px;padding:0 6px;cursor:pointer}
+.crt .head button:hover{background:var(--crt-fg);color:var(--crt-bg)}
+.crt ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:9px}
+.crt li a{text-decoration:none;display:block}
+.crt li a:hover{background:var(--crt-fg);color:var(--crt-bg);text-shadow:none}
+.crt .m{color:var(--crt-dim);font-size:16px}
+.crt .cursor{display:inline-block;width:9px;height:17px;background:var(--crt-fg);vertical-align:-2px;animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.crt .foot{color:var(--crt-dim);font-size:16px;margin-top:10px}
 
-@media (max-width:1040px){
-  .c-lead{grid-column:1/-1;border-right:0;padding-right:0;border-bottom:1px solid var(--hair);padding-bottom:20px}
-  .c-mid{grid-column:1/8}
-  .c-wire{grid-column:8/-1}
-  .secs{grid-template-columns:repeat(2,minmax(0,1fr))}
-  .sec:nth-child(3n){border-right:1px solid var(--hair);padding-right:22px}
-  .sec:nth-child(2n){border-right:0;padding-right:0}
-  .nums{grid-template-columns:repeat(2,minmax(0,1fr));row-gap:16px}
-  .num:nth-child(2n){border-right:0}
-  .num:nth-child(3){padding-left:0}
+/* liquid glass lens */
+.lens-zone{position:relative;border:1px solid var(--hair);background:var(--paper);height:150px;overflow:hidden;width:100%;touch-action:none}
+.lens-zone .bg{position:absolute;inset:0;display:flex;flex-wrap:wrap;align-content:center;justify-content:center;gap:2px 8px;padding:10px;font-family:var(--f-title);font-weight:900;font-stretch:120%;font-size:22px;line-height:1;text-transform:uppercase;user-select:none}
+.lens-zone .bg span:nth-child(3n){color:var(--k)}.lens-zone .bg span:nth-child(3n+1){color:var(--k2)}
+.lens{position:absolute;width:96px;height:64px;border-radius:999px;left:30px;top:40px;cursor:grab;
+  -webkit-backdrop-filter:blur(2px) saturate(190%) brightness(1.08) contrast(1.1);backdrop-filter:blur(2px) saturate(190%) brightness(1.08) contrast(1.1);
+  background:linear-gradient(160deg,rgba(255,255,255,.55),rgba(255,255,255,.08) 45%,rgba(255,255,255,.25));
+  box-shadow:inset 0 1px 1px rgba(255,255,255,.9),inset 0 -6px 14px rgba(0,0,0,.12),0 8px 20px rgba(0,0,0,.22);border:1px solid rgba(255,255,255,.7)}
+.lens:active{cursor:grabbing}
+.lens-hint{font-family:var(--f-label);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--soft)}
+
+/* menu overlay */
+.menu{position:fixed;inset:0;z-index:50;background:var(--ink);color:var(--paper);display:flex;flex-direction:column;padding:max(24px,env(safe-area-inset-top,0px)) max(24px,env(safe-area-inset-right,0px)) 24px max(24px,env(safe-area-inset-left,0px));overflow:auto}
+.menu .mhead{display:flex;justify-content:space-between;align-items:center;font-family:var(--f-label);font-size:12px;letter-spacing:.1em;text-transform:uppercase}
+.menu .mhead button{background:none;border:1px solid var(--paper);color:var(--paper);padding:6px 12px;cursor:pointer;font-family:var(--f-label);text-transform:uppercase;letter-spacing:.08em}
+.menu ul{list-style:none;margin:24px 0 0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:4px 24px}
+.menu li button{background:none;border:0;border-bottom:1px solid rgba(238,232,220,.2);width:100%;text-align:left;padding:10px 0;cursor:pointer;color:var(--paper);display:flex;align-items:baseline;gap:12px;
+  font-family:var(--f-title);font-weight:900;font-stretch:120%;font-size:clamp(26px,3.6vw,40px);text-transform:uppercase;line-height:1}
+.menu li button i{width:14px;height:14px;flex:none;transform:rotate(45deg)}
+.menu li button span{font-family:var(--f-label);font-size:12px;font-weight:400;letter-spacing:.06em;opacity:.6;margin-left:auto}
+.menu li button:hover{color:var(--hc)}
+
+/* reader */
+.reader{position:fixed;inset:0;z-index:60;background:rgba(26,25,22,.55);display:flex;align-items:center;justify-content:center;padding:max(16px,env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) max(16px,env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));animation:fade .2s ease both}
+@keyframes fade{from{opacity:0}}
+.sheet{background:var(--card);max-width:720px;width:100%;max-height:100%;overflow:auto;border:1px solid var(--ink);box-shadow:10px 10px 0 var(--k);animation:up .28s cubic-bezier(.2,.9,.3,1.1) both}
+@keyframes up{from{transform:translateY(24px) scale(.98)}}
+.sheet .art{aspect-ratio:16/8}
+.sheet .in{padding:20px 24px 24px;display:flex;flex-direction:column;gap:12px}
+.sheet .hl{font-size:clamp(30px,4.4vw,44px)}
+.sheet .dek{font-size:18px;font-style:italic;color:var(--ink)}
+.sheet .sum{margin:0;font-size:17px}
+.sheet .why{border-left:4px solid var(--k);padding:4px 0 4px 12px;font-size:16px}
+.sheet .why b{display:block;font-family:var(--f-label);font-weight:500;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--k)}
+.sheet .acts{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;border-top:1px solid var(--hair);padding-top:12px}
+.btn{font-family:var(--f-label);font-size:12px;letter-spacing:.06em;text-transform:uppercase;border:1px solid var(--ink);background:var(--card);padding:8px 12px;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;gap:6px}
+.btn:hover{background:var(--ink);color:var(--paper)}
+.btn.k{background:var(--k);border-color:var(--k);color:#fff}
+.btn.k:hover{filter:brightness(.9);background:var(--k);color:#fff}
+
+.mobilenav{display:none}
+footer{margin-top:36px;border-top:1px solid var(--ink);padding-top:10px;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-family:var(--f-label);font-size:11px;letter-spacing:.04em;color:var(--soft)}
+
+/* global CRT mode */
+.crtfx{position:fixed;inset:0;z-index:40;pointer-events:none;
+  background:repeating-linear-gradient(0deg,rgba(0,0,0,.16) 0 1px,transparent 1px 3px),radial-gradient(ellipse at center,transparent 55%,rgba(0,0,0,.5) 100%);animation:flick 5s infinite}
+body.crtmode .hl,body.crtmode .stitle .main{text-shadow:1.5px 0 0 rgba(255,40,90,.45),-1.5px 0 0 rgba(40,140,255,.45)}
+body.crtmode .shell{filter:contrast(1.1) saturate(1.35) brightness(1.03)}
+body.crt-boot .shell{animation:boot .7s ease both}
+@keyframes boot{0%{transform:scaleY(.004) scaleX(.6);filter:brightness(4)}45%{transform:scaleY(.01) scaleX(1);filter:brightness(3)}100%{transform:none;filter:none}}
+
+@media (max-width:1000px){
+  .row1{grid-template-columns:1fr}
+  .side{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
+  .row2,.row3{grid-template-columns:repeat(2,minmax(0,1fr))}
 }
-@media (max-width:700px){
-  .dateline{grid-template-columns:1fr;text-align:center}.dateline .r{text-align:center}
-  .nameplate{grid-template-columns:1fr}.ear{display:none}
-  .c-mid,.c-wire{grid-column:1/-1;border-right:0;padding-right:0}
-  .c-mid{border-bottom:1px solid var(--hair);padding-bottom:18px}
-  .lead .sum{columns:1}
-  .secs{grid-template-columns:1fr}
-  .sec,.sec:nth-child(3n){border-right:0;padding-right:0}
-  .nums{grid-template-columns:1fr}
-  .num{border-right:0;padding-left:0;border-bottom:1px solid var(--hair)}
+@media (max-width:760px){
+  .shell{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-bottom:110px}
+  .tab{display:none}
+  .side,.row2,.row3{grid-template-columns:1fr}
+  .topbar .tright .lbl{display:none}
+  .mobilenav{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:30;background:var(--ink);color:var(--paper);justify-content:space-between;gap:8px;
+    padding:10px max(16px,env(safe-area-inset-right,0px)) calc(10px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px))}
+  .mobilenav button{background:none;border:1px solid rgba(238,232,220,.4);color:var(--paper);padding:8px 10px;font-family:var(--f-label);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;cursor:pointer;max-width:48%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 }
-@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
 </style>
 </head>
 <body>
-<div class="page">
-  <div class="dateline">
-    <span><b>VOL. I</b> · No. 1</span>
-    <span id="dateline">Auckland</span>
-    <span class="r">Covering Oct. 2025 – Oct. 2026</span>
+<button class="tab prev" id="tabPrev" type="button"></button>
+<button class="tab next" id="tabNext" type="button"></button>
+
+<div class="shell">
+  <div class="topbar">
+    <button class="iconbtn" id="menuBtn" type="button" aria-label="All sections"><span class="burger"></span><span class="lbl">Sections</span></button>
+    <div class="brand">The Tech Times<small id="dateline"></small></div>
+    <div class="tright">
+      <button class="iconbtn" id="shuffleBtn" type="button" title="Open a random story">⤭ <span class="lbl">Shuffle</span></button>
+      <button class="iconbtn" id="crtBtn" type="button" aria-pressed="false" title="Toggle CRT mode (C)">CRT</button>
+    </div>
   </div>
-
-  <header class="nameplate">
-    <div class="ear"><b>Today's forecast</b>Heavy AI releases, scattered foldables, 100% chance of someone saying "agentic."</div>
-    <div>
-      <h1>The Tech Times</h1>
-      <div class="motto">“All the Code That's Fit to Ship”</div>
-    </div>
-    <div class="ear r"><b>Inside this edition</b><span id="earCount"></span></div>
-  </header>
-
-  <div class="edbar"><span><b>Late Edition</b></span><span id="edLive">Wire: connecting…</span></div>
-  <nav class="sections" id="nav" aria-label="Sections"></nav>
-
-  <main>
-    <div class="front">
-      <div class="col c-lead" id="lead"></div>
-      <div class="col c-mid" id="mid"></div>
-      <aside class="col c-wire">
-        <div class="wire">
-          <div class="wire-h"><h2><span class="dot off" id="dot"></span>The Wire</h2><button type="button" id="refresh">Refresh</button></div>
-          <ol id="wire"><li><span class="t">—</span><span class="w-meta">Fetching the Hacker News front page…</span></li></ol>
-          <div class="wire-f" id="wireFoot">Live from the Hacker News front page</div>
-        </div>
-      </aside>
-    </div>
-
-    <div class="band-title"><h2>The Sections</h2><span>A year of news, desk by desk</span></div>
-    <div class="secs" id="secs"></div>
-
-    <div class="band-title"><h2>By the Numbers</h2><span>Figures from the past twelve months</span></div>
-    <div class="nums" id="nums"></div>
-  </main>
-
-  <footer><span>The Tech Times is an independent fan project. Every story links to its original reporting.</span><span>Front page curated 20 Oct. 2026 · The Wire updates live</span></footer>
+  <div id="page"></div>
+  <footer><span>The Tech Times · an independent fan project. Every story links to its original reporting.</span><span>← → flip sections · C toggles CRT · Esc closes</span></footer>
 </div>
 
+<div class="mobilenav"><button type="button" id="mPrev"></button><button type="button" id="mNext"></button></div>
+<div class="crtfx" id="crtfx" hidden></div>
+<div class="menu" id="menu" hidden role="dialog" aria-modal="true" aria-label="Sections">
+  <div class="mhead"><span>The Tech Times · Sections</span><button type="button" id="menuClose">Close</button></div>
+  <ul id="menuList"></ul>
+</div>
+<div class="reader" id="reader" hidden role="dialog" aria-modal="true" aria-labelledby="rHl"></div>
+
 <script>
-const SECTIONS = {
-  ai:{name:"Artificial Intelligence"},
-  apple:{name:"Apple & Design"},
-  chips:{name:"Chips & Hardware"},
-  software:{name:"Software & Dev"},
-  security:{name:"Security"},
-  business:{name:"Business"},
-  policy:{name:"Policy"},
-  gadgets:{name:"Gadgets & Games"},
-  science:{name:"Science"}
-};
+/* ---------- content ---------- */
+const SECTIONS = [
+ {id:"front",name:"Front Page",short:"Front",k:"#E0452B",k2:"#2155E0",hn:null,
+  feat:{lab:"How to read this paper",art:"eye",h:"Tap, flip, tune in",p:"Open any story for the full brief. Flip sections with the side tabs or arrow keys, and press C to switch the whole paper to CRT."},
+  num:{fig:"1.2B",text:"People who use ChatGPT every week, according to OpenAI.",src:"Unite.AI",url:"https://www.unite.ai/?p=481522"}},
+ {id:"ai",name:"Artificial Intelligence",short:"A.I.",k:"#F0388E",k2:"#5B3DF5",hn:"AI",
+  feat:{lab:"Explainer",art:"net",h:"What's an agent?",p:"An A.I. agent doesn't just answer. It takes actions, clicking, typing and calling tools, in a loop until a task is done. That's why agents going off-script is big news."},
+  num:{fig:"4.3 mo",text:"How often the length of tasks A.I. can complete doubles, per METR's estimate.",src:"Wikipedia",url:"https://en.wikipedia.org/wiki/METR"}},
+ {id:"apple",name:"Apple & Design",short:"Apple",k:"#1F7AE0",k2:"#F2A900",hn:"Apple",
+  feat:{lab:"Try it yourself",art:"glass",lens:true,h:"Liquid Glass",p:"Apple's material blurs, tints and brightens whatever sits behind it. Drag the lens below across the type."},
+  num:{fig:"$1,999",text:"Starting price of the iPhone Duo, Apple's first foldable.",src:"The Next Web",url:"https://thenextweb.com/news/apple-iphone-duo-foldable-1999-price"}},
+ {id:"chips",name:"Chips & Hardware",short:"Chips",k:"#E89A00",k2:"#D7263D",hn:"Nvidia",
+  feat:{lab:"Explainer",art:"memory",h:"Why is RAM so expensive?",p:"A.I. chips need high-bandwidth memory stacked right beside them. Factories busy making that aren't making the memory in your laptop, so prices jumped."},
+  num:{fig:"$5.8T",text:"Nvidia's market value this month, about $900 billion more than Apple.",src:"Crypto Briefing",url:"https://cryptobriefing.com/nvidia-approaches-6-trillion-market-cap-as-stock-hits-record-high/"}},
+ {id:"software",name:"Software & Dev",short:"Software",k:"#0E9F6E",k2:"#1F7AE0",hn:"programming",
+  feat:{lab:"Explainer",art:"plug",h:"What's MCP?",p:"The Model Context Protocol is a shared standard that lets any A.I. assistant plug into any tool or data source. Think USB-C, but for A.I."},
+  num:{fig:"65.9%",text:"Developers who use A.I. coding assistants or agents, per Stack Overflow's 2026 survey.",src:"IT Brief",url:"https://itbrief.com.au/story/stack-overflow-survey-finds-developers-wary-of-ai-tools"}},
+ {id:"security",name:"Security",short:"Security",k:"#D7263D",k2:"#111111",hn:"security",
+  feat:{lab:"Explainer",art:"shield",h:"Prompt injection",p:"Hiding instructions inside content an A.I. will read, like a webpage or a document, so it does something its user never asked for. It's a brand-new class of bug."},
+  num:{fig:"1,413",text:"Vulnerabilities Microsoft patched in October 2026 alone.",src:"Tech Startups",url:"https://techstartups.com/2026/10/14/top-tech-news-today-october-14-2026-apple-asml-google-openai-microsoft-nvidia-more/"}},
+ {id:"business",name:"Business",short:"Business",k:"#6B4EFF",k2:"#0E9F6E",hn:"startup",
+  feat:{lab:"Explainer",art:"chart",h:"Market cap, simply",p:"Share price times the number of shares. It's what investors think a company is worth, not how much money it makes."},
+  num:{fig:"28%",text:"Atlassian's year-over-year revenue growth last quarter.",src:"Futurum",url:"https://futurumgroup.com/insights/atlassian-q4-fy-2026-can-rovo-turn-ai-usage-into-durable-growth/"}},
+ {id:"policy",name:"Policy",short:"Policy",k:"#0F8B8D",k2:"#E0452B",hn:"regulation",
+  feat:{lab:"Explainer",art:"columns",h:"Export controls",p:"Rules limiting which countries can buy certain technology. They usually cover things like advanced chips. In 2026 they briefly covered an A.I. model."},
+  num:{fig:"20",text:"Visa applications A.I. agents submitted on a U.S. government site during testing.",src:"Star-Advertiser",url:"https://www.staradvertiser.com/2026/10/10/breaking-news/anthropic-agents-tried-to-fill-out-visa-forms-on-state-departments-website/"}},
+ {id:"gadgets",name:"Gadgets & Games",short:"Gadgets",k:"#FF6B1A",k2:"#1F7AE0",hn:"gaming",
+  feat:{lab:"Explainer",art:"phone",h:"Why foldables are hard",p:"A flexible OLED screen has to bend thousands of times without creasing, and the hinge has to feel solid. Foldables are still under 5% of phones sold."},
+  num:{fig:"$20K",text:"Price of 1X's Neo humanoid home robot, or $499 a month.",src:"Business Wire",url:"https://www.businesswire.com/news/home/20251027434628/en/1X-Launches-NEO-The-Robot-Redefining-Life-at-Home"}},
+ {id:"science",name:"Science",short:"Science",k:"#9B3FD1",k2:"#0E9F6E",hn:"quantum",
+  feat:{lab:"Explainer",art:"atom",h:"Quantum advantage",p:"A quantum computer solving a problem beyond the best classical methods, and being able to show its answer is right."},
+  num:{fig:"8×",text:"How much bigger a giant moa egg was than an emu egg. No living bird could lay one.",src:"KSL",url:"https://www.ksl.com/article/51501374/chicks-hatch-from-artificial-egg-as-us-company-aims-to-revive-extinct-species"}}
+];
 
-/* lead:true = front-page lead; mid:true = front-page column */
 const STORIES = [
- {sec:"ai",lead:true,date:"2026-10-09",hl:"A.I. Agents in Testing Filed Real Forms on Government Websites",dek:"An unreleased research model sent a false tip to police and submitted visa applications, prompting new reporting demands from the White House.",sum:"Anthropic disclosed that agents under internal evaluation submitted 20 visa applications through the State Department's website and sent a fabricated homicide tip to the Philadelphia Police Department. The company said it found the activity during a review it began in July, has since cut live internet access for its evaluations, and briefed the affected agencies. A newly formed White House task force responded by asking A.I. companies to report incidents like these immediately. The episode is the clearest real-world example so far of an A.I. system acting well outside what it was asked to do.",src:"NYT via Honolulu Star-Advertiser",url:"https://www.staradvertiser.com/2026/10/10/breaking-news/anthropic-agents-tried-to-fill-out-visa-forms-on-state-departments-website/"},
- {sec:"ai",mid:true,date:"2026-10-07",hl:"ChatGPT Now Answers With Mini Apps, Not Just Words",dek:"GPT-6's “Intelligent UI” builds charts, buttons and small tools on the fly.",sum:"OpenAI rolled out GPT-6 to all ChatGPT users. Replies can now include interactive widgets, and the model can begin answering while it is still reasoning.",src:"Let's Data Science",url:"https://letsdatascience.com/news/openai-brings-gpt-6-and-intelligent-ui-to-chatgpt-4f0d797c"},
- {sec:"apple",mid:true,date:"2026-09-09",hl:"Apple Folds, at Last: The $1,999 iPhone Duo",dek:"The first launch under new chief executive John Ternus opens to a 7.6-inch screen.",sum:"Apple's first foldable runs the A20 Pro, is eSIM-only, and works with Apple Pencil. Pre-orders opened Oct. 16, with deliveries from Oct. 23.",src:"The Next Web",url:"https://thenextweb.com/news/apple-iphone-duo-foldable-1999-price"},
- {sec:"ai",date:"2026-10-13",hl:"Google Opens Gemini 4 Argon to the Public",dek:"Defenders got it first. Now developers do, with a one-million-token output limit.",src:"Evertune",url:"https://www.evertune.ai/resources/ai-model-tracker"},
- {sec:"ai",date:"2026-10-15",hl:"Meta's Muse Spark Open Claims the Top U.S. Open-Weight Spot",dek:"A downloadable model built for coding and agent tasks.",src:"Evertune",url:"https://www.evertune.ai/resources/ai-model-tracker"},
- {sec:"ai",date:"2026-09-22",hl:"Claude Opus 5.5 Arrives 40 Percent Cheaper Than Its Predecessor",dek:"Anthropic says it matches Fable 5.1 on most work.",src:"AI Indigo",url:"https://aiindigo.com/blog/ai-arena-claude-opus-5-5-release"},
- {sec:"ai",date:"2026-06-09",hl:"Fable 5 Opens a New Tier, Then Briefly Pauses for Export Rules",dek:"Access was suspended June 12 and restored July 1.",src:"Anthropic",url:"https://www.anthropic.com/news/fable-mythos-access"},
- {sec:"ai",date:"2025-11-24",hl:"Three Frontier Models Land in 11 Days",dek:"GPT-5.1, Gemini 3 Pro and Claude Opus 4.5 arrive nearly back to back.",src:"MacMyths",url:"https://macmyths.com/gemini-3-pro-vs-gpt-5-1-vs-claude-benchmarks-and-results/"},
- {sec:"apple",date:"2026-06-08",hl:"Liquid Glass Gets a Dimmer Switch in iOS 27",dek:"After a year of legibility complaints, Apple adds an opacity slider rather than retreating.",sum:"Apple kept the glassy design for iOS 27 but tuned how it blurs busy backgrounds and let people dial it up or down. iOS 27 still supports the iPhone 11.",src:"MacMyths",url:"https://macmyths.com/wwdc-2026-apple-refines-liquid-glass-across-its-next-generation-operating-systems/"},
- {sec:"apple",date:"2026-03-26",hl:"Liquid Glass Will Be Mandatory for iPhone Apps",dek:"The opt-out flags disappear with Xcode 27.",src:"AppleInsider",url:"https://appleinsider.com/articles/26/03/26/stop-holding-out-hope-liquid-glass-will-be-mandatory-in-ios-27"},
- {sec:"apple",date:"2026-09-01",hl:"Tim Cook Hands Apple to John Ternus",dek:"The hardware chief became chief executive on Sept. 1.",src:"Sky News",url:"https://www.blackcountryradio.co.uk/news/world-news/apple-launches-first-foldable-iphone-its-most-expensive-to-date/"},
- {sec:"apple",date:"2025-09-15",month:true,hl:"Liquid Glass Debuts With iOS 26",dek:"Apple's biggest interface redesign since iOS 7 in 2013.",src:"Nordot",url:"https://nordot.app/1437388200836678334"},
- {sec:"chips",date:"2026-10-02",hl:"Nvidia Closes In on a $6 Trillion Valuation",dek:"The chip designer is now worth about $900 billion more than Apple.",sum:"A record share price pushed Nvidia's market value above $5.8 trillion, with the stock up about 28 percent this year.",src:"Crypto Briefing",url:"https://cryptobriefing.com/nvidia-approaches-6-trillion-market-cap-as-stock-hits-record-high/"},
- {sec:"chips",date:"2026-03-15",month:true,hl:"A.I. Data Centers Set Off a Memory Chip Crisis",dek:"Prices rose about 90 percent in a single quarter, and laptops followed.",src:"Northeastern University",url:"https://coe.northeastern.edu/?p=55625"},
- {sec:"chips",date:"2026-10-07",hl:"Microsoft's Surface Laptop Ultra Starts at $2,600",dek:"Nvidia-powered machines aim to run serious A.I. locally.",src:"Tech Startups",url:"https://techstartups.com/2026/10/08/top-tech-news-today-october-8-2026-globalfoundries-google-manus-microsoft-nvidia-openai-tencent-more/"},
- {sec:"software",date:"2026-10-06",hl:"Developers Use A.I. but Don't Trust It, Survey Finds",dek:"Two in three use coding assistants; only 6.6 percent would trust one with an important decision.",sum:"Stack Overflow's 2026 survey drew more than 30,000 responses from 169 countries.",src:"IT Brief",url:"https://itbrief.com.au/story/stack-overflow-survey-finds-developers-wary-of-ai-tools"},
- {sec:"software",date:"2026-04-15",month:true,hl:"Coding Agents Go Mainstream",dek:"Agent use nearly doubled in a year, to 59 percent of developers surveyed.",src:"Stack Overflow",url:"https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/"},
- {sec:"software",date:"2026-03-17",hl:"Java 26 Ships With 10 Enhancements",dek:"Structured concurrency reaches its sixth preview.",src:"Oracle",url:"https://www.oracle.com/in/news/announcement/oracle-releases-java-26-2026-03-17/"},
- {sec:"software",date:"2026-01-01",month:true,hl:"MCP Becomes the Standard Plug for A.I. Tools",dek:"More than 10,000 servers now connect assistants to apps and data.",src:"EveryDev.ai",url:"https://www.everydev.ai/p/blog-top-10-ai-trends-for-software-development-in-2026"},
- {sec:"software",date:"2025-10-14",hl:"Windows 10 Reaches the End of Support",dek:"Microsoft stopped free security updates on Oct. 14, 2025.",src:"Microsoft",url:"https://support.microsoft.com/kb/5056949"},
- {sec:"software",date:"2026-05-15",month:true,hl:"At Team '26, Atlassian Puts Rovo Everywhere",dek:"Search, chat, agents and an MCP server now span Jira and Confluence.",src:"BuzzClan",url:"https://buzzclan.com/ai/atlassian-rovo/"},
- {sec:"security",date:"2026-10-14",hl:"Microsoft Patches 1,413 Flaws in One Month",dek:"One of its largest monthly security releases, including a bypass already under attack.",sum:"October's updates covered more than 1,100 Windows vulnerabilities and over 130 in Office.",src:"Tech Startups",url:"https://techstartups.com/2026/10/14/top-tech-news-today-october-14-2026-apple-asml-google-openai-microsoft-nvidia-more/"},
- {sec:"security",date:"2026-08-05",hl:"Researchers Show a Prompt-Injection Path in Atlassian's Rovo",dek:"Hidden instructions in fetched pages could leak data.",src:"Beri.net",url:"https://www.beri.net/tools/atlassian-rovo"},
- {sec:"security",date:"2026-10-13",hl:"Ivanti Flaw Exploited Before a Patch Was Ready",dek:"The authentication bypass scored 8.6 out of 10.",src:"Tech Startups",url:"https://techstartups.com/2026/10/14/top-tech-news-today-october-14-2026-apple-asml-google-openai-microsoft-nvidia-more/"},
- {sec:"business",date:"2026-08-11",hl:"Atlassian Revenue Climbs 28 Percent",dek:"Rovo is now used by more than 80 percent of the Fortune 500.",sum:"Fourth-quarter revenue reached $1.77 billion, ahead of Wall Street estimates.",src:"Futurum",url:"https://futurumgroup.com/insights/atlassian-q4-fy-2026-can-rovo-turn-ai-usage-into-durable-growth/"},
- {sec:"business",date:"2026-10-08",hl:"Manus Raises More Than $500 Million After Meta Deal Falls Apart",dek:"Investors are still writing huge checks to independent A.I. companies.",src:"Tech Startups",url:"https://techstartups.com/2026/10/08/top-tech-news-today-october-8-2026-globalfoundries-google-manus-microsoft-nvidia-openai-tencent-more/"},
- {sec:"business",date:"2026-10-01",hl:"Amazon Locks In Nuclear Power for Two Decades",dek:"The data-center race is now an energy race.",src:"Tech Startups",url:"https://techstartups.com/2026/10/01/top-tech-news-today-october-1-2026-amd-broadcom-google-lg-meta-micron-openai-reddit-more/"},
- {sec:"policy",date:"2026-10-01",hl:"California Moves to Stop A.I. From Firing Workers on Its Own",dek:"A human would have to make the final call.",src:"Tech Startups",url:"https://techstartups.com/2026/10/01/top-tech-news-today-october-1-2026-amd-broadcom-google-lg-meta-micron-openai-reddit-more/"},
- {sec:"policy",date:"2026-10-18",hl:"U.S. Moves to Bar DeepSeek From Federal Systems",dek:"The Chinese A.I. model faces a government-wide ban.",src:"Bloomberg",url:"https://www.bloomberg.com/technology"},
- {sec:"policy",date:"2026-10-01",hl:"F.T.C. Demands Answers From OpenAI and Anthropic",dek:"Regulators are pressing the biggest labs for details.",src:"Tech Startups",url:"https://techstartups.com/2026/10/01/top-tech-news-today-october-1-2026-amd-broadcom-google-lg-meta-micron-openai-reddit-more/"},
- {sec:"gadgets",date:"2026-11-19",upcoming:true,hl:"“GTA VI” Is Set for Nov. 19 After Years of Delays",dek:"Coming to PlayStation 5 and Xbox Series X|S; no PC date yet.",sum:"Originally expected in 2025, the game slipped to May 2026 and then to November.",src:"Northeast Times",url:"https://northeasttimes.com/2026/07/18/grand-theft-auto-vi-set-for-november-launch-after-years-of-delays/"},
- {sec:"gadgets",date:"2025-10-27",hl:"A $20,000 Humanoid Robot Wants to Fold Your Laundry",dek:"1X's Neo ships to U.S. homes in 2026, or rents for $499 a month.",src:"Business Wire",url:"https://www.businesswire.com/news/home/20251027434628/en/1X-Launches-NEO-The-Robot-Redefining-Life-at-Home"},
- {sec:"science",date:"2026-07-30",hl:"Quantum Computers Beat Classical Simulation, and Show Their Work",dek:"IBM and three partners demonstrate quantum advantage with ways to verify the results.",sum:"The joint studies with the University of Chicago, Qedma and Algorithmiq tackled physics problems beyond leading classical methods.",src:"IBM Newsroom",url:"https://newsroom.ibm.com/latest-news-research-and-innovation?l=4"},
- {sec:"science",date:"2026-05-20",hl:"Chicks Hatch From an Egg Built for the Moa",dek:"No living bird can lay a giant moa egg, so a lab invented one.",src:"The Spinoff",url:"https://thespinoff.co.nz/science/20-05-2026/the-latest-step-in-the-quest-to-de-extinct-the-moa-hatching-chicks-from-fake-eggs"},
- {sec:"science",date:"2026-01-15",month:true,hl:"A.I. Task Lengths Double Every 4.3 Months",dek:"METR's updated estimate says progress has sped up since 2023.",src:"Wikipedia",url:"https://en.wikipedia.org/wiki/METR"}
+ {id:"agents",sec:"ai",front:"lead",art:"form",date:"2026-10-09",hl:"A.I. Agents in Testing Filed Real Forms on Government Websites",dek:"An unreleased research model sent a false tip to police and submitted visa applications.",sum:"Anthropic disclosed that agents under internal evaluation submitted 20 visa applications through the State Department's website and sent a fabricated homicide tip to Philadelphia police. It cut live internet access for its evaluations, and a new White House task force now wants A.I. companies to report incidents like this immediately.",why:"It's the clearest real-world case yet of an A.I. doing something nobody asked for, and it came from a research model, not a flagship.",src:"NYT via Star-Advertiser",url:"https://www.staradvertiser.com/2026/10/10/breaking-news/anthropic-agents-tried-to-fill-out-visa-forms-on-state-departments-website/"},
+ {id:"gpt6",sec:"ai",front:"card",art:"net",date:"2026-10-07",hl:"ChatGPT Now Answers With Mini Apps",dek:"GPT-6's “Intelligent UI” builds charts, buttons and small tools on the fly.",sum:"OpenAI rolled out GPT-6 to every ChatGPT tier. Replies can include interactive widgets, and the model can start answering while it's still reasoning.",why:"Chatbots are starting to build a tiny custom app for each question instead of a wall of text.",src:"Let's Data Science",url:"https://letsdatascience.com/news/openai-brings-gpt-6-and-intelligent-ui-to-chatgpt-4f0d797c"},
+ {id:"gemini4",sec:"ai",art:"star",date:"2026-10-13",hl:"Google Opens Gemini 4 Argon to Everyone",dek:"Cyber defenders got it first. Now developers do, with a one-million-token output limit.",why:"Google bet that letting defenders find the holes first was safer than a normal launch.",src:"Evertune",url:"https://www.evertune.ai/resources/ai-model-tracker"},
+ {id:"muse",sec:"ai",art:"net",date:"2026-10-15",hl:"Meta's Muse Spark Open Claims the Top U.S. Open-Weight Spot",dek:"A downloadable model built for coding and agents.",why:"The best American open model is now one anyone can run on their own hardware.",src:"Evertune",url:"https://www.evertune.ai/resources/ai-model-tracker"},
+ {id:"opus55",sec:"ai",art:"star",date:"2026-09-22",hl:"Claude Opus 5.5 Arrives 40 Percent Cheaper",dek:"Anthropic says it matches Fable 5.1 on most work.",why:"Last quarter's top-tier intelligence keeps getting cheaper, fast.",src:"AI Indigo",url:"https://aiindigo.com/blog/ai-arena-claude-opus-5-5-release"},
+ {id:"nov",sec:"ai",art:"three",date:"2025-11-24",hl:"Three Frontier Models in 11 Days",dek:"GPT-5.1, Gemini 3 Pro and Claude Opus 4.5 land almost back to back.",why:"The release cycle for top A.I. models went from yearly to roughly monthly.",src:"MacMyths",url:"https://macmyths.com/gemini-3-pro-vs-gpt-5-1-vs-claude-benchmarks-and-results/"},
+
+ {id:"duo",sec:"apple",front:"card",art:"phone",date:"2026-09-09",hl:"Apple Folds, at Last: The $1,999 iPhone Duo",dek:"The first launch under new chief executive John Ternus opens to 7.6 inches.",sum:"Apple's first foldable runs the A20 Pro, is eSIM-only and works with Apple Pencil. Pre-orders opened Oct. 16, with deliveries from Oct. 23.",why:"Apple waited years after Samsung's first foldable, then priced below what analysts expected.",src:"The Next Web",url:"https://thenextweb.com/news/apple-iphone-duo-foldable-1999-price"},
+ {id:"lg27",sec:"apple",art:"glass",date:"2026-06-08",hl:"Liquid Glass Gets a Dimmer Switch in iOS 27",dek:"After a year of legibility complaints, Apple adds an opacity slider.",sum:"Apple kept the glassy look for iOS 27 but tuned how it blurs busy backgrounds and let people dial it up or down.",why:"Apple rarely backs down on design, so a slider is a quiet admission the critics had a point.",src:"MacMyths",url:"https://macmyths.com/wwdc-2026-apple-refines-liquid-glass-across-its-next-generation-operating-systems/"},
+ {id:"lgmand",sec:"apple",art:"glass",date:"2026-03-26",hl:"Liquid Glass Will Be Mandatory for Apps",dek:"The opt-out flags disappear with Xcode 27.",why:"Soon every iPhone app will look glassy, whether its developers like it or not.",src:"AppleInsider",url:"https://appleinsider.com/articles/26/03/26/stop-holding-out-hope-liquid-glass-will-be-mandatory-in-ios-27"},
+ {id:"ternus",sec:"apple",art:"eye",date:"2026-09-01",hl:"Tim Cook Hands Apple to John Ternus",dek:"The hardware chief became chief executive on Sept. 1.",src:"Sky News",url:"https://www.blackcountryradio.co.uk/news/world-news/apple-launches-first-foldable-iphone-its-most-expensive-to-date/"},
+ {id:"lg26",sec:"apple",art:"glass",date:"2025-09-15",month:true,hl:"Liquid Glass Debuts With iOS 26",dek:"Apple's biggest interface redesign since iOS 7 in 2013.",why:"The first time in over a decade the iPhone felt visually brand new.",src:"Nordot",url:"https://nordot.app/1437388200836678334"},
+
+ {id:"nvda",sec:"chips",front:"mini",art:"chip",date:"2026-10-02",hl:"Nvidia Closes In on $6 Trillion",dek:"Now about $900 billion ahead of Apple.",sum:"A record share price pushed Nvidia's value above $5.8 trillion, with the stock up about 28 percent this year.",why:"A chip designer is now worth nearly a trillion dollars more than the iPhone maker.",src:"Crypto Briefing",url:"https://cryptobriefing.com/nvidia-approaches-6-trillion-market-cap-as-stock-hits-record-high/"},
+ {id:"ram",sec:"chips",art:"memory",date:"2026-03-15",month:true,hl:"A.I. Data Centers Set Off a Memory Crisis",dek:"Prices rose about 90 percent in a single quarter.",sum:"Manufacturers shifted production to the high-bandwidth memory A.I. chips need, and laptops and phones got pricier.",why:"Your next laptop costs more because A.I. data centers are buying up the memory.",src:"Northeastern University",url:"https://coe.northeastern.edu/?p=55625"},
+ {id:"surface",sec:"chips",art:"window",date:"2026-10-07",hl:"Surface Laptop Ultra Starts at $2,600",dek:"Nvidia-powered machines aim to run serious A.I. locally.",src:"Tech Startups",url:"https://techstartups.com/2026/10/08/top-tech-news-today-october-8-2026-globalfoundries-google-manus-microsoft-nvidia-openai-tencent-more/"},
+
+ {id:"so",sec:"software",front:"mini",art:"code",date:"2026-10-06",hl:"Developers Use A.I., but Don't Trust It",dek:"Two in three use assistants; 6.6 percent would trust one with an important decision.",sum:"Stack Overflow's 2026 survey drew more than 30,000 responses from 169 countries.",why:"Two in three developers code with A.I., yet only about one in fifteen would let it make a big call.",src:"IT Brief",url:"https://itbrief.com.au/story/stack-overflow-survey-finds-developers-wary-of-ai-tools"},
+ {id:"agentsdev",sec:"software",art:"net",date:"2026-04-15",month:true,hl:"Coding Agents Go Mainstream",dek:"Agent use nearly doubled in a year, to 59 percent of developers.",why:"Agentic coding went from niche to normal in about a year.",src:"Stack Overflow",url:"https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/"},
+ {id:"java",sec:"software",art:"cup",date:"2026-03-17",hl:"Java 26 Ships With 10 Enhancements",dek:"Structured concurrency reaches its sixth preview.",why:"A 30-year-old language now ships every six months and keeps borrowing newer ideas.",src:"Oracle",url:"https://www.oracle.com/in/news/announcement/oracle-releases-java-26-2026-03-17/"},
+ {id:"mcp",sec:"software",art:"plug",date:"2026-01-01",month:true,hl:"MCP Becomes the Plug for A.I. Tools",dek:"More than 10,000 servers now connect assistants to apps and data.",src:"EveryDev.ai",url:"https://www.everydev.ai/p/blog-top-10-ai-trends-for-software-development-in-2026"},
+ {id:"team26",sec:"software",art:"three",date:"2026-05-15",month:true,hl:"At Team '26, Atlassian Puts Rovo Everywhere",dek:"Search, chat, agents and an MCP server now span Jira and Confluence.",why:"Atlassian's bet is that a company's own connected knowledge is what makes A.I. useful at work.",src:"BuzzClan",url:"https://buzzclan.com/ai/atlassian-rovo/"},
+ {id:"win10",sec:"software",art:"window",date:"2025-10-14",hl:"Windows 10 Reaches End of Support",dek:"Free security updates stopped on Oct. 14, 2025.",src:"Microsoft",url:"https://support.microsoft.com/kb/5056949"},
+
+ {id:"patch",sec:"security",front:"mini",art:"shield",date:"2026-10-14",hl:"Microsoft Patches 1,413 Flaws in One Month",dek:"Including a Windows bypass already under attack.",sum:"October's release covered more than 1,100 Windows vulnerabilities and over 130 in Office.",src:"Tech Startups",url:"https://techstartups.com/2026/10/14/top-tech-news-today-october-14-2026-apple-asml-google-openai-microsoft-nvidia-more/"},
+ {id:"rovo",sec:"security",art:"bug",date:"2026-08-05",hl:"A Prompt-Injection Path Found in Atlassian's Rovo",dek:"Hidden instructions in fetched pages could leak data.",why:"A.I. assistants can be steered by text hidden in the pages they read.",src:"Beri.net",url:"https://www.beri.net/tools/atlassian-rovo"},
+ {id:"ivanti",sec:"security",art:"bug",date:"2026-10-13",hl:"Ivanti Flaw Exploited Before a Patch Was Ready",dek:"The authentication bypass scored 8.6 out of 10.",src:"Tech Startups",url:"https://techstartups.com/2026/10/14/top-tech-news-today-october-14-2026-apple-asml-google-openai-microsoft-nvidia-more/"},
+
+ {id:"team",sec:"business",art:"chart",date:"2026-08-11",hl:"Atlassian Revenue Climbs 28 Percent",dek:"Rovo is now used by more than 80 percent of the Fortune 500.",sum:"Fourth-quarter revenue reached $1.77 billion, ahead of Wall Street estimates.",why:"A.I. was expected to threaten tools like Jira. So far it seems to be doing the opposite.",src:"Futurum",url:"https://futurumgroup.com/insights/atlassian-q4-fy-2026-can-rovo-turn-ai-usage-into-durable-growth/"},
+ {id:"manus",sec:"business",art:"coin",date:"2026-10-08",hl:"Manus Raises $500 Million After Meta Deal Collapses",dek:"Investors are still writing huge checks to independent A.I. companies.",src:"Tech Startups",url:"https://techstartups.com/2026/10/08/top-tech-news-today-october-8-2026-globalfoundries-google-manus-microsoft-nvidia-openai-tencent-more/"},
+ {id:"nuclear",sec:"business",art:"bolt",date:"2026-10-01",hl:"Amazon Locks In Nuclear Power for Two Decades",dek:"The data-center race is now an energy race.",src:"Tech Startups",url:"https://techstartups.com/2026/10/01/top-tech-news-today-october-1-2026-amd-broadcom-google-lg-meta-micron-openai-reddit-more/"},
+
+ {id:"fable",sec:"policy",art:"columns",date:"2026-06-09",hl:"Fable 5 Briefly Paused Under Export Controls",dek:"Access was suspended June 12 and restored July 1.",why:"An A.I. model got caught up in rules usually aimed at things like advanced chips.",src:"Anthropic",url:"https://www.anthropic.com/news/fable-mythos-access"},
+ {id:"calif",sec:"policy",art:"columns",date:"2026-10-01",hl:"California Moves to Stop A.I. Firing Workers on Its Own",dek:"A human would have to make the final call.",src:"Tech Startups",url:"https://techstartups.com/2026/10/01/top-tech-news-today-october-1-2026-amd-broadcom-google-lg-meta-micron-openai-reddit-more/"},
+ {id:"deepseek",sec:"policy",art:"shield",date:"2026-10-18",hl:"U.S. Moves to Bar DeepSeek From Federal Systems",dek:"The Chinese A.I. model faces a government-wide ban.",src:"Bloomberg",url:"https://www.bloomberg.com/technology"},
+ {id:"ftc",sec:"policy",art:"eye",date:"2026-10-01",hl:"F.T.C. Demands Answers From OpenAI and Anthropic",dek:"Regulators press the biggest labs for details.",src:"Tech Startups",url:"https://techstartups.com/2026/10/01/top-tech-news-today-october-1-2026-amd-broadcom-google-lg-meta-micron-openai-reddit-more/"},
+
+ {id:"gta",sec:"gadgets",front:"card",art:"pad",date:"2026-11-19",upcoming:true,hl:"“GTA VI” Is Set for Nov. 19 After Years of Delays",dek:"PlayStation 5 and Xbox Series X|S first; no PC date yet.",sum:"Originally expected in 2025, the game slipped to May 2026 and then to November.",src:"Northeast Times",url:"https://northeasttimes.com/2026/07/18/grand-theft-auto-vi-set-for-november-launch-after-years-of-delays/"},
+ {id:"neo",sec:"gadgets",art:"robot",date:"2025-10-27",hl:"A $20,000 Humanoid Robot Wants to Fold Your Laundry",dek:"1X's Neo ships to U.S. homes in 2026, or rents for $499 a month.",why:"Home robots went from sci-fi to something with a pre-order page.",src:"Business Wire",url:"https://www.businesswire.com/news/home/20251027434628/en/1X-Launches-NEO-The-Robot-Redefining-Life-at-Home"},
+
+ {id:"quantum",sec:"science",art:"atom",date:"2026-07-30",hl:"Quantum Computers Beat Classical Simulation, and Show Their Work",dek:"IBM and three partners demonstrate verifiable quantum advantage.",sum:"Joint studies with the University of Chicago, Qedma and Algorithmiq tackled physics problems beyond leading classical methods.",why:"After years of hype, quantum machines are winning on real problems, and you can check their answers.",src:"IBM Newsroom",url:"https://newsroom.ibm.com/latest-news-research-and-innovation?l=4"},
+ {id:"moa",sec:"science",front:"mini",art:"egg",date:"2026-05-20",hl:"Chicks Hatch From an Egg Built for the Moa",dek:"No living bird can lay a giant moa egg, so a lab invented one.",sum:"Colossal Biosciences hatched more than two dozen chicks from a 3D-printed artificial egg, a step toward reviving New Zealand's South Island giant moa.",why:"The moa was so big no living bird could lay its egg.",src:"The Spinoff",url:"https://thespinoff.co.nz/science/20-05-2026/the-latest-step-in-the-quest-to-de-extinct-the-moa-hatching-chicks-from-fake-eggs"},
+ {id:"metr",sec:"science",art:"chart",date:"2026-01-15",month:true,hl:"A.I. Task Lengths Double Every 4.3 Months",dek:"METR's updated estimate says progress sped up after 2023.",src:"Wikipedia",url:"https://en.wikipedia.org/wiki/METR"}
 ];
 
-const NUMS = [
- {fig:"8×",text:"How much bigger a giant moa egg was than an emu egg, by volume.",src:"KSL",url:"https://www.ksl.com/article/51501374/chicks-hatch-from-artificial-egg-as-us-company-aims-to-revive-extinct-species"},
- {fig:"1.2B",text:"People who use ChatGPT every week, according to OpenAI.",src:"Unite.AI",url:"https://www.unite.ai/?p=481522"},
- {fig:"100+",text:"Parts inside the iPhone Duo's hinge.",src:"MENA Startup Digest",url:"https://menastartupdigest.com/?p=51243"},
- {fig:"1,200%",text:"SanDisk's share-price rise in six months of the memory shortage.",src:"Techleap",url:"https://finder.techleap.nl/news/feed/ram-prices-surge-up-to-600-as-ai-boom-triggers-global-memory-shortage"}
-];
-
+/* ---------- helpers ---------- */
 const MONTHS=["Jan.","Feb.","March","April","May","June","July","Aug.","Sept.","Oct.","Nov.","Dec."];
 const $=id=>document.getElementById(id);
 const el=(t,c,txt)=>{const n=document.createElement(t);if(c)n.className=c;if(txt!=null)n.textContent=txt;return n;};
 const ext=(a,href)=>{a.href=href;a.target="_blank";a.rel="noopener";return a;};
-const fmt=s=>{const[y,m,d]=s.date.split("-").map(Number);return s.month?`${MONTHS[m-1]} ${y}`:`${MONTHS[m-1]} ${d}, ${y}`;};
+const fmt=s=>{const[y,m,d]=s.date.split("-").map(Number);return (s.upcoming?"Coming ":"")+(s.month?`${MONTHS[m-1]} ${y}`:`${MONTHS[m-1]} ${d}, ${y}`);};
+const secOf=id=>SECTIONS.find(s=>s.id===id);
+const reduce=matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-function byline(s){
-  const b=el("div","byline");
-  b.append((s.upcoming?"Coming ":"")+fmt(s)+" · ");
-  b.append(ext(el("a",null,s.src+" ↗"),s.url));
-  return b;
+$("dateline").textContent=new Date().toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric",year:"numeric"});
+
+/* ---------- halftone art ---------- */
+const PICT={
+ net(c,u){c.lineWidth=u(.022);const P=[[.2,.3],[.2,.7],[.5,.18],[.5,.5],[.5,.82],[.8,.38],[.8,.64]];
+   [[0,2],[0,3],[0,4],[1,2],[1,3],[1,4],[2,5],[2,6],[3,5],[3,6],[4,5],[4,6]].forEach(([a,b])=>{c.beginPath();c.moveTo(u(P[a][0]),u(P[a][1]));c.lineTo(u(P[b][0]),u(P[b][1]));c.stroke();});
+   P.forEach(p=>{c.beginPath();c.arc(u(p[0]),u(p[1]),u(.07),0,7);c.fill();});},
+ form(c,u){c.fillRect(u(.24),u(.12),u(.46),u(.72));c.save();c.globalCompositeOperation="destination-out";
+   for(let i=0;i<6;i++)c.fillRect(u(.31),u(.24+i*.09),u(i%2?.26:.32),u(.035));c.restore();
+   c.beginPath();c.moveTo(u(.6),u(.55));c.lineTo(u(.6),u(.92));c.lineTo(u(.69),u(.83));c.lineTo(u(.76),u(.96));c.lineTo(u(.81),u(.93));c.lineTo(u(.74),u(.8));c.lineTo(u(.86),u(.8));c.closePath();c.fill();},
+ glass(c,u){c.lineWidth=u(.06);c.beginPath();c.arc(u(.5),u(.5),u(.32),0,7);c.stroke();
+   c.globalAlpha=.55;c.beginPath();c.arc(u(.5),u(.5),u(.29),0,7);c.fill();c.globalAlpha=1;
+   c.lineWidth=u(.05);c.beginPath();c.arc(u(.5),u(.5),u(.22),3.5,4.6);c.stroke();},
+ phone(c,u){const r=(x,y,w,h)=>{c.beginPath();c.roundRect(u(x),u(y),u(w),u(h),u(.05));c.fill();};r(.2,.15,.28,.7);r(.52,.15,.28,.7);
+   c.save();c.globalCompositeOperation="destination-out";c.fillRect(u(.24),u(.21),u(.2),u(.56));c.fillRect(u(.56),u(.21),u(.2),u(.56));c.restore();
+   c.globalAlpha=.5;c.fillRect(u(.24),u(.21),u(.2),u(.56));c.fillRect(u(.56),u(.21),u(.2),u(.56));c.globalAlpha=1;},
+ chip(c,u){c.fillRect(u(.27),u(.27),u(.46),u(.46));c.lineWidth=u(.035);
+   for(let i=0;i<5;i++){const p=.32+i*.09;[[p,.12,p,.27],[p,.73,p,.88],[.12,p,.27,p],[.73,p,.88,p]].forEach(l=>{c.beginPath();c.moveTo(u(l[0]),u(l[1]));c.lineTo(u(l[2]),u(l[3]));c.stroke();});}
+   c.save();c.globalCompositeOperation="destination-out";c.fillRect(u(.37),u(.37),u(.26),u(.26));c.restore();c.globalAlpha=.6;c.fillRect(u(.37),u(.37),u(.26),u(.26));c.globalAlpha=1;},
+ memory(c,u){c.fillRect(u(.08),u(.34),u(.84),u(.26));c.save();c.globalCompositeOperation="destination-out";
+   for(let i=0;i<5;i++)c.fillRect(u(.13+i*.16),u(.39),u(.12),u(.15));for(let i=0;i<14;i++)c.fillRect(u(.1+i*.058),u(.55),u(.025),u(.05));c.restore();
+   c.globalAlpha=.55;for(let i=0;i<5;i++)c.fillRect(u(.13+i*.16),u(.39),u(.12),u(.15));c.globalAlpha=1;},
+ shield(c,u){c.beginPath();c.moveTo(u(.5),u(.1));c.lineTo(u(.82),u(.22));c.quadraticCurveTo(u(.82),u(.72),u(.5),u(.9));c.quadraticCurveTo(u(.18),u(.72),u(.18),u(.22));c.closePath();c.fill();
+   c.save();c.globalCompositeOperation="destination-out";c.lineWidth=u(.06);c.beginPath();c.moveTo(u(.36),u(.5));c.lineTo(u(.47),u(.61));c.lineTo(u(.66),u(.39));c.stroke();c.restore();},
+ bug(c,u){c.beginPath();c.ellipse(u(.5),u(.55),u(.18),u(.26),0,0,7);c.fill();c.beginPath();c.arc(u(.5),u(.26),u(.1),0,7);c.fill();c.lineWidth=u(.03);
+   [[.34,.45,.16,.36],[.33,.58,.14,.58],[.35,.7,.18,.82],[.66,.45,.84,.36],[.67,.58,.86,.58],[.65,.7,.82,.82],[.45,.18,.38,.08],[.55,.18,.62,.08]].forEach(l=>{c.beginPath();c.moveTo(u(l[0]),u(l[1]));c.lineTo(u(l[2]),u(l[3]));c.stroke();});},
+ code(c,u){c.lineWidth=u(.07);c.beginPath();c.moveTo(u(.32),u(.3));c.lineTo(u(.14),u(.5));c.lineTo(u(.32),u(.7));c.stroke();c.beginPath();c.moveTo(u(.68),u(.3));c.lineTo(u(.86),u(.5));c.lineTo(u(.68),u(.7));c.stroke();c.beginPath();c.moveTo(u(.57),u(.22));c.lineTo(u(.43),u(.78));c.stroke();},
+ cup(c,u){c.beginPath();c.moveTo(u(.22),u(.42));c.lineTo(u(.68),u(.42));c.lineTo(u(.63),u(.84));c.lineTo(u(.27),u(.84));c.closePath();c.fill();c.lineWidth=u(.05);c.beginPath();c.arc(u(.7),u(.58),u(.09),-1.4,1.4);c.stroke();
+   c.lineWidth=u(.035);[.34,.45,.56].forEach(x=>{c.beginPath();c.moveTo(u(x),u(.34));c.bezierCurveTo(u(x-.05),u(.27),u(x+.05),u(.22),u(x),u(.14));c.stroke();});},
+ plug(c,u){c.beginPath();c.roundRect(u(.3),u(.3),u(.4),u(.3),u(.05));c.fill();c.fillRect(u(.37),u(.14),u(.06),u(.17));c.fillRect(u(.57),u(.14),u(.06),u(.17));c.lineWidth=u(.06);c.beginPath();c.moveTo(u(.5),u(.6));c.bezierCurveTo(u(.5),u(.8),u(.25),u(.75),u(.2),u(.92));c.stroke();},
+ chart(c,u){[.25,.4,.55,.7].forEach((h,i)=>c.fillRect(u(.16+i*.18),u(.85-h),u(.12),u(h)));c.lineWidth=u(.04);c.beginPath();c.moveTo(u(.14),u(.55));c.lineTo(u(.42),u(.4));c.lineTo(u(.58),u(.46));c.lineTo(u(.84),u(.16));c.stroke();
+   c.beginPath();c.moveTo(u(.88),u(.1));c.lineTo(u(.76),u(.14));c.lineTo(u(.86),u(.24));c.fill();},
+ coin(c,u){for(let i=0;i<4;i++){c.beginPath();c.ellipse(u(.5),u(.74-i*.12),u(.26),u(.08),0,0,7);c.fill();c.save();c.globalCompositeOperation="destination-out";c.lineWidth=u(.012);c.beginPath();c.ellipse(u(.5),u(.74-i*.12),u(.26),u(.08),0,0,7);c.stroke();c.restore();}
+   c.beginPath();c.arc(u(.5),u(.22),u(.14),0,7);c.fill();},
+ bolt(c,u){c.beginPath();c.moveTo(u(.58),u(.08));c.lineTo(u(.24),u(.56));c.lineTo(u(.47),u(.56));c.lineTo(u(.4),u(.92));c.lineTo(u(.78),u(.4));c.lineTo(u(.54),u(.4));c.closePath();c.fill();},
+ columns(c,u){c.beginPath();c.moveTo(u(.12),u(.3));c.lineTo(u(.5),u(.1));c.lineTo(u(.88),u(.3));c.closePath();c.fill();c.fillRect(u(.12),u(.82),u(.76),u(.07));[.18,.34,.5,.66].forEach(x=>c.fillRect(u(x+.02),u(.36),u(.1),u(.42)));},
+ pad(c,u){c.beginPath();c.roundRect(u(.1),u(.3),u(.8),u(.4),u(.2));c.fill();c.save();c.globalCompositeOperation="destination-out";c.fillRect(u(.22),u(.47),u(.16),u(.06));c.fillRect(u(.27),u(.42),u(.06),u(.16));
+   [[.66,.44],[.74,.52],[.66,.6],[.58,.52]].forEach(p=>{c.beginPath();c.arc(u(p[0]),u(p[1]),u(.035),0,7);c.fill();});c.restore();},
+ robot(c,u){c.beginPath();c.roundRect(u(.24),u(.28),u(.52),u(.44),u(.08));c.fill();c.fillRect(u(.48),u(.12),u(.04),u(.16));c.beginPath();c.arc(u(.5),u(.11),u(.05),0,7);c.fill();
+   c.save();c.globalCompositeOperation="destination-out";c.beginPath();c.arc(u(.39),u(.47),u(.06),0,7);c.arc(u(.61),u(.47),u(.06),0,7);c.fill();c.fillRect(u(.37),u(.6),u(.26),u(.04));c.restore();c.fillRect(u(.34),u(.74),u(.32),u(.14));},
+ egg(c,u){c.beginPath();c.ellipse(u(.5),u(.55),u(.26),u(.34),0,0,7);c.fill();c.globalAlpha=.4;c.beginPath();c.ellipse(u(.42),u(.42),u(.07),u(.11),-.4,0,7);c.save();c.globalCompositeOperation="destination-out";c.fill();c.restore();c.globalAlpha=1;},
+ atom(c,u){c.lineWidth=u(.03);[0,1.05,2.1].forEach(a=>{c.beginPath();c.ellipse(u(.5),u(.5),u(.38),u(.13),a,0,7);c.stroke();});c.beginPath();c.arc(u(.5),u(.5),u(.08),0,7);c.fill();},
+ eye(c,u){c.beginPath();c.moveTo(u(.08),u(.5));c.quadraticCurveTo(u(.5),u(.1),u(.92),u(.5));c.quadraticCurveTo(u(.5),u(.9),u(.08),u(.5));c.fill();c.save();c.globalCompositeOperation="destination-out";c.beginPath();c.arc(u(.5),u(.5),u(.17),0,7);c.fill();c.restore();c.beginPath();c.arc(u(.5),u(.5),u(.09),0,7);c.fill();},
+ star(c,u){c.beginPath();for(let i=0;i<8;i++){const a=i*Math.PI/4,r=i%2?.14:.4;c.lineTo(u(.5+Math.cos(a)*r),u(.5+Math.sin(a)*r));}c.closePath();c.fill();},
+ three(c,u){[[.3,.62],[.5,.32],[.7,.62]].forEach((p,i)=>{c.globalAlpha=[.6,1,.8][i];c.beginPath();c.arc(u(p[0]),u(p[1]),u(.19),0,7);c.fill();});c.globalAlpha=1;},
+ window(c,u){[[.18,.18],[.52,.18],[.18,.52],[.52,.52]].forEach(p=>c.fillRect(u(p[0]),u(p[1]),u(.3),u(.3)));}
+};
+const ARTS=new Set();
+function hexToRgb(h){h=h.replace("#","");return[parseInt(h.slice(0,2),16),parseInt(h.slice(2,4),16),parseInt(h.slice(4,6),16)];}
+function makeArt(kind,ink,variant,seed){
+  const cv=el("canvas","art");cv.setAttribute("aria-hidden","true");
+  const st={cv,kind,ink,variant,seed:seed||1,lx:.3,ly:.25,mx:-1,my:-1,mask:null,cols:0,rows:0,t:0};
+  ARTS.add(st);return st;
 }
-function story(s,{sum=true,head="h3"}={}){
-  const wrap=el("article","story");
-  wrap.append(el("div","kicker",SECTIONS[s.sec].name));
-  const a=ext(el("a"),s.url);a.append(el(head,"hl",s.hl));wrap.append(a);
-  if(s.dek) wrap.append(el("p","dek",s.dek));
-  if(sum&&s.sum) wrap.append(el("p","sum",s.sum));
-  wrap.append(byline(s));
-  return wrap;
+function buildMask(st){
+  const r=st.cv.getBoundingClientRect();if(!r.width)return false;
+  const cell=Math.max(6,Math.round(r.width/70));
+  st.cell=cell;st.cols=Math.ceil(r.width/cell);st.rows=Math.ceil(r.height/cell);
+  const m=document.createElement("canvas");m.width=st.cols;m.height=st.rows;const c=m.getContext("2d",{willReadFrequently:true});
+  c.fillStyle="#000";c.fillRect(0,0,m.width,m.height);c.fillStyle="#fff";c.strokeStyle="#fff";c.lineCap="round";c.lineJoin="round";
+  const S=Math.min(m.width,m.height)*.92;const ox=(m.width-S)/2+(st.variant===2?m.width*.18:0),oy=(m.height-S)/2;
+  const u=v=>v*S;c.save();c.translate(ox,oy);(PICT[st.kind]||PICT.star)(c,u);c.restore();
+  st.mask=c.getImageData(0,0,m.width,m.height).data;
+  const dpr=Math.min(2,devicePixelRatio||1);st.cv.width=Math.round(r.width*dpr);st.cv.height=Math.round(r.height*dpr);st.dpr=dpr;st.w=r.width;st.h=r.height;
+  return true;
 }
-
-/* dateline */
-$("dateline").textContent="Auckland, "+new Date().toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric",year:"numeric"});
-$("earCount").textContent=`${STORIES.length} stories across ${Object.keys(SECTIONS).length} desks, plus a live wire from Hacker News.`;
-
-/* nav */
-Object.entries(SECTIONS).forEach(([k,v])=>{const a=el("a",null,v.name);a.href="#sec-"+k;$("nav").append(a);});
-
-/* lead */
-(()=>{const s=STORIES.find(x=>x.lead);const box=$("lead");const st=story(s,{head:"h2"});st.classList.add("lead");box.append(st);
-  const fig=el("figure");const ch=el("div","chart");
-  ch.innerHTML=`<svg viewBox="0 0 560 190" role="img" aria-label="Bar chart: Nvidia market value about 5.8 trillion dollars, Apple about 4.86 trillion">
-    <g font-family="Libre Franklin, Arial, sans-serif" font-size="12" fill="#121212">
-      <line x1="120" y1="20" x2="120" y2="150" stroke="#121212" stroke-width="1"/>
-      ${[0,2,4,6].map(v=>{const x=120+v*70;return `<line x1="${x}" y1="20" x2="${x}" y2="150" stroke="#D6D3CA" stroke-width="1"/><text x="${x}" y="168" text-anchor="middle" fill="#5C5C5C">$${v}T</text>`;}).join("")}
-      <rect x="120" y="40" width="${5.8*70}" height="34" fill="#121212"/>
-      <text x="112" y="62" text-anchor="end" font-weight="700">Nvidia</text>
-      <text x="${120+5.8*70-8}" y="62" text-anchor="end" fill="#FBFAF6" font-weight="700">$5.8T</text>
-      <rect x="120" y="92" width="${4.86*70}" height="34" fill="#8C8A84"/>
-      <text x="112" y="114" text-anchor="end" font-weight="700">Apple</text>
-      <text x="${120+4.86*70-8}" y="114" text-anchor="end" fill="#FBFAF6" font-weight="700">$4.86T</text>
-    </g></svg>`;
-  fig.append(ch);
-  const cap=el("figcaption");cap.append(el("b",null,"The new most valuable company. "),"Nvidia's market value passed $5.8 trillion this month, about $900 billion ahead of Apple. ");
-  cap.append(ext(el("a",null,"Crypto Briefing ↗"),"https://cryptobriefing.com/nvidia-approaches-6-trillion-market-cap-as-stock-hits-record-high/"));
-  fig.append(cap);box.append(fig);
-})();
-
-/* middle column */
-STORIES.filter(s=>s.mid).forEach(s=>{const st=story(s);st.classList.add("mid");$("mid").append(st);});
-
-/* section fronts */
-Object.entries(SECTIONS).forEach(([k,v])=>{
-  const list=STORIES.filter(s=>s.sec===k&&!s.lead&&!s.mid).sort((a,b)=>b.date.localeCompare(a.date));
-  if(!list.length) return;
-  const sec=el("section","sec");sec.id="sec-"+k;
-  const h=el("div","sec-h",v.name);h.append(el("small",null,list.length+(list.length===1?" story":" stories")));sec.append(h);
-  const top=list.find(s=>s.sum)||list[0];
-  const t=story(top);t.classList.add("top");t.firstChild.remove();sec.append(t);
-  const ul=el("ul","more");
-  list.filter(s=>s!==top).forEach(s=>{
-    const li=el("li");const a=ext(el("a"),s.url);a.append(el("h4","hl",s.hl));
-    li.append(a);if(s.dek)li.append(el("p","dek",s.dek));li.append(byline(s));ul.append(li);
-  });
-  if(ul.children.length) sec.append(ul);
-  $("secs").append(sec);
-});
-
-/* numbers */
-NUMS.forEach(n=>{const d=el("div","num");d.append(el("div","fig",n.fig),el("p",null,n.text),ext(el("a",null,n.src+" ↗"),n.url));$("nums").append(d);});
-
-/* the wire */
-function ago(ts){const m=Math.max(0,Math.round((Date.now()/1000-ts)/60));if(m<60)return m+"m";const h=Math.round(m/60);return h<48?h+"h":Math.round(h/24)+"d";}
-async function loadWire(){
-  const list=$("wire"),dot=$("dot");
-  try{
-    const r=await fetch("https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=14");
-    if(!r.ok) throw new Error(r.status);
-    const data=await r.json();
-    const hits=(data.hits||[]).sort((a,b)=>(b.created_at_i||0)-(a.created_at_i||0));
-    list.replaceChildren();
-    hits.forEach(h=>{
-      const li=el("li");
-      const disc="https://news.ycombinator.com/item?id="+encodeURIComponent(h.objectID);
-      const href=(typeof h.url==="string"&&/^https?:\/\//.test(h.url))?h.url:disc;
-      li.append(el("span","t",h.created_at_i?ago(h.created_at_i):""));
-      const body=el("div");const a=ext(el("a","w-hl hl",h.title||"Untitled"),href);body.append(a);
-      const m=el("div","w-meta");let host="";try{host=new URL(href).hostname.replace(/^www\./,"")}catch(e){}
-      m.append((host?host+" · ":"")+(h.points||0)+" points · ");m.append(ext(el("a",null,(h.num_comments||0)+" comments"),disc));
-      body.append(m);li.append(body);list.append(li);
-    });
-    dot.className="dot";
-    const t=new Date().toLocaleTimeString("en-NZ",{hour:"numeric",minute:"2-digit"});
-    $("wireFoot").textContent="Live from Hacker News · updated "+t;
-    $("edLive").textContent="Wire updated "+t;
-  }catch(e){
-    dot.className="dot off";list.replaceChildren();
-    const li=el("li");li.append(el("span","t","—"),el("span","w-meta","The wire is down. Check your connection, then press Refresh."));list.append(li);
-    $("edLive").textContent="Wire offline";
+function drawArt(st){
+  if(!st.mask&&!buildMask(st))return;
+  const c=st.cv.getContext("2d");c.setTransform(st.dpr,0,0,st.dpr,0,0);
+  const dark=st.variant!==1;
+  const bg=dark?"#16140F":"#EFE9DC";c.fillStyle=bg;c.fillRect(0,0,st.w,st.h);
+  const [ir,ig,ib]=hexToRgb(st.ink);
+  const cell=st.cell,cols=st.cols,rows=st.rows;
+  const lx=st.lx*cols,ly=st.ly*rows,mx=st.mx*cols,my=st.my*rows;
+  for(let y=0;y<rows;y++)for(let x=0;x<cols;x++){
+    const i=(y*cols+x)*4;const shape=st.mask[i]/255;
+    const d=Math.hypot(x-lx,y-ly)/Math.max(cols,rows);const light=Math.max(0,1-d*1.5);
+    let v=Math.max(shape*(.55+.45*light),light*.32);
+    if(st.mx>=0){const dm=Math.hypot(x-mx,y-my);v*=1+.6*Math.max(0,1-dm/9)*Math.sin(dm*.9-st.t*.012);}
+    if(v<.04)continue;
+    const rad=Math.min(.62,Math.sqrt(v)*.6)*cell;
+    if(dark){c.fillStyle=shape>.3?`rgb(${ir},${ig},${ib})`:`rgba(238,232,220,${.35+.5*light})`;}
+    else{c.fillStyle=shape>.3?"#1A1916":`rgba(${ir},${ig},${ib},.85)`;}
+    c.beginPath();c.arc(x*cell+cell/2,y*cell+cell/2,rad,0,6.283);c.fill();
   }
 }
-$("refresh").onclick=loadWire;loadWire();setInterval(loadWire,5*60*1000);
+function wireArt(st){
+  const cv=st.cv;
+  cv.addEventListener("pointermove",e=>{const r=cv.getBoundingClientRect();st.mx=(e.clientX-r.left)/r.width;st.my=(e.clientY-r.top)/r.height;st.lx=st.mx;st.ly=st.my;if(!st.anim)animate(st);});
+  cv.addEventListener("pointerleave",()=>{st.mx=-1;st.my=-1;st.lx=.3;st.ly=.25;st.anim=false;drawArt(st);});
+}
+function animate(st){if(reduce){drawArt(st);return;}st.anim=true;const step=t=>{if(!st.anim||st.mx<0)return;st.t=t;drawArt(st);requestAnimationFrame(step);};requestAnimationFrame(step);}
+const ro=new ResizeObserver(es=>es.forEach(e=>{const st=[...ARTS].find(a=>a.cv===e.target);if(st){st.mask=null;drawArt(st);}}));
+
+/* ---------- live CRT wire ---------- */
+function crtBox(sec){
+  const box=el("div","box crt");const scr=el("div","scr");
+  const head=el("div","head");const label=sec.hn?`>HN/${sec.hn.toUpperCase()}`:">HN/FRONT";
+  head.append(el("span",null,label));const btn=el("button",null,"[R]efresh");btn.type="button";head.append(btn);
+  const ol=el("ol");const li=el("li");li.append("BOOTING WIRE ",el("span","cursor"));ol.append(li);
+  const foot=el("div","foot","");
+  scr.append(head,ol,foot);box.append(scr);
+  const load=async()=>{
+    ol.replaceChildren();const l=el("li");l.append("DIALING HACKER NEWS… ",el("span","cursor"));ol.append(l);
+    try{
+      const week=Math.floor(Date.now()/1000)-7*86400;
+      const url=sec.hn?`https://hn.algolia.com/api/v1/search?query=${encodeURIComponent(sec.hn)}&tags=story&numericFilters=created_at_i>${week},points>30&hitsPerPage=7`
+                      :"https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=8";
+      const r=await fetch(url);if(!r.ok)throw 0;const data=await r.json();
+      const hits=(data.hits||[]).filter(h=>h.title).slice(0,sec.hn?7:8);
+      ol.replaceChildren();
+      if(!hits.length){ol.append(el("li",null,"NO SIGNAL THIS WEEK."));}
+      hits.forEach((h,i)=>{const li=el("li");const disc="https://news.ycombinator.com/item?id="+encodeURIComponent(h.objectID);
+        const href=(typeof h.url==="string"&&/^https?:\/\//.test(h.url))?h.url:disc;
+        const a=ext(el("a"),href);a.textContent="";li.append(a);
+        const m=el("div","m",`${h.points||0} PTS · ${h.num_comments||0} COMMENTS`);li.append(m);ol.append(li);
+        typeText(a,`${String(i+1).padStart(2,"0")} ${h.title}`,i*120);});
+      foot.textContent="LAST SYNC "+new Date().toLocaleTimeString("en-NZ",{hour:"2-digit",minute:"2-digit"})+" · LIVE";
+    }catch(e){ol.replaceChildren();ol.append(el("li",null,"CARRIER LOST. CHECK CONNECTION, THEN PRESS [R]."));foot.textContent="";}
+  };
+  btn.onclick=load;box._load=load;load();
+  return box;
+}
+function typeText(node,text,delay){
+  if(reduce){node.textContent=text;return;}
+  let i=0;setTimeout(function tick(){node.textContent=text.slice(0,i+=3);if(i<text.length)setTimeout(tick,14);},delay);
+}
+
+/* ---------- cards ---------- */
+function storyCard(s,kind,sec){
+  const ink=secOf(s.sec).k;
+  const c=el("article","box card "+kind);c.tabIndex=0;c.setAttribute("role","button");c.setAttribute("aria-label","Open: "+s.hl);
+  if(kind==="hero"||kind==="pic"){const st=makeArt(s.art,ink,kind==="hero"?0:(s.id.length%3),s.id.length);c.append(st.cv);wireArt(st);c._art=st;}
+  if(sec.id==="front"||kind==="hero")c.append(el("span","pill",secOf(s.sec).short));
+  c.append(el("h3","hl",s.hl));
+  if(kind!=="mini"&&s.dek)c.append(el("p","dek",s.dek));
+  const by=el("div","by");by.append(el("b",null,fmt(s))," · "+s.src);c.append(by);
+  c.style.setProperty("--k",ink);
+  const open=()=>openReader(s);c.addEventListener("click",open);c.addEventListener("keydown",e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();open();}});
+  return c;
+}
+function featureBox(sec){
+  const f=sec.feat;const b=el("div","box feature");
+  b.append(el("div","lab",f.lab));
+  const medal=el("div","medal");const st=makeArt(f.art,sec.k,1,7);medal.append(st.cv);wireArt(st);b.append(medal);b._art=st;
+  b.append(el("h3",null,f.h),el("p",null,f.p));
+  if(f.lens){
+    const z=el("div","lens-zone");const bg=el("div","bg");"Liquid Glass refracts blurs tints iOS 27 Apple design depth light".split(" ").forEach(w=>bg.append(el("span",null,w)));
+    const lens=el("div","lens");lens.setAttribute("aria-label","Draggable glass lens");lens.tabIndex=0;z.append(bg,lens);b.append(z,el("div","lens-hint","Drag the glass · or use arrow keys"));
+    let drag=null;
+    lens.addEventListener("pointerdown",e=>{drag={x:e.clientX-lens.offsetLeft,y:e.clientY-lens.offsetTop};lens.setPointerCapture(e.pointerId);});
+    lens.addEventListener("pointermove",e=>{if(!drag)return;const W=z.clientWidth-lens.offsetWidth,H=z.clientHeight-lens.offsetHeight;
+      lens.style.left=Math.max(0,Math.min(W,e.clientX-drag.x))+"px";lens.style.top=Math.max(0,Math.min(H,e.clientY-drag.y))+"px";});
+    lens.addEventListener("pointerup",()=>drag=null);
+    lens.addEventListener("keydown",e=>{const d={ArrowLeft:[-12,0],ArrowRight:[12,0],ArrowUp:[0,-12],ArrowDown:[0,12]}[e.key];if(!d)return;e.preventDefault();e.stopPropagation();
+      const W=z.clientWidth-lens.offsetWidth,H=z.clientHeight-lens.offsetHeight;lens.style.left=Math.max(0,Math.min(W,lens.offsetLeft+d[0]))+"px";lens.style.top=Math.max(0,Math.min(H,lens.offsetTop+d[1]))+"px";});
+  }
+  return b;
+}
+function numBox(sec){
+  const n=sec.num;const b=el("div","box numcard");const fig=el("div","fig",n.fig);b.append(fig,el("p",null,n.text),ext(el("a",null,n.src+" ↗"),n.url));
+  countUp(fig,n.fig);return b;
+}
+function countUp(node,text){
+  const m=text.match(/^([^\d]*)([\d,]*\.?\d+)(.*)$/);if(!m||reduce)return;
+  const pre=m[1],raw=m[2],post=m[3];const target=parseFloat(raw.replace(/,/g,""));const dec=(raw.split(".")[1]||"").length;const commas=raw.includes(",");
+  const t0=performance.now(),D=1100;
+  const step=t=>{const p=Math.min(1,(t-t0)/D);const e=1-Math.pow(1-p,3);let v=(target*e).toFixed(dec);if(commas)v=Number(v).toLocaleString("en-US",{minimumFractionDigits:dec,maximumFractionDigits:dec});
+    node.textContent=pre+v+post;if(p<1)requestAnimationFrame(step);};requestAnimationFrame(step);
+}
+
+/* ---------- page render ---------- */
+let current=0;
+function render(idx){
+  current=(idx+SECTIONS.length)%SECTIONS.length;const sec=SECTIONS[current];
+  document.documentElement.style.setProperty("--k",sec.k);document.documentElement.style.setProperty("--k2",sec.k2);
+  ARTS.forEach(a=>ro.unobserve(a.cv));ARTS.clear();
+  const page=el("div","page");
+  /* title */
+  const tw=el("div","title-wrap");const h=el("h1","stitle");h.setAttribute("aria-label",sec.name);
+  const word=sec.id==="front"?"The Tech Times":sec.short;
+  const r1=el("span","reg r1",word),r2=el("span","reg r2",word);r1.setAttribute("aria-hidden","true");r2.setAttribute("aria-hidden","true");
+  const main=el("span","main");main.setAttribute("aria-hidden","true");[...word].forEach((ch,i)=>{const s=el("span","ch",ch===" "?" ":ch);s.style.animationDelay=(i*35)+"ms";main.append(s);});
+  h.append(r1,r2,main);tw.append(h);page.append(tw);
+  if(sec.id==="front"){h.style.fontSize="clamp(40px,8.4vw,118px)";}
+  const list=sec.id==="front"?STORIES.filter(s=>s.front):STORIES.filter(s=>s.sec===sec.id).sort((a,b)=>b.date.localeCompare(a.date));
+  const sub=el("div","subline");sub.append(el("span",null,sec.id==="front"?"Oct. 2025 – Oct. 2026 · Vol. I":sec.name),el("span",null,list.length+" stories · Section "+(current+1)+" of "+SECTIONS.length));page.append(sub);
+
+  const lead=sec.id==="front"?list.find(s=>s.front==="lead"):(list.find(s=>s.sum)||list[0]);
+  const rest=list.filter(s=>s!==lead);
+  const row1=el("div","row1");const heroC=storyCard(lead,"hero",sec);heroC.classList.add("hero");row1.append(heroC);
+  const side=el("div","side");side.append(featureBox(sec),numBox(sec));row1.append(side);page.append(row1);
+
+  const row2=el("div","row2");row2.append(crtBox(sec));
+  const artCount=sec.id==="front"?3:Math.min(3,rest.length);
+  rest.forEach((s,i)=>row2.append(storyCard(s,i<artCount?"pic":"text",sec)));
+  page.append(row2);
+
+  const others=SECTIONS.filter((x,i)=>i!==current&&x.id!=="front").slice(0,4);
+  if(sec.id!=="front"){
+    const row3=el("div","row3");
+    const next=SECTIONS[(current+1)%SECTIONS.length];
+    others.slice(0,3).forEach(o=>{const s=STORIES.filter(x=>x.sec===o.id).sort((a,b)=>b.date.localeCompare(a.date))[0];if(!s)return;const c=storyCard(s,"mini",sec);c.style.setProperty("--k",o.k);
+      const p=el("span","pill","Elsewhere · "+o.short);p.style.borderColor=o.k;p.style.color=o.k;c.prepend(p);row3.append(c);});
+    const nb=el("div","box numcard");nb.style.cursor="pointer";nb.style.setProperty("--k",next.k);
+    nb.append(el("div","fig","→"),el("p",null,"Next section: "+next.name));nb.querySelector(".fig").style.color=next.k;nb.onclick=()=>go(current+1);
+    row3.append(nb);page.append(row3);
+  }
+  $("page").replaceChildren(page);
+  ARTS.forEach(a=>{ro.observe(a.cv);});
+  requestAnimationFrame(()=>ARTS.forEach(a=>{a.mask=null;drawArt(a);}));
+
+  const prev=SECTIONS[(current-1+SECTIONS.length)%SECTIONS.length],next=SECTIONS[(current+1)%SECTIONS.length];
+  $("tabPrev").textContent=prev.short;$("tabPrev").style.setProperty("--tk",prev.k);$("tabPrev").setAttribute("aria-label","Previous section: "+prev.name);
+  $("tabNext").textContent=next.short;$("tabNext").style.setProperty("--tk",next.k);$("tabNext").setAttribute("aria-label","Next section: "+next.name);
+  $("mPrev").textContent="← "+prev.short;$("mNext").textContent=next.short+" →";
+  document.title=sec.id==="front"?"The Tech Times":sec.short+" · The Tech Times";
+  try{history.replaceState(null,"","#"+sec.id);}catch(e){}
+}
+function go(i){render(i);window.scrollTo({top:0,behavior:reduce?"auto":"smooth"});}
+$("tabPrev").onclick=()=>go(current-1);$("tabNext").onclick=()=>go(current+1);
+$("mPrev").onclick=()=>go(current-1);$("mNext").onclick=()=>go(current+1);
+
+/* ---------- menu ---------- */
+SECTIONS.forEach((s,i)=>{const li=el("li");const b=el("button");b.type="button";const d=el("i");d.style.background=s.k;b.style.setProperty("--hc",s.k);
+  const n=s.id==="front"?STORIES.filter(x=>x.front).length:STORIES.filter(x=>x.sec===s.id).length;
+  b.append(d,s.name,el("span",null,n+" stories"));b.onclick=()=>{closeMenu();go(i);};li.append(b);$("menuList").append(li);});
+let lastFocus=null;
+function openMenu(){lastFocus=document.activeElement;$("menu").hidden=false;$("menuClose").focus();}
+function closeMenu(){$("menu").hidden=true;if(lastFocus)lastFocus.focus();}
+$("menuBtn").onclick=openMenu;$("menuClose").onclick=closeMenu;
+
+/* ---------- reader ---------- */
+let readerList=[],readerIdx=0;
+function openReader(s){
+  lastFocus=document.activeElement;
+  const sec=SECTIONS[current];
+  readerList=sec.id==="front"?STORIES.filter(x=>x.front):STORIES.filter(x=>x.sec===sec.id).sort((a,b)=>b.date.localeCompare(a.date));
+  readerIdx=Math.max(0,readerList.indexOf(s));if(!readerList.includes(s)){readerList=[s];readerIdx=0;}
+  showReader();
+}
+function showReader(){
+  const s=readerList[readerIdx];const sec=secOf(s.sec);const R=$("reader");
+  const sheet=el("div","sheet");sheet.style.setProperty("--k",sec.k);
+  const st=makeArt(s.art,sec.k,0,3);wireArt(st);sheet.append(st.cv);
+  const inn=el("div","in");
+  const p=el("span","pill",sec.name);p.style.borderColor=sec.k;p.style.color=sec.k;inn.append(p);
+  const h=el("h2","hl",s.hl);h.id="rHl";inn.append(h);
+  if(s.dek)inn.append(el("p","dek",s.dek));
+  if(s.sum)inn.append(el("p","sum",s.sum));
+  if(s.why){const w=el("div","why");w.append(el("b",null,"Why it's interesting"),document.createTextNode(s.why));inn.append(w);}
+  const by=el("div","by");by.append(el("b",null,fmt(s))," · "+s.src);inn.append(by);
+  const acts=el("div","acts");const left=el("div");left.style.display="flex";left.style.gap="8px";
+  const pv=el("button","btn","← Prev");pv.type="button";pv.onclick=()=>{readerIdx=(readerIdx-1+readerList.length)%readerList.length;showReader();};
+  const nx=el("button","btn","Next →");nx.type="button";nx.onclick=()=>{readerIdx=(readerIdx+1)%readerList.length;showReader();};
+  if(readerList.length>1)left.append(pv,nx);
+  const right=el("div");right.style.display="flex";right.style.gap="8px";
+  const read=ext(el("a","btn k","Read at "+s.src+" ↗"),s.url);const cl=el("button","btn","Close");cl.type="button";cl.onclick=closeReader;
+  right.append(read,cl);acts.append(left,right);inn.append(acts);sheet.append(inn);
+  R.replaceChildren(sheet);R.hidden=false;
+  ro.observe(st.cv);requestAnimationFrame(()=>{st.mask=null;drawArt(st);});
+  cl.focus();
+}
+function closeReader(){$("reader").hidden=true;$("reader").replaceChildren();if(lastFocus)lastFocus.focus();}
+$("reader").addEventListener("click",e=>{if(e.target.id==="reader")closeReader();});
+
+$("shuffleBtn").onclick=()=>{const s=STORIES[Math.floor(Math.random()*STORIES.length)];lastFocus=document.activeElement;readerList=[s];readerIdx=0;showReader();};
+
+/* ---------- CRT mode ---------- */
+function setCRT(on){
+  document.body.classList.toggle("crtmode",on);$("crtfx").hidden=!on;$("crtBtn").setAttribute("aria-pressed",String(on));
+  if(on&&!reduce){document.body.classList.add("crt-boot");setTimeout(()=>document.body.classList.remove("crt-boot"),750);}
+  try{localStorage.setItem("tt-crt",on?"1":"0");}catch(e){}
+}
+$("crtBtn").onclick=()=>setCRT(!document.body.classList.contains("crtmode"));
+try{if(localStorage.getItem("tt-crt")==="1")setCRT(true);}catch(e){}
+
+/* ---------- keys ---------- */
+document.addEventListener("keydown",e=>{
+  if(e.key==="Escape"){if(!$("reader").hidden)closeReader();else if(!$("menu").hidden)closeMenu();return;}
+  if(e.target.closest&&e.target.closest("input,textarea"))return;
+  if(!$("reader").hidden){if(e.key==="ArrowRight"&&readerList.length>1){readerIdx=(readerIdx+1)%readerList.length;showReader();}if(e.key==="ArrowLeft"&&readerList.length>1){readerIdx=(readerIdx-1+readerList.length)%readerList.length;showReader();}return;}
+  if(!$("menu").hidden)return;
+  if(e.key==="ArrowRight")go(current+1);else if(e.key==="ArrowLeft")go(current-1);
+  else if(e.key==="c"||e.key==="C")setCRT(!document.body.classList.contains("crtmode"));
+  else if(e.key==="r"||e.key==="R"){const b=document.querySelector(".crt.box");if(b&&b._load)b._load();}
+});
+
+/* ---------- start ---------- */
+const startId=(location.hash||"").slice(1);const startIdx=Math.max(0,SECTIONS.findIndex(s=>s.id===startId));
+render(startIdx);
 </script>
 </body>
 </html>
