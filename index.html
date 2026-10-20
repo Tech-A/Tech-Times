@@ -235,6 +235,42 @@ main{padding-block:22px 70px}
 footer{border-top:3px double var(--rule);padding-block:12px 40px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font-family:var(--f-ui);font-size:13px;color:var(--soft)}
 kbd{font-family:var(--f-ui);font-size:12px;border:1px solid var(--hair);border-bottom-width:2px;border-radius:4px;padding:0 5px;background:var(--card)}
 
+
+/* toolbox */
+.tgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:18px}
+.tcar{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(250px,280px);gap:18px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:14px}
+.tcar .tool{scroll-snap-align:start}
+.tool{background:var(--card);border:1px solid var(--hair);padding:16px;display:flex;flex-direction:column;gap:8px;min-width:0;transition:transform .15s,box-shadow .15s}
+.tool:hover{transform:translate(-3px,-3px);box-shadow:5px 5px 0 var(--tk)}
+.tool-top{display:flex;gap:12px;align-items:center}
+.mono{width:46px;height:46px;flex:none;display:grid;place-items:center;background:var(--tk);color:#fff;font-family:var(--f-title);font-weight:900;font-stretch:125%;font-size:25px;line-height:1;text-shadow:3px 2px 0 rgba(0,0,0,.28)}
+.tcat{font-family:var(--f-ui);font-size:11.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--tk)}
+.tname{margin:0;font-family:var(--f-title);font-weight:800;font-stretch:104%;font-size:20px;line-height:1.1;color:var(--ink);overflow-wrap:anywhere}
+.tool.done .tname::after{content:" ✓";color:var(--tk)}
+.tdesc{margin:0;font-size:16px;line-height:1.4;color:var(--ink)}
+.twhy{margin:0;font-size:15px;line-height:1.45;color:var(--soft)}
+.tacts{display:flex;gap:6px;flex-wrap:wrap;margin-top:auto;padding-top:6px}
+.tacts a,.tacts button{font-family:var(--f-ui);font-size:13px;font-weight:600;border:1px solid var(--hair);background:transparent;padding:5px 11px;border-radius:999px;cursor:pointer;color:var(--ink)}
+.tacts a{background:var(--ink);border-color:var(--ink);color:var(--paper)}
+.tacts a:hover{background:var(--tk);border-color:var(--tk);color:#fff}
+.tacts button:hover{border-color:var(--ink)}
+.tacts button[aria-pressed="true"]{background:var(--tk);border-color:var(--tk);color:#fff}
+.tfilters{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:16px}
+.tf{background:var(--card);border:1px solid var(--hair);border-radius:999px;padding:6px 12px;cursor:pointer;font-family:var(--f-ui);font-size:13.5px;font-weight:600;color:var(--ink);display:inline-flex;align-items:center;gap:7px}
+.tf i{width:9px;height:9px;transform:rotate(45deg)}
+.tf:hover{border-color:var(--ink)}
+.tf[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.tprogress{font-family:var(--f-ui);font-size:14px;color:var(--soft)}
+.tod{text-align:left;align-items:stretch}
+.tod .lab{text-align:center}
+.tod .todbody .tool{border:0;padding:0;background:transparent;box-shadow:none!important;transform:none!important}
+.tod .btn{align-self:center}
+.swatches{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));width:100%;height:100px;border:1px solid var(--hair)}
+.sw{border:0;cursor:pointer;display:flex;align-items:flex-end;justify-content:center;padding:6px 2px;font-family:var(--f-ui);font-size:10.5px;font-weight:700;letter-spacing:.02em;transition:flex .2s,transform .15s}
+.sw:hover{transform:translateY(-4px)}
+.sw:focus-visible{outline-offset:-3px}
+.feature .btn.k{background:var(--sk,var(--k));border-color:var(--sk,var(--k));color:#fff}
+
 /* CRT mode */
 .crtfx{position:fixed;inset:0;z-index:40;pointer-events:none;background:repeating-linear-gradient(0deg,rgba(0,0,0,.15) 0 1px,transparent 1px 3px),radial-gradient(ellipse at center,transparent 55%,rgba(0,0,0,.5) 100%);animation:flick 5s infinite}
 body.crtmode .hl,body.crtmode .hd,body.crtmode .mt .main,body.crtmode .sechead h1 .main{text-shadow:1.5px 0 0 rgba(255,40,90,.45),-1.5px 0 0 rgba(40,140,255,.45)}
@@ -301,12 +337,18 @@ const SECTIONS = [
  {id:"ai",name:"Artificial Intelligence",short:"A.I.",k:"#F0388E",k2:"#5B3DF5",hn:"AI",
   feat:{lab:"Explainer",art:"net",h:"What's an agent?",p:"An A.I. agent doesn't just answer. It takes actions, clicking, typing and calling tools, in a loop until a task is done. That's why agents going off-script is big news."},
   num:{fig:"4.3 mo",text:"How often the length of tasks A.I. can complete doubles, per METR's estimate.",src:"Wikipedia",url:"https://en.wikipedia.org/wiki/METR"}},
- {id:"apple",name:"Apple & Design",short:"Apple",k:"#1F7AE0",k2:"#F2A900",hn:"Apple",
+ {id:"design",name:"Design",short:"Design",k:"#0094B0",k2:"#E0452B",hn:"design",
+  feat:{lab:"Try it",art:"pen",palette:true,h:"Palette roulette",p:"Roll a five-colour palette. Click a swatch to copy its hex code."},
+  num:{fig:"12 yrs",text:"Between iOS 7's flat redesign in 2013 and Liquid Glass in 2025, Apple's two biggest interface overhauls.",src:"Nordot",url:"https://nordot.app/1437388200836678334"}},
+ {id:"apple",name:"Apple",short:"Apple",k:"#1F7AE0",k2:"#F2A900",hn:"Apple",
   feat:{lab:"Try it yourself",art:"glass",lens:true,h:"Liquid Glass",p:"Apple's material blurs, tints and brightens whatever sits behind it. Drag the lens below across the type."},
   num:{fig:"$1,999",text:"Starting price of the iPhone Duo, Apple's first foldable.",src:"The Next Web",url:"https://thenextweb.com/news/apple-iphone-duo-foldable-1999-price"}},
  {id:"chips",name:"Chips & Hardware",short:"Chips",k:"#E89A00",k2:"#D7263D",hn:"Nvidia",
   feat:{lab:"Explainer",art:"memory",h:"Why is RAM so expensive?",p:"A.I. chips need high-bandwidth memory stacked right beside them. Factories busy making that aren't making the memory in your laptop, so prices jumped."},
   num:{fig:"$5.8T",text:"Nvidia's market value this month, about $900 billion more than Apple.",src:"Crypto Briefing",url:"https://cryptobriefing.com/nvidia-approaches-6-trillion-market-cap-as-stock-hits-record-high/"}},
+ {id:"tools",name:"Tools",short:"Tools",k:"#5F8A00",k2:"#1F7AE0",hnTag:"show_hn",
+  feat:{lab:"Tool of the day",art:"wrench",tod:true,h:"",p:""},
+  num:{fig:"52.7%",text:"Developers learning new skills who used A.I. code-generation tools, per Stack Overflow's 2026 survey.",src:"IT Brief",url:"https://itbrief.com.au/story/stack-overflow-survey-finds-developers-wary-of-ai-tools"}},
  {id:"software",name:"Software & Dev",short:"Software",k:"#0E9F6E",k2:"#1F7AE0",hn:"programming",
   feat:{lab:"Explainer",art:"plug",h:"What's MCP?",p:"The Model Context Protocol is a shared standard that lets any A.I. assistant plug into any tool or data source. Think USB-C, but for A.I."},
   num:{fig:"65.9%",text:"Developers who use A.I. coding assistants or agents, per Stack Overflow's 2026 survey.",src:"IT Brief",url:"https://itbrief.com.au/story/stack-overflow-survey-finds-developers-wary-of-ai-tools"}},
@@ -337,18 +379,18 @@ const STORIES = [
 
  {id:"duo",sec:"apple",front:"card",art:"phone",date:"2026-09-09",hl:"Apple Folds, at Last: The $1,999 iPhone Duo",dek:"The first launch under new chief executive John Ternus opens to 7.6 inches.",sum:"Apple's first foldable runs the A20 Pro, is eSIM-only and works with Apple Pencil. Pre-orders opened Oct. 16, with deliveries from Oct. 23.",why:"Apple waited years after Samsung's first foldable, then priced below what analysts expected.",src:"The Next Web",url:"https://thenextweb.com/news/apple-iphone-duo-foldable-1999-price"},
  {id:"lg27",sec:"apple",art:"glass",date:"2026-06-08",hl:"Liquid Glass Gets a Dimmer Switch in iOS 27",dek:"After a year of legibility complaints, Apple adds an opacity slider.",sum:"Apple kept the glassy look for iOS 27 but tuned how it blurs busy backgrounds and let people dial it up or down.",why:"Apple rarely backs down on design, so a slider is a quiet admission the critics had a point.",src:"MacMyths",url:"https://macmyths.com/wwdc-2026-apple-refines-liquid-glass-across-its-next-generation-operating-systems/"},
- {id:"lgmand",sec:"apple",art:"glass",date:"2026-03-26",hl:"Liquid Glass Will Be Mandatory for Apps",dek:"The opt-out flags disappear with Xcode 27.",why:"Soon every iPhone app will look glassy, whether its developers like it or not.",src:"AppleInsider",url:"https://appleinsider.com/articles/26/03/26/stop-holding-out-hope-liquid-glass-will-be-mandatory-in-ios-27"},
+ {id:"lgmand",sec:"design",art:"glass",date:"2026-03-26",hl:"Liquid Glass Will Be Mandatory for Apps",dek:"The opt-out flags disappear with Xcode 27.",why:"Soon every iPhone app will look glassy, whether its developers like it or not.",src:"AppleInsider",url:"https://appleinsider.com/articles/26/03/26/stop-holding-out-hope-liquid-glass-will-be-mandatory-in-ios-27"},
  {id:"ternus",sec:"apple",art:"eye",date:"2026-09-01",hl:"Tim Cook Hands Apple to John Ternus",dek:"The hardware chief became chief executive on Sept. 1.",src:"Sky News",url:"https://www.blackcountryradio.co.uk/news/world-news/apple-launches-first-foldable-iphone-its-most-expensive-to-date/"},
- {id:"lg26",sec:"apple",art:"glass",date:"2025-09-15",month:true,hl:"Liquid Glass Debuts With iOS 26",dek:"Apple's biggest interface redesign since iOS 7 in 2013.",why:"The first time in over a decade the iPhone felt visually brand new.",src:"Nordot",url:"https://nordot.app/1437388200836678334"},
+ {id:"lg26",sec:"design",art:"glass",date:"2025-09-15",month:true,hl:"Liquid Glass Debuts With iOS 26",dek:"Apple's biggest interface redesign since iOS 7 in 2013.",why:"The first time in over a decade the iPhone felt visually brand new.",src:"Nordot",url:"https://nordot.app/1437388200836678334"},
 
  {id:"nvda",sec:"chips",front:"mini",art:"chip",date:"2026-10-02",hl:"Nvidia Closes In on $6 Trillion",dek:"Now about $900 billion ahead of Apple.",sum:"A record share price pushed Nvidia's value above $5.8 trillion, with the stock up about 28 percent this year.",why:"A chip designer is now worth nearly a trillion dollars more than the iPhone maker.",src:"Crypto Briefing",url:"https://cryptobriefing.com/nvidia-approaches-6-trillion-market-cap-as-stock-hits-record-high/"},
  {id:"ram",sec:"chips",art:"memory",date:"2026-03-15",month:true,hl:"A.I. Data Centers Set Off a Memory Crisis",dek:"Prices rose about 90 percent in a single quarter.",sum:"Manufacturers shifted production to the high-bandwidth memory A.I. chips need, and laptops and phones got pricier.",why:"Your next laptop costs more because A.I. data centers are buying up the memory.",src:"Northeastern University",url:"https://coe.northeastern.edu/?p=55625"},
  {id:"surface",sec:"chips",art:"window",date:"2026-10-07",hl:"Surface Laptop Ultra Starts at $2,600",dek:"Nvidia-powered machines aim to run serious A.I. locally.",src:"Tech Startups",url:"https://techstartups.com/2026/10/08/top-tech-news-today-october-8-2026-globalfoundries-google-manus-microsoft-nvidia-openai-tencent-more/"},
 
  {id:"so",sec:"software",front:"mini",art:"code",date:"2026-10-06",hl:"Developers Use A.I., but Don't Trust It",dek:"Two in three use assistants; 6.6 percent would trust one with an important decision.",sum:"Stack Overflow's 2026 survey drew more than 30,000 responses from 169 countries.",why:"Two in three developers code with A.I., yet only about one in fifteen would let it make a big call.",src:"IT Brief",url:"https://itbrief.com.au/story/stack-overflow-survey-finds-developers-wary-of-ai-tools"},
- {id:"agentsdev",sec:"software",art:"net",date:"2026-04-15",month:true,hl:"Coding Agents Go Mainstream",dek:"Agent use nearly doubled in a year, to 59 percent of developers.",why:"Agentic coding went from niche to normal in about a year.",src:"Stack Overflow",url:"https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/"},
+ {id:"agentsdev",sec:"tools",art:"net",date:"2026-04-15",month:true,hl:"Coding Agents Go Mainstream",dek:"Agent use nearly doubled in a year, to 59 percent of developers.",why:"Agentic coding went from niche to normal in about a year.",src:"Stack Overflow",url:"https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/"},
  {id:"java",sec:"software",art:"cup",date:"2026-03-17",hl:"Java 26 Ships With 10 Enhancements",dek:"Structured concurrency reaches its sixth preview.",why:"A 30-year-old language now ships every six months and keeps borrowing newer ideas.",src:"Oracle",url:"https://www.oracle.com/in/news/announcement/oracle-releases-java-26-2026-03-17/"},
- {id:"mcp",sec:"software",art:"plug",date:"2026-01-01",month:true,hl:"MCP Becomes the Plug for A.I. Tools",dek:"More than 10,000 servers now connect assistants to apps and data.",src:"EveryDev.ai",url:"https://www.everydev.ai/p/blog-top-10-ai-trends-for-software-development-in-2026"},
+ {id:"mcp",sec:"tools",art:"plug",date:"2026-01-01",month:true,hl:"MCP Becomes the Plug for A.I. Tools",dek:"More than 10,000 servers now connect assistants to apps and data.",src:"EveryDev.ai",url:"https://www.everydev.ai/p/blog-top-10-ai-trends-for-software-development-in-2026"},
  {id:"team26",sec:"software",art:"three",date:"2026-05-15",month:true,hl:"At Team '26, Atlassian Puts Rovo Everywhere",dek:"Search, chat, agents and an MCP server now span Jira and Confluence.",why:"Atlassian's bet is that a company's own connected knowledge is what makes A.I. useful at work.",src:"BuzzClan",url:"https://buzzclan.com/ai/atlassian-rovo/"},
  {id:"win10",sec:"software",art:"window",date:"2025-10-14",hl:"Windows 10 Reaches End of Support",dek:"Free security updates stopped on Oct. 14, 2025.",src:"Microsoft",url:"https://support.microsoft.com/kb/5056949"},
 
@@ -377,19 +419,24 @@ const STORIES = [
 SECTIONS[0].name="Today";SECTIONS[0].short="Today";
 
 /* ---------- live sources ---------- */
+const SOURCE_FIXED={"smashing magazine":"design","ux collective":"design","sidebar":"design","css-tricks":"design","creative bloq":"design","figma blog":"design","product hunt":"tools","github changelog":"tools"};
 const SOURCE_HINT={"9to5mac":"apple","bleepingcomputer":"security","infoq":"software","tom's hardware":"chips","github blog":"software","mit technology review":"science"};
 const RULES=[
- ["security",/\b(security|vulnerab\w*|exploit\w*|hack(?:ed|er|ers|ing|s)?|breach\w*|ransomware|malware|phishing|cve-?\d*|zero-day|spyware|backdoor|cyber\w*|patch tuesday|botnet|ddos)\b/i],
+ ["security",/\b(security|vulnerab\w*|exploit\w*|hack(?:ed|er|ers|ing|s)?|breach\w*|ransomware|malware|phishing|cve-?\d*|zero-day|spyware|backdoor\w*|steal\w*|stolen|leak(?:ed|s)?|cyber\w*|patch tuesday|botnet|ddos)\b/i],
  ["ai",/\b(a\.?i\.?|artificial intelligence|llms?|gpt[-\w.]*|chatgpt|openai|anthropic|claude|gemini|copilot|machine learning|neural|deepmind|mistral|llama|agentic|ai agents?|chatbots?|deepseek|grok|xai|rovo)\b/i],
  ["apple",/\b(apple|iphone|ipad|macbook|macos|mac|ios|ipados|watchos|visionos|airpods|wwdc|liquid glass|siri|vision pro)\b/i],
  ["chips",/\b(nvidia|amd|intel|tsmc|chips?|chipmakers?|semiconductors?|gpus?|cpus?|processors?|dram|hbm|ram|qualcomm|arm|data cent(?:er|re)s?|micron|asml|broadcom)\b/i],
  ["policy",/\b(regulat\w*|laws?|lawsuits?|sued|sues|court|judge|ftc|doj|fcc|eu|european commission|senate|congress|bans?|banned|antitrust|government|white house|tariffs?|export controls?|privacy act|legislat\w*)\b/i],
  ["science",/\b(space|nasa|spacex|starship|rockets?|quantum|climate|physics|biology|scientists?|astronom\w*|moon|mars|fusion|telescope|satellites?|genom\w*|dna)\b/i],
  ["gadgets",/\b(phones?|android|pixel|samsung|galaxy|headphones?|earbuds|laptops?|tablets?|cameras?|consoles?|playstation|ps5|xbox|nintendo|switch 2|games?|gaming|gta|steam|robots?|robot vacuum|wearables?|smartwatch|tvs?|e-?readers?|kindle|ev|electric vehicles?|tesla)\b/i],
+ ["design",/\b(figma|framer|penpot|typography|typefaces?|fonts?|ui|ux|user interface|user experience|design systems?|designers?|redesign\w*|logos?|branding|illustrat\w*|icons?|css|accessibility|a11y|prototyp\w*|motion design|colou?r palettes?|dribbble|adobe)\b/i],
+ ["tools",/\b(show hn|vs ?code|extensions?|cli|command[- ]line|terminal|raycast|cursor|zed|neovim|vim|devtools|dev tools|plugins?|toolkit|productivity apps?|launch(?:es|ed)? on product hunt|homebrew|dotfiles)\b/i],
  ["business",/\b(funding|raises|raised|ipo|acquires?|acquisition|earnings|revenue|layoffs?|lays off|stocks?|shares|valuation|startups?|ceo|billion|deal|investors?|venture)\b/i],
  ["software",/\b(software|developers?|programming|code|coding|github|open[- ]source|linux|windows|java|python|rust|javascript|typescript|kubernetes|cloud|aws|azure|apis?|databases?|framework|postgres|browser|chrome|firefox|app|apps|update)\b/i]
 ];
 function classify(title,summary,source){
+  const fixed=SOURCE_FIXED[(source||"").toLowerCase()];if(fixed)return fixed;
+  if(/^show hn/i.test(title))return "tools";
   const hint=SOURCE_HINT[(source||"").toLowerCase()];
   const t=title+" "+(summary||"");
   for(const [id,re] of RULES){if(re.test(title))return id;}
@@ -397,7 +444,7 @@ function classify(title,summary,source){
   for(const [id,re] of RULES){if(re.test(t))return id;}
   return "software";
 }
-const SECTION_ART={ai:["net","star","three","eye"],apple:["phone","glass","window"],chips:["chip","memory","bolt"],software:["code","plug","cup","window"],security:["shield","bug","eye"],business:["chart","coin","bolt"],policy:["columns","eye","shield"],gadgets:["pad","robot","phone"],science:["atom","egg","star"]};
+const SECTION_ART={design:["pen","glass","eye","window"],tools:["wrench","code","plug","bolt"],ai:["net","star","three","eye"],apple:["phone","glass","window"],chips:["chip","memory","bolt"],software:["code","plug","cup","window"],security:["shield","bug","eye"],business:["chart","coin","bolt"],policy:["columns","eye","shield"],gadgets:["pad","robot","phone"],science:["atom","egg","star"]};
 function hash(s){let h=2166136261;for(let i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619);}return h>>>0;}
 function normUrl(u){try{const x=new URL(u);return (x.hostname.replace(/^www\./,"")+x.pathname.replace(/\/+$/,"")).toLowerCase();}catch(e){return u;}}
 const safeUrl=u=>(typeof u==="string"&&/^https?:\/\//i.test(u))?u:null;
@@ -474,6 +521,10 @@ const PICT={
  eye(c,u){c.beginPath();c.moveTo(u(.08),u(.5));c.quadraticCurveTo(u(.5),u(.1),u(.92),u(.5));c.quadraticCurveTo(u(.5),u(.9),u(.08),u(.5));c.fill();c.save();c.globalCompositeOperation="destination-out";c.beginPath();c.arc(u(.5),u(.5),u(.17),0,7);c.fill();c.restore();c.beginPath();c.arc(u(.5),u(.5),u(.09),0,7);c.fill();},
  star(c,u){c.beginPath();for(let i=0;i<8;i++){const a=i*Math.PI/4,r=i%2?.14:.4;c.lineTo(u(.5+Math.cos(a)*r),u(.5+Math.sin(a)*r));}c.closePath();c.fill();},
  three(c,u){[[.3,.62],[.5,.32],[.7,.62]].forEach((p,i)=>{c.globalAlpha=[.6,1,.8][i];c.beginPath();c.arc(u(p[0]),u(p[1]),u(.19),0,7);c.fill();});c.globalAlpha=1;},
+ pen(c,u){c.beginPath();c.moveTo(u(.5),u(.08));c.lineTo(u(.76),u(.5));c.lineTo(u(.6),u(.84));c.lineTo(u(.4),u(.84));c.lineTo(u(.24),u(.5));c.closePath();c.fill();
+   c.save();c.globalCompositeOperation="destination-out";c.beginPath();c.arc(u(.5),u(.52),u(.065),0,7);c.fill();c.fillRect(u(.485),u(.14),u(.03),u(.36));c.restore();c.fillRect(u(.37),u(.86),u(.26),u(.07));},
+ wrench(c,u){c.save();c.translate(u(.5),u(.5));c.rotate(-Math.PI/4);c.fillRect(u(-.06),u(-.08),u(.12),u(.46));c.beginPath();c.arc(0,u(-.2),u(.18),0,7);c.fill();
+   c.globalCompositeOperation="destination-out";c.fillRect(u(-.065),u(-.44),u(.13),u(.22));c.restore();},
  window(c,u){[[.18,.18],[.52,.18],[.18,.52],[.52,.52]].forEach(p=>c.fillRect(u(p[0]),u(p[1]),u(.3),u(.3)));}
 };
 
@@ -632,13 +683,14 @@ function score(it){const age=(Date.now()-it.time)/3600000;return (it.points||0)+
 /* ---------- CRT wire ---------- */
 function crtBox(sec){
   const box=el("div","crt");const scr=el("div","scr");const head=el("div","head");
-  head.append(el("span",null,sec.hn?`>HN/${sec.hn.toUpperCase()}`:">HN/MOST_DISCUSSED"));const btn=el("button",null,"[R]efresh");btn.type="button";head.append(btn);
+  head.append(el("span",null,sec.hnTag?">HN/SHOW_HN":sec.hn?`>HN/${sec.hn.toUpperCase()}`:">HN/MOST_DISCUSSED"));const btn=el("button",null,"[R]efresh");btn.type="button";head.append(btn);
   const ol=el("ol");const foot=el("div","foot");scr.append(head,ol,foot);box.append(scr);
   const load=async()=>{
     ol.replaceChildren();const l=el("li");l.append("DIALING… ",el("span","cursor"));ol.append(l);
     try{
       let hits;
-      if(sec.hn){const week=Math.floor(Date.now()/1000)-7*86400;const r=await fetch(`https://hn.algolia.com/api/v1/search?query=${encodeURIComponent(sec.hn)}&tags=story&numericFilters=created_at_i>${week},points>30&hitsPerPage=6`);if(!r.ok)throw 0;hits=(await r.json()).hits||[];}
+      if(sec.hnTag){const week=Math.floor(Date.now()/1000)-7*86400;const r=await fetch(`https://hn.algolia.com/api/v1/search?tags=${encodeURIComponent(sec.hnTag)}&numericFilters=created_at_i>${week},points>15&hitsPerPage=6`);if(!r.ok)throw 0;hits=(await r.json()).hits||[];}
+      else if(sec.hn){const week=Math.floor(Date.now()/1000)-7*86400;const r=await fetch(`https://hn.algolia.com/api/v1/search?query=${encodeURIComponent(sec.hn)}&tags=story&numericFilters=created_at_i>${week},points>30&hitsPerPage=6`);if(!r.ok)throw 0;hits=(await r.json()).hits||[];}
       else{const r=await fetch("https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=40");if(!r.ok)throw 0;hits=((await r.json()).hits||[]).sort((a,b)=>(b.num_comments||0)-(a.num_comments||0)).slice(0,6);}
       ol.replaceChildren();if(!hits.length)ol.append(el("li",null,"NO SIGNAL THIS WEEK."));
       hits.filter(h=>h.title).forEach((h,i)=>{const li=el("li");const disc="https://news.ycombinator.com/item?id="+encodeURIComponent(h.objectID);
@@ -653,6 +705,8 @@ function typeText(node,text,delay){if(reduce){node.textContent=text;return;}let 
 
 /* ---------- side boxes ---------- */
 function featureBox(sec){
+  if(sec.feat.palette)return paletteBox(sec);
+  if(sec.feat.tod)return todBox(sec);
   const f=sec.feat;const b=el("div","feature");b.append(el("div","lab",f.lab));
   const medal=el("div","medal");const st=makeArt(f.art,sec.k,1);medal.append(st.cv);b.append(medal,el("h3",null,f.h),el("p",null,f.p));
   if(f.lens){const z=el("div","lens-zone");const bg=el("div","bg");"Liquid Glass refracts blurs tints iOS 27 Apple design depth light".split(" ").forEach(w=>bg.append(el("span",null,w)));
@@ -688,7 +742,7 @@ function render(){
   ARTS.forEach(a=>ro.unobserve(a.cv));ARTS.clear();
   const main=$("main");main.replaceChildren();
   if(view.q)renderSearch(main);else if(view.sec==="saved")renderSaved(main);else if(view.sec===0)renderFront(main);else renderSection(main,SECTIONS[view.sec]);
-  paintArts();renderTicker();updateBrief();
+  paintArts();renderTicker();updateBrief();refreshToolProgress();
 }
 function renderFront(main){
   setInks(SECTIONS[0]);document.title="The Tech Times";
@@ -706,7 +760,7 @@ function renderFront(main){
   pool.filter(x=>!used.has(x.id)).slice(0,14).forEach(it=>{
     if(it.kind==="live"){const h=(Date.now()-it.time)/3600000;const grp=h<1?"Last hour":h<24?"Today":h<48?"Yesterday":"Earlier";if(grp!==lastGroup){ul.append(el("li","timegroup",grp));lastGroup=grp;}}
     ul.append(rowPiece(it,{time:true}));});
-  latest.append(ul);cs.append(latest,crtBox(SECTIONS[0]));
+  latest.append(ul);cs.append(latest,todBox(secOf("tools")),crtBox(SECTIONS[0]));
   g.append(cm,cs);main.append(g);
 
   /* desks */
@@ -721,6 +775,7 @@ function renderFront(main){
     band.append(h);const l=el("ul","list");list.forEach(it=>l.append(rowPiece(it,{showSec:false,time:true})));band.append(l);bands.append(band);
   });
   main.append(bands);
+  main.append(toolBand());
   main.append(yearBand([...ARCHIVE].sort((a,b)=>b.time-a.time),"The Year So Far","Oct. 2025 – Oct. 2026"));
   const nh=el("div","h-band");nh.append(el("h2",null,"By the Numbers"));main.append(nh);
   const nums=el("div","nums");SECTIONS.forEach(s=>nums.append(numBox(s.num)));main.append(nums);
@@ -740,6 +795,7 @@ function renderSection(main,sec){
   if(more.length){const sct=el("section");const hm=el("h2","h-mini","More from the desk");sct.append(hm);const ul=el("ul","list");more.slice(0,16).forEach(it=>ul.append(rowPiece(it,{showSec:false,time:true})));sct.append(ul);cm.append(sct);}
   const cs=el("div","colside");cs.append(featureBox(sec),numBox(sec.num),crtBox(sec));
   g.append(cm,cs);main.append(g);
+  if(sec.id==="design"||sec.id==="tools"){main.append(toolboxSection(sec.id==="design"?TOOL_GROUPS.design:[...TOOL_GROUPS.design,...TOOL_GROUPS.dev],sec.id==="design"?"The Design Toolbox":"The Toolbox"));}
   if(arch.length&&live.length)main.append(yearBand(arch,"The Year in "+sec.short,arch.length+" stories"));
   else if(arch.length>5){const rest=arch.slice(5);main.append(yearBand(rest,"Earlier this year",rest.length+" more"));}
 }
@@ -753,13 +809,127 @@ function renderSaved(main){
 function renderSearch(main){
   setInks(SECTIONS[0]);const q=view.q.toLowerCase();
   const res=[...LIVE,...ARCHIVE].filter(x=>(x.title+" "+x.summary+" "+x.source).toLowerCase().includes(q));
+  const tres=TOOLS.filter(t=>(t.n+" "+t.c+" "+t.d+" "+t.w).toLowerCase().includes(q));
   const head=el("div","sechead");const h=el("h1");["reg r1","reg r2","main"].forEach(c=>{const s=el("span",c,"Search");s.setAttribute("aria-hidden","true");h.append(s);});h.setAttribute("aria-label","Search");
-  head.append(h,el("p",null,`${res.length} ${res.length===1?"result":"results"} for “${view.q}”`));main.append(head);
-  if(!res.length){main.append(el("div","empty","No stories match. Try a company, product or topic, like “Nvidia” or “Liquid Glass”."));return;}
+  head.append(h,el("p",null,`${res.length} ${res.length===1?"story":"stories"} and ${tres.length} ${tres.length===1?"tool":"tools"} for “${view.q}”`));main.append(head);
+  if(tres.length){const th=el("h2","h-mini","Tools");main.append(th);const g=el("div","tgrid");g.style.marginBottom="28px";tres.forEach(t=>g.append(toolCard(t)));main.append(g);}
+  if(!res.length){if(!tres.length)main.append(el("div","empty","Nothing matches. Try a company, product, tool or topic, like “Nvidia”, “Figma” or “Liquid Glass”."));refreshToolProgress();return;}
+  if(tres.length)main.append(el("h2","h-mini","Stories"));
   const ul=el("ul","list");res.slice(0,80).forEach(it=>ul.append(rowPiece(it,{time:true})));main.append(ul);
 }
 function go(i){view.sec=i;view.q="";$("q").value="";render();try{history.replaceState(null,"","#"+(i==="saved"?"saved":SECTIONS[i].id));}catch(e){}scrollTo({top:0,behavior:reduce?"auto":"smooth"});}
 let qt=null;$("q").addEventListener("input",e=>{clearTimeout(qt);qt=setTimeout(()=>{view.q=e.target.value.trim();render();},180);});
+
+
+/* ---------- the toolbox ---------- */
+const TOOLS=[
+ {n:"Figma",c:"Design",u:"https://www.figma.com",d:"Collaborative interface design in the browser.",w:"The industry default: real-time multiplayer, components and Dev Mode for handoff."},
+ {n:"Penpot",c:"Design",u:"https://penpot.app",d:"Open-source design and prototyping tool.",w:"Built on web standards like SVG and CSS, and you can self-host it."},
+ {n:"Framer",c:"Design",u:"https://www.framer.com",d:"Design and publish websites in one tool.",w:"Goes from layout to a live site without a handoff."},
+ {n:"Excalidraw",c:"Design",u:"https://excalidraw.com",d:"Hand-drawn style whiteboard for diagrams.",w:"Perfect for sketching system designs in interviews and standups."},
+ {n:"Mobbin",c:"Design",u:"https://mobbin.com",d:"Library of real app screens and flows.",w:"See how shipped apps handle onboarding, settings or checkout."},
+ {n:"Coolors",c:"Color & Type",u:"https://coolors.co",d:"Fast colour palette generator.",w:"Press space to roll palettes and lock the colours you like."},
+ {n:"Realtime Colors",c:"Color & Type",u:"https://www.realtimecolors.com",d:"Preview a palette and fonts on a realistic site.",w:"Shows how colours behave in an actual layout, not just as swatches."},
+ {n:"Fontshare",c:"Color & Type",u:"https://www.fontshare.com",d:"Free, quality fonts from the Indian Type Foundry.",w:"Distinctive faces that don't look like every other site."},
+ {n:"Google Fonts",c:"Color & Type",u:"https://fonts.google.com",d:"Huge free font library with easy web embedding.",w:"Filter by variable fonts to get every weight in one file."},
+ {n:"Type Scale",c:"Color & Type",u:"https://typescale.com",d:"Generates a harmonious set of font sizes.",w:"Pick a ratio and paste the scale straight into CSS."},
+ {n:"WebAIM Contrast Checker",c:"Color & Type",u:"https://webaim.org/resources/contrastchecker/",d:"Checks text contrast against WCAG guidelines.",w:"The fastest way to make sure your text is actually readable."},
+ {n:"Spline",c:"Motion & 3D",u:"https://spline.design",d:"Design interactive 3D scenes in the browser.",w:"3D for people who've never opened Blender."},
+ {n:"Rive",c:"Motion & 3D",u:"https://rive.app",d:"Interactive animations for apps and the web.",w:"Animations with state machines, so they react to input."},
+ {n:"LottieFiles",c:"Motion & 3D",u:"https://lottiefiles.com",d:"Lightweight vector animations and a big library.",w:"Drop-in animated icons and illustrations."},
+ {n:"Blender",c:"Motion & 3D",u:"https://www.blender.org",d:"Free, open-source 3D creation suite.",w:"Modelling, animation and rendering, all free."},
+ {n:"Lucide",c:"Icons & Assets",u:"https://lucide.dev",d:"Clean open-source icon set.",w:"Consistent stroke icons with packages for React, Vue and plain SVG."},
+ {n:"Phosphor Icons",c:"Icons & Assets",u:"https://phosphoricons.com",d:"Flexible icon family in several weights.",w:"Switch from thin to bold to duotone without changing sets."},
+ {n:"unDraw",c:"Icons & Assets",u:"https://undraw.co",d:"Free illustrations you can recolour.",w:"Set your brand colour before you download."},
+ {n:"Haikei",c:"Icons & Assets",u:"https://haikei.app",d:"Generates SVG shapes, waves and blobs.",w:"Instant custom backgrounds without drawing anything."},
+ {n:"Squoosh",c:"Icons & Assets",u:"https://squoosh.app",d:"Compress and convert images in the browser.",w:"Side-by-side preview of quality versus file size."},
+ {n:"VS Code",c:"Editors",u:"https://code.visualstudio.com",d:"Free, extensible code editor.",w:"Huge extension ecosystem. Start with GitLens and Error Lens."},
+ {n:"IntelliJ IDEA",c:"Editors",u:"https://www.jetbrains.com/idea/",d:"JetBrains' IDE for Java and Kotlin.",w:"Best-in-class refactoring for big Java codebases."},
+ {n:"Zed",c:"Editors",u:"https://zed.dev",d:"Fast, collaborative code editor written in Rust.",w:"Feels instant, with collaboration built in."},
+ {n:"Cursor",c:"AI Coding",u:"https://cursor.com",d:"AI-first code editor built on VS Code.",w:"Chat with your codebase and apply multi-file edits."},
+ {n:"Claude Code",c:"AI Coding",u:"https://claude.com/claude-code",d:"Anthropic's agentic coding tool.",w:"Hands off multi-step jobs like refactors and fixing failing tests."},
+ {n:"GitHub Copilot",c:"AI Coding",u:"https://github.com/features/copilot",d:"AI pair programmer in your editor.",w:"Inline completions plus chat, right where you type."},
+ {n:"Warp",c:"Terminal",u:"https://www.warp.dev",d:"Modern terminal with blocks and AI built in.",w:"Commands and their output group into blocks you can copy and share."},
+ {n:"Ghostty",c:"Terminal",u:"https://ghostty.org",d:"Fast, native, GPU-accelerated terminal.",w:"Feels at home on each platform and is very quick."},
+ {n:"ripgrep",c:"Terminal",u:"https://github.com/BurntSushi/ripgrep",d:"Extremely fast recursive code search.",w:"Respects .gitignore, so it skips the junk."},
+ {n:"fzf",c:"Terminal",u:"https://github.com/junegunn/fzf",d:"Fuzzy finder for the command line.",w:"Makes Ctrl-R history search feel like magic."},
+ {n:"lazygit",c:"Terminal",u:"https://github.com/jesseduffield/lazygit",d:"Terminal UI for git.",w:"Stage lines, rebase and resolve conflicts with a few keys."},
+ {n:"jq",c:"Terminal",u:"https://github.com/jqlang/jq",d:"Slice and filter JSON on the command line.",w:"Essential when you're poking at API responses."},
+ {n:"tldr pages",c:"Terminal",u:"https://tldr.sh",d:"Simplified, example-first man pages.",w:"The five commands you actually need, not the whole manual."},
+ {n:"Raycast",c:"Productivity",u:"https://www.raycast.com",d:"Extendable launcher for your desktop.",w:"Clipboard history, window management and scripts behind one shortcut."},
+ {n:"Bruno",c:"APIs & Data",u:"https://www.usebruno.com",d:"Open-source API client that saves collections as files.",w:"Your API requests live in git right next to your code."},
+ {n:"Postman",c:"APIs & Data",u:"https://www.postman.com",d:"Popular platform for building and testing APIs.",w:"Collections, environments and mock servers in one place."},
+ {n:"DBeaver",c:"APIs & Data",u:"https://dbeaver.io",d:"Free universal database client.",w:"One app for Postgres, MySQL, SQLite and more."},
+ {n:"Docker Desktop",c:"Backend",u:"https://www.docker.com/products/docker-desktop/",d:"Run containers on your own machine.",w:"Spin up a whole stack with one docker compose up."},
+ {n:"Testcontainers",c:"Backend",u:"https://testcontainers.com",d:"Real databases and services in throwaway containers for tests.",w:"Integration tests against real Postgres instead of mocks."},
+ {n:"Spring Initializr",c:"Backend",u:"https://start.spring.io",d:"Generates a ready-to-run Spring Boot project.",w:"Pick dependencies, download, and you have a working backend."},
+ {n:"regex101",c:"Web Dev",u:"https://regex101.com",d:"Build and debug regular expressions.",w:"Explains every part of your regex as you type."},
+ {n:"Can I use",c:"Web Dev",u:"https://caniuse.com",d:"Browser support tables for web features.",w:"Check before you ship that shiny new CSS feature."},
+ {n:"Mermaid Live",c:"Web Dev",u:"https://mermaid.live",d:"Write diagrams as text and see them render.",w:"Flow and sequence diagrams that live in your docs as code."},
+ {n:"Bun",c:"Web Dev",u:"https://bun.sh",d:"Fast JavaScript runtime, bundler and package manager.",w:"Installs and runs JS projects noticeably faster."}
+];
+const TOOL_GROUPS={design:["Design","Color & Type","Motion & 3D","Icons & Assets"],dev:["Editors","AI Coding","Terminal","Productivity","APIs & Data","Backend","Web Dev"]};
+const CAT_INK={"Design":"#0094B0","Color & Type":"#E0452B","Motion & 3D":"#9B3FD1","Icons & Assets":"#C98200","Editors":"#1F7AE0","AI Coding":"#E0307F","Terminal":"#0E9F6E","Productivity":"#6B4EFF","APIs & Data":"#0F8B8D","Backend":"#5F8A00","Web Dev":"#E8590C"};
+let toolState=store.get("tt-tools",{});
+const toolId=t=>t.n.toLowerCase().replace(/[^a-z0-9]+/g,"-");
+function dayIndex(){const d=new Date();return Math.floor(Date.UTC(d.getFullYear(),d.getMonth(),d.getDate())/86400000);}
+function toolOfDay(off=0){return TOOLS[(dayIndex()*7+off)%TOOLS.length];}
+function refreshToolProgress(){
+  const vals=Object.values(toolState);const tried=vals.filter(v=>v==="tried").length,want=vals.filter(v=>v==="want").length;
+  document.querySelectorAll(".tprogress").forEach(n=>{n.textContent=`You've tried ${tried} of ${TOOLS.length}`+(want?` · ${want} on your list`:"");});
+}
+function toolCard(t){
+  const k=CAT_INK[t.c]||"#17160F";const c=el("article","tool");c.style.setProperty("--tk",k);const id=toolId(t);
+  const top=el("div","tool-top");const mono=el("div","mono",t.n[0].toUpperCase());mono.setAttribute("aria-hidden","true");
+  const tt=el("div");tt.style.minWidth="0";tt.append(el("div","tcat",t.c),el("h3","tname",t.n));top.append(mono,tt);
+  c.append(top,el("p","tdesc",t.d),el("p","twhy",t.w));
+  const acts=el("div","tacts");const open=ext(el("a",null,"Open ↗"),t.u);open.setAttribute("aria-label","Open "+t.n);
+  const tried=el("button");tried.type="button";const want=el("button");want.type="button";
+  const sync=()=>{const st=toolState[id];tried.setAttribute("aria-pressed",String(st==="tried"));want.setAttribute("aria-pressed",String(st==="want"));
+    tried.textContent=st==="tried"?"✓ Tried":"Tried it";want.textContent=st==="want"?"★ On my list":"＋ Try later";c.classList.toggle("done",st==="tried");};
+  const set=v=>{if(toolState[id]===v)delete toolState[id];else toolState[id]=v;store.set("tt-tools",toolState);document.querySelectorAll(`.tool[data-id="${id}"]`).forEach(x=>x._sync&&x._sync());refreshToolProgress();};
+  tried.onclick=()=>set("tried");want.onclick=()=>set("want");
+  c.dataset.id=id;c._sync=sync;sync();acts.append(open,tried,want);c.append(acts);return c;
+}
+function toolboxSection(cats,title){
+  const sec=el("section","toolbox");const h=el("div","h-band");h.append(el("h2",null,title));const prog=el("span","tprogress");h.append(prog);sec.append(h);
+  const chips=el("div","tfilters");chips.setAttribute("role","group");chips.setAttribute("aria-label","Filter tools");
+  const grid=el("div","tgrid");let cat="All",mode="all";
+  const draw=()=>{grid.replaceChildren();let list=TOOLS.filter(t=>cats.includes(t.c));if(cat!=="All")list=list.filter(t=>t.c===cat);if(mode!=="all")list=list.filter(t=>toolState[toolId(t)]===mode);
+    if(!list.length)grid.append(el("div","empty",mode==="want"?"Nothing on your list yet. Tap ＋ Try later on any tool.":mode==="tried"?"Nothing marked as tried yet.":"No tools here."));
+    list.forEach(t=>grid.append(toolCard(t)));
+    chips.querySelectorAll("button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.cat?b.dataset.cat===cat&&mode==="all":b.dataset.mode===mode)));};
+  const chip=(label,opts,ink)=>{const b=el("button","tf");b.type="button";if(ink){const d=el("i");d.style.background=ink;b.append(d);}b.append(label);Object.assign(b.dataset,opts);
+    b.onclick=()=>{if(opts.cat){cat=opts.cat;mode="all";}else{mode=opts.mode;cat="All";}draw();};chips.append(b);};
+  chip("All",{cat:"All"});cats.forEach(c=>chip(c,{cat:c},CAT_INK[c]));chip("★ My list",{mode:"want"});chip("✓ Tried",{mode:"tried"});
+  sec.append(chips,grid);draw();setTimeout(refreshToolProgress);return sec;
+}
+function todBox(sec){
+  const b=el("div","feature tod");let off=0;const lab=el("div","lab");const body=el("div","todbody");
+  const nx=el("button","btn","Show me another");nx.type="button";
+  const draw=()=>{const t=toolOfDay(off);body.replaceChildren(toolCard(t));lab.textContent=off===0?"Tool of the day":"Another pick";};
+  nx.onclick=()=>{off++;draw();};b.append(lab,body,nx);draw();return b;
+}
+function toolBand(){
+  const frag=document.createDocumentFragment();const h=el("div","h-band");h.append(el("h2",null,"The Toolbox"));
+  const right=el("div");right.style.cssText="display:flex;align-items:center;gap:14px;flex-wrap:wrap";const prog=el("span","tprogress");
+  const all=el("button","linkbtn",`All ${TOOLS.length} tools →`);all.type="button";all.onclick=()=>go(SECTIONS.findIndex(s=>s.id==="tools"));
+  right.append(prog,all);h.append(right);frag.append(h);
+  const car=el("div","tcar");for(let i=1;i<=10;i++)car.append(toolCard(toolOfDay(i)));frag.append(car);setTimeout(refreshToolProgress);return frag;
+}
+function hsl2hex(h,s,l){s/=100;l/=100;const k=n=>(n+h/30)%12;const a=s*Math.min(l,1-l);const f=n=>l-a*Math.max(-1,Math.min(k(n)-3,Math.min(9-k(n),1)));
+  return "#"+[f(0),f(8),f(4)].map(x=>Math.round(x*255).toString(16).padStart(2,"0")).join("");}
+function paletteBox(sec){
+  const f=sec.feat;const b=el("div","feature");b.style.setProperty("--sk",sec.k);b.append(el("div","lab",f.lab),el("h3",null,f.h),el("p",null,f.p));
+  const row=el("div","swatches");const msg=el("div","lens-hint","Click a swatch to copy it");msg.setAttribute("aria-live","polite");
+  const roll=()=>{row.replaceChildren();const base=Math.random()*360;const mode=Math.floor(Math.random()*3);
+    const hues=mode===0?[0,25,50,75,100]:mode===1?[0,20,180,200,40]:[0,72,144,216,288];
+    [24,42,56,72,90].forEach((l0,i)=>{const hex=hsl2hex((base+hues[i])%360,52+Math.random()*38,Math.max(12,Math.min(94,l0+(Math.random()*8-4)))).toUpperCase();
+      const sw=el("button","sw");sw.type="button";sw.style.background=hex;sw.style.color=l0>60?"#17160F":"#FFFFFF";sw.setAttribute("aria-label","Copy "+hex);sw.append(el("span",null,hex));
+      sw.onclick=()=>{const done=()=>{msg.textContent="Copied "+hex;};try{navigator.clipboard.writeText(hex).then(done,()=>{msg.textContent="Couldn't copy. The code is "+hex;});}catch(e){msg.textContent="Couldn't copy. The code is "+hex;}};
+      row.append(sw);});};
+  const rb=el("button","btn k","Roll a palette");rb.type="button";rb.onclick=roll;roll();b.append(row,rb,msg);return b;
+}
 
 /* ---------- reader (year in review) ---------- */
 let lastFocus=null;

@@ -31,11 +31,20 @@ FEEDS = [
     ("InfoQ", "https://feed.infoq.com/"),
     ("GitHub Blog", "https://github.blog/feed/"),
     ("Tom's Hardware", "https://www.tomshardware.com/feeds/all"),
+    # Design desk
+    ("Smashing Magazine", "https://www.smashingmagazine.com/feed/"),
+    ("UX Collective", "https://uxdesign.cc/feed"),
+    ("Sidebar", "https://sidebar.io/feed.xml"),
+    ("CSS-Tricks", "https://css-tricks.com/feed/"),
+    ("Creative Bloq", "https://www.creativebloq.com/feeds/all"),
+    # Tools desk
+    ("Product Hunt", "https://www.producthunt.com/feed"),
+    ("GitHub Changelog", "https://github.blog/changelog/feed/"),
 ]
 
 MAX_AGE = timedelta(days=4)
 MAX_PER_FEED = 30
-MAX_ITEMS = 260
+MAX_ITEMS = 380
 EXCERPT = 200
 UA = "TheTechTimes/1.0 (+https://github.com/Tech-A/Tech-Times; personal news reader)"
 
