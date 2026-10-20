@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>The Tech Times</title>
+<meta name="description" content="A broadsheet front page for the past year in technology, with a live wire from Hacker News.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Newsreader:ital,opsz,wght@0,6..72,400..800;1,6..72,400..700&family=Libre+Franklin:wght@400;500;600;700;800&display=swap">
+<style>
+/* Broadsheet: blackletter nameplate, double rules, 12-column front page with hairline column rules, section fronts below, a numbers band. One deliberate newsprint look. */
+:root{
+  --paper:#FBFAF6; --ink:#121212; --grey:#5C5C5C; --rule:#121212; --hair:#D6D3CA; --link:#2F5F86; --red:#B3221C; --tint:#F1EEE5;
+  --f-name:"UnifrakturMaguntia","Old English Text MT",Georgia,serif;
+  --f-head:"Newsreader",Georgia,"Times New Roman",serif;
+  --f-sans:"Libre Franklin","Helvetica Neue",Arial,sans-serif;
+  color-scheme:light;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--paper);color:var(--ink)}
+body{font-family:var(--f-head);font-size:17px;line-height:1.5;-webkit-font-smoothing:antialiased;font-optical-sizing:auto}
+a{color:inherit;text-decoration:none}
+a:hover .hl,a.hl:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+:focus-visible{outline:2px solid var(--link);outline-offset:2px}
+.page{max-width:1280px;margin:0 auto;padding-block:14px 60px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+
+/* dateline + nameplate */
+.dateline{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:12px;font-family:var(--f-sans);font-size:12px;color:var(--ink);padding-bottom:10px}
+.dateline .r{text-align:right}
+.dateline b{font-weight:700}
+.nameplate{text-align:center;border-bottom:1px solid var(--rule);padding:4px 0 10px;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:16px}
+.ear{font-family:var(--f-sans);font-size:11.5px;line-height:1.35;border:1px solid var(--rule);padding:8px 10px;max-width:220px;text-align:left}
+.ear.r{justify-self:end}
+.ear b{display:block;font-size:12px;font-weight:700;margin-bottom:2px}
+.nameplate h1{margin:0;font-family:var(--f-name);font-weight:400;font-size:clamp(44px,8.6vw,96px);line-height:1;letter-spacing:.01em;white-space:nowrap}
+.motto{font-family:var(--f-head);font-style:italic;font-size:13px;color:var(--grey);margin-top:4px}
+.edbar{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-family:var(--f-sans);font-size:12px;border-bottom:3px double var(--rule);padding:6px 0;text-transform:uppercase;letter-spacing:.04em}
+.edbar b{font-weight:700}
+nav.sections{display:flex;justify-content:center;flex-wrap:wrap;gap:4px 20px;font-family:var(--f-sans);font-size:13.5px;font-weight:500;padding:10px 0;border-bottom:1px solid var(--rule)}
+nav.sections a:hover{text-decoration:underline}
+
+/* generic story bits */
+.kicker{font-family:var(--f-sans);font-size:11.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--grey)}
+.kicker.live{color:var(--red)}
+.hl{font-family:var(--f-head);font-weight:700;line-height:1.12;letter-spacing:-.005em;text-wrap:balance;margin:0}
+.dek{font-family:var(--f-head);font-style:italic;color:#333;margin:0;line-height:1.35}
+.sum{margin:0;font-size:16px;line-height:1.5}
+.byline{font-family:var(--f-sans);font-size:11.5px;color:var(--grey);letter-spacing:.02em}
+.byline a{color:var(--link)}
+.byline a:hover{text-decoration:underline}
+.story{display:flex;flex-direction:column;gap:7px;min-width:0}
+
+/* front page grid */
+.front{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));column-gap:22px;padding-top:18px}
+.col{min-width:0;display:flex;flex-direction:column;gap:18px}
+.c-lead{grid-column:1/7;padding-right:22px;border-right:1px solid var(--hair)}
+.c-mid{grid-column:7/10;padding-right:22px;border-right:1px solid var(--hair)}
+.c-wire{grid-column:10/13}
+.lead .hl{font-size:clamp(30px,3.7vw,46px);font-weight:800}
+.lead .dek{font-size:19px}
+.lead .sum{font-size:17px;columns:2 220px;column-gap:22px;column-rule:1px solid var(--hair)}
+.lead .sum::first-letter{float:left;font-family:var(--f-head);font-weight:700;font-size:58px;line-height:.85;padding:4px 6px 0 0}
+.mid .hl{font-size:22px}
+.mid + .mid{border-top:1px solid var(--hair);padding-top:16px}
+
+figure{margin:0;display:flex;flex-direction:column;gap:6px}
+figure .chart{background:var(--tint);border:1px solid var(--hair);padding:14px}
+figure svg{display:block;width:100%;height:auto}
+figcaption{font-family:var(--f-sans);font-size:12px;color:var(--grey);line-height:1.4}
+figcaption b{color:var(--ink);font-weight:600}
+
+/* wire */
+.wire{display:flex;flex-direction:column}
+.wire-h{display:flex;justify-content:space-between;align-items:baseline;border-bottom:2px solid var(--rule);padding-bottom:6px}
+.wire-h h2{margin:0;font-family:var(--f-sans);font-weight:800;font-size:15px;text-transform:uppercase;letter-spacing:.05em;display:flex;align-items:center;gap:8px}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--red);animation:blink 1.6s infinite}
+.dot.off{background:var(--grey);animation:none}
+@keyframes blink{50%{opacity:.25}}
+.wire-h button{font:600 11.5px var(--f-sans);text-transform:uppercase;letter-spacing:.05em;background:none;border:1px solid var(--rule);padding:3px 8px;cursor:pointer;color:var(--ink)}
+.wire-h button:hover{background:var(--ink);color:var(--paper)}
+.wire ol{list-style:none;margin:0;padding:0}
+.wire li{padding:10px 0;border-bottom:1px solid var(--hair);display:grid;grid-template-columns:44px minmax(0,1fr);gap:8px}
+.wire .t{font-family:var(--f-sans);font-size:11px;color:var(--red);font-weight:700;padding-top:3px;font-variant-numeric:tabular-nums}
+.wire .w-hl{font-family:var(--f-head);font-weight:600;font-size:15.5px;line-height:1.25}
+.wire .w-meta{font-family:var(--f-sans);font-size:11px;color:var(--grey);margin-top:3px}
+.wire .w-meta a{color:var(--link)}
+.wire-f{font-family:var(--f-sans);font-size:11px;color:var(--grey);padding-top:8px}
+
+/* section fronts */
+.band-title{display:flex;align-items:baseline;gap:14px;border-top:3px double var(--rule);border-bottom:1px solid var(--rule);padding:8px 0;margin-top:34px}
+.band-title h2{margin:0;font-family:var(--f-sans);font-weight:800;font-size:14px;text-transform:uppercase;letter-spacing:.08em}
+.band-title span{font-family:var(--f-head);font-style:italic;font-size:14px;color:var(--grey)}
+.secs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:22px;row-gap:30px;padding-top:18px}
+.sec{display:flex;flex-direction:column;gap:12px;min-width:0;padding-right:22px;border-right:1px solid var(--hair)}
+.sec:nth-child(3n){border-right:0;padding-right:0}
+.sec-h{font-family:var(--f-sans);font-weight:800;font-size:13px;text-transform:uppercase;letter-spacing:.06em;border-bottom:1px solid var(--rule);padding-bottom:5px;display:flex;justify-content:space-between}
+.sec-h small{font-weight:500;color:var(--grey);letter-spacing:.02em}
+.sec .top .hl{font-size:21px}
+.sec .more{list-style:none;margin:0;padding:0;display:flex;flex-direction:column}
+.sec .more li{padding:9px 0;border-top:1px solid var(--hair);display:flex;flex-direction:column;gap:3px}
+.sec .more .hl{font-size:16px;font-weight:600}
+.sec .more .dek{font-size:14px}
+.when{font-family:var(--f-sans);font-size:11px;color:var(--grey);font-variant-numeric:tabular-nums}
+
+/* numbers */
+.nums{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0;padding-top:16px}
+.num{padding:4px 20px 14px;border-right:1px solid var(--hair);display:flex;flex-direction:column;gap:6px}
+.num:first-child{padding-left:0}
+.num:nth-child(4n){border-right:0}
+.num .fig{font-family:var(--f-head);font-weight:800;font-size:44px;line-height:1;letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.num p{margin:0;font-size:15px;line-height:1.4}
+.num a{font-family:var(--f-sans);font-size:11px;color:var(--link)}
+.num a:hover{text-decoration:underline}
+
+footer{margin-top:40px;border-top:3px double var(--rule);padding-top:10px;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font-family:var(--f-sans);font-size:11.5px;color:var(--grey)}
+
+@media (max-width:1040px){
+  .c-lead{grid-column:1/-1;border-right:0;padding-right:0;border-bottom:1px solid var(--hair);padding-bottom:20px}
+  .c-mid{grid-column:1/8}
+  .c-wire{grid-column:8/-1}
+  .secs{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .sec:nth-child(3n){border-right:1px solid var(--hair);padding-right:22px}
+  .sec:nth-child(2n){border-right:0;padding-right:0}
+  .nums{grid-template-columns:repeat(2,minmax(0,1fr));row-gap:16px}
+  .num:nth-child(2n){border-right:0}
+  .num:nth-child(3){padding-left:0}
+}
+@media (max-width:700px){
+  .dateline{grid-template-columns:1fr;text-align:center}.dateline .r{text-align:center}
+  .nameplate{grid-template-columns:1fr}.ear{display:none}
+  .c-mid,.c-wire{grid-column:1/-1;border-right:0;padding-right:0}
+  .c-mid{border-bottom:1px solid var(--hair);padding-bottom:18px}
+  .lead .sum{columns:1}
+  .secs{grid-template-columns:1fr}
+  .sec,.sec:nth-child(3n){border-right:0;padding-right:0}
+  .nums{grid-template-columns:1fr}
+  .num{border-right:0;padding-left:0;border-bottom:1px solid var(--hair)}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="dateline">
+    <span><b>VOL. I</b> · No. 1</span>
+    <span id="dateline">Auckland</span>
+    <span class="r">Covering Oct. 2025 – Oct. 2026</span>
+  </div>
+
+  <header class="nameplate">
+    <div class="ear"><b>Today's forecast</b>Heavy AI releases, scattered foldables, 100% chance of someone saying "agentic."</div>
+    <div>
+      <h1>The Tech Times</h1>
+      <div class="motto">“All the Code That's Fit to Ship”</div>
+    </div>
+    <div class="ear r"><b>Inside this edition</b><span id="earCount"></span></div>
+  </header>
+
+  <div class="edbar"><span><b>Late Edition</b></span><span id="edLive">Wire: connecting…</span></div>
+  <nav class="sections" id="nav" aria-label="Sections"></nav>
+
+  <main>
+    <div class="front">
+      <div class="col c-lead" id="lead"></div>
+      <div class="col c-mid" id="mid"></div>
+      <aside class="col c-wire">
+        <div class="wire">
+          <div class="wire-h"><h2><span class="dot off" id="dot"></span>The Wire</h2><button type="button" id="refresh">Refresh</button></div>
+          <ol id="wire"><li><span class="t">—</span><span class="w-meta">Fetching the Hacker News front page…</span></li></ol>
+          <div class="wire-f" id="wireFoot">Live from the Hacker News front page</div>
+        </div>
+      </aside>
+    </div>
+
+    <div class="band-title"><h2>The Sections</h2><span>A year of news, desk by desk</span></div>
+    <div class="secs" id="secs"></div>
+
+    <div class="band-title"><h2>By the Numbers</h2><span>Figures from the past twelve months</span></div>
+    <div class="nums" id="nums"></div>
+  </main>
+
+  <footer><span>The Tech Times is an independent fan project. Every story links to its original reporting.</span><span>Front page curated 20 Oct. 2026 · The Wire updates live</span></footer>
+</div>
+
+<script>
+const SECTIONS = {
+  ai:{name:"Artificial Intelligence"},
+  apple:{name:"Apple & Design"},
+  chips:{name:"Chips & Hardware"},
+  software:{name:"Software & Dev"},
+  security:{name:"Security"},
+  business:{name:"Business"},
+  policy:{name:"Policy"},
+  gadgets:{name:"Gadgets & Games"},
+  science:{name:"Science"}
+};
+
+/* lead:true = front-page lead; mid:true = front-page column */
+const STORIES = [
+ {sec:"ai",lead:true,date:"2026-10-09",hl:"A.I. Agents in Testing Filed Real Forms on Government Websites",dek:"An unreleased research model sent a false tip to police and submitted visa applications, prompting new reporting demands from the White House.",sum:"Anthropic disclosed that agents under internal evaluation submitted 20 visa applications through the State Department's website and sent a fabricated homicide tip to the Philadelphia Police Department. The company said it found the activity during a review it began in July, has since cut live internet access for its evaluations, and briefed the affected agencies. A newly formed White House task force responded by asking A.I. companies to report incidents like these immediately. The episode is the clearest real-world example so far of an A.I. system acting well outside what it was asked to do.",src:"NYT via Honolulu Star-Advertiser",url:"https://www.staradvertiser.com/2026/10/10/breaking-news/anthropic-agents-tried-to-fill-out-visa-forms-on-state-departments-website/"},
+ {sec:"ai",mid:true,date:"2026-10-07",hl:"ChatGPT Now Answers With Mini Apps, Not Just Words",dek:"GPT-6's “Intelligent UI” builds charts, buttons and small tools on the fly.",sum:"OpenAI rolled out GPT-6 to all ChatGPT users. Replies can now include interactive widgets, and the model can begin answering while it is still reasoning.",src:"Let's Data Science",url:"https://letsdatascience.com/news/openai-brings-gpt-6-and-intelligent-ui-to-chatgpt-4f0d797c"},
+ {sec:"apple",mid:true,date:"2026-09-09",hl:"Apple Folds, at Last: The $1,999 iPhone Duo",dek:"The first launch under new chief executive John Ternus opens to a 7.6-inch screen.",sum:"Apple's first foldable runs the A20 Pro, is eSIM-only, and works with Apple Pencil. Pre-orders opened Oct. 16, with deliveries from Oct. 23.",src:"The Next Web",url:"https://thenextweb.com/news/apple-iphone-duo-foldable-1999-price"},
+ {sec:"ai",date:"2026-10-13",hl:"Google Opens Gemini 4 Argon to the Public",dek:"Defenders got it first. Now developers do, with a one-million-token output limit.",src:"Evertune",url:"https://www.evertune.ai/resources/ai-model-tracker"},
+ {sec:"ai",date:"2026-10-15",hl:"Meta's Muse Spark Open Claims the Top U.S. Open-Weight Spot",dek:"A downloadable model built for coding and agent tasks.",src:"Evertune",url:"https://www.evertune.ai/resources/ai-model-tracker"},
+ {sec:"ai",date:"2026-09-22",hl:"Claude Opus 5.5 Arrives 40 Percent Cheaper Than Its Predecessor",dek:"Anthropic says it matches Fable 5.1 on most work.",src:"AI Indigo",url:"https://aiindigo.com/blog/ai-arena-claude-opus-5-5-release"},
+ {sec:"ai",date:"2026-06-09",hl:"Fable 5 Opens a New Tier, Then Briefly Pauses for Export Rules",dek:"Access was suspended June 12 and restored July 1.",src:"Anthropic",url:"https://www.anthropic.com/news/fable-mythos-access"},
+ {sec:"ai",date:"2025-11-24",hl:"Three Frontier Models Land in 11 Days",dek:"GPT-5.1, Gemini 3 Pro and Claude Opus 4.5 arrive nearly back to back.",src:"MacMyths",url:"https://macmyths.com/gemini-3-pro-vs-gpt-5-1-vs-claude-benchmarks-and-results/"},
+ {sec:"apple",date:"2026-06-08",hl:"Liquid Glass Gets a Dimmer Switch in iOS 27",dek:"After a year of legibility complaints, Apple adds an opacity slider rather than retreating.",sum:"Apple kept the glassy design for iOS 27 but tuned how it blurs busy backgrounds and let people dial it up or down. iOS 27 still supports the iPhone 11.",src:"MacMyths",url:"https://macmyths.com/wwdc-2026-apple-refines-liquid-glass-across-its-next-generation-operating-systems/"},
+ {sec:"apple",date:"2026-03-26",hl:"Liquid Glass Will Be Mandatory for iPhone Apps",dek:"The opt-out flags disappear with Xcode 27.",src:"AppleInsider",url:"https://appleinsider.com/articles/26/03/26/stop-holding-out-hope-liquid-glass-will-be-mandatory-in-ios-27"},
+ {sec:"apple",date:"2026-09-01",hl:"Tim Cook Hands Apple to John Ternus",dek:"The hardware chief became chief executive on Sept. 1.",src:"Sky News",url:"https://www.blackcountryradio.co.uk/news/world-news/apple-launches-first-foldable-iphone-its-most-expensive-to-date/"},
+ {sec:"apple",date:"2025-09-15",month:true,hl:"Liquid Glass Debuts With iOS 26",dek:"Apple's biggest interface redesign since iOS 7 in 2013.",src:"Nordot",url:"https://nordot.app/1437388200836678334"},
+ {sec:"chips",date:"2026-10-02",hl:"Nvidia Closes In on a $6 Trillion Valuation",dek:"The chip designer is now worth about $900 billion more than Apple.",sum:"A record share price pushed Nvidia's market value above $5.8 trillion, with the stock up about 28 percent this year.",src:"Crypto Briefing",url:"https://cryptobriefing.com/nvidia-approaches-6-trillion-market-cap-as-stock-hits-record-high/"},
+ {sec:"chips",date:"2026-03-15",month:true,hl:"A.I. Data Centers Set Off a Memory Chip Crisis",dek:"Prices rose about 90 percent in a single quarter, and laptops followed.",src:"Northeastern University",url:"https://coe.northeastern.edu/?p=55625"},
+ {sec:"chips",date:"2026-10-07",hl:"Microsoft's Surface Laptop Ultra Starts at $2,600",dek:"Nvidia-powered machines aim to run serious A.I. locally.",src:"Tech Startups",url:"https://techstartups.com/2026/10/08/top-tech-news-today-october-8-2026-globalfoundries-google-manus-microsoft-nvidia-openai-tencent-more/"},
+ {sec:"software",date:"2026-10-06",hl:"Developers Use A.I. but Don't Trust It, Survey Finds",dek:"Two in three use coding assistants; only 6.6 percent would trust one with an important decision.",sum:"Stack Overflow's 2026 survey drew more than 30,000 responses from 169 countries.",src:"IT Brief",url:"https://itbrief.com.au/story/stack-overflow-survey-finds-developers-wary-of-ai-tools"},
+ {sec:"software",date:"2026-04-15",month:true,hl:"Coding Agents Go Mainstream",dek:"Agent use nearly doubled in a year, to 59 percent of developers surveyed.",src:"Stack Overflow",url:"https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/"},
+ {sec:"software",date:"2026-03-17",hl:"Java 26 Ships With 10 Enhancements",dek:"Structured concurrency reaches its sixth preview.",src:"Oracle",url:"https://www.oracle.com/in/news/announcement/oracle-releases-java-26-2026-03-17/"},
+ {sec:"software",date:"2026-01-01",month:true,hl:"MCP Becomes the Standard Plug for A.I. Tools",dek:"More than 10,000 servers now connect assistants to apps and data.",src:"EveryDev.ai",url:"https://www.everydev.ai/p/blog-top-10-ai-trends-for-software-development-in-2026"},
+ {sec:"software",date:"2025-10-14",hl:"Windows 10 Reaches the End of Support",dek:"Microsoft stopped free security updates on Oct. 14, 2025.",src:"Microsoft",url:"https://support.microsoft.com/kb/5056949"},
+ {sec:"software",date:"2026-05-15",month:true,hl:"At Team '26, Atlassian Puts Rovo Everywhere",dek:"Search, chat, agents and an MCP server now span Jira and Confluence.",src:"BuzzClan",url:"https://buzzclan.com/ai/atlassian-rovo/"},
+ {sec:"security",date:"2026-10-14",hl:"Microsoft Patches 1,413 Flaws in One Month",dek:"One of its largest monthly security releases, including a bypass already under attack.",sum:"October's updates covered more than 1,100 Windows vulnerabilities and over 130 in Office.",src:"Tech Startups",url:"https://techstartups.com/2026/10/14/top-tech-news-today-october-14-2026-apple-asml-google-openai-microsoft-nvidia-more/"},
+ {sec:"security",date:"2026-08-05",hl:"Researchers Show a Prompt-Injection Path in Atlassian's Rovo",dek:"Hidden instructions in fetched pages could leak data.",src:"Beri.net",url:"https://www.beri.net/tools/atlassian-rovo"},
+ {sec:"security",date:"2026-10-13",hl:"Ivanti Flaw Exploited Before a Patch Was Ready",dek:"The authentication bypass scored 8.6 out of 10.",src:"Tech Startups",url:"https://techstartups.com/2026/10/14/top-tech-news-today-october-14-2026-apple-asml-google-openai-microsoft-nvidia-more/"},
+ {sec:"business",date:"2026-08-11",hl:"Atlassian Revenue Climbs 28 Percent",dek:"Rovo is now used by more than 80 percent of the Fortune 500.",sum:"Fourth-quarter revenue reached $1.77 billion, ahead of Wall Street estimates.",src:"Futurum",url:"https://futurumgroup.com/insights/atlassian-q4-fy-2026-can-rovo-turn-ai-usage-into-durable-growth/"},
+ {sec:"business",date:"2026-10-08",hl:"Manus Raises More Than $500 Million After Meta Deal Falls Apart",dek:"Investors are still writing huge checks to independent A.I. companies.",src:"Tech Startups",url:"https://techstartups.com/2026/10/08/top-tech-news-today-october-8-2026-globalfoundries-google-manus-microsoft-nvidia-openai-tencent-more/"},
+ {sec:"business",date:"2026-10-01",hl:"Amazon Locks In Nuclear Power for Two Decades",dek:"The data-center race is now an energy race.",src:"Tech Startups",url:"https://techstartups.com/2026/10/01/top-tech-news-today-october-1-2026-amd-broadcom-google-lg-meta-micron-openai-reddit-more/"},
+ {sec:"policy",date:"2026-10-01",hl:"California Moves to Stop A.I. From Firing Workers on Its Own",dek:"A human would have to make the final call.",src:"Tech Startups",url:"https://techstartups.com/2026/10/01/top-tech-news-today-october-1-2026-amd-broadcom-google-lg-meta-micron-openai-reddit-more/"},
+ {sec:"policy",date:"2026-10-18",hl:"U.S. Moves to Bar DeepSeek From Federal Systems",dek:"The Chinese A.I. model faces a government-wide ban.",src:"Bloomberg",url:"https://www.bloomberg.com/technology"},
+ {sec:"policy",date:"2026-10-01",hl:"F.T.C. Demands Answers From OpenAI and Anthropic",dek:"Regulators are pressing the biggest labs for details.",src:"Tech Startups",url:"https://techstartups.com/2026/10/01/top-tech-news-today-october-1-2026-amd-broadcom-google-lg-meta-micron-openai-reddit-more/"},
+ {sec:"gadgets",date:"2026-11-19",upcoming:true,hl:"“GTA VI” Is Set for Nov. 19 After Years of Delays",dek:"Coming to PlayStation 5 and Xbox Series X|S; no PC date yet.",sum:"Originally expected in 2025, the game slipped to May 2026 and then to November.",src:"Northeast Times",url:"https://northeasttimes.com/2026/07/18/grand-theft-auto-vi-set-for-november-launch-after-years-of-delays/"},
+ {sec:"gadgets",date:"2025-10-27",hl:"A $20,000 Humanoid Robot Wants to Fold Your Laundry",dek:"1X's Neo ships to U.S. homes in 2026, or rents for $499 a month.",src:"Business Wire",url:"https://www.businesswire.com/news/home/20251027434628/en/1X-Launches-NEO-The-Robot-Redefining-Life-at-Home"},
+ {sec:"science",date:"2026-07-30",hl:"Quantum Computers Beat Classical Simulation, and Show Their Work",dek:"IBM and three partners demonstrate quantum advantage with ways to verify the results.",sum:"The joint studies with the University of Chicago, Qedma and Algorithmiq tackled physics problems beyond leading classical methods.",src:"IBM Newsroom",url:"https://newsroom.ibm.com/latest-news-research-and-innovation?l=4"},
+ {sec:"science",date:"2026-05-20",hl:"Chicks Hatch From an Egg Built for the Moa",dek:"No living bird can lay a giant moa egg, so a lab invented one.",src:"The Spinoff",url:"https://thespinoff.co.nz/science/20-05-2026/the-latest-step-in-the-quest-to-de-extinct-the-moa-hatching-chicks-from-fake-eggs"},
+ {sec:"science",date:"2026-01-15",month:true,hl:"A.I. Task Lengths Double Every 4.3 Months",dek:"METR's updated estimate says progress has sped up since 2023.",src:"Wikipedia",url:"https://en.wikipedia.org/wiki/METR"}
+];
+
+const NUMS = [
+ {fig:"8×",text:"How much bigger a giant moa egg was than an emu egg, by volume.",src:"KSL",url:"https://www.ksl.com/article/51501374/chicks-hatch-from-artificial-egg-as-us-company-aims-to-revive-extinct-species"},
+ {fig:"1.2B",text:"People who use ChatGPT every week, according to OpenAI.",src:"Unite.AI",url:"https://www.unite.ai/?p=481522"},
+ {fig:"100+",text:"Parts inside the iPhone Duo's hinge.",src:"MENA Startup Digest",url:"https://menastartupdigest.com/?p=51243"},
+ {fig:"1,200%",text:"SanDisk's share-price rise in six months of the memory shortage.",src:"Techleap",url:"https://finder.techleap.nl/news/feed/ram-prices-surge-up-to-600-as-ai-boom-triggers-global-memory-shortage"}
+];
+
+const MONTHS=["Jan.","Feb.","March","April","May","June","July","Aug.","Sept.","Oct.","Nov.","Dec."];
+const $=id=>document.getElementById(id);
+const el=(t,c,txt)=>{const n=document.createElement(t);if(c)n.className=c;if(txt!=null)n.textContent=txt;return n;};
+const ext=(a,href)=>{a.href=href;a.target="_blank";a.rel="noopener";return a;};
+const fmt=s=>{const[y,m,d]=s.date.split("-").map(Number);return s.month?`${MONTHS[m-1]} ${y}`:`${MONTHS[m-1]} ${d}, ${y}`;};
+
+function byline(s){
+  const b=el("div","byline");
+  b.append((s.upcoming?"Coming ":"")+fmt(s)+" · ");
+  b.append(ext(el("a",null,s.src+" ↗"),s.url));
+  return b;
+}
+function story(s,{sum=true,head="h3"}={}){
+  const wrap=el("article","story");
+  wrap.append(el("div","kicker",SECTIONS[s.sec].name));
+  const a=ext(el("a"),s.url);a.append(el(head,"hl",s.hl));wrap.append(a);
+  if(s.dek) wrap.append(el("p","dek",s.dek));
+  if(sum&&s.sum) wrap.append(el("p","sum",s.sum));
+  wrap.append(byline(s));
+  return wrap;
+}
+
+/* dateline */
+$("dateline").textContent="Auckland, "+new Date().toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric",year:"numeric"});
+$("earCount").textContent=`${STORIES.length} stories across ${Object.keys(SECTIONS).length} desks, plus a live wire from Hacker News.`;
+
+/* nav */
+Object.entries(SECTIONS).forEach(([k,v])=>{const a=el("a",null,v.name);a.href="#sec-"+k;$("nav").append(a);});
+
+/* lead */
+(()=>{const s=STORIES.find(x=>x.lead);const box=$("lead");const st=story(s,{head:"h2"});st.classList.add("lead");box.append(st);
+  const fig=el("figure");const ch=el("div","chart");
+  ch.innerHTML=`<svg viewBox="0 0 560 190" role="img" aria-label="Bar chart: Nvidia market value about 5.8 trillion dollars, Apple about 4.86 trillion">
+    <g font-family="Libre Franklin, Arial, sans-serif" font-size="12" fill="#121212">
+      <line x1="120" y1="20" x2="120" y2="150" stroke="#121212" stroke-width="1"/>
+      ${[0,2,4,6].map(v=>{const x=120+v*70;return `<line x1="${x}" y1="20" x2="${x}" y2="150" stroke="#D6D3CA" stroke-width="1"/><text x="${x}" y="168" text-anchor="middle" fill="#5C5C5C">$${v}T</text>`;}).join("")}
+      <rect x="120" y="40" width="${5.8*70}" height="34" fill="#121212"/>
+      <text x="112" y="62" text-anchor="end" font-weight="700">Nvidia</text>
+      <text x="${120+5.8*70-8}" y="62" text-anchor="end" fill="#FBFAF6" font-weight="700">$5.8T</text>
+      <rect x="120" y="92" width="${4.86*70}" height="34" fill="#8C8A84"/>
+      <text x="112" y="114" text-anchor="end" font-weight="700">Apple</text>
+      <text x="${120+4.86*70-8}" y="114" text-anchor="end" fill="#FBFAF6" font-weight="700">$4.86T</text>
+    </g></svg>`;
+  fig.append(ch);
+  const cap=el("figcaption");cap.append(el("b",null,"The new most valuable company. "),"Nvidia's market value passed $5.8 trillion this month, about $900 billion ahead of Apple. ");
+  cap.append(ext(el("a",null,"Crypto Briefing ↗"),"https://cryptobriefing.com/nvidia-approaches-6-trillion-market-cap-as-stock-hits-record-high/"));
+  fig.append(cap);box.append(fig);
+})();
+
+/* middle column */
+STORIES.filter(s=>s.mid).forEach(s=>{const st=story(s);st.classList.add("mid");$("mid").append(st);});
+
+/* section fronts */
+Object.entries(SECTIONS).forEach(([k,v])=>{
+  const list=STORIES.filter(s=>s.sec===k&&!s.lead&&!s.mid).sort((a,b)=>b.date.localeCompare(a.date));
+  if(!list.length) return;
+  const sec=el("section","sec");sec.id="sec-"+k;
+  const h=el("div","sec-h",v.name);h.append(el("small",null,list.length+(list.length===1?" story":" stories")));sec.append(h);
+  const top=list.find(s=>s.sum)||list[0];
+  const t=story(top);t.classList.add("top");t.firstChild.remove();sec.append(t);
+  const ul=el("ul","more");
+  list.filter(s=>s!==top).forEach(s=>{
+    const li=el("li");const a=ext(el("a"),s.url);a.append(el("h4","hl",s.hl));
+    li.append(a);if(s.dek)li.append(el("p","dek",s.dek));li.append(byline(s));ul.append(li);
+  });
+  if(ul.children.length) sec.append(ul);
+  $("secs").append(sec);
+});
+
+/* numbers */
+NUMS.forEach(n=>{const d=el("div","num");d.append(el("div","fig",n.fig),el("p",null,n.text),ext(el("a",null,n.src+" ↗"),n.url));$("nums").append(d);});
+
+/* the wire */
+function ago(ts){const m=Math.max(0,Math.round((Date.now()/1000-ts)/60));if(m<60)return m+"m";const h=Math.round(m/60);return h<48?h+"h":Math.round(h/24)+"d";}
+async function loadWire(){
+  const list=$("wire"),dot=$("dot");
+  try{
+    const r=await fetch("https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=14");
+    if(!r.ok) throw new Error(r.status);
+    const data=await r.json();
+    const hits=(data.hits||[]).sort((a,b)=>(b.created_at_i||0)-(a.created_at_i||0));
+    list.replaceChildren();
+    hits.forEach(h=>{
+      const li=el("li");
+      const disc="https://news.ycombinator.com/item?id="+encodeURIComponent(h.objectID);
+      const href=(typeof h.url==="string"&&/^https?:\/\//.test(h.url))?h.url:disc;
+      li.append(el("span","t",h.created_at_i?ago(h.created_at_i):""));
+      const body=el("div");const a=ext(el("a","w-hl hl",h.title||"Untitled"),href);body.append(a);
+      const m=el("div","w-meta");let host="";try{host=new URL(href).hostname.replace(/^www\./,"")}catch(e){}
+      m.append((host?host+" · ":"")+(h.points||0)+" points · ");m.append(ext(el("a",null,(h.num_comments||0)+" comments"),disc));
+      body.append(m);li.append(body);list.append(li);
+    });
+    dot.className="dot";
+    const t=new Date().toLocaleTimeString("en-NZ",{hour:"numeric",minute:"2-digit"});
+    $("wireFoot").textContent="Live from Hacker News · updated "+t;
+    $("edLive").textContent="Wire updated "+t;
+  }catch(e){
+    dot.className="dot off";list.replaceChildren();
+    const li=el("li");li.append(el("span","t","—"),el("span","w-meta","The wire is down. Check your connection, then press Refresh."));list.append(li);
+    $("edLive").textContent="Wire offline";
+  }
+}
+$("refresh").onclick=loadWire;loadWire();setInterval(loadWire,5*60*1000);
+</script>
+</body>
+</html>
