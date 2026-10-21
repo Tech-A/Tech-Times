@@ -1,13 +1,111 @@
 {
-"updated": "2026-10-21T01:53:13.890966Z",
-"count": 309,
+"updated": "2026-10-21T07:18:46.196049Z",
+"count": 305,
 "items": [
+{
+"title": "Sunlife's new logo design is \"optimised for a digital world\", but does it take minimalism too far?",
+"url": "https://www.creativebloq.com/news/sunlifes-new-logo-design-is-optimised-for-a-digital-world-but-does-it-take-minimalism-too-far",
+"published": "2026-10-21T07:00:00Z",
+"summary": "Maximalism fans, look away now.",
+"source": "Creative Bloq"
+},
+{
+"title": "This Lego designer's 37,000-brick KPop Demon Hunters sculpture is pretty epic",
+"url": "https://www.creativebloq.com/news/this-lego-designers-37-000-brick-kpop-demon-hunters-sculpture-is-pretty-epic",
+"published": "2026-10-21T06:00:00Z",
+"summary": "The making-of video is so satisfying to watch.",
+"source": "Creative Bloq"
+},
+{
+"title": "20% Off Sephora Promo Code | October 2026",
+"url": "https://www.wired.com/story/sephora-promo-code/",
+"published": "2026-10-21T05:00:00Z",
+"summary": "Earn more points on skincare purchases when you use our Sephora coupon.",
+"source": "Wired"
+},
+{
+"title": "TurboTax Full Service Coupons This October 2026",
+"url": "https://www.wired.com/story/turbotax-coupon/",
+"published": "2026-10-21T05:00:00Z",
+"summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+"source": "Wired"
+},
+{
+"title": "Home Depot Promo Codes: 30% Off in October 2026",
+"url": "https://www.wired.com/story/home-depot-promo-code/",
+"published": "2026-10-21T05:00:00Z",
+"summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
+"source": "Wired"
+},
+{
+"title": "Udemy Coupon Codes: 20% Off October 2026",
+"url": "https://www.wired.com/story/udemy-promo-code/",
+"published": "2026-10-21T05:00:00Z",
+"summary": "Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.",
+"source": "Wired"
+},
+{
+"title": "Ulta Promo Codes: Up to 20% Off in October 2026",
+"url": "https://www.wired.com/story/ulta-coupon/",
+"published": "2026-10-21T05:00:00Z",
+"summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+"source": "Wired"
+},
+{
+"title": "LG Promo Codes and Coupons for October 2026",
+"url": "https://www.wired.com/story/lg-promo-code/",
+"published": "2026-10-21T05:00:00Z",
+"summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+"source": "Wired"
+},
+{
+"title": "Agent Pets",
+"url": "https://www.producthunt.com/products/agent-pets",
+"published": "2026-10-21T04:55:21Z",
+"summary": "Coding agents as pets that live on every page in Chrome Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "Nervous ISPs replace Chrome as strange consumers of DNS resources",
+"url": "https://www.theregister.com/networks/2026/10/21/nervous-isps-replace-chrome-as-strange-consumers-of-dns-resources/5304344",
+"published": "2026-10-21T03:16:37Z",
+"summary": "Some network operators like to wear belts and suspenders to keep their services up",
+"source": "The Register"
+},
+{
+"title": "TornadoVM 7 Enables GPU-Native Workloads From Java Applications",
+"url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-10-21T03:00:00Z",
+"summary": "TornadoVM, an open-source heterogeneous programming framework for Java has reached version 7.0. It automatically accelerates Java programs on multi-core CPUs and GPUs and provides a rich GPU…",
+"source": "InfoQ"
+},
+{
+"title": "PHP warns it plans to release 2 emergency patches imminently",
+"url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+"published": "2026-10-21T02:12:18Z",
+"summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+"source": "Ars Technica"
+},
+{
+"title": "Mouse-1",
+"url": "https://www.producthunt.com/products/mouse-1",
+"published": "2026-10-21T02:01:18Z",
+"summary": "A decision model for your agent harness. Discussion | Link",
+"source": "Product Hunt"
+},
 {
 "title": "Apple is looking for a cellular modem engineer to help shape its transition to 6G",
 "url": "https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g/",
 "published": "2026-10-21T01:18:32Z",
 "summary": "Apple is looking for an experienced cellular modem systems engineer to help develop its next generation of cellular modems as the company transitions toward 6G. Here are the details. more…",
 "source": "9to5Mac"
+},
+{
+"title": "hibi",
+"url": "https://www.producthunt.com/products/hibi",
+"published": "2026-10-21T01:17:58Z",
+"summary": "an open-source obsidian alternative Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
@@ -62,7 +160,7 @@
 "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
 "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
 "published": "2026-10-20T23:01:23Z",
-"summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+"summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
 "source": "TechCrunch"
 },
 {
@@ -78,6 +176,13 @@
 "published": "2026-10-20T23:00:00Z",
 "summary": "From software limitations to the pre-sale deals, here's what you need to know ahead of the iPhone Duo launch.",
 "source": "Engadget"
+},
+{
+"title": "Triage by Chodeberg",
+"url": "https://www.producthunt.com/products/triage-by-chodeberg",
+"published": "2026-10-20T22:59:42Z",
+"summary": "Reproduce user described bugs in clean sandbox environments Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "SpaceX and Tesla boards form special committees to review merger",
@@ -104,7 +209,7 @@
 "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
 "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
 "published": "2026-10-20T22:24:02Z",
-"summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+"summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
 "source": "TechCrunch"
 },
 {
@@ -321,7 +426,7 @@
 "title": "SpaceX’s AI business is beating expectations",
 "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
 "published": "2026-10-20T20:40:41Z",
-"summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+"summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
 "source": "TechCrunch"
 },
 {
@@ -437,7 +542,7 @@
 "source": "BleepingComputer"
 },
 {
-"title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+"title": "GM to close Detroit battery-assembly plant, but not for reasons you might think",
 "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
 "published": "2026-10-20T19:32:43Z",
 "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
@@ -491,6 +596,13 @@
 "published": "2026-10-20T18:36:53Z",
 "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their…",
 "source": "TechCrunch"
+},
+{
+"title": "Tend",
+"url": "https://www.producthunt.com/products/tend-5",
+"published": "2026-10-20T18:30:09Z",
+"summary": "Personal AI for businesses and entrepreneurs. Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "How long can you expect your original Steam Deck to last?",
@@ -549,6 +661,13 @@
 "source": "GitHub Changelog"
 },
 {
+"title": "Notion Auto",
+"url": "https://www.producthunt.com/products/notion-99",
+"published": "2026-10-20T18:01:39Z",
+"summary": "Notion’s rebuilt Agents run for hours and cost far less Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "How often should you restart your Apple Watch?",
 "url": "https://www.engadget.com/2288986/how-often-should-restart-apple-watch/",
 "published": "2026-10-20T18:00:00Z",
@@ -559,7 +678,7 @@
 "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
 "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
 "published": "2026-10-20T17:55:12Z",
-"summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+"summary": "Eric Schmidt’s fortune is about to get even bigger.",
 "source": "TechCrunch"
 },
 {
@@ -598,10 +717,10 @@
 "source": "GitHub Changelog"
 },
 {
-"title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+"title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
 "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
 "published": "2026-10-20T17:12:48Z",
-"summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher…",
+"summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
 "source": "TechCrunch"
 },
 {
@@ -633,7 +752,7 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+"title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
 "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
 "published": "2026-10-20T16:20:06Z",
 "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
@@ -738,6 +857,13 @@
 "source": "TechCrunch"
 },
 {
+"title": "Burrow MacOS",
+"url": "https://www.producthunt.com/products/burrow-macos",
+"published": "2026-10-20T15:00:08Z",
+"summary": "Start Windows & Linux on your Mac for free Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Perplexity’s Computer can now run entirely on your Mac, even offline",
 "url": "https://9to5mac.com/2026/10/20/perplexitys-computer-can-now-run-entirely-on-your-mac-even-offline/",
 "published": "2026-10-20T15:00:00Z",
@@ -834,6 +960,13 @@
 "published": "2026-10-20T13:48:26Z",
 "summary": "Apple today began selling repair parts for the iPhone 18 Pro and iPhone 18 Pro Max, as well as the M5 Max and M5 Ultra Mac Studio and the M6 or M5 Pro Mac mini models. Here are the details. more…",
 "source": "9to5Mac"
+},
+{
+"title": "Flagsmith Experiments",
+"url": "https://www.producthunt.com/products/flagsmith",
+"published": "2026-10-20T13:37:39Z",
+"summary": "Open-source A/B testing built on your feature flags Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "'Password1' and a forgotten test account land Welsh outfits in hot water",
@@ -1074,6 +1207,13 @@
 "source": "Creative Bloq"
 },
 {
+"title": "PrivOS",
+"url": "https://www.producthunt.com/products/privos",
+"published": "2026-10-20T10:54:16Z",
+"summary": "Chat, Docs, Kanban Tasks and Al agents that act, self-hosted Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Chinese crime ring steals more than $5 million in gift cards from Staples customer service",
 "url": "https://www.tomshardware.com/tech-industry/cyber-security/chinese-crime-ring-steals-millions-of-dollars-in-gift-cards-from-staples-customer-service-system-group-acquired-more-than-15-000-gift-cards-worth-more-than-usd5-million",
 "published": "2026-10-20T10:50:00Z",
@@ -1142,6 +1282,13 @@
 "published": "2026-10-20T10:22:23Z",
 "summary": "The internet told them Europe was a social paradise. Turns out the trains are awful, the health care isn’t free, and people can be really mean.",
 "source": "Wired"
+},
+{
+"title": "Lea by LeanAIOS",
+"url": "https://www.producthunt.com/products/lea-by-leanaios",
+"published": "2026-10-20T10:15:05Z",
+"summary": "Autonomous AI team for construction management & pre-con Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "This New Food Delivery App Could Be the Antidote to Menu Markups",
@@ -1284,6 +1431,13 @@
 "source": "Creative Bloq"
 },
 {
+"title": "Intelli for ChatGPT & Claude",
+"url": "https://www.producthunt.com/products/intelli",
+"published": "2026-10-20T07:04:54Z",
+"summary": "Run WhatsApp, Instagram & web chat from ChatGPT or Claude Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "\"Is this what designers need to do to find work in 2026?\" a viral high-production video has sparked debate",
 "url": "https://www.creativebloq.com/news/is-this-what-designers-need-to-do-to-get-work-in-2026-a-viral-high-production-video-has-sparked-debate",
 "published": "2026-10-20T07:00:00Z",
@@ -1312,13 +1466,6 @@
 "source": "The Register"
 },
 {
-"title": "Wayfair Coupons: Up to 80% Off October 2026",
-"url": "https://www.wired.com/story/wayfair-promo-code/",
-"published": "2026-10-20T05:00:00Z",
-"summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-"source": "Wired"
-},
-{
 "title": "50% Off DoorDash Promo Code | October 2026",
 "url": "https://www.wired.com/story/doordash-promo-code/",
 "published": "2026-10-20T05:00:00Z",
@@ -1326,17 +1473,10 @@
 "source": "Wired"
 },
 {
-"title": "Chewy Promo Codes: $20 Off October 2026",
-"url": "https://www.wired.com/story/chewy-promo-code/",
+"title": "Wayfair Coupons: Up to 80% Off October 2026",
+"url": "https://www.wired.com/story/wayfair-promo-code/",
 "published": "2026-10-20T05:00:00Z",
-"summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
-"source": "Wired"
-},
-{
-"title": "30% Off Canon Promo Codes | October 2026",
-"url": "https://www.wired.com/story/canon-promo-code/",
-"published": "2026-10-20T05:00:00Z",
-"summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
+"summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
 "source": "Wired"
 },
 {
@@ -1347,13 +1487,6 @@
 "source": "Wired"
 },
 {
-"title": "Adorama Camera Coupon Codes & Promo Codes: October 2026",
-"url": "https://www.wired.com/story/adorama-promo-code/",
-"published": "2026-10-20T05:00:00Z",
-"summary": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
-"source": "Wired"
-},
-{
 "title": "Mint Mobile Discounts for October 2026",
 "url": "https://www.wired.com/story/mint-mobile-promo-code/",
 "published": "2026-10-20T05:00:00Z",
@@ -1361,24 +1494,24 @@
 "source": "Wired"
 },
 {
-"title": "Home Chef Promo Codes for October 2026",
-"url": "https://www.wired.com/story/home-chef-promo-code/",
+"title": "Chewy Promo Codes: $20 Off October 2026",
+"url": "https://www.wired.com/story/chewy-promo-code/",
 "published": "2026-10-20T05:00:00Z",
-"summary": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
+"summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
 "source": "Wired"
 },
 {
-"title": "AT&T Promo Codes: $50 Off This October 2026",
-"url": "https://www.wired.com/story/att-promo-code/",
+"title": "Adorama Camera Coupon Codes & Promo Codes: October 2026",
+"url": "https://www.wired.com/story/adorama-promo-code/",
 "published": "2026-10-20T05:00:00Z",
-"summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
+"summary": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
 "source": "Wired"
 },
 {
-"title": "eBay Coupons: 20% Off in October 2026",
-"url": "https://www.wired.com/story/ebay-coupon-code/",
+"title": "30% Off Canon Promo Codes | October 2026",
+"url": "https://www.wired.com/story/canon-promo-code/",
 "published": "2026-10-20T05:00:00Z",
-"summary": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
+"summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
 "source": "Wired"
 },
 {
@@ -1389,18 +1522,25 @@
 "source": "Wired"
 },
 {
+"title": "Home Chef Promo Codes for October 2026",
+"url": "https://www.wired.com/story/home-chef-promo-code/",
+"published": "2026-10-20T05:00:00Z",
+"summary": "Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.",
+"source": "Wired"
+},
+{
+"title": "eBay Coupons: 20% Off in October 2026",
+"url": "https://www.wired.com/story/ebay-coupon-code/",
+"published": "2026-10-20T05:00:00Z",
+"summary": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
+"source": "Wired"
+},
+{
 "title": "‘David Beckham’ was briefly the world’s second-worst manga pirate",
 "url": "https://www.theregister.com/legal/2026/10/20/david-beckham-was-briefly-the-worlds-second-worst-manga-pirate/5304044",
 "published": "2026-10-20T04:21:20Z",
 "summary": "Publishers call for better verification of domain name registrants, and ICANN is on the job with a new policy",
 "source": "The Register"
-},
-{
-"title": "Intel® GPU D-series",
-"url": "https://www.producthunt.com/products/intel",
-"published": "2026-10-20T02:46:24Z",
-"summary": "Memory-rich AI inference without HBM Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "ICANN testing tech to let law enforcement access non-public WHOIS info",
@@ -1422,13 +1562,6 @@
 "published": "2026-10-20T00:01:33Z",
 "summary": "After introducing limited in-app browser support for certain business links last year, WhatsApp is now working on expanding the feature to all links shared in chats. Here are the details. more…",
 "source": "9to5Mac"
-},
-{
-"title": "RunInfra",
-"url": "https://www.producthunt.com/products/runinfra",
-"published": "2026-10-19T23:12:51Z",
-"summary": "Open models, built for agents. Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Sketchbook special! Issue 272 of ImagineFX",
@@ -1480,13 +1613,6 @@
 "source": "UX Collective"
 },
 {
-"title": "Rovalty",
-"url": "https://www.producthunt.com/products/rovalty-creator-program-ugc",
-"published": "2026-10-19T21:33:50Z",
-"summary": "Pay TikTok and reels creators per view, not upfront post. Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Copilot model policy API for enterprise, orgs, and teams",
 "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
 "published": "2026-10-19T21:32:18Z",
@@ -1506,13 +1632,6 @@
 "published": "2026-10-19T21:27:10Z",
 "summary": "As of today, October 19, 2026, we have deprecated the following models across most GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). These……",
 "source": "GitHub Changelog"
-},
-{
-"title": "Praex",
-"url": "https://www.producthunt.com/products/praex",
-"published": "2026-10-19T21:26:11Z",
-"summary": "The coding agent that runs on its own AI models Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
@@ -1536,13 +1655,6 @@
 "source": "9to5Mac"
 },
 {
-"title": "Best Power Bank Deals: Laptops, MagSafe, and More",
-"url": "https://www.wired.com/story/power-bank-deals-october-2026/",
-"published": "2026-10-19T20:55:15Z",
-"summary": "You can never have too many portable chargers, especially when they’re this discounted.",
-"source": "Wired"
-},
-{
 "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
 "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
 "published": "2026-10-19T20:54:17Z",
@@ -1562,13 +1674,6 @@
 "published": "2026-10-19T20:22:47Z",
 "summary": "Partner X-energy has not built a single working reactor yet",
 "source": "The Register"
-},
-{
-"title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-"url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-"published": "2026-10-19T20:21:53Z",
-"summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-"source": "Ars Technica"
 },
 {
 "title": "Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs",
@@ -1592,27 +1697,6 @@
 "source": "9to5Mac"
 },
 {
-"title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-"url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-"published": "2026-10-19T19:49:17Z",
-"summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
-"source": "Wired"
-},
-{
-"title": "Harness²",
-"url": "https://www.producthunt.com/products/harness-104",
-"published": "2026-10-19T19:43:26Z",
-"summary": "Harness the agent. Then harness its self-improvement. Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "The Best Mixbook Sale for Holiday Cards (2026)",
-"url": "https://www.wired.com/story/mixbook-photo-card-fall-sale-2026/",
-"published": "2026-10-19T19:43:22Z",
-"summary": "Mixbook is the best card service I’ve tried, and the brand has multiple sales on holiday cards happening now.",
-"source": "Wired"
-},
-{
 "title": "Hackers hijack AOMEI update servers to secretly spread malware",
 "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
 "published": "2026-10-19T19:40:58Z",
@@ -1632,13 +1716,6 @@
 "published": "2026-10-19T19:24:33Z",
 "summary": "Apple is rolling out a new feature for HomePod mini and the second-gen big HomePod called Sound Glow. This lights up the touch surface of your speaker with colors that reference the album artwork of…",
 "source": "9to5Mac"
-},
-{
-"title": "Election Offices in at Least 32 States Have Received Suspicious Letters",
-"url": "https://www.wired.com/story/election-offices-in-at-least-32-states-have-received-suspicious-letters-in-the-last-week/",
-"published": "2026-10-19T18:55:05Z",
-"summary": "WIRED contacted officials in all 50 states and Washington, DC, to uncover the extent of a harassment campaign ahead of the midterms.",
-"source": "Wired"
 },
 {
 "title": "MagSafe Monday: Upgrading to the iPhone Duo? This MagSafe battery was built specifically for it",
@@ -1662,38 +1739,10 @@
 "source": "9to5Mac"
 },
 {
-"title": "Japan’s MMX Mission Wants to Bring Martian Moon Samples Back to Earth",
-"url": "https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/",
-"published": "2026-10-19T18:45:06Z",
-"summary": "JAXA is leading an international mission to reach Mars’ Phobos moon and bring soil back to Earth. If successful, it could unlock new clues about the history of the solar system.",
-"source": "Wired"
-},
-{
 "title": "Tiny Little Office",
 "url": "https://www.producthunt.com/products/tiny-little-office",
 "published": "2026-10-19T18:42:09Z",
 "summary": "A tiny office suite where the link is the document Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "snyvi",
-"url": "https://www.producthunt.com/products/snyvi",
-"published": "2026-10-19T18:36:44Z",
-"summary": "All your passion projects, in one calm place Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Mintlify Autopilot",
-"url": "https://www.producthunt.com/products/mintlify",
-"published": "2026-10-19T18:29:25Z",
-"summary": "An always-on agent that keeps your docs up to date Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "call4me",
-"url": "https://www.producthunt.com/products/call4me",
-"published": "2026-10-19T18:24:29Z",
-"summary": "Give your AI agent a phone that calls and answers Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -1704,32 +1753,11 @@
 "source": "The Register"
 },
 {
-"title": "Sorcerer",
-"url": "https://www.producthunt.com/products/sorcerer",
-"published": "2026-10-19T18:20:54Z",
-"summary": "Simulate an AI agent community reacting to \"what if\" Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Apple is launching major new products next week, here’s what’s coming",
 "url": "https://9to5mac.com/2026/10/19/apple-is-launching-major-new-products-next-week-heres-whats-coming/",
 "published": "2026-10-19T18:16:11Z",
 "summary": "Apple just introduced HomeView alongside a new Apple TV and HomePod mini , but another product unveiling is already set for next week . Here are the new products expected to launch at Apple’s ‘Pro…",
 "source": "9to5Mac"
-},
-{
-"title": "The New Beings",
-"url": "https://www.producthunt.com/products/the-new-beings",
-"published": "2026-10-19T18:03:58Z",
-"summary": "AI agents on their break, performing a live talk show Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Kling 4.0",
-"url": "https://www.producthunt.com/products/kling-4-0-4",
-"published": "2026-10-19T17:51:17Z",
-"summary": "Fast and affordable AI video for high-frequency creators Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Third RCs for macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2 rolling out",
@@ -1767,13 +1795,6 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "Red Hat helps teach about tech writing",
-"url": "https://www.theregister.com/os-platforms/2026/10/19/red-hat-helps-teach-about-tech-writing/5303868",
-"published": "2026-10-19T16:11:00Z",
-"summary": "But learns tough lessons about AI in the process",
-"source": "The Register"
-},
-{
 "title": "A Chinese hacker used AI agents to break into more than 100 company websites",
 "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-chinese-hacker-used-ai-agents-to-break-into-more-than-100-company-websites-deere-and-sharkninja-among-websites-hit-by-open-source-ai-powered-problem-solving-platform-demo",
 "published": "2026-10-19T15:36:50Z",
@@ -1793,13 +1814,6 @@
 "published": "2026-10-19T14:37:00Z",
 "summary": "Pinterest has introduced event time-based partition finalization for its database ingestion framework. The mechanism uses Apache Flink to track event time and Apache Iceberg metadata to publish a…",
 "source": "InfoQ"
-},
-{
-"title": "Asimov 1",
-"url": "https://www.producthunt.com/products/asimov-1",
-"published": "2026-10-19T14:30:18Z",
-"summary": "The most customizable humanoid robot you can buy Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "JEP 543 Finalizes Structured Concurrency in JDK 28, Ending Seven Preview Rounds",
@@ -1828,13 +1842,6 @@
 "published": "2026-10-19T13:00:00Z",
 "summary": "Acer Googlebook review: a new, Chrome-plated, Android",
 "source": "Creative Bloq"
-},
-{
-"title": "/dev/null",
-"url": "https://www.producthunt.com/products/dev-null",
-"published": "2026-10-19T12:27:05Z",
-"summary": "a social network for devs Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Norwegian undersea cable builder pitches 2,800-mile transatlantic data link between Canada and Europe to bypass the US",
@@ -1921,6 +1928,13 @@
 "source": "Tom's Hardware"
 },
 {
+"title": "Scout by Fini",
+"url": "https://www.producthunt.com/products/fini-2",
+"published": "2026-10-19T10:51:19Z",
+"summary": "The AI coworker for support teams, on Slack Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Some Git over HTTPS may temporarily require authentication",
 "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
 "published": "2026-10-19T10:37:30Z",
@@ -1977,13 +1991,6 @@
 "source": "InfoQ"
 },
 {
-"title": "OpenShip Cloud",
-"url": "https://www.producthunt.com/products/openship-2",
-"published": "2026-10-19T08:26:58Z",
-"summary": "Managed Cloud infrastructure that you never locked in Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": ".NET 11 Release Candidate 2: Go-Live License and Updates across Libraries, F#, MAUI, and WinForms",
 "url": "https://www.infoq.com/news/2026/10/dotnet-11-rc-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
 "published": "2026-10-19T08:00:00Z",
@@ -1996,13 +2003,6 @@
 "published": "2026-10-19T08:00:00Z",
 "summary": "Mark Chambers explains why the crisp retro pixels are not what they seem.",
 "source": "Creative Bloq"
-},
-{
-"title": "xtty",
-"url": "https://www.producthunt.com/products/xtty",
-"published": "2026-10-19T07:19:34Z",
-"summary": "A terminal that makes everyday work easier. Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "The Kiwibank sheep went viral for all the wrong reasons, and there's something every brand can learn from it",
@@ -2054,13 +2054,6 @@
 "source": "Sidebar"
 },
 {
-"title": "Stella",
-"url": "https://www.producthunt.com/products/stella-5",
-"published": "2026-10-19T03:42:11Z",
-"summary": "Your emotional wellness AI. A friend to figure it out with. Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "I pushed Nvidia’s RTX Spark to its limits in our favourite creative laptop",
 "url": "https://www.creativebloq.com/reviews/i-pushed-nvidias-rtx-spark-to-its-limits-in-our-favourite-creative-laptop",
 "published": "2026-10-18T20:32:32Z",
@@ -2110,13 +2103,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Portlivo",
-"url": "https://www.producthunt.com/products/portlivo",
-"published": "2026-10-18T08:53:17Z",
-"summary": "Every local dev server on your Mac, in the menu bar Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours",
 "url": "https://www.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
 "published": "2026-10-18T05:30:00Z",
@@ -2124,17 +2110,17 @@
 "source": "InfoQ"
 },
 {
+"title": "ilha",
+"url": "https://www.producthunt.com/products/ilha",
+"published": "2026-10-18T01:10:27Z",
+"summary": "Your Claude Code and Codex limits, live in the notch Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Glance for Mac",
 "url": "https://www.producthunt.com/products/glance-for-mac",
 "published": "2026-10-17T19:18:19Z",
 "summary": "Your MacBook notch, now a live, cinematic island Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "bonds",
-"url": "https://www.producthunt.com/products/bonds-2",
-"published": "2026-10-17T18:04:38Z",
-"summary": "Every friends' chat gets an AI friend with superpowers Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -2145,25 +2131,11 @@
 "source": "Creative Bloq"
 },
 {
-"title": "This mechanical keyboard is astonishingly thin, and you can reserve one for $1",
-"url": "https://www.creativebloq.com/news/this-mechanical-keyboard-is-astonishingly-thin-and-you-can-reserve-one-for-usd1",
-"published": "2026-10-17T13:00:00Z",
-"summary": "How Andrew Emerson made a keyboard that's just 4.75mm thick",
-"source": "Creative Bloq"
-},
-{
-"title": "I think we’re getting a touchscreen Mac, and here’s why that excites me",
-"url": "https://www.creativebloq.com/news/i-think-were-getting-a-touchscreen-mac-and-heres-why-that-excites-me",
-"published": "2026-10-17T12:00:00Z",
-"summary": "As an ex-Chromebook user, I couldn’t be happier.",
-"source": "Creative Bloq"
-},
-{
-"title": "Reverse Engineer Anything Project Brings AI Agents to Binary Analysis",
-"url": "https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-"published": "2026-10-17T06:28:00Z",
-"summary": "Reverse Engineer Anything (REA) is an open-source project with over 200K GitHub stars that connects coding agents such as Claude Code and Codex to reverse-engineering tools like Ghidra, Hopper, and…",
-"source": "InfoQ"
+"title": "iglass",
+"url": "https://www.producthunt.com/products/iglass",
+"published": "2026-10-17T13:25:23Z",
+"summary": "Liquid Glass for your iTerm2 & Ghostty Discussion | Link",
+"source": "Product Hunt"
 }
 ]
 }
