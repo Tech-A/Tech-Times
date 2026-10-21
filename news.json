@@ -1,7 +1,63 @@
 {
-"updated": "2026-10-20T23:02:59.256175Z",
+"updated": "2026-10-21T01:53:13.890966Z",
 "count": 309,
 "items": [
+{
+"title": "Apple is looking for a cellular modem engineer to help shape its transition to 6G",
+"url": "https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g/",
+"published": "2026-10-21T01:18:32Z",
+"summary": "Apple is looking for an experienced cellular modem systems engineer to help develop its next generation of cellular modems as the company transitions toward 6G. Here are the details. more…",
+"source": "9to5Mac"
+},
+{
+"title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+"url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+"published": "2026-10-21T01:01:50Z",
+"summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to…",
+"source": "BleepingComputer"
+},
+{
+"title": "Dark comedy ‘Where’s Wanda?’ season 2 premieres on Apple TV",
+"url": "https://9to5mac.com/2026/10/20/dark-comedy-wheres-wanda-season-2-premieres-on-apple-tv/",
+"published": "2026-10-21T01:01:09Z",
+"summary": "German-language dark comedy “ Where’s Wanda? ” is back on Apple TV, with the first episode of its second season now streaming. Here are the details. more…",
+"source": "9to5Mac"
+},
+{
+"title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+"url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+"published": "2026-10-21T00:46:42Z",
+"summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them…",
+"source": "BleepingComputer"
+},
+{
+"title": "YouTube might be testing hiding the dislike button",
+"url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+"published": "2026-10-21T00:00:56Z",
+"summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the…",
+"source": "The Verge"
+},
+{
+"title": "How much power can a 1kW wind turbine produce for your home?",
+"url": "https://www.engadget.com/2289290/wind-turbine-for-home-1kw-power/",
+"published": "2026-10-21T00:00:00Z",
+"summary": "A 1 kW wind turbine can help with your electric bill, but the wind determines how much.",
+"source": "Engadget"
+},
+{
+"title": "What can you use your Apple Watch Ultra 4 action button for?",
+"url": "https://www.engadget.com/2289282/apple-watch-ultra-4-action-button-uses-explained/",
+"published": "2026-10-20T23:30:00Z",
+"summary": "Here's what your Apple Watch Ultra 4 action button can really do, from launching workouts and retracing routes to controlling smart home devices with one tap.",
+"source": "Engadget"
+},
+{
+"title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+"url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+"published": "2026-10-20T23:04:19Z",
+"summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As…",
+"source": "The Verge"
+},
 {
 "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
 "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
@@ -10,11 +66,32 @@
 "source": "TechCrunch"
 },
 {
+"title": "Oura Ring can track new stats related to cardio fitness",
+"url": "https://www.engadget.com/2292447/oura-ring-can-track-new-stats-related-to-cardio-fitness/",
+"published": "2026-10-20T23:00:10Z",
+"summary": "Oura has updated its smart rings with new cardio fitness-related metrics, including VO2 Max estimates.",
+"source": "Engadget"
+},
+{
+"title": "Five things you should know before buying the iPhone Duo",
+"url": "https://www.engadget.com/2289279/things-know-before-buying-iphone-duo/",
+"published": "2026-10-20T23:00:00Z",
+"summary": "From software limitations to the pre-sale deals, here's what you need to know ahead of the iPhone Duo launch.",
+"source": "Engadget"
+},
+{
 "title": "SpaceX and Tesla boards form special committees to review merger",
 "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
 "published": "2026-10-20T22:57:57Z",
 "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
 "source": "TechCrunch"
+},
+{
+"title": "Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’",
+"url": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312",
+"published": "2026-10-20T22:57:44Z",
+"summary": "Massive clean-up job under way because this mess makes it possible to impersonate any website or service",
+"source": "The Register"
 },
 {
 "title": "Fitbit Edge vs. Fitbit Inspire 3: How these Google fitness trackers compare",
@@ -57,6 +134,13 @@
 "published": "2026-10-20T22:01:23Z",
 "summary": "Microsoft is targeting a 2028 release for its next-gen Xbox, which could be incredibly expensive, according to details reported in a profile with Xbox's CEO.",
 "source": "Engadget"
+},
+{
+"title": "Auto tech startup claims it traced hack attempt back to rival's IP address",
+"url": "https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281",
+"published": "2026-10-20T22:00:46Z",
+"summary": "IQ.Lvbs implies that rival Comma.ai isn't playing fair",
+"source": "The Register"
 },
 {
 "title": "What to expect at Apple's 'Pro and Tell' event on October 28",
@@ -283,13 +367,6 @@
 "source": "Ars Technica"
 },
 {
-"title": "TikTok has started censoring searches for popular peptides",
-"url": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
-"published": "2026-10-20T20:16:04Z",
-"summary": "Trying to pull up information for certain peptides on TikTok is now returning a \"no results found\" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't…",
-"source": "The Verge"
-},
-{
 "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
 "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
 "published": "2026-10-20T20:07:58Z",
@@ -316,13 +393,6 @@
 "published": "2026-10-20T20:00:33Z",
 "summary": "It's probably time to audit your Gemini settings.",
 "source": "Ars Technica"
-},
-{
-"title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
-"url": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
-"published": "2026-10-20T20:00:00Z",
-"summary": "Looking for a way to try the haptics-equipped G Pro X2 Superstrike wireless gaming mouse without spending full price? You probably aren’t alone. Logitech’s now-last-gen right-handed mouse is a great…",
-"source": "The Verge"
 },
 {
 "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
@@ -633,13 +703,6 @@
 "source": "Engadget"
 },
 {
-"title": "Perplexity makes it easier to run AI workflows entirely on your own Mac",
-"url": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/",
-"published": "2026-10-20T15:42:45Z",
-"summary": "A Mac with at least 36GB of RAM can now run Perplexity AI workflows locally.",
-"source": "Engadget"
-},
-{
 "title": "openEuler brings China's enterprise Linux ambitions to the desktop",
 "url": "https://www.theregister.com/os-platforms/2026/10/20/openeuler-brings-chinas-enterprise-linux-ambitions-to-the-desktop/5304145",
 "published": "2026-10-20T15:30:00Z",
@@ -659,13 +722,6 @@
 "published": "2026-10-20T15:21:10Z",
 "summary": "Get the full studio version of the pro video editing software for just $236.",
 "source": "Creative Bloq"
-},
-{
-"title": "5 CarPlay navigation apps you should be using instead of Apple Maps",
-"url": "https://www.engadget.com/2288748/carplay-navigation-apps-should-be-using-not-apple-maps/",
-"published": "2026-10-20T15:15:00Z",
-"summary": "Alternative GPS apps for CarPlay can provide better routing, real-time alerts, weather condition info and much more.",
-"source": "Engadget"
 },
 {
 "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
@@ -708,13 +764,6 @@
 "published": "2026-10-20T14:47:59Z",
 "summary": "Apple’s new HomeView was reportedly mostly finished for years, but kept getting delayed. Here’s why HomeView couldn’t launch until now, per quotes from key Apple execs. more…",
 "source": "9to5Mac"
-},
-{
-"title": "RAM prices are crazy high, but do not settle for an 8GB laptop",
-"url": "https://www.engadget.com/2288833/ram-prices-high-do-not-settle-8-gb-laptop/",
-"published": "2026-10-20T14:45:00Z",
-"summary": "An 8GB laptop can seem like the solution to rising computer prices, but that's a mistake that will cost you for years.",
-"source": "Engadget"
 },
 {
 "title": "Enterprises blow nearly a third of software budgets on upgrades they never asked for",
@@ -787,13 +836,6 @@
 "source": "9to5Mac"
 },
 {
-"title": "Amazon Prime comes with an Alexa upgrade you should know about",
-"url": "https://www.engadget.com/2288734/amazon-prime-alexa-upgrade-you-should-know-about/",
-"published": "2026-10-20T13:45:00Z",
-"summary": "Amazon's Echo Show and Dot devices, tablets and website all have new capabilities that you might want to take for a spin.",
-"source": "Engadget"
-},
-{
 "title": "'Password1' and a forgotten test account land Welsh outfits in hot water",
 "url": "https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139",
 "published": "2026-10-20T13:35:00Z",
@@ -825,14 +867,14 @@
 "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
 "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
 "published": "2026-10-20T13:07:24Z",
-"summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+"summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
 "source": "TechCrunch"
 },
 {
 "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
 "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
 "published": "2026-10-20T13:00:00Z",
-"summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+"summary": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
 "source": "TechCrunch"
 },
 {
@@ -1060,17 +1102,17 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New",
-"url": "https://www.wired.com/story/final-fantasy-vii-revelation/",
-"published": "2026-10-20T10:30:00Z",
-"summary": "Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.",
-"source": "Wired"
-},
-{
 "title": "Sexual Assault Is a Free Speech Issue",
 "url": "https://www.wired.com/story/the-big-interview-mary-anne-franks/",
 "published": "2026-10-20T10:30:00Z",
 "summary": "Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”",
+"source": "Wired"
+},
+{
+"title": "How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New",
+"url": "https://www.wired.com/story/final-fantasy-vii-revelation/",
+"published": "2026-10-20T10:30:00Z",
+"summary": "Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.",
 "source": "Wired"
 },
 {
@@ -1270,13 +1312,6 @@
 "source": "The Register"
 },
 {
-"title": "Chewy Promo Codes: $20 Off October 2026",
-"url": "https://www.wired.com/story/chewy-promo-code/",
-"published": "2026-10-20T05:00:00Z",
-"summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
-"source": "Wired"
-},
-{
 "title": "Wayfair Coupons: Up to 80% Off October 2026",
 "url": "https://www.wired.com/story/wayfair-promo-code/",
 "published": "2026-10-20T05:00:00Z",
@@ -1291,10 +1326,24 @@
 "source": "Wired"
 },
 {
+"title": "Chewy Promo Codes: $20 Off October 2026",
+"url": "https://www.wired.com/story/chewy-promo-code/",
+"published": "2026-10-20T05:00:00Z",
+"summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.",
+"source": "Wired"
+},
+{
 "title": "30% Off Canon Promo Codes | October 2026",
 "url": "https://www.wired.com/story/canon-promo-code/",
 "published": "2026-10-20T05:00:00Z",
 "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
+"source": "Wired"
+},
+{
+"title": "Mattress Firm Coupons: Save up to $700",
+"url": "https://www.wired.com/story/mattress-firm-coupon/",
+"published": "2026-10-20T05:00:00Z",
+"summary": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
 "source": "Wired"
 },
 {
@@ -1309,20 +1358,6 @@
 "url": "https://www.wired.com/story/mint-mobile-promo-code/",
 "published": "2026-10-20T05:00:00Z",
 "summary": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
-"source": "Wired"
-},
-{
-"title": "Mattress Firm Coupons: Save up to $700",
-"url": "https://www.wired.com/story/mattress-firm-coupon/",
-"published": "2026-10-20T05:00:00Z",
-"summary": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
-"source": "Wired"
-},
-{
-"title": "Whoop Promo Codes: 20% Off This October 2026",
-"url": "https://www.wired.com/story/whoop-promo-code/",
-"published": "2026-10-20T05:00:00Z",
-"summary": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals…",
 "source": "Wired"
 },
 {
@@ -1347,18 +1382,18 @@
 "source": "Wired"
 },
 {
+"title": "Whoop Promo Codes: 20% Off This October 2026",
+"url": "https://www.wired.com/story/whoop-promo-code/",
+"published": "2026-10-20T05:00:00Z",
+"summary": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals…",
+"source": "Wired"
+},
+{
 "title": "‘David Beckham’ was briefly the world’s second-worst manga pirate",
 "url": "https://www.theregister.com/legal/2026/10/20/david-beckham-was-briefly-the-worlds-second-worst-manga-pirate/5304044",
 "published": "2026-10-20T04:21:20Z",
 "summary": "Publishers call for better verification of domain name registrants, and ICANN is on the job with a new policy",
 "source": "The Register"
-},
-{
-"title": "Lugh Xtudio",
-"url": "https://www.producthunt.com/products/lugh-xtudio",
-"published": "2026-10-20T03:08:40Z",
-"summary": "The video studio where AI agents edit with you Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Intel® GPU D-series",
@@ -1536,13 +1571,6 @@
 "source": "Ars Technica"
 },
 {
-"title": "Exa 3.0",
-"url": "https://www.producthunt.com/products/exa-ai",
-"published": "2026-10-19T20:05:52Z",
-"summary": "Smarter search that gives AI agent richer data at lower cost Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Java News Roundup: JEPs for JDK 28, Azul Payara, Gatherers4j, Google ADK, Yupiik, Apache Camel CVEs",
 "url": "https://www.infoq.com/news/2026/10/java-news-roundup-oct12-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
 "published": "2026-10-19T20:00:00Z",
@@ -1620,13 +1648,6 @@
 "source": "9to5Mac"
 },
 {
-"title": "Bullhorn takes staffing platform offline to contain cyberattack",
-"url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-"published": "2026-10-19T18:51:13Z",
-"summary": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
-"source": "BleepingComputer"
-},
-{
 "title": "How to continue a GitHub Copilot app session in VS Code",
 "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
 "published": "2026-10-19T18:47:22Z",
@@ -1648,10 +1669,24 @@
 "source": "Wired"
 },
 {
+"title": "Tiny Little Office",
+"url": "https://www.producthunt.com/products/tiny-little-office",
+"published": "2026-10-19T18:42:09Z",
+"summary": "A tiny office suite where the link is the document Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "snyvi",
 "url": "https://www.producthunt.com/products/snyvi",
 "published": "2026-10-19T18:36:44Z",
 "summary": "All your passion projects, in one calm place Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "Mintlify Autopilot",
+"url": "https://www.producthunt.com/products/mintlify",
+"published": "2026-10-19T18:29:25Z",
+"summary": "An always-on agent that keeps your docs up to date Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -1704,27 +1739,6 @@
 "source": "9to5Mac"
 },
 {
-"title": "Apple rolling out RC for iPadOS 27.2, watchOS 27.2, and more",
-"url": "https://9to5mac.com/2026/10/19/apple-rolling-out-rc-for-ipados-27-2-watchos-27-2-and-more/",
-"published": "2026-10-19T17:29:38Z",
-"summary": "Apple is rolling out RC (release candidate) versions of iPadOS 27.2, watchOS 27.2, and more. Here’s what that means. more…",
-"source": "9to5Mac"
-},
-{
-"title": "First Release Candidate for macOS 27.2 Golden Gate now available",
-"url": "https://9to5mac.com/2026/10/19/first-release-candidate-for-macos-27-2-golden-gate-now-available/",
-"published": "2026-10-19T17:29:02Z",
-"summary": "Apple is rolling out the first RC for macOS 27.2 for developers and users enrolled in the public beta, ahead of the official release in the next few weeks. Here’s what to expect. more…",
-"source": "9to5Mac"
-},
-{
-"title": "OpenCode hack exposes API keys amid AI distillation attacks",
-"url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-"published": "2026-10-19T17:27:15Z",
-"summary": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
-"source": "BleepingComputer"
-},
-{
 "title": "Write bot-resistant code with KillSwitch, a programming language designed to confuse LLMs",
 "url": "https://www.theregister.com/ai-and-ml/2026/10/19/write-bot-resistant-code-with-killswitch-a-programming-language-designed-to-confuse-llms/5303919",
 "published": "2026-10-19T17:10:47Z",
@@ -1774,13 +1788,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Uber dodges £340M cabbie lawsuit after drivers miss legal deadline",
-"url": "https://www.theregister.com/offbeat/2026/10/19/uber-dodges-340m-cabbie-lawsuit-after-drivers-miss-legal-deadline/5303872",
-"published": "2026-10-19T14:47:24Z",
-"summary": "Black cab drivers accused ride-hailing giant of misleading London's transport regulator, but judge says they left it too late to sue",
-"source": "The Register"
-},
-{
 "title": "Pinterest Uses Event Time Watermarks to Finalize Petabyte Scale Data Partitions",
 "url": "https://www.infoq.com/news/2026/10/pinterest-event-time-partition/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
 "published": "2026-10-19T14:37:00Z",
@@ -1800,13 +1807,6 @@
 "published": "2026-10-19T14:30:00Z",
 "summary": "JDK 28 finalizes structured concurrency through JEP 543, with no API changes from JDK 27. Teams on JDK 27 only need to drop --enable-preview and recompile. Code written for JDK 25 or 26 must adapt to…",
 "source": "InfoQ"
-},
-{
-"title": "SAP's Signavio hit with function injunction in Germany",
-"url": "https://www.theregister.com/legal/2026/10/19/saps-signavio-hit-with-function-injunction-in-germany/5303835",
-"published": "2026-10-19T13:46:52Z",
-"summary": "Vendor says patent ruling only restricts one specific process, not the whole product, after legal challenge from Celonis",
-"source": "The Register"
 },
 {
 "title": "Capitol Alpha Machine",
