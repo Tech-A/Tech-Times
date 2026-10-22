@@ -1,7 +1,154 @@
 {
-"updated": "2026-10-21T21:54:44.711798Z",
-"count": 314,
+"updated": "2026-10-22T00:30:27.953959Z",
+"count": 313,
 "items": [
+{
+"title": "Tesla says it will start selling Cybercabs by end of year",
+"url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+"published": "2026-10-22T00:17:54Z",
+"summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued…",
+"source": "TechCrunch"
+},
+{
+"title": "YouTube says it isn’t testing hiding the dislike button",
+"url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+"published": "2026-10-21T23:46:45Z",
+"summary": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the…",
+"source": "The Verge"
+},
+{
+"title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+"url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+"published": "2026-10-21T23:36:31Z",
+"summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's…",
+"source": "The Verge"
+},
+{
+"title": "Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch",
+"url": "https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch/",
+"published": "2026-10-21T23:16:18Z",
+"summary": "While the iPhone Duo doesn’t launch until Friday, preparations are already underway at Apple’s flagship Fifth Avenue store in New York for the big day. Here are the details. more…",
+"source": "9to5Mac"
+},
+{
+"title": "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk",
+"url": "https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611",
+"published": "2026-10-21T23:02:57Z",
+"summary": "'Coordinated vulnerability disclosure, unless there's evidence of active exploits in the wild,' Chainguard CEO tells The Reg",
+"source": "The Register"
+},
+{
+"title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+"url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+"published": "2026-10-21T22:51:22Z",
+"summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+"source": "TechCrunch"
+},
+{
+"title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+"url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+"published": "2026-10-21T22:45:34Z",
+"summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+"source": "TechCrunch"
+},
+{
+"title": "9to5Mac Daily: October 21, 2026 – New iPhone Duo features, more",
+"url": "https://9to5mac.com/2026/10/21/daily-october-21-2026/",
+"published": "2026-10-21T22:44:33Z",
+"summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for…",
+"source": "9to5Mac"
+},
+{
+"title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+"url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+"published": "2026-10-21T22:39:50Z",
+"summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+"source": "Wired"
+},
+{
+"title": "Mark Zuckerberg says Meta is 'entering a new phase' with Muse",
+"url": "https://www.engadget.com/2293705/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/",
+"published": "2026-10-21T22:36:03Z",
+"summary": "Zuckerberg expects the agent will generate more revenue per user than the company's apps.",
+"source": "Engadget"
+},
+{
+"title": "Data centers could erase decades of air quality gains",
+"url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+"published": "2026-10-21T22:33:44Z",
+"summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New…",
+"source": "The Verge"
+},
+{
+"title": "Bose buys audio rival Skullcandy",
+"url": "https://www.engadget.com/2293698/bose-buys-audio-rival-skullcandy/",
+"published": "2026-10-21T22:19:48Z",
+"summary": "Bose sees the company as a way to reach a wider audience.",
+"source": "Engadget"
+},
+{
+"title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+"url": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+"published": "2026-10-21T22:17:50Z",
+"summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
+"source": "Ars Technica"
+},
+{
+"title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+"url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+"published": "2026-10-21T22:16:26Z",
+"summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+"source": "BleepingComputer"
+},
+{
+"title": "Airbnb limits chores for guests, sparking backlash from hosts",
+"url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+"published": "2026-10-21T22:16:05Z",
+"summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+"source": "TechCrunch"
+},
+{
+"title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+"url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+"published": "2026-10-21T22:06:07Z",
+"summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
+"source": "Ars Technica"
+},
+{
+"title": "Airbnb bans hosts from making you do the dishes",
+"url": "https://www.engadget.com/2293690/airbnb-bans-hosts-from-making-you-do-the-dishes/",
+"published": "2026-10-21T22:04:32Z",
+"summary": "Any chores that a cleaner might do are no longer deemed reasonable requests for visitors.",
+"source": "Engadget"
+},
+{
+"title": "Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores",
+"url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/",
+"published": "2026-10-21T21:57:22Z",
+"summary": "Some hosts are threatening to strike, while others are plotting ways around Airbnb’s new restrictions. Guests, meanwhile, are celebrating.",
+"source": "Wired"
+},
+{
+"title": "A founder with a tool is not a founder with a clue",
+"url": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4",
+"published": "2026-10-21T21:50:55Z",
+"summary": "",
+"source": "UX Collective"
+},
+{
+"title": "Can you take AI at its word?",
+"url": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4",
+"published": "2026-10-21T21:50:06Z",
+"summary": "AI agents explain their own work fluently, and sometimes wrongly. Designers stopped trusting that kind of account from people long ago. Continue reading on UX Collective »",
+"source": "UX Collective"
+},
+{
+"title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+"url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+"published": "2026-10-21T21:48:52Z",
+"summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+"source": "Ars Technica"
+},
 {
 "title": "Apple and DOJ notify court of impasse over document cutoff in antitrust lawsuit",
 "url": "https://9to5mac.com/2026/10/21/apple-and-doj-notify-court-of-impasse-over-document-cutoff-in-antitrust-lawsuit/",
@@ -15,6 +162,13 @@
 "published": "2026-10-21T21:43:27Z",
 "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
 "source": "BleepingComputer"
+},
+{
+"title": "Tesla profits drop 43% in Q3",
+"url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+"published": "2026-10-21T21:35:07Z",
+"summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
+"source": "Ars Technica"
 },
 {
 "title": "Meta to create a new class of shares to fund AI push",
@@ -178,13 +332,6 @@
 "source": "The Verge"
 },
 {
-"title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-"url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-"published": "2026-10-21T19:53:20Z",
-"summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research…",
-"source": "The Verge"
-},
-{
 "title": "Xbox is previewing paid cloud gaming for players without Game Pass",
 "url": "https://www.engadget.com/2293519/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass/",
 "published": "2026-10-21T19:52:50Z",
@@ -206,7 +353,7 @@
 "source": "Ars Technica"
 },
 {
-"title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+"title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
 "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
 "published": "2026-10-21T19:42:32Z",
 "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
@@ -225,13 +372,6 @@
 "published": "2026-10-21T19:35:53Z",
 "summary": "Intel makes progress on its manufacturing expansion in Arizona and Ohio as it continues to expand advanced semiconductor manufacturing capacity in the U.S.",
 "source": "Tom's Hardware"
-},
-{
-"title": "Walmart is inviting AI agents to shop for you",
-"url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-"published": "2026-10-21T19:30:00Z",
-"summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases…",
-"source": "The Verge"
 },
 {
 "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
@@ -260,13 +400,6 @@
 "published": "2026-10-21T19:03:28Z",
 "summary": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
 "source": "TechCrunch"
-},
-{
-"title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
-"url": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
-"published": "2026-10-21T19:02:49Z",
-"summary": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices…",
-"source": "The Verge"
 },
 {
 "title": "Nvidia woos wary Europeans with more open weights models",
@@ -374,7 +507,7 @@
 "source": "Wired"
 },
 {
-"title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+"title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
 "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
 "published": "2026-10-21T17:59:12Z",
 "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
@@ -440,7 +573,7 @@
 "title": "Waymo starts offering rides at the Las Vegas airport",
 "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
 "published": "2026-10-21T16:59:44Z",
-"summary": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
+"summary": "Waymo only just started offering rides to the public in Las Vegas in September but is already serving a 24-square-mile area in the city.",
 "source": "TechCrunch"
 },
 {
@@ -654,13 +787,6 @@
 "source": "BleepingComputer"
 },
 {
-"title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-"url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-"published": "2026-10-21T14:00:00Z",
-"summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-"source": "TechCrunch"
-},
-{
 "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
 "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
 "published": "2026-10-21T14:00:00Z",
@@ -710,13 +836,6 @@
 "source": "Wired"
 },
 {
-"title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
-"url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
-"published": "2026-10-21T13:30:00Z",
-"summary": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
-"source": "TechCrunch"
-},
-{
 "title": "OneDrive gives Macs a million things to keep in sync",
 "url": "https://www.theregister.com/saas/2026/10/21/onedrive-gives-macs-a-million-things-to-keep-in-sync/5304442",
 "published": "2026-10-21T13:27:00Z",
@@ -736,13 +855,6 @@
 "published": "2026-10-21T13:15:31Z",
 "summary": "We’re just a week away from the official announcement of the first ever touchscreen Mac . The upcoming MacBook Pro will also have an OLED screen, which may include a Dynamic Island, and is said to be…",
 "source": "9to5Mac"
-},
-{
-"title": "Mach9 raises $34M after pivoting to AI CAD software",
-"url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
-"published": "2026-10-21T13:00:00Z",
-"summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
-"source": "TechCrunch"
 },
 {
 "title": "How to spot a white label gadget, and why that's important",
@@ -1074,13 +1186,6 @@
 "source": "The Register"
 },
 {
-"title": "Subaru is dropping gas cars for EVs in Europe by the end of 2027",
-"url": "https://www.engadget.com/2292610/subaru-is-dropping-gas-cars-for-evs-in-europe-by-the-end-of-2027/",
-"published": "2026-10-21T09:14:00Z",
-"summary": "Subaru will halt the sale of gas-powered vehicles in favor of an all-electric lineup in Europe no later than 2027.",
-"source": "Engadget"
-},
-{
 "title": "We can do impossible things",
 "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
 "published": "2026-10-21T09:00:00Z",
@@ -1149,13 +1254,6 @@
 "published": "2026-10-21T09:00:00Z",
 "summary": "Powerful, portable, and super versatile",
 "source": "Creative Bloq"
-},
-{
-"title": "SpaceX and Tesla are exploring a possible merger",
-"url": "https://www.engadget.com/2292594/spacex-tesla-exploring-possible-merger/",
-"published": "2026-10-21T08:40:59Z",
-"summary": "SpaceX and Tesla have formed special committees to discuss a merger, but Elon Musk says it's not a certainty.",
-"source": "Engadget"
 },
 {
 "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
@@ -1256,27 +1354,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "LG Promo Codes and Coupons for October 2026",
-"url": "https://www.wired.com/story/lg-promo-code/",
-"published": "2026-10-21T05:00:00Z",
-"summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-"source": "Wired"
-},
-{
-"title": "Ulta Promo Codes: Up to 20% Off in October 2026",
-"url": "https://www.wired.com/story/ulta-coupon/",
-"published": "2026-10-21T05:00:00Z",
-"summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-"source": "Wired"
-},
-{
-"title": "20% Off Sephora Promo Code | October 2026",
-"url": "https://www.wired.com/story/sephora-promo-code/",
-"published": "2026-10-21T05:00:00Z",
-"summary": "Earn more points on skincare purchases when you use our Sephora coupon.",
-"source": "Wired"
-},
-{
 "title": "TurboTax Full Service Coupons This October 2026",
 "url": "https://www.wired.com/story/turbotax-coupon/",
 "published": "2026-10-21T05:00:00Z",
@@ -1291,10 +1368,17 @@
 "source": "Wired"
 },
 {
-"title": "Udemy Coupon Codes: 20% Off October 2026",
-"url": "https://www.wired.com/story/udemy-promo-code/",
+"title": "Ulta Promo Codes: Up to 20% Off in October 2026",
+"url": "https://www.wired.com/story/ulta-coupon/",
 "published": "2026-10-21T05:00:00Z",
-"summary": "Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.",
+"summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+"source": "Wired"
+},
+{
+"title": "20% Off Sephora Promo Code | October 2026",
+"url": "https://www.wired.com/story/sephora-promo-code/",
+"published": "2026-10-21T05:00:00Z",
+"summary": "Earn more points on skincare purchases when you use our Sephora coupon.",
 "source": "Wired"
 },
 {
@@ -1366,20 +1450,6 @@
 "published": "2026-10-21T00:46:42Z",
 "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them…",
 "source": "BleepingComputer"
-},
-{
-"title": "How much power can a 1kW wind turbine produce for your home?",
-"url": "https://www.engadget.com/2289290/wind-turbine-for-home-1kw-power/",
-"published": "2026-10-21T00:00:00Z",
-"summary": "A 1 kW wind turbine can help with your electric bill, but the wind determines how much.",
-"source": "Engadget"
-},
-{
-"title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-"url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-"published": "2026-10-20T23:01:23Z",
-"summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-"source": "TechCrunch"
 },
 {
 "title": "Triage by Chodeberg",
@@ -1494,20 +1564,6 @@
 "source": "9to5Mac"
 },
 {
-"title": "Gemini's Personal Intelligence is coming to cars",
-"url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-"published": "2026-10-20T20:00:33Z",
-"summary": "It's probably time to audit your Gemini settings.",
-"source": "Ars Technica"
-},
-{
-"title": "OpenBSD 8.0 arrives with security record still intact",
-"url": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
-"published": "2026-10-20T19:57:18Z",
-"summary": "OpenBSD 8.0 lands with Intel Arc support, ARM64 hibernation, and 64-vCPU guests",
-"source": "Ars Technica"
-},
-{
 "title": "John Ternus talks his involvement with design teams at Apple",
 "url": "https://9to5mac.com/2026/10/20/john-ternus-talks-his-involvement-with-design-teams-at-apple/",
 "published": "2026-10-20T19:51:56Z",
@@ -1515,25 +1571,11 @@
 "source": "9to5Mac"
 },
 {
-"title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-"url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-"published": "2026-10-20T19:47:35Z",
-"summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
-"source": "Ars Technica"
-},
-{
 "title": "Zeabur shutting down after second security breach in two months",
 "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
 "published": "2026-10-20T19:33:02Z",
 "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over…",
 "source": "BleepingComputer"
-},
-{
-"title": "TP-Link tries to appease Trump admin with pledge to assemble routers in US",
-"url": "https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/",
-"published": "2026-10-20T19:25:14Z",
-"summary": "TP-Link can't sell latest routers in US despite rivals getting FCC approvals.",
-"source": "Ars Technica"
 },
 {
 "title": "iOS 27 adds scam-prevention feature to iPhone, here’s how to enable it",
@@ -1637,7 +1679,7 @@
 "title": "GitHub package firewall in public preview",
 "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
 "published": "2026-10-20T16:11:53Z",
-"summary": "An increasing number of malware attacks exploit systems at package installation time, harvesting credentials on CI/CD hosts or developer workstations without even running the package’s code. To stem…",
+"summary": "Editor’s note (October 21, 2026): Rewrote the changelog for clarity and added imagery. There’s been a recent flood of malware attacks that exploit systems at package installation time. Agents and……",
 "source": "GitHub Changelog"
 },
 {
@@ -1690,20 +1732,6 @@
 "source": "Product Hunt"
 },
 {
-"title": "Burrow MacOS",
-"url": "https://www.producthunt.com/products/burrow-macos",
-"published": "2026-10-20T15:00:08Z",
-"summary": "Start Windows & Linux on your Mac for free Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Perplexity’s Computer can now run entirely on your Mac, even offline",
-"url": "https://9to5mac.com/2026/10/20/perplexitys-computer-can-now-run-entirely-on-your-mac-even-offline/",
-"published": "2026-10-20T15:00:00Z",
-"summary": "Perplexity is adding a new local-first mode to its Mac app that lets Computer work entirely on the device. This includes running tasks without an internet connection. more…",
-"source": "9to5Mac"
-},
-{
 "title": "How going dual-native means VM/container co-existence and sovereign security in the AI era",
 "url": "https://www.theregister.com/ai-and-ml/2026/10/20/sponsored-how-going-dual-native-means-vm/container-co-existence-and-sovereign-security-in-the-ai-era/5303862",
 "published": "2026-10-20T15:00:00Z",
@@ -1711,31 +1739,10 @@
 "source": "The Register"
 },
 {
-"title": "Apple explains why HomeView couldn’t launch until now",
-"url": "https://9to5mac.com/2026/10/20/apple-explains-why-homeview-couldnt-launch-until-now/",
-"published": "2026-10-20T14:47:59Z",
-"summary": "Apple’s new HomeView was reportedly mostly finished for years, but kept getting delayed. Here’s why HomeView couldn’t launch until now, per quotes from key Apple execs. more…",
-"source": "9to5Mac"
-},
-{
 "title": "Enterprises blow nearly a third of software budgets on upgrades they never asked for",
 "url": "https://www.theregister.com/software/2026/10/20/enterprises-blow-nearly-a-third-of-software-budgets-on-upgrades-they-never-asked-for/5304181",
 "published": "2026-10-20T14:43:00Z",
 "summary": "Keeping vendors happy is costing businesses millions, even when everything was working fine in the first place",
-"source": "The Register"
-},
-{
-"title": "DHS bans DeepSeek products across US federal civilian agencies",
-"url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
-"published": "2026-10-20T14:19:05Z",
-"summary": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
-"source": "BleepingComputer"
-},
-{
-"title": "HPE to launch AI straight to the Moon",
-"url": "https://www.theregister.com/science/2026/10/20/hpe-to-launch-ai-straight-to-the-moon/5303983",
-"published": "2026-10-20T14:00:00Z",
-"summary": "Mystery silicon and mirrored SSDs set to touch down before year's end",
 "source": "The Register"
 },
 {
@@ -1800,6 +1807,13 @@
 "published": "2026-10-20T12:30:00Z",
 "summary": "The new Oblivion Remastered Performance Fix mod is a pure code fix, with no changes to game assets or the game's visuals, yet it offers massive gains.",
 "source": "Tom's Hardware"
+},
+{
+"title": "SuperCMO AI",
+"url": "https://www.producthunt.com/products/supercmo-ai",
+"published": "2026-10-20T12:21:29Z",
+"summary": "Open-source skills that turn your Claude into an AI CMO Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Buy a complete RTX 5070 Ti gaming PC from Newegg and save $450",
@@ -1883,13 +1897,6 @@
 "url": "https://www.producthunt.com/products/privos",
 "published": "2026-10-20T10:54:16Z",
 "summary": "Chat, Docs, Kanban Tasks and Al agents that act, self-hosted Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Lea by LeanAIOS",
-"url": "https://www.producthunt.com/products/lea-by-leanaios",
-"published": "2026-10-20T10:15:05Z",
-"summary": "Autonomous AI team for construction management & pre-con Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -1977,13 +1984,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Intelli for ChatGPT & Claude",
-"url": "https://www.producthunt.com/products/intelli",
-"published": "2026-10-20T07:04:54Z",
-"summary": "Run WhatsApp, Instagram & web chat from ChatGPT or Claude Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "\"Is this what designers need to do to find work in 2026?\" a viral high-production video has sparked debate",
 "url": "https://www.creativebloq.com/news/is-this-what-designers-need-to-do-to-get-work-in-2026-a-viral-high-production-video-has-sparked-debate",
 "published": "2026-10-20T07:00:00Z",
@@ -2052,6 +2052,13 @@
 "published": "2026-10-19T18:47:22Z",
 "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in…",
 "source": "GitHub Blog"
+},
+{
+"title": "Searchtok",
+"url": "https://www.producthunt.com/products/searchtok",
+"published": "2026-10-19T18:05:33Z",
+"summary": "Make TikTok and Instagram searchable for your AI agent Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Logistics fiasco or clever marketing? Apple's iPhone Duo sellout might not be such a big blunder",
@@ -2145,13 +2152,6 @@
 "source": "GitHub Changelog"
 },
 {
-"title": "Beyond the Canvas",
-"url": "https://uxdesign.cc/beyond-the-canvas-03fce0bcbf7b?source=rss----138adf9c44c---4",
-"published": "2026-10-19T09:29:20Z",
-"summary": "",
-"source": "UX Collective"
-},
-{
 "title": "Beautiful icons that make products feel premium",
 "url": "https://bit.ly/side-hug1",
 "published": "2026-10-19T05:11:00Z",
@@ -2185,13 +2185,6 @@
 "published": "2026-10-19T05:07:00Z",
 "summary": "The question is no longer whether an agent can answer my questions. It’s whether I’m willing to let it act on my behalf.",
 "source": "Sidebar"
-},
-{
-"title": "How to build a brand foundation with AI without losing your craft",
-"url": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4",
-"published": "2026-10-18T19:06:49Z",
-"summary": "Here is how to use Claude and a handful of guardrails to build a design system that developers respect and clients can actually ship. Continue reading on UX Collective »",
-"source": "UX Collective"
 },
 {
 "title": "ilha",
