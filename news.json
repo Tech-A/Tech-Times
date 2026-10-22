@@ -1,7 +1,77 @@
 {
-"updated": "2026-10-22T00:30:27.953959Z",
-"count": 313,
+"updated": "2026-10-22T05:52:12.482238Z",
+"count": 318,
 "items": [
+{
+"title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+"url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+"published": "2026-10-22T04:26:39Z",
+"summary": "90 percent of the performance at ten percent of the price, in just two or three racks, is hard to beat",
+"source": "The Register"
+},
+{
+"title": "The fastest gun in UX",
+"url": "https://www.doc.cc/articles/fastest-gun",
+"published": "2026-10-22T04:05:00Z",
+"summary": "Designers are skipping steps of the process in a rush for faster outputs. But the contest that really matters is stakeholder alignment.",
+"source": "Sidebar"
+},
+{
+"title": "Interfere Design System",
+"url": "https://design.interfere.com/",
+"published": "2026-10-22T04:04:00Z",
+"summary": "Components, styles and guidelines for building Interfere products.",
+"source": "Sidebar"
+},
+{
+"title": "Everyone is starting over",
+"url": "https://www.gabrielvaldivia.com/notes/everybody-is-starting-over",
+"published": "2026-10-22T04:03:00Z",
+"summary": "The careers that thrive now are the ones willing to become someone new, over and over.",
+"source": "Sidebar"
+},
+{
+"title": "The Lightbulb Computer",
+"url": "https://lightbulbcomputer.com/",
+"published": "2026-10-22T04:02:00Z",
+"summary": "A device that combines a projector and computer vision in the shape of a large lightbulb.",
+"source": "Sidebar"
+},
+{
+"title": "How employment is changing at Anthropic",
+"url": "https://www.anthropic.com/research/employment-at-anthropic",
+"published": "2026-10-22T04:01:00Z",
+"summary": "Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
+"source": "Sidebar"
+},
+{
+"title": "Apple must open iPhone to alternative app stores in Australia after Epic Games ruling",
+"url": "https://9to5mac.com/2026/10/21/apple-must-open-iphone-to-alternative-app-stores-in-australia-after-epic-games-ruling/",
+"published": "2026-10-22T03:57:58Z",
+"summary": "An Australian federal judge has ordered Apple to make sweeping changes to its App Store rules following a years-long antitrust battle with Epic Games. Apple has confirmed that it plans to appeal.…",
+"source": "9to5Mac"
+},
+{
+"title": "Philippine government suspends top tech official for alleged misconduct",
+"url": "https://www.theregister.com/public-sector/2026/10/22/philippine-government-suspends-top-tech-official-for-alleged-misconduct/5304633",
+"published": "2026-10-22T03:04:20Z",
+"summary": "Founder of offshore software development firm investigated for possibly giving his former outfit government contracts",
+"source": "The Register"
+},
+{
+"title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+"url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+"published": "2026-10-22T02:24:17Z",
+"summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+"source": "Wired"
+},
+{
+"title": "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain",
+"url": "https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623",
+"published": "2026-10-22T00:54:33Z",
+"summary": "Signs Samsung to build substrates, bolsters spend with other players",
+"source": "The Register"
+},
 {
 "title": "Tesla says it will start selling Cybercabs by end of year",
 "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
@@ -209,7 +279,7 @@
 "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
 "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
 "published": "2026-10-21T20:57:40Z",
-"summary": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+"summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
 "source": "TechCrunch"
 },
 {
@@ -300,7 +370,7 @@
 "title": "Automattic begins layoffs following board upheaval and executive departures",
 "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
 "published": "2026-10-21T20:15:00Z",
-"summary": "Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures. Sources say more…",
+"summary": "Sources say more cuts could follow as the company looks to improve its finances.",
 "source": "TechCrunch"
 },
 {
@@ -1137,17 +1207,17 @@
 "source": "BleepingComputer"
 },
 {
-"title": "The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More",
-"url": "https://www.wired.com/gallery/best-hearing-aids/",
-"published": "2026-10-21T10:00:00Z",
-"summary": "These WIRED-tested devices will help you hear sounds more clearly. Never miss out on a dinner conversation again.",
-"source": "Wired"
-},
-{
 "title": "She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family",
 "url": "https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family/",
 "published": "2026-10-21T10:00:00Z",
 "summary": "To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding…",
+"source": "Wired"
+},
+{
+"title": "The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More",
+"url": "https://www.wired.com/gallery/best-hearing-aids/",
+"published": "2026-10-21T10:00:00Z",
+"summary": "These WIRED-tested devices will help you hear sounds more clearly. Never miss out on a dinner conversation again.",
 "source": "Wired"
 },
 {
@@ -1361,17 +1431,10 @@
 "source": "Wired"
 },
 {
-"title": "Home Depot Promo Codes: 30% Off in October 2026",
-"url": "https://www.wired.com/story/home-depot-promo-code/",
+"title": "Udemy Coupon Codes: 20% Off October 2026",
+"url": "https://www.wired.com/story/udemy-promo-code/",
 "published": "2026-10-21T05:00:00Z",
-"summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
-"source": "Wired"
-},
-{
-"title": "Ulta Promo Codes: Up to 20% Off in October 2026",
-"url": "https://www.wired.com/story/ulta-coupon/",
-"published": "2026-10-21T05:00:00Z",
-"summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+"summary": "Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.",
 "source": "Wired"
 },
 {
@@ -1450,13 +1513,6 @@
 "published": "2026-10-21T00:46:42Z",
 "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them…",
 "source": "BleepingComputer"
-},
-{
-"title": "Triage by Chodeberg",
-"url": "https://www.producthunt.com/products/triage-by-chodeberg",
-"published": "2026-10-20T22:59:42Z",
-"summary": "Reproduce user described bugs in clean sandbox environments Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’",
@@ -1697,27 +1753,6 @@
 "source": "The Register"
 },
 {
-"title": "Hotly",
-"url": "https://www.producthunt.com/products/hotly",
-"published": "2026-10-20T15:36:39Z",
-"summary": "Get paid to answer your DMs. Open source. Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "openEuler brings China's enterprise Linux ambitions to the desktop",
-"url": "https://www.theregister.com/os-platforms/2026/10/20/openeuler-brings-chinas-enterprise-linux-ambitions-to-the-desktop/5304145",
-"published": "2026-10-20T15:30:00Z",
-"summary": "CentOS roots give way to homegrown containers, AI tools, and a workstation edition we took for a spin",
-"source": "The Register"
-},
-{
-"title": "Deals: Apple TV 4K, AirPods Pro 3, MacBook Air, MagSafe chargers, Duo cases, more",
-"url": "https://9to5mac.com/2026/10/20/deals-apple-tv-4k-airpods-pro-3-macbook-air-duo-cases/",
-"published": "2026-10-20T15:28:35Z",
-"summary": "Joining the ongoing deal on AirPods Pro 3 down at $50 off, today’s 9to5Toys Lunch Break is headlined by the ongoing pre-order discount on the next-gen Apple TV 4K pre-order (lower price and shipping…",
-"source": "9to5Mac"
-},
-{
 "title": "DaVinci Resolve Studio just got a very rare 20% discount",
 "url": "https://www.creativebloq.com/deals/davinci-resolve-studio-just-got-a-super-rare-20-percent-discount",
 "published": "2026-10-20T15:21:10Z",
@@ -1732,18 +1767,11 @@
 "source": "Product Hunt"
 },
 {
-"title": "How going dual-native means VM/container co-existence and sovereign security in the AI era",
-"url": "https://www.theregister.com/ai-and-ml/2026/10/20/sponsored-how-going-dual-native-means-vm/container-co-existence-and-sovereign-security-in-the-ai-era/5303862",
-"published": "2026-10-20T15:00:00Z",
-"summary": "SPONSORED FEATURE: Nutanix says running VMs and containers within the same operating environment shouldn’t be a brake on AI ambitions",
-"source": "The Register"
-},
-{
-"title": "Enterprises blow nearly a third of software budgets on upgrades they never asked for",
-"url": "https://www.theregister.com/software/2026/10/20/enterprises-blow-nearly-a-third-of-software-budgets-on-upgrades-they-never-asked-for/5304181",
-"published": "2026-10-20T14:43:00Z",
-"summary": "Keeping vendors happy is costing businesses millions, even when everything was working fine in the first place",
-"source": "The Register"
+"title": "Burrow MacOS",
+"url": "https://www.producthunt.com/products/burrow-macos",
+"published": "2026-10-20T15:00:08Z",
+"summary": "Start Windows & Linux on your Mac for free Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Cricut StickerPix Print + Cut review: a playful, professional printer with a hidden cost",
@@ -1900,6 +1928,13 @@
 "source": "Product Hunt"
 },
 {
+"title": "Lea by LeanAIOS",
+"url": "https://www.producthunt.com/products/lea-by-leanaios",
+"published": "2026-10-20T10:15:05Z",
+"summary": "Autonomous AI team for construction management & pre-con Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Embracing Playful Imperfection With The CSS `random()` Function",
 "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
 "published": "2026-10-20T10:00:00Z",
@@ -1982,6 +2017,13 @@
 "published": "2026-10-20T08:00:00Z",
 "summary": "Vibrant designs feature illustrations by The Magician's Nephew's concept artist.",
 "source": "Creative Bloq"
+},
+{
+"title": "Intelli for ChatGPT & Claude",
+"url": "https://www.producthunt.com/products/intelli",
+"published": "2026-10-20T07:04:54Z",
+"summary": "Run WhatsApp, Instagram & web chat from ChatGPT or Claude Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "\"Is this what designers need to do to find work in 2026?\" a viral high-production video has sparked debate",
@@ -2185,13 +2227,6 @@
 "published": "2026-10-19T05:07:00Z",
 "summary": "The question is no longer whether an agent can answer my questions. It’s whether I’m willing to let it act on my behalf.",
 "source": "Sidebar"
-},
-{
-"title": "ilha",
-"url": "https://www.producthunt.com/products/ilha",
-"published": "2026-10-18T01:10:27Z",
-"summary": "Your Claude Code and Codex limits, live in the notch Discussion | Link",
-"source": "Product Hunt"
 }
 ]
 }
