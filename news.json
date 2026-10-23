@@ -1,7 +1,119 @@
 {
-"updated": "2026-10-23T01:47:12.421510Z",
-"count": 321,
+"updated": "2026-10-23T07:13:03.104646Z",
+"count": 320,
 "items": [
+{
+"title": "Fast is a design decision",
+"url": "https://shannadige.com/blog/performance-is-design/",
+"published": "2026-10-23T07:09:03Z",
+"summary": "Building a site has never been cheaper, but making it fast still costs attention and your user’s resources.",
+"source": "Sidebar"
+},
+{
+"title": "Moving objects in 3D space",
+"url": "https://visualrambling.space/moving-objects-in-3d/",
+"published": "2026-10-23T07:08:31Z",
+"summary": "Have you ever wondered how to move objects along a spherical helix path?",
+"source": "Sidebar"
+},
+{
+"title": "Where decisions live",
+"url": "https://www.antonsten.com/articles/where-decisions-live/",
+"published": "2026-10-23T07:07:02Z",
+"summary": "Slack for discussion, meetings to resolve, notes for thinking, and a dated decisions log for where things landed.",
+"source": "Sidebar"
+},
+{
+"title": "Apple Music’s new logo was shaped by sound and mineral oil",
+"url": "https://www.creativeboom.com/news/apple-musics-new-logo-was-shaped-by-fred-again-and-a-bath-of-mineral-oil/",
+"published": "2026-10-23T07:06:22Z",
+"summary": "Created with TBWA\\Media Arts Lab, the new identity is full of ripples made by sound.",
+"source": "Sidebar"
+},
+{
+"title": "Gradient background generator",
+"url": "https://backgrounds.supply/gradient-lab",
+"published": "2026-10-23T07:05:34Z",
+"summary": "A free gradient background generator with 20+ animated shader modes.",
+"source": "Sidebar"
+},
+{
+"title": "Quote of the Day by George Lucas: \"Failure is another word for experience\"",
+"url": "https://www.creativebloq.com/inspiration/quote-of-the-day-by-george-lucas-failure-is-another-word-for-experience",
+"published": "2026-10-23T07:00:00Z",
+"summary": "Why getting it wrong is part of being creative.",
+"source": "Creative Bloq"
+},
+{
+"title": "Olivia Rodrigo just showed creatives how to deal with false design allegations in style",
+"url": "https://www.creativebloq.com/news/olivia-rodrigo-just-showed-creatives-how-to-deal-with-false-design-allegations-in-style",
+"published": "2026-10-23T07:00:00Z",
+"summary": "Accused of using AI, the pop star’s team responded with something better than denial.",
+"source": "Creative Bloq"
+},
+{
+"title": "ShogunAI",
+"url": "https://www.producthunt.com/products/shogunai",
+"published": "2026-10-23T06:32:57Z",
+"summary": "Your personal AGI on your pc Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "Product Hunt Visual Launch Editor",
+"url": "https://www.producthunt.com/products/producthunt",
+"published": "2026-10-23T06:03:38Z",
+"summary": "See your launch as you build it Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "how humour can enhance the storytelling in your art",
+"url": "https://www.creativebloq.com/how-to/how-humour-can-enhance-the-storytelling-in-your-art",
+"published": "2026-10-23T06:00:00Z",
+"summary": "Eilene Huang reveals how adding comedic touches can boost a scene.",
+"source": "Creative Bloq"
+},
+{
+"title": "The ambitious EA Sports rebrand looks great from every angle",
+"url": "https://www.creativebloq.com/news/the-ambitious-ea-sports-rebrand-looks-great-from-every-angle",
+"published": "2026-10-23T06:00:00Z",
+"summary": "Brand check: DixonBaxi have released their superb rebranding of EAFC27 – a work blending iconic branding with sports and gaming culture.",
+"source": "Creative Bloq"
+},
+{
+"title": "Instant Search",
+"url": "https://www.producthunt.com/products/instant-search-2",
+"published": "2026-10-23T05:36:03Z",
+"summary": "The fastest, most precise local AI Search for your files. Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "Windows said modem worked fine. That unmistakable scorched electronics smell suggested otherwise",
+"url": "https://www.theregister.com/personal-tech/2026/10/23/windows-said-modem-worked-fine-that-unmistakable-scorched-electronics-smell-suggested-otherwise/5304375",
+"published": "2026-10-23T05:26:00Z",
+"summary": "Catching lightning in a tech support bottle",
+"source": "The Register"
+},
+{
+"title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+"url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+"published": "2026-10-23T04:22:57Z",
+"summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+"source": "TechCrunch"
+},
+{
+"title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+"url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+"published": "2026-10-23T04:00:00Z",
+"summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+"source": "TechCrunch"
+},
+{
+"title": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch",
+"url": "https://9to5mac.com/2026/10/22/greg-joswiak-talks-iphone-duo-in-store-availability-and-demand-ahead-of-launch/",
+"published": "2026-10-23T03:15:09Z",
+"summary": "Friday is iPhone Duo launch day, and there are a lot of eager customers hoping to walk into an Apple Store and get one after a messy pre-order launch . In a new interview with TechRadar , Apple…",
+"source": "9to5Mac"
+},
 {
 "title": "Apple is finally catching up with Siri, but the goalposts are moving again",
 "url": "https://9to5mac.com/2026/10/22/apple-is-finally-catching-up-with-siri-but-the-goalposts-are-moving-again/",
@@ -185,6 +297,13 @@
 "source": "9to5Mac"
 },
 {
+"title": "Peras",
+"url": "https://www.producthunt.com/products/peras",
+"published": "2026-10-22T21:38:15Z",
+"summary": "Pause Claude Code and Codex before they burn your week Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
 "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
 "published": "2026-10-22T21:30:39Z",
@@ -225,6 +344,13 @@
 "published": "2026-10-22T21:05:05Z",
 "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
 "source": "TechCrunch"
+},
+{
+"title": "Plango",
+"url": "https://www.producthunt.com/products/plango",
+"published": "2026-10-22T21:03:15Z",
+"summary": "Use AI to defend against AI Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "A new subscription service promises an evolving collection of 'bold and bizarre' indie games",
@@ -752,20 +878,6 @@
 "source": "Ars Technica"
 },
 {
-"title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
-"url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
-"published": "2026-10-22T15:24:32Z",
-"summary": "Spotify told investors its rollout of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
-"source": "TechCrunch"
-},
-{
-"title": "Investors break down how founders can raise a Series A today",
-"url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
-"published": "2026-10-22T15:15:00Z",
-"summary": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
-"source": "TechCrunch"
-},
-{
 "title": "Fellow Aiden Precision Coffee Maker is $100 Off",
 "url": "https://www.wired.com/story/fellow-aiden-precision-coffee-maker-deal-october-2026/",
 "published": "2026-10-22T15:14:37Z",
@@ -1270,6 +1382,13 @@
 "source": "Creative Bloq"
 },
 {
+"title": "Truffle",
+"url": "https://www.producthunt.com/products/truffle-music-tag-editor",
+"published": "2026-10-22T07:48:52Z",
+"summary": "Fix messy tags, covers and duplicates in your Mac library Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Developer Behind the AI-Built Adobe Clones Says They Are “Not Anywhere Close to Ready",
 "url": "https://www.infoq.com/news/2026/10/photocraft-adobe-parity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
 "published": "2026-10-22T07:41:00Z",
@@ -1302,13 +1421,6 @@
 "url": "https://www.producthunt.com/products/tetriz-engg-intelligence-connectors",
 "published": "2026-10-22T06:09:23Z",
 "summary": "Connect coding sessions to PRs, issues, quality, and ROI Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Resend Inboxes",
-"url": "https://www.producthunt.com/products/resend",
-"published": "2026-10-22T05:25:49Z",
-"summary": "Create shared inboxes, connect your agents, build workflows Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -1380,20 +1492,6 @@
 "published": "2026-10-22T00:54:33Z",
 "summary": "Signs Samsung to build substrates, bolsters spend with other players",
 "source": "The Register"
-},
-{
-"title": "Sponkly",
-"url": "https://www.producthunt.com/products/sponkly",
-"published": "2026-10-21T23:31:26Z",
-"summary": "Live voice translation for chats, calls, meetings & YouTube Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch",
-"url": "https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch/",
-"published": "2026-10-21T23:16:18Z",
-"summary": "While the iPhone Duo doesn’t launch until Friday, preparations are already underway at Apple’s flagship Fifth Avenue store in New York for the big day. Here are the details. more…",
-"source": "9to5Mac"
 },
 {
 "title": "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk",
@@ -1480,13 +1578,6 @@
 "source": "Product Hunt"
 },
 {
-"title": "Radaric",
-"url": "https://www.producthunt.com/products/radaric",
-"published": "2026-10-21T20:48:58Z",
-"summary": "AI feed reader that learns your editorial taste Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "OpenClaw creator says he spent $10 million in tokens last month",
 "url": "https://www.theregister.com/ai-and-ml/2026/10/21/openclaw-creator-says-he-spent-10-million-in-tokens-last-month/5304573",
 "published": "2026-10-21T20:40:00Z",
@@ -1522,25 +1613,11 @@
 "source": "The Register"
 },
 {
-"title": "Claude Duet",
-"url": "https://www.producthunt.com/products/claude",
-"published": "2026-10-21T19:40:23Z",
-"summary": "Proactive agent that understands what needs your attention Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab",
 "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028",
 "published": "2026-10-21T19:35:53Z",
 "summary": "Intel makes progress on its manufacturing expansion in Arizona and Ohio as it continues to expand advanced semiconductor manufacturing capacity in the U.S.",
 "source": "Tom's Hardware"
-},
-{
-"title": "Archivist",
-"url": "https://www.producthunt.com/products/archivist",
-"published": "2026-10-21T19:16:09Z",
-"summary": "From messy filenames to shareable collections Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Nvidia woos wary Europeans with more open weights models",
@@ -1627,6 +1704,13 @@
 "source": "GitHub Changelog"
 },
 {
+"title": "Polylane for Cloudflare",
+"url": "https://www.producthunt.com/products/polylane",
+"published": "2026-10-21T16:40:31Z",
+"summary": "An AI on-call engineer for your Cloudflare apps Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "OpenAI agents disabled safety monitoring, one lied about it",
 "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
 "published": "2026-10-21T16:26:53Z",
@@ -1676,13 +1760,6 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched",
-"url": "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519",
-"published": "2026-10-21T15:08:51Z",
-"summary": "Websites down as precaution as exploits have already been published",
-"source": "The Register"
-},
-{
 "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
 "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
 "published": "2026-10-21T15:02:15Z",
@@ -1702,13 +1779,6 @@
 "published": "2026-10-21T14:52:23Z",
 "summary": "New driver enablement work from AMD brings full platform-level tuning control to Ryzen systems running Linux, finally.",
 "source": "Tom's Hardware"
-},
-{
-"title": "ElevenLabs Realtime Translation",
-"url": "https://www.producthunt.com/products/elevenlabs-realtime-translation",
-"published": "2026-10-21T14:36:07Z",
-"summary": "Turn live speech into translated audio as people talk Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "The massive Creality Halloween sale slashes 3D printer prices by up to 42%, with options for beginners and pros",
@@ -1737,13 +1807,6 @@
 "published": "2026-10-21T13:45:00Z",
 "summary": "Netflix has developed a workload attestation mechanism for Apache Spark jobs running on Amazon EMR. The design combines AWS IAM identity with signed claims from Netflix’s control plane before issuing…",
 "source": "InfoQ"
-},
-{
-"title": "Kugel Ear",
-"url": "https://www.producthunt.com/products/kugelaudio",
-"published": "2026-10-21T13:11:30Z",
-"summary": "Speech-to-text that only asks when it's unsure Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Qualcomm to cut jobs globally in \"performance-based\" layoffs, as company pivots to AI data center and edge computing markets",
@@ -1998,6 +2061,13 @@
 "source": "UX Collective"
 },
 {
+"title": "DotMD",
+"url": "https://www.producthunt.com/products/dotmd-3",
+"published": "2026-10-20T18:09:25Z",
+"summary": "Review your AI agent's Markdown specs like a pull request Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Bulk migrate branch protections to rulesets for a repository",
 "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
 "published": "2026-10-20T18:06:21Z",
@@ -2040,18 +2110,18 @@
 "source": "Product Hunt"
 },
 {
+"title": "ElevenLabs Realtime",
+"url": "https://www.producthunt.com/products/realtime-max-mini",
+"published": "2026-10-20T14:31:02Z",
+"summary": "Realtime voice agent models with 570ms to first audio Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Cricut StickerPix Print + Cut review: a playful, professional printer with a hidden cost",
 "url": "https://www.creativebloq.com/reviews/cricut-stickerpix-print-cut-review-a-playful-and-purposeful-printer-with-a-costly-catch",
 "published": "2026-10-20T14:00:00Z",
 "summary": "Cricut has made printing stickers and professional photos incredibly easy – now about those refills…",
 "source": "Creative Bloq"
-},
-{
-"title": "Voxelo 3.0",
-"url": "https://www.producthunt.com/products/voxelo-ai",
-"published": "2026-10-20T13:15:43Z",
-"summary": "Phone video to photoreal 3D & JSON-LD in an hour Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Final Fantasy Resonance (Switch 2) review: modern-retro at its finest",
@@ -2082,10 +2152,10 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Lea by LeanAIOS",
-"url": "https://www.producthunt.com/products/lea-by-leanaios",
-"published": "2026-10-20T10:15:05Z",
-"summary": "Autonomous AI team for construction management & pre-con Discussion | Link",
+"title": "Dub Startup Program",
+"url": "https://www.producthunt.com/products/dub",
+"published": "2026-10-20T10:46:27Z",
+"summary": "Launch your partner-led growth program Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -2094,13 +2164,6 @@
 "published": "2026-10-20T10:00:00Z",
 "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS…",
 "source": "Smashing Magazine"
-},
-{
-"title": "Every part of a fantasy world must follow its own clear rules and logic",
-"url": "https://www.creativebloq.com/how-to/every-part-of-a-fantasy-world-must-follow-its-own-clear-rules-and-logic",
-"published": "2026-10-20T10:00:00Z",
-"summary": "Discover the logical way to building fantasy with artist Oliver Chen.",
-"source": "Creative Bloq"
 },
 {
 "title": "Design in the material you ship",
@@ -2138,34 +2201,6 @@
 "source": "Sidebar"
 },
 {
-"title": "Google Meet's appearance filters just sent me into an existential spiral",
-"url": "https://www.creativebloq.com/features/google-meets-appearance-filters-just-sent-me-into-an-existential-spiral",
-"published": "2026-10-20T08:00:00Z",
-"summary": "Will beauty become the new peak of professionalism?",
-"source": "Creative Bloq"
-},
-{
-"title": "Magical new Narnia cover art is a notch above the usual movie tie-ins",
-"url": "https://www.creativebloq.com/news/magical-new-narnia-cover-art-is-a-notch-above-the-usual-movie-tie-ins",
-"published": "2026-10-20T08:00:00Z",
-"summary": "Vibrant designs feature illustrations by The Magician's Nephew's concept artist.",
-"source": "Creative Bloq"
-},
-{
-"title": "Intelli for ChatGPT & Claude",
-"url": "https://www.producthunt.com/products/intelli",
-"published": "2026-10-20T07:04:54Z",
-"summary": "Run WhatsApp, Instagram & web chat from ChatGPT or Claude Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "\"Is this what designers need to do to find work in 2026?\" a viral high-production video has sparked debate",
-"url": "https://www.creativebloq.com/news/is-this-what-designers-need-to-do-to-get-work-in-2026-a-viral-high-production-video-has-sparked-debate",
-"published": "2026-10-20T07:00:00Z",
-"summary": "Personality and storytelling make an impression.",
-"source": "Creative Bloq"
-},
-{
 "title": "Human attention is the new old bottleneck. We have to design for it even more.",
 "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a?source=rss----138adf9c44c---4",
 "published": "2026-10-19T21:39:27Z",
@@ -2187,20 +2222,6 @@
 "source": "GitHub Blog"
 },
 {
-"title": "Causo",
-"url": "https://www.producthunt.com/products/causo",
-"published": "2026-10-19T17:22:39Z",
-"summary": "Find leads beyond database filters with AI research & MCP Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Whiteboard",
-"url": "https://www.producthunt.com/products/whiteboard-5",
-"published": "2026-10-19T13:59:26Z",
-"summary": "the open-source IDE for thoughtful software design Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Why design (still) matters, Taste is not a methodology, Borrowed slopes",
 "url": "https://uxdesign.cc/why-design-still-matters-taste-is-not-a-methodology-borrowed-slopes-62701d4c33dc?source=rss----138adf9c44c---4",
 "published": "2026-10-19T11:50:05Z",
@@ -2215,39 +2236,11 @@
 "source": "UX Collective"
 },
 {
-"title": "Beautiful icons that make products feel premium",
-"url": "https://bit.ly/side-hug1",
-"published": "2026-10-19T05:11:00Z",
-"summary": "Hugeicons offers 60,000+ icons across 10 styles for Figma, React, Font, and more. Fully customizable, beautifully crafted.",
-"source": "Sidebar"
-},
-{
-"title": "Someone behind the software",
-"url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-"published": "2026-10-19T05:10:00Z",
-"summary": "I think good products carry something of the people who make them. Their experience, what they care about, and how they think things should work.",
-"source": "Sidebar"
-},
-{
-"title": "English ↔ Claudish",
-"url": "https://programasweights.com/claudish",
-"published": "2026-10-19T05:09:18Z",
-"summary": "A bidirectional English and Claudish translator powered by compiled 0.6B neural programs.",
-"source": "Sidebar"
-},
-{
-"title": "Techno-optimism archive",
-"url": "https://technooptimism.org/",
-"published": "2026-10-19T05:07:44Z",
-"summary": "Old promises of new technologies.",
-"source": "Sidebar"
-},
-{
-"title": "Personal agents are getting their own computers",
-"url": "https://marcabraham.com/2026/10/15/personal-agents-are-getting-their-own-computers/",
-"published": "2026-10-19T05:07:00Z",
-"summary": "The question is no longer whether an agent can answer my questions. It’s whether I’m willing to let it act on my behalf.",
-"source": "Sidebar"
+"title": "Context Engine",
+"url": "https://www.producthunt.com/products/context-engine-2",
+"published": "2026-10-19T10:05:22Z",
+"summary": "One memory for your AI agents and human team members. Discussion | Link",
+"source": "Product Hunt"
 }
 ]
 }
