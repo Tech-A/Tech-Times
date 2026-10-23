@@ -1,16 +1,93 @@
 {
-"updated": "2026-10-23T21:11:43.154048Z",
-"count": 323,
+"updated": "2026-10-23T23:56:14.901146Z",
+"count": 320,
 "items": [
 {
-"title": "VCs, Superhuman Mail founder share red flags about product market fit",
-"url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-"published": "2026-10-23T20:57:13Z",
-"summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail share the do's and don'ts for building hit products.",
+"title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
+"url": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
+"published": "2026-10-23T23:50:49Z",
+"summary": "In a new post on the WebKit blog highlighting what’s new in Safari 27.1, Apple’s Jen Simmons said the company is exploring ways to let websites make better use of the iPhone Duo’s outer display. Here…",
+"source": "9to5Mac"
+},
+{
+"title": "Usage metrics API adds usage from tools like OpenCode",
+"url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+"published": "2026-10-23T23:42:03Z",
+"summary": "The Copilot usage metrics API now reports model usage from more of the tools your developers use with Copilot, including tools like OpenCode that weren’t previously captured in your reports.… The…",
+"source": "GitHub Changelog"
+},
+{
+"title": "Apple’s official DIY repair guides for the iPhone Duo now available",
+"url": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
+"published": "2026-10-23T23:12:21Z",
+"summary": "Following today’s launch of the iPhone Duo , Apple has now published multiple repair guides and manuals for users and independent technicians looking to replace or repair individual components in the…",
+"source": "9to5Mac"
+},
+{
+"title": "Startups don’t need to go viral to win customers",
+"url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+"published": "2026-10-23T23:07:45Z",
+"summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
 "source": "TechCrunch"
 },
 {
-"title": "Abandoned Popcorn Time app exposed millions of device to RCE attacks",
+"title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+"url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+"published": "2026-10-23T23:05:49Z",
+"summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+"source": "TechCrunch"
+},
+{
+"title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+"url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+"published": "2026-10-23T22:48:25Z",
+"summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
+"source": "Ars Technica"
+},
+{
+"title": "OpenAI says it's cutting off internet access for frontier model training",
+"url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
+"published": "2026-10-23T22:37:02Z",
+"summary": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.",
+"source": "Engadget"
+},
+{
+"title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+"url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+"published": "2026-10-23T21:59:19Z",
+"summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+"source": "TechCrunch"
+},
+{
+"title": "Xbox’s first chief operating officer is out after just a few months",
+"url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+"published": "2026-10-23T21:39:26Z",
+"summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The…",
+"source": "The Verge"
+},
+{
+"title": "Turn notifications into code with GitHub Copilot in Teams",
+"url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+"published": "2026-10-23T21:29:58Z",
+"summary": "The new GitHub app in Teams brings notifications and Copilot together, helping teams turn issues into fixes and ship code faster without leaving the conversation. Get notified in channels, group… The…",
+"source": "GitHub Changelog"
+},
+{
+"title": "OpenAI now trains its frontier AI models with no internet access",
+"url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+"published": "2026-10-23T21:11:07Z",
+"summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment…",
+"source": "The Verge"
+},
+{
+"title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+"url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+"published": "2026-10-23T20:57:13Z",
+"summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+"source": "TechCrunch"
+},
+{
+"title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
 "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
 "published": "2026-10-23T20:55:05Z",
 "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to…",
@@ -43,6 +120,13 @@
 "published": "2026-10-23T20:14:02Z",
 "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for…",
 "source": "9to5Mac"
+},
+{
+"title": "There's a third PHP2Shell bug, but it won't get an emergency fix",
+"url": "https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208",
+"published": "2026-10-23T20:04:40Z",
+"summary": "Bad things (and software bugs?) come in threes",
+"source": "The Register"
 },
 {
 "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
@@ -108,6 +192,13 @@
 "source": "9to5Mac"
 },
 {
+"title": "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack",
+"url": "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200",
+"published": "2026-10-23T19:14:57Z",
+"summary": "Monitoring was only partial and was easily bypassed",
+"source": "The Register"
+},
+{
 "title": "Next week’s MacBook Pro could be huge upgrade, but with one problem",
 "url": "https://9to5mac.com/2026/10/23/next-weeks-macbook-pro-could-be-huge-upgrade-but-with-one-problem/",
 "published": "2026-10-23T19:10:15Z",
@@ -127,6 +218,13 @@
 "published": "2026-10-23T19:06:23Z",
 "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch…",
 "source": "TechCrunch"
+},
+{
+"title": "EMU deletions fix",
+"url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+"published": "2026-10-23T18:56:18Z",
+"summary": "Between June 1 and June 13, 2026, some Enterprise Managed User accounts that were deprovisioned through SCIM were incorrectly deleted instead of being suspended and obfuscated as expected. As a… The…",
+"source": "GitHub Changelog"
 },
 {
 "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
@@ -311,7 +409,7 @@
 "source": "Engadget"
 },
 {
-"title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+"title": "What some of Anthropic’s backers are worth before its IPO",
 "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
 "published": "2026-10-23T16:02:43Z",
 "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
@@ -374,13 +472,6 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
-"url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
-"published": "2026-10-23T15:24:45Z",
-"summary": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The…",
-"source": "The Verge"
-},
-{
 "title": "Arc browser on its way out as makers suggest an alternative",
 "url": "https://www.theregister.com/software/2026/10/23/arc-browser-on-its-way-out-as-makers-suggest-an-alternative/5305114",
 "published": "2026-10-23T15:22:00Z",
@@ -393,13 +484,6 @@
 "published": "2026-10-23T15:21:16Z",
 "summary": "SK hynix abandons IPO plans for Solidigm, confirms plans to build a Solidigm 3D NAND fab in the U.S.",
 "source": "Tom's Hardware"
-},
-{
-"title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
-"url": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
-"published": "2026-10-23T15:16:24Z",
-"summary": "SpaceX plans to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&T, according to a report from Bloomberg. Sources tell the publication that…",
-"source": "The Verge"
 },
 {
 "title": "Enterprise installations for GitHub Apps generally available",
@@ -955,17 +1039,17 @@
 "source": "Sidebar"
 },
 {
-"title": "Olivia Rodrigo just showed creatives how to deal with false design allegations in style",
-"url": "https://www.creativebloq.com/news/olivia-rodrigo-just-showed-creatives-how-to-deal-with-false-design-allegations-in-style",
-"published": "2026-10-23T07:00:00Z",
-"summary": "Accused of using AI, the pop star’s team responded with something better than denial.",
-"source": "Creative Bloq"
-},
-{
 "title": "Quote of the Day by George Lucas: \"Failure is another word for experience\"",
 "url": "https://www.creativebloq.com/inspiration/quote-of-the-day-by-george-lucas-failure-is-another-word-for-experience",
 "published": "2026-10-23T07:00:00Z",
 "summary": "Why getting it wrong is part of being creative.",
+"source": "Creative Bloq"
+},
+{
+"title": "Olivia Rodrigo just showed creatives how to deal with false design allegations in style",
+"url": "https://www.creativebloq.com/news/olivia-rodrigo-just-showed-creatives-how-to-deal-with-false-design-allegations-in-style",
+"published": "2026-10-23T07:00:00Z",
+"summary": "Accused of using AI, the pop star’s team responded with something better than denial.",
 "source": "Creative Bloq"
 },
 {
@@ -983,17 +1067,17 @@
 "source": "Product Hunt"
 },
 {
-"title": "how humour can enhance the storytelling in your art",
-"url": "https://www.creativebloq.com/how-to/how-humour-can-enhance-the-storytelling-in-your-art",
-"published": "2026-10-23T06:00:00Z",
-"summary": "Eilene Huang reveals how adding comedic touches can boost a scene.",
-"source": "Creative Bloq"
-},
-{
 "title": "The ambitious EA Sports rebrand looks great from every angle",
 "url": "https://www.creativebloq.com/news/the-ambitious-ea-sports-rebrand-looks-great-from-every-angle",
 "published": "2026-10-23T06:00:00Z",
 "summary": "Brand check: DixonBaxi have released their superb rebranding of EAFC27 – a work blending iconic branding with sports and gaming culture.",
+"source": "Creative Bloq"
+},
+{
+"title": "how humour can enhance the storytelling in your art",
+"url": "https://www.creativebloq.com/how-to/how-humour-can-enhance-the-storytelling-in-your-art",
+"published": "2026-10-23T06:00:00Z",
+"summary": "Eilene Huang reveals how adding comedic touches can boost a scene.",
 "source": "Creative Bloq"
 },
 {
@@ -1172,13 +1256,6 @@
 "source": "TechCrunch"
 },
 {
-"title": "YouTube removing ‘Subscriptions’ bottom bar tab on Android, iOS after nearly a decade",
-"url": "https://9to5google.com/2026/10/22/youtube-subscriptions-android-ios/",
-"published": "2026-10-22T22:07:34Z",
-"summary": "YouTube is making a number of changes to its Android and iOS apps with the launch of custom feeds , including moving Subscriptions out of the bottom bar. more…",
-"source": "9to5Mac"
-},
-{
 "title": "Buy vs. build is now also a UX decision, especially in enterprise",
 "url": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63?source=rss----138adf9c44c---4",
 "published": "2026-10-22T21:55:36Z",
@@ -1191,13 +1268,6 @@
 "published": "2026-10-22T21:52:31Z",
 "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
 "source": "Ars Technica"
-},
-{
-"title": "Apple TV’s long-awaited Fleetwood Mac documentary finally has a release date",
-"url": "https://9to5mac.com/2026/10/22/apple-tvs-long-awaited-fleetwood-mac-documentary-finally-has-a-release-date/",
-"published": "2026-10-22T21:38:44Z",
-"summary": "Nearly two years after it was first announced, Fleetwood Mac fans won’t have to wait much longer for Frank Marshall’s documentary about the legendary band to arrive on Apple TV. Here are the details.…",
-"source": "9to5Mac"
 },
 {
 "title": "Peras",
@@ -1312,13 +1382,6 @@
 "source": "TechCrunch"
 },
 {
-"title": "The secret to fast startup growth isn’t early sales, top names in tech say",
-"url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
-"published": "2026-10-22T20:00:00Z",
-"summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
-"source": "TechCrunch"
-},
-{
 "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
 "url": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
 "published": "2026-10-22T19:59:37Z",
@@ -1347,25 +1410,11 @@
 "source": "Engadget"
 },
 {
-"title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-"url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-"published": "2026-10-22T19:34:40Z",
-"summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.",
-"source": "Ars Technica"
-},
-{
 "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
 "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
 "published": "2026-10-22T19:12:51Z",
 "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
 "source": "BleepingComputer"
-},
-{
-"title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-"url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-"published": "2026-10-22T19:07:09Z",
-"summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-"source": "TechCrunch"
 },
 {
 "title": "Inside the Exclusive Nathan Fielder Interview",
@@ -1380,13 +1429,6 @@
 "published": "2026-10-22T19:01:00Z",
 "summary": "BMW's latest EV will do over 450 miles on a charge and even close its own doors.",
 "source": "Engadget"
-},
-{
-"title": "Canva releases its first image generation model",
-"url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-"published": "2026-10-22T19:00:00Z",
-"summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-"source": "TechCrunch"
 },
 {
 "title": "Daft Punk is getting an official Lego set",
@@ -1501,13 +1543,6 @@
 "source": "The Register"
 },
 {
-"title": "Industry comparisons in the Copilot impact dashboard",
-"url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-"published": "2026-10-22T16:28:24Z",
-"summary": "The Copilot impact dashboard now includes an “Industry comparison” section. Enterprises, and organizations that aren’t owned by an enterprise, can compare their Copilot agentic adoption and leverage…",
-"source": "GitHub Changelog"
-},
-{
 "title": "Sundar Pichai (allegedly) draws the line at oceans",
 "url": "https://www.engadget.com/2294319/sundar-pichai-allegedly-draws-the-line-at-oceans/",
 "published": "2026-10-22T16:22:50Z",
@@ -1534,13 +1569,6 @@
 "published": "2026-10-22T16:05:53Z",
 "summary": "Ministers report 32 unavailable and four partly disrupted, but no confirmed compromise",
 "source": "The Register"
-},
-{
-"title": "PC shipments are in the toilet, plunging over 20 percent from last year",
-"url": "https://www.engadget.com/2294257/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year/",
-"published": "2026-10-22T15:56:26Z",
-"summary": "This could reach 27 percent throughout the end of 2026 as prices continue to rise.",
-"source": "Engadget"
 },
 {
 "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
@@ -1879,13 +1907,6 @@
 "source": "The Register"
 },
 {
-"title": "Why the immediate future of liquid cooling is hybrid",
-"url": "https://www.theregister.com/ai-and-ml/2026/10/22/partner-content-why-the-immediate-future-of-liquid-cooling-is-hybrid/5303795",
-"published": "2026-10-22T08:00:00Z",
-"summary": "PARTNER CONTENT: AI is driving liquid cooling adoption, but hybrid architectures will help operators balance density, flexibility, and operational realities",
-"source": "The Register"
-},
-{
 "title": "This underused Photoshop layer is key for adding atmosphere to fantasy art",
 "url": "https://www.creativebloq.com/how-to/this-underused-photoshop-layer-is-key-for-adding-atmosphere-to-fantasy-art",
 "published": "2026-10-22T08:00:00Z",
@@ -1914,11 +1935,18 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Certification authority eMudhra defends its laughably weak private keys",
-"url": "https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647",
-"published": "2026-10-22T06:38:14Z",
-"summary": "Says it passed audits and made just a minor mystery error",
-"source": "The Register"
+"title": "Tetriz Engg Intelligence + Connectors",
+"url": "https://www.producthunt.com/products/tetriz-engg-intelligence-connectors",
+"published": "2026-10-22T06:09:23Z",
+"summary": "Connect coding sessions to PRs, issues, quality, and ROI Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "Resend Inboxes",
+"url": "https://www.producthunt.com/products/resend",
+"published": "2026-10-22T05:25:49Z",
+"summary": "Create shared inboxes, connect your agents, build workflows Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "The fastest gun in UX",
@@ -1956,13 +1984,6 @@
 "source": "Sidebar"
 },
 {
-"title": "Sponkly",
-"url": "https://www.producthunt.com/products/sponkly",
-"published": "2026-10-21T23:31:26Z",
-"summary": "Live voice translation for chats, calls, meetings & YouTube Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "A founder with a tool is not a founder with a clue",
 "url": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4",
 "published": "2026-10-21T21:50:55Z",
@@ -1977,17 +1998,10 @@
 "source": "UX Collective"
 },
 {
-"title": "Teclo",
-"url": "https://www.producthunt.com/products/teclo",
-"published": "2026-10-21T20:56:53Z",
-"summary": "Mechanical keyboard sounds and a keycap pet for your Mac Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Archivist",
-"url": "https://www.producthunt.com/products/archivist",
-"published": "2026-10-21T19:16:09Z",
-"summary": "From messy filenames to shareable collections Discussion | Link",
+"title": "Radaric",
+"url": "https://www.producthunt.com/products/radaric",
+"published": "2026-10-21T20:48:58Z",
+"summary": "AI feed reader that learns your editorial taste Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -2003,13 +2017,6 @@
 "published": "2026-10-21T17:30:00Z",
 "summary": "Private keys for eight eMudhra intermediate CA certificates have been compromised, allowing attackers to forge certificates for any site. The keys were revealed due to low entropy, not through a…",
 "source": "InfoQ"
-},
-{
-"title": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
-"url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
-"published": "2026-10-21T16:43:23Z",
-"summary": "You can now use expiring, automatically refreshing OAuth credentials in GitHub CLI as part of a public preview. When you opt in, gh stores an expiring access token alongside a… The post GitHub CLI…",
-"source": "GitHub Changelog"
 },
 {
 "title": "Polylane for Cloudflare",
@@ -2173,13 +2180,6 @@
 "source": "Product Hunt"
 },
 {
-"title": "Bulk migrate branch protections to rulesets for a repository",
-"url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-"published": "2026-10-20T18:06:21Z",
-"summary": "You can now convert all branch protection rules of a repository to rulesets in a single action. This is an extension of the ability to convert a single branch protection… The post Bulk migrate branch…",
-"source": "GitHub Changelog"
-},
-{
 "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
 "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
 "published": "2026-10-20T16:05:03Z",
@@ -2191,13 +2191,6 @@
 "url": "https://www.producthunt.com/products/realtime-max-mini",
 "published": "2026-10-20T14:31:02Z",
 "summary": "Realtime voice agent models with 570ms to first audio Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Voxelo 3.0",
-"url": "https://www.producthunt.com/products/voxelo-ai",
-"published": "2026-10-20T13:15:43Z",
-"summary": "Phone video to photoreal 3D & JSON-LD in an hour Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -2248,20 +2241,6 @@
 "published": "2026-10-20T09:05:14Z",
 "summary": "Lessons from four years of building AI products at PostHog.",
 "source": "Sidebar"
-},
-{
-"title": "Human attention is the new old bottleneck. We have to design for it even more.",
-"url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a?source=rss----138adf9c44c---4",
-"published": "2026-10-19T21:39:27Z",
-"summary": "",
-"source": "UX Collective"
-},
-{
-"title": "Playing the sanshin without a sound",
-"url": "https://uxdesign.cc/playing-the-sanshin-without-a-sound-3ac88df6f65c?source=rss----138adf9c44c---4",
-"published": "2026-10-19T21:38:20Z",
-"summary": "The slot machine and the checklist: a dilemma in feedback design. Continue reading on UX Collective »",
-"source": "UX Collective"
 }
 ]
 }
