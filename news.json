@@ -1,7 +1,98 @@
 {
-"updated": "2026-10-22T23:15:14.276663Z",
-"count": 319,
+"updated": "2026-10-23T01:47:12.421510Z",
+"count": 321,
 "items": [
+{
+"title": "Apple is finally catching up with Siri, but the goalposts are moving again",
+"url": "https://9to5mac.com/2026/10/22/apple-is-finally-catching-up-with-siri-but-the-goalposts-are-moving-again/",
+"published": "2026-10-23T01:42:38Z",
+"summary": "9to5Mac is brought to you by Memoket : Memoket Gem is a 0.4 oz AI wearable that slots beside your Apple Watch. One press captures a conversation, and KITE memory connects it to what you said weeks…",
+"source": "9to5Mac"
+},
+{
+"title": "WhatsApp starts testing long-awaited scheduled messages on iPhone",
+"url": "https://9to5mac.com/2026/10/22/whatsapp-starts-testing-long-awaited-scheduled-messages-on-iphone/",
+"published": "2026-10-23T01:22:37Z",
+"summary": "After years of waiting, WhatsApp is finally making one of its most-requested messaging features available to select iPhone beta testers. Here are the details. more…",
+"source": "9to5Mac"
+},
+{
+"title": "Left alone with nothing to do, AI agents started playing",
+"url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+"published": "2026-10-23T00:45:37Z",
+"summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+"source": "TechCrunch"
+},
+{
+"title": "Apple wins again in copyright infringement battle over Apple TV thriller series",
+"url": "https://9to5mac.com/2026/10/22/apple-wins-again-in-copyright-infringement-battle-over-apple-tv-thriller-series/",
+"published": "2026-10-23T00:30:41Z",
+"summary": "The United States Court of Appeals for the Ninth Circuit today upheld a verdict from early last year that cleared Apple of allegations that one of its hit thriller series was copied from an…",
+"source": "9to5Mac"
+},
+{
+"title": "GitHub Copilot in Visual Studio — September update",
+"url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+"published": "2026-10-23T00:17:51Z",
+"summary": "September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags……",
+"source": "GitHub Changelog"
+},
+{
+"title": "Etsy is cracking down on AI slop listings",
+"url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+"published": "2026-10-23T00:09:58Z",
+"summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which…",
+"source": "The Verge"
+},
+{
+"title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+"url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+"published": "2026-10-22T23:50:41Z",
+"summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+"source": "TechCrunch"
+},
+{
+"title": "Strava revamps route discovery with smarter search, offline improvements, more",
+"url": "https://9to5mac.com/2026/10/22/strava-revamps-route-discovery-with-smarter-search-offline-improvements-more/",
+"published": "2026-10-22T23:29:15Z",
+"summary": "Strava today announced a set of new features aimed at improving route planning and discovery for runs, hikes, and rides. Here are the details. more…",
+"source": "9to5Mac"
+},
+{
+"title": "Retro game emulator Delta looks great on the iPhone Duo",
+"url": "https://9to5mac.com/2026/10/22/retro-game-emulator-delta-looks-great-on-the-iphone-duo/",
+"published": "2026-10-22T23:23:32Z",
+"summary": "The popular retro game emulator Delta has today launched a big new 2.0 version, most notably featuring a refreshed Liquid Glass interface and support for the iPhone Duo. The app now has…",
+"source": "9to5Mac"
+},
+{
+"title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+"url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+"published": "2026-10-22T23:15:00Z",
+"summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+"source": "TechCrunch"
+},
+{
+"title": "Palmer Luckey Made a Genetically Modified Military Dog Startup",
+"url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
+"published": "2026-10-22T23:15:00Z",
+"summary": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with \"advanced body armor.\"",
+"source": "Wired"
+},
+{
+"title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+"url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+"published": "2026-10-22T23:02:43Z",
+"summary": "Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification…",
+"source": "The Verge"
+},
+{
+"title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+"url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+"published": "2026-10-22T23:00:00Z",
+"summary": "Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives…",
+"source": "The Verge"
+},
 {
 "title": "MacBook Neo helps Apple soften the blow of global PC market downturn, per report",
 "url": "https://9to5mac.com/2026/10/22/macbook-neo-helps-apple-soften-the-blow-of-global-pc-market-downturn-per-report/",
@@ -24,11 +115,32 @@
 "source": "Wired"
 },
 {
+"title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+"url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+"published": "2026-10-22T22:25:33Z",
+"summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
+"source": "Ars Technica"
+},
+{
 "title": "9to5Mac Daily: October 22, 2026 – iOS 27.2 features, Apple Music rebrand",
 "url": "https://9to5mac.com/2026/10/22/daily-october-22-2026/",
 "published": "2026-10-22T22:23:46Z",
 "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for…",
 "source": "9to5Mac"
+},
+{
+"title": "Custom skills, agents, and MCP servers in usage metrics API",
+"url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+"published": "2026-10-22T22:19:17Z",
+"summary": "Copilot usage metrics now show the names of the skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins that your organization creates, instead of grouping them…",
+"source": "GitHub Changelog"
+},
+{
+"title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+"url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+"published": "2026-10-22T22:12:19Z",
+"summary": "Markers released top-line results today after previously reporting the trial succeeded.",
+"source": "Ars Technica"
 },
 {
 "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
@@ -50,6 +162,13 @@
 "published": "2026-10-22T21:55:36Z",
 "summary": "",
 "source": "UX Collective"
+},
+{
+"title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+"url": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+"published": "2026-10-22T21:52:31Z",
+"summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
+"source": "Ars Technica"
 },
 {
 "title": "Canva’s first AI image model plans designs before generating them",
@@ -92,6 +211,13 @@
 "published": "2026-10-22T21:15:16Z",
 "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call…",
 "source": "The Verge"
+},
+{
+"title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+"url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+"published": "2026-10-22T21:07:09Z",
+"summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
+"source": "Ars Technica"
 },
 {
 "title": "Rivian buys world model startup to accelerate self-driving ambitions",
@@ -248,32 +374,11 @@
 "source": "The Verge"
 },
 {
-"title": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
-"url": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
-"published": "2026-10-22T19:44:51Z",
-"summary": "Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a…",
-"source": "The Verge"
-},
-{
 "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
 "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
 "published": "2026-10-22T19:34:40Z",
 "summary": "Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.",
 "source": "Ars Technica"
-},
-{
-"title": "Republican politicians have embraced anti-Indian racism — and it’s costing them votes",
-"url": "https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas",
-"published": "2026-10-22T19:15:00Z",
-"summary": "Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize…",
-"source": "The Verge"
-},
-{
-"title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
-"url": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
-"published": "2026-10-22T19:13:42Z",
-"summary": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra…",
-"source": "The Verge"
 },
 {
 "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
@@ -668,13 +773,6 @@
 "source": "Wired"
 },
 {
-"title": "Spotify’s current AI bet is about being the music service that agents choose",
-"url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-"published": "2026-10-22T15:03:58Z",
-"summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-"source": "TechCrunch"
-},
-{
 "title": "Apple App Store review process hits a traffic jam",
 "url": "https://www.theregister.com/applications/2026/10/22/apple-app-store-review-process-hits-a-traffic-jam/5304802",
 "published": "2026-10-22T15:02:00Z",
@@ -687,13 +785,6 @@
 "published": "2026-10-22T15:00:00Z",
 "summary": "SPONSORED FEATURE: AI makes phishing easier than ever",
 "source": "The Register"
-},
-{
-"title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
-"url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
-"published": "2026-10-22T14:59:28Z",
-"summary": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
-"source": "TechCrunch"
 },
 {
 "title": "Apple Music's splashy new logo is gorgeous – so why isn't the new app icon?",
@@ -743,13 +834,6 @@
 "published": "2026-10-22T14:04:08Z",
 "summary": "Sony is following the footsteps of LG in ending Blu-ray player production.",
 "source": "Tom's Hardware"
-},
-{
-"title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
-"url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
-"published": "2026-10-22T14:03:00Z",
-"summary": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
-"source": "TechCrunch"
 },
 {
 "title": "Machine speed attacks require machine speed detection and response",
@@ -1319,13 +1403,6 @@
 "source": "The Register"
 },
 {
-"title": "9to5Mac Daily: October 21, 2026 – New iPhone Duo features, more",
-"url": "https://9to5mac.com/2026/10/21/daily-october-21-2026/",
-"published": "2026-10-21T22:44:33Z",
-"summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for…",
-"source": "9to5Mac"
-},
-{
 "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
 "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
 "published": "2026-10-21T22:39:50Z",
@@ -1354,13 +1431,6 @@
 "source": "BleepingComputer"
 },
 {
-"title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
-"url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
-"published": "2026-10-21T22:06:07Z",
-"summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
-"source": "Ars Technica"
-},
-{
 "title": "Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores",
 "url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/",
 "published": "2026-10-21T21:57:22Z",
@@ -1382,32 +1452,11 @@
 "source": "UX Collective"
 },
 {
-"title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
-"url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
-"published": "2026-10-21T21:48:52Z",
-"summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
-"source": "Ars Technica"
-},
-{
-"title": "Apple and DOJ notify court of impasse over document cutoff in antitrust lawsuit",
-"url": "https://9to5mac.com/2026/10/21/apple-and-doj-notify-court-of-impasse-over-document-cutoff-in-antitrust-lawsuit/",
-"published": "2026-10-21T21:44:49Z",
-"summary": "Apple and the Department of Justice have submitted a joint notice of impasse over how recent Apple’s documents must be to fall within the scope of discovery in their ongoing antitrust lawsuit. Here…",
-"source": "9to5Mac"
-},
-{
 "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
 "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
 "published": "2026-10-21T21:43:27Z",
 "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
 "source": "BleepingComputer"
-},
-{
-"title": "Tesla profits drop 43% in Q3",
-"url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
-"published": "2026-10-21T21:35:07Z",
-"summary": "Tesla’s once-booming energy storage business also shrank in Q3 2026.",
-"source": "Ars Technica"
 },
 {
 "title": "‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms",
@@ -1473,32 +1522,11 @@
 "source": "The Register"
 },
 {
-"title": "iOS 27.2 reveals Apple’s Messages app could soon get highly requested change",
-"url": "https://9to5mac.com/2026/10/21/ios-27-2-reveals-apples-messages-app-could-soon-get-highly-requested-change/",
-"published": "2026-10-21T20:05:13Z",
-"summary": "iOS 27.2 launches next week , and the update includes code that points to a forthcoming Messages app change: the ability to exclude muted conversations from the unread badge count. more…",
-"source": "9to5Mac"
-},
-{
-"title": "The new human-crafted Apple Music brand matters in an AI world",
-"url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-"published": "2026-10-21T19:44:40Z",
-"summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
-"source": "Ars Technica"
-},
-{
 "title": "Claude Duet",
 "url": "https://www.producthunt.com/products/claude",
 "published": "2026-10-21T19:40:23Z",
 "summary": "Proactive agent that understands what needs your attention Discussion | Link",
 "source": "Product Hunt"
-},
-{
-"title": "Anthropic takes on ChatGPT Dots and Meta Muse with Claude Duet",
-"url": "https://9to5mac.com/2026/10/21/anthropic-takes-on-chatgpt-dots-and-meta-muse-with-claude-duet/",
-"published": "2026-10-21T19:39:25Z",
-"summary": "Anthropic is introducing a new AI assistant that can proactively manage tasks across connected apps, keep track of emails and calendars, and continue working even when the app is closed. Here are the…",
-"source": "9to5Mac"
 },
 {
 "title": "Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab",
@@ -1513,13 +1541,6 @@
 "published": "2026-10-21T19:16:09Z",
 "summary": "From messy filenames to shareable collections Discussion | Link",
 "source": "Product Hunt"
-},
-{
-"title": "iPadOS 27.2 adds convenient new feature from the Mac",
-"url": "https://9to5mac.com/2026/10/21/ipados-27-2-adds-convenient-new-feature-from-the-mac/",
-"published": "2026-10-21T19:13:08Z",
-"summary": "iPadOS 27.2 launches next week, and among its many new features , Apple has also brought over a recent Mac addition: a Siri popup when text is selected. more…",
-"source": "9to5Mac"
 },
 {
 "title": "Nvidia woos wary Europeans with more open weights models",
@@ -1688,13 +1709,6 @@
 "published": "2026-10-21T14:36:07Z",
 "summary": "Turn live speech into translated audio as people talk Discussion | Link",
 "source": "Product Hunt"
-},
-{
-"title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-"url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-"published": "2026-10-21T14:26:19Z",
-"summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
-"source": "Wired"
 },
 {
 "title": "The massive Creality Halloween sale slashes 3D printer prices by up to 42%, with options for beginners and pros",
@@ -1998,20 +2012,6 @@
 "source": "GitHub Changelog"
 },
 {
-"title": "Dependabot alerts REST API now includes dependency versions",
-"url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
-"published": "2026-10-20T17:13:40Z",
-"summary": "You can now get the version of a vulnerable dependency directly from Dependabot alert responses in the REST API. Each alert’s dependency object includes a new version_requirement field with the… The…",
-"source": "GitHub Changelog"
-},
-{
-"title": "GitHub package firewall in public preview",
-"url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
-"published": "2026-10-20T16:11:53Z",
-"summary": "Editor’s note (October 21, 2026): Rewrote the changelog for clarity and added imagery. There’s been a recent flood of malware attacks that exploit systems at package installation time. Agents and……",
-"source": "GitHub Changelog"
-},
-{
 "title": "Mistral Voxtral 3",
 "url": "https://www.producthunt.com/products/mistral-7b",
 "published": "2026-10-20T16:09:31Z",
@@ -2082,6 +2082,13 @@
 "source": "Creative Bloq"
 },
 {
+"title": "Lea by LeanAIOS",
+"url": "https://www.producthunt.com/products/lea-by-leanaios",
+"published": "2026-10-20T10:15:05Z",
+"summary": "Autonomous AI team for construction management & pre-con Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Embracing Playful Imperfection With The CSS `random()` Function",
 "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
 "published": "2026-10-20T10:00:00Z",
@@ -2143,6 +2150,13 @@
 "published": "2026-10-20T08:00:00Z",
 "summary": "Vibrant designs feature illustrations by The Magician's Nephew's concept artist.",
 "source": "Creative Bloq"
+},
+{
+"title": "Intelli for ChatGPT & Claude",
+"url": "https://www.producthunt.com/products/intelli",
+"published": "2026-10-20T07:04:54Z",
+"summary": "Run WhatsApp, Instagram & web chat from ChatGPT or Claude Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "\"Is this what designers need to do to find work in 2026?\" a viral high-production video has sparked debate",
