@@ -1,7 +1,63 @@
 {
-"updated": "2026-10-24T17:16:26.412745Z",
-"count": 312,
+"updated": "2026-10-24T19:40:50.633613Z",
+"count": 293,
 "items": [
+{
+"title": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
+"url": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo/",
+"published": "2026-10-24T19:30:00Z",
+"summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If…",
+"source": "9to5Mac"
+},
+{
+"title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+"url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+"published": "2026-10-24T19:00:00Z",
+"summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+"source": "TechCrunch"
+},
+{
+"title": "Google is quietly linking your phone number to other Android accounts",
+"url": "https://www.engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts/",
+"published": "2026-10-24T18:45:00Z",
+"summary": "Adding a new SIM to your phone links it to all Google accounts, and any new Google accounts you add all inherit your phone number.",
+"source": "Engadget"
+},
+{
+"title": "Pennsylvania will require labels on AI-generated ads",
+"url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+"published": "2026-10-24T18:32:21Z",
+"summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether…",
+"source": "The Verge"
+},
+{
+"title": "Why the wires in your ethernet cables are twisted",
+"url": "https://www.engadget.com/2294278/why-wires-in-ethernet-cable-twisted-explained/",
+"published": "2026-10-24T18:30:00Z",
+"summary": "There's a good reason for that arrangement.",
+"source": "Engadget"
+},
+{
+"title": "Steam rolls out Personal Calendar feature that constantly updates recommended games",
+"url": "https://www.engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/",
+"published": "2026-10-24T18:09:54Z",
+"summary": "You can try out the new feature on the Steam store's homepage.",
+"source": "Engadget"
+},
+{
+"title": "Xbox Game Pass could let you pick which features you pay for",
+"url": "https://www.engadget.com/2296222/xbox-game-pass-pick-which-features/",
+"published": "2026-10-24T18:00:00Z",
+"summary": "Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set tiers.",
+"source": "Engadget"
+},
+{
+"title": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
+"url": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later/",
+"published": "2026-10-24T17:47:49Z",
+"summary": "Yesterday, I picked up my iPhone Duo at Apple Fifth Avenue , and it’s been a wonder to use. Of course, the phone isn’t perfect, but after my first day of usage, I’m looking forward to daily driving…",
+"source": "9to5Mac"
+},
 {
 "title": "Capcom confirms data breach that affected 11.7 million users",
 "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
@@ -402,13 +458,6 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "Meta is delaying its controversial new business terms amid scraping concerns",
-"url": "https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns/",
-"published": "2026-10-24T10:18:15Z",
-"summary": "Meta drew flak for an upcoming change to its business terms that would allow it to scrape business accounts' content for AI training.",
-"source": "Engadget"
-},
-{
 "title": "12 Absolutely Banging Proper Watches Under $400",
 "url": "https://www.wired.com/story/best-watches-under-400-chosen-by-experts/",
 "published": "2026-10-24T10:15:00Z",
@@ -535,13 +584,6 @@
 "source": "Ars Technica"
 },
 {
-"title": "OpenAI says it's cutting off internet access for frontier model training",
-"url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
-"published": "2026-10-23T22:37:02Z",
-"summary": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.",
-"source": "Engadget"
-},
-{
 "title": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
 "url": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
 "published": "2026-10-23T22:36:11Z",
@@ -645,13 +687,6 @@
 "published": "2026-10-23T19:43:08Z",
 "summary": "iPhone Duo is officially out in the wild, and users keep discovering new details about the device. The latest: there’s a hidden trick that makes opening Control Center significantly easier. more…",
 "source": "9to5Mac"
-},
-{
-"title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-"url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
-"published": "2026-10-23T19:35:15Z",
-"summary": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for…",
-"source": "The Verge"
 },
 {
 "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
@@ -864,13 +899,6 @@
 "source": "9to5Mac"
 },
 {
-"title": "Meta is charging government and nonprofit pages to post links on Facebook",
-"url": "https://www.engadget.com/2295422/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/",
-"published": "2026-10-23T16:09:39Z",
-"summary": "The new restrictions are a test which is explicitly not supposed to impact these entities.",
-"source": "Engadget"
-},
-{
 "title": "What some of Anthropic’s backers are worth before its IPO",
 "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
 "published": "2026-10-23T16:02:43Z",
@@ -897,13 +925,6 @@
 "published": "2026-10-23T16:00:00Z",
 "summary": "Developers will be able to sell GMRT games on desktop, mobile, web and GX Games without a Professional licence.",
 "source": "Creative Bloq"
-},
-{
-"title": "Apple Music has a fun Easter egg for the iPod's 25th anniversary",
-"url": "https://www.engadget.com/2295392/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary/",
-"published": "2026-10-23T15:47:03Z",
-"summary": "Time to dust off the click wheel.",
-"source": "Engadget"
 },
 {
 "title": "Michigan prof creates Python-like Jac language for AI agents",
@@ -1431,41 +1452,6 @@
 "source": "The Register"
 },
 {
-"title": "Fast is a design decision",
-"url": "https://shannadige.com/blog/performance-is-design/",
-"published": "2026-10-23T07:09:03Z",
-"summary": "Building a site has never been cheaper, but making it fast still costs attention and your user’s resources.",
-"source": "Sidebar"
-},
-{
-"title": "Moving objects in 3D space",
-"url": "https://visualrambling.space/moving-objects-in-3d/",
-"published": "2026-10-23T07:08:31Z",
-"summary": "Have you ever wondered how to move objects along a spherical helix path?",
-"source": "Sidebar"
-},
-{
-"title": "Where decisions live",
-"url": "https://www.antonsten.com/articles/where-decisions-live/",
-"published": "2026-10-23T07:07:02Z",
-"summary": "Slack for discussion, meetings to resolve, notes for thinking, and a dated decisions log for where things landed.",
-"source": "Sidebar"
-},
-{
-"title": "Apple Music’s new logo was shaped by sound and mineral oil",
-"url": "https://www.creativeboom.com/news/apple-musics-new-logo-was-shaped-by-fred-again-and-a-bath-of-mineral-oil/",
-"published": "2026-10-23T07:06:22Z",
-"summary": "Created with TBWA\\Media Arts Lab, the new identity is full of ripples made by sound.",
-"source": "Sidebar"
-},
-{
-"title": "Gradient background generator",
-"url": "https://backgrounds.supply/gradient-lab",
-"published": "2026-10-23T07:05:34Z",
-"summary": "A free gradient background generator with 20+ animated shader modes.",
-"source": "Sidebar"
-},
-{
 "title": "Olivia Rodrigo just showed creatives how to deal with false design allegations in style",
 "url": "https://www.creativebloq.com/news/olivia-rodrigo-just-showed-creatives-how-to-deal-with-false-design-allegations-in-style",
 "published": "2026-10-23T07:00:00Z",
@@ -1480,25 +1466,11 @@
 "source": "Creative Bloq"
 },
 {
-"title": "ShogunAI",
-"url": "https://www.producthunt.com/products/shogunai",
-"published": "2026-10-23T06:32:57Z",
-"summary": "Your personal AGI on your pc Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Product Hunt Visual Launch Editor",
 "url": "https://www.producthunt.com/products/producthunt",
 "published": "2026-10-23T06:03:38Z",
 "summary": "See your launch as you build it Discussion | Link",
 "source": "Product Hunt"
-},
-{
-"title": "The ambitious EA Sports rebrand looks great from every angle",
-"url": "https://www.creativebloq.com/news/the-ambitious-ea-sports-rebrand-looks-great-from-every-angle",
-"published": "2026-10-23T06:00:00Z",
-"summary": "Brand check: DixonBaxi have released their superb rebranding of EAFC27 – a work blending iconic branding with sports and gaming culture.",
-"source": "Creative Bloq"
 },
 {
 "title": "how humour can enhance the storytelling in your art",
@@ -1508,11 +1480,11 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Instant Search",
-"url": "https://www.producthunt.com/products/instant-search-2",
-"published": "2026-10-23T05:36:03Z",
-"summary": "The fastest, most precise local AI Search for your files. Discussion | Link",
-"source": "Product Hunt"
+"title": "The ambitious EA Sports rebrand looks great from every angle",
+"url": "https://www.creativebloq.com/news/the-ambitious-ea-sports-rebrand-looks-great-from-every-angle",
+"published": "2026-10-23T06:00:00Z",
+"summary": "Brand check: DixonBaxi have released their superb rebranding of EAFC27 – a work blending iconic branding with sports and gaming culture.",
+"source": "Creative Bloq"
 },
 {
 "title": "Windows said modem worked fine. That unmistakable scorched electronics smell suggested otherwise",
@@ -1522,24 +1494,17 @@
 "source": "The Register"
 },
 {
+"title": "Termi Protocol",
+"url": "https://www.producthunt.com/products/termi-protocol",
+"published": "2026-10-23T04:32:57Z",
+"summary": "Watch AI agents code in 3D and hand off the work Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
 "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
 "published": "2026-10-23T04:22:57Z",
 "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-"source": "TechCrunch"
-},
-{
-"title": "Agent Hunt",
-"url": "https://www.producthunt.com/products/monid",
-"published": "2026-10-23T04:03:20Z",
-"summary": "Live rankings of the tools AI agents use most Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-"url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-"published": "2026-10-23T04:00:00Z",
-"summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
 "source": "TechCrunch"
 },
 {
@@ -1564,25 +1529,11 @@
 "source": "9to5Mac"
 },
 {
-"title": "Apple wins again in copyright infringement battle over Apple TV thriller series",
-"url": "https://9to5mac.com/2026/10/22/apple-wins-again-in-copyright-infringement-battle-over-apple-tv-thriller-series/",
-"published": "2026-10-23T00:30:41Z",
-"summary": "The United States Court of Appeals for the Ninth Circuit today upheld a verdict from early last year that cleared Apple of allegations that one of its hit thriller series was copied from an…",
-"source": "9to5Mac"
-},
-{
 "title": "GitHub Copilot in Visual Studio — September update",
 "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
 "published": "2026-10-23T00:17:51Z",
 "summary": "September 2026 brought deeper visibility into your work: explore pull requests without leaving chat, bring the AI model your team trusts, and fix vulnerable packages the moment Visual Studio flags……",
 "source": "GitHub Changelog"
-},
-{
-"title": "Strava revamps route discovery with smarter search, offline improvements, more",
-"url": "https://9to5mac.com/2026/10/22/strava-revamps-route-discovery-with-smarter-search-offline-improvements-more/",
-"published": "2026-10-22T23:29:15Z",
-"summary": "Strava today announced a set of new features aimed at improving route planning and discovery for runs, hikes, and rides. Here are the details. more…",
-"source": "9to5Mac"
 },
 {
 "title": "Palmer Luckey and Ben Lamm Made a Genetically Modified Military Dog Startup",
@@ -1632,6 +1583,13 @@
 "published": "2026-10-22T21:52:31Z",
 "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
 "source": "Ars Technica"
+},
+{
+"title": "Peras",
+"url": "https://www.producthunt.com/products/peras",
+"published": "2026-10-22T21:38:15Z",
+"summary": "Pause Claude Code and Codex before they burn your week Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Railway warns devs to rotate secrets after potential breach",
@@ -1844,13 +1802,6 @@
 "source": "Product Hunt"
 },
 {
-"title": "Gerty",
-"url": "https://www.producthunt.com/products/gerty",
-"published": "2026-10-22T14:14:10Z",
-"summary": "Private ChatGPT alternative that sets itself up on your Mac Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Singapore boffins weave a GUI into fabric, and it's machine washable too",
 "url": "https://www.theregister.com/offbeat/2026/10/22/singapore-boffins-weave-a-gui-into-fabric-and-its-machine-washable-too/5304785",
 "published": "2026-10-22T14:09:01Z",
@@ -1870,6 +1821,13 @@
 "published": "2026-10-22T14:00:00Z",
 "summary": "A recent Harvard study of 718 firms, using the Jellyfish analytics platform, finds that although AI coding assistants and agents increase code volume, this does not translate into a corresponding…",
 "source": "InfoQ"
+},
+{
+"title": "Dots",
+"url": "https://www.producthunt.com/products/dots-7",
+"published": "2026-10-22T13:15:51Z",
+"summary": "A customizable workspace built into your Mac's notch Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
@@ -1942,13 +1900,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Bloblings",
-"url": "https://www.producthunt.com/products/bloblings",
-"published": "2026-10-22T09:49:27Z",
-"summary": "A pet for every Claude Code session Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Vercel Labs Open-Sources fx: a Zig Coding Agent Designed to Be Embedded",
 "url": "https://www.infoq.com/news/2026/10/vercel-zig-fx-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
 "published": "2026-10-22T09:33:00Z",
@@ -2012,41 +1963,6 @@
 "source": "Product Hunt"
 },
 {
-"title": "The fastest gun in UX",
-"url": "https://www.doc.cc/articles/fastest-gun",
-"published": "2026-10-22T04:05:00Z",
-"summary": "Designers are skipping steps of the process in a rush for faster outputs. But the contest that really matters is stakeholder alignment.",
-"source": "Sidebar"
-},
-{
-"title": "Interfere Design System",
-"url": "https://design.interfere.com/",
-"published": "2026-10-22T04:04:00Z",
-"summary": "Components, styles and guidelines for building Interfere products.",
-"source": "Sidebar"
-},
-{
-"title": "Everyone is starting over",
-"url": "https://www.gabrielvaldivia.com/notes/everybody-is-starting-over",
-"published": "2026-10-22T04:03:00Z",
-"summary": "The careers that thrive now are the ones willing to become someone new, over and over.",
-"source": "Sidebar"
-},
-{
-"title": "The Lightbulb Computer",
-"url": "https://lightbulbcomputer.com/",
-"published": "2026-10-22T04:02:00Z",
-"summary": "A device that combines a projector and computer vision in the shape of a large lightbulb.",
-"source": "Sidebar"
-},
-{
-"title": "How employment is changing at Anthropic",
-"url": "https://www.anthropic.com/research/employment-at-anthropic",
-"published": "2026-10-22T04:01:00Z",
-"summary": "Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
-"source": "Sidebar"
-},
-{
 "title": "A founder with a tool is not a founder with a clue",
 "url": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4",
 "published": "2026-10-21T21:50:55Z",
@@ -2075,13 +1991,6 @@
 "source": "Product Hunt"
 },
 {
-"title": "Polylane for Cloudflare",
-"url": "https://www.producthunt.com/products/polylane",
-"published": "2026-10-21T16:40:31Z",
-"summary": "An AI on-call engineer for your Cloudflare apps Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "The bridge to agent-scale Git infrastructure",
 "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
 "published": "2026-10-21T16:00:00Z",
@@ -2101,41 +2010,6 @@
 "published": "2026-10-21T09:00:00Z",
 "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even…",
 "source": "MIT Technology Review"
-},
-{
-"title": "Your product is not the center of the universe",
-"url": "https://apeatling.com/2026/10/19/your-product-is-not-the-center-of-the-universe/",
-"published": "2026-10-21T08:28:34Z",
-"summary": "Established products have a problem. They assume they’re the center of someone’s universe, and everything should feed through them.",
-"source": "Sidebar"
-},
-{
-"title": "AI is driving a boom in modestly successful software projects",
-"url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
-"published": "2026-10-21T08:28:04Z",
-"summary": "If AI is so great, why aren’t we seeing an explosion of new, amazing software products?",
-"source": "Sidebar"
-},
-{
-"title": "Toolcraft",
-"url": "https://toolcraft.sh/",
-"published": "2026-10-21T08:27:35Z",
-"summary": "An open-source starter kit and UI library for building custom design apps with AI.",
-"source": "Sidebar"
-},
-{
-"title": "EditUI",
-"url": "https://www.editui.app/",
-"published": "2026-10-21T08:26:44Z",
-"summary": "Point at your UI. Tell your coding agent what to change.",
-"source": "Sidebar"
-},
-{
-"title": "A simple guide to calm UI",
-"url": "https://maxschmitt.me/posts/calm",
-"published": "2026-10-21T08:26:07Z",
-"summary": "A few basic rules to keep in mind to make simple UIs feel a lot better.",
-"source": "Sidebar"
 },
 {
 "title": "Design v ADHD",
@@ -2178,13 +2052,6 @@
 "published": "2026-10-20T21:29:28Z",
 "summary": "",
 "source": "UX Collective"
-},
-{
-"title": "DotMD",
-"url": "https://www.producthunt.com/products/dotmd-3",
-"published": "2026-10-20T18:09:25Z",
-"summary": "Review your AI agent's Markdown specs like a pull request Discussion | Link",
-"source": "Product Hunt"
 }
 ]
 }
