@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23T23:56:14.901146Z",
+"updated": "2026-10-24T04:17:28.014530Z",
 "count": 320,
 "items": [
 {
@@ -50,6 +50,13 @@
 "published": "2026-10-23T22:37:02Z",
 "summary": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.",
 "source": "Engadget"
+},
+{
+"title": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
+"url": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
+"published": "2026-10-23T22:36:11Z",
+"summary": "We've totally got things under control",
+"source": "The Register"
 },
 {
 "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
@@ -288,6 +295,13 @@
 "published": "2026-10-23T17:18:31Z",
 "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
 "source": "Ars Technica"
+},
+{
+"title": "Public monitoring adds triage, validity, API, and webhooks",
+"url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+"published": "2026-10-23T17:17:58Z",
+"summary": "Public monitoring now includes alert management capabilities like automatic validity checks to help you triage and remediate leaked secrets at scale. Alert management with dismissals, timelines, and…",
+"source": "GitHub Changelog"
 },
 {
 "title": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
@@ -1039,17 +1053,17 @@
 "source": "Sidebar"
 },
 {
-"title": "Quote of the Day by George Lucas: \"Failure is another word for experience\"",
-"url": "https://www.creativebloq.com/inspiration/quote-of-the-day-by-george-lucas-failure-is-another-word-for-experience",
-"published": "2026-10-23T07:00:00Z",
-"summary": "Why getting it wrong is part of being creative.",
-"source": "Creative Bloq"
-},
-{
 "title": "Olivia Rodrigo just showed creatives how to deal with false design allegations in style",
 "url": "https://www.creativebloq.com/news/olivia-rodrigo-just-showed-creatives-how-to-deal-with-false-design-allegations-in-style",
 "published": "2026-10-23T07:00:00Z",
 "summary": "Accused of using AI, the pop star’s team responded with something better than denial.",
+"source": "Creative Bloq"
+},
+{
+"title": "Quote of the Day by George Lucas: \"Failure is another word for experience\"",
+"url": "https://www.creativebloq.com/inspiration/quote-of-the-day-by-george-lucas-failure-is-another-word-for-experience",
+"published": "2026-10-23T07:00:00Z",
+"summary": "Why getting it wrong is part of being creative.",
 "source": "Creative Bloq"
 },
 {
@@ -1067,17 +1081,17 @@
 "source": "Product Hunt"
 },
 {
-"title": "The ambitious EA Sports rebrand looks great from every angle",
-"url": "https://www.creativebloq.com/news/the-ambitious-ea-sports-rebrand-looks-great-from-every-angle",
-"published": "2026-10-23T06:00:00Z",
-"summary": "Brand check: DixonBaxi have released their superb rebranding of EAFC27 – a work blending iconic branding with sports and gaming culture.",
-"source": "Creative Bloq"
-},
-{
 "title": "how humour can enhance the storytelling in your art",
 "url": "https://www.creativebloq.com/how-to/how-humour-can-enhance-the-storytelling-in-your-art",
 "published": "2026-10-23T06:00:00Z",
 "summary": "Eilene Huang reveals how adding comedic touches can boost a scene.",
+"source": "Creative Bloq"
+},
+{
+"title": "The ambitious EA Sports rebrand looks great from every angle",
+"url": "https://www.creativebloq.com/news/the-ambitious-ea-sports-rebrand-looks-great-from-every-angle",
+"published": "2026-10-23T06:00:00Z",
+"summary": "Brand check: DixonBaxi have released their superb rebranding of EAFC27 – a work blending iconic branding with sports and gaming culture.",
 "source": "Creative Bloq"
 },
 {
@@ -1515,13 +1529,6 @@
 "source": "The Register"
 },
 {
-"title": "Pull requests: Saved whitespace preferences and improved split view",
-"url": "https://github.blog/changelog/2026-10-22-pull-requests-saved-whitespace-preferences-and-improved-split-view",
-"published": "2026-10-22T17:24:56Z",
-"summary": "Two improvements make it easier to review pull requests in the “Files changed” page: You can save your whitespace visibility preference across pull requests New and deleted files now use… The post…",
-"source": "GitHub Changelog"
-},
-{
 "title": "How bug bounty sharpens one researcher’s security skills",
 "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
 "published": "2026-10-22T17:21:30Z",
@@ -1858,7 +1865,7 @@
 "source": "Product Hunt"
 },
 {
-"title": "Vercel Labs Open-Sources fx: A Zig Coding Agent Designed to Be Embedded",
+"title": "Vercel Labs Open-Sources fx: a Zig Coding Agent Designed to Be Embedded",
 "url": "https://www.infoq.com/news/2026/10/vercel-zig-fx-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
 "published": "2026-10-22T09:33:00Z",
 "summary": "Vercel Labs has released fx, an experimental open-source coding agent written in Zig. It runs as a CLI, a script component, or an embedded library, including a WebAssembly build. Early feedback…",
@@ -1900,13 +1907,6 @@
 "source": "MIT Technology Review"
 },
 {
-"title": "Vendors asking forward deployed engineers to make good on trillion-dollar AI bet",
-"url": "https://www.theregister.com/ai-and-ml/2026/10/22/vendors-asking-forward-deployed-engineers-to-make-good-on-trillion-dollar-ai-bet/5304366",
-"published": "2026-10-22T08:30:00Z",
-"summary": "They might earn more than $200k but who do they work for? Tech buyers need to put some checks in place on FDEs",
-"source": "The Register"
-},
-{
 "title": "This underused Photoshop layer is key for adding atmosphere to fantasy art",
 "url": "https://www.creativebloq.com/how-to/this-underused-photoshop-layer-is-key-for-adding-atmosphere-to-fantasy-art",
 "published": "2026-10-22T08:00:00Z",
@@ -1921,7 +1921,7 @@
 "source": "Product Hunt"
 },
 {
-"title": "Developer Behind the AI-Built Adobe Clones Says They Are “Not Anywhere Close to Ready",
+"title": "Developer behind the AI-Built Adobe Clones Says They Are “Not Anywhere Close to Ready\"",
 "url": "https://www.infoq.com/news/2026/10/photocraft-adobe-parity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
 "published": "2026-10-22T07:41:00Z",
 "summary": "A developer used Claude Opus 5.5 to build open-source replacements for seven Adobe applications, promoted them across Reddit with a projection of roughly 100% parity within a month, then told Hacker…",
@@ -1933,13 +1933,6 @@
 "published": "2026-10-22T07:00:00Z",
 "summary": "Not everyone can pull off the Vice City look.",
 "source": "Creative Bloq"
-},
-{
-"title": "Tetriz Engg Intelligence + Connectors",
-"url": "https://www.producthunt.com/products/tetriz-engg-intelligence-connectors",
-"published": "2026-10-22T06:09:23Z",
-"summary": "Connect coding sessions to PRs, issues, quality, and ROI Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Resend Inboxes",
@@ -1998,10 +1991,10 @@
 "source": "UX Collective"
 },
 {
-"title": "Radaric",
-"url": "https://www.producthunt.com/products/radaric",
-"published": "2026-10-21T20:48:58Z",
-"summary": "AI feed reader that learns your editorial taste Discussion | Link",
+"title": "Bits",
+"url": "https://www.producthunt.com/products/bits-4",
+"published": "2026-10-21T20:59:15Z",
+"summary": "An open-source personal agent that gets you things done Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -2040,6 +2033,13 @@
 "source": "Creative Bloq"
 },
 {
+"title": "ElevenLabs Realtime Translation",
+"url": "https://www.producthunt.com/products/elevenlabs-realtime-translation",
+"published": "2026-10-21T14:36:07Z",
+"summary": "Turn live speech into translated audio as people talk Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "The massive Creality Halloween sale slashes 3D printer prices by up to 42%, with options for beginners and pros",
 "url": "https://www.creativebloq.com/deals/the-massive-creality-halloween-sale-slashes-3d-printer-prices-by-up-to-42-percent-with-options-for-beginners-and-pros",
 "published": "2026-10-21T14:15:44Z",
@@ -2073,13 +2073,6 @@
 "published": "2026-10-21T12:00:00Z",
 "summary": "Harry Potter fan fiction has found a new playground, but I have awkward questions.",
 "source": "Creative Bloq"
-},
-{
-"title": "Mercury 3",
-"url": "https://www.producthunt.com/products/mercury-412",
-"published": "2026-10-21T09:51:21Z",
-"summary": "The diffusion LLM that scaled 40x without slowing down Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "We can do impossible things",
@@ -2191,6 +2184,13 @@
 "url": "https://www.producthunt.com/products/realtime-max-mini",
 "published": "2026-10-20T14:31:02Z",
 "summary": "Realtime voice agent models with 570ms to first audio Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "Voxelo 3.0",
+"url": "https://www.producthunt.com/products/voxelo-ai",
+"published": "2026-10-20T13:15:43Z",
+"summary": "Phone video to photoreal 3D & JSON-LD in an hour Discussion | Link",
 "source": "Product Hunt"
 },
 {
