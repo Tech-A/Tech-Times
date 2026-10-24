@@ -1,7 +1,28 @@
 {
-"updated": "2026-10-24T04:17:28.014530Z",
-"count": 320,
+"updated": "2026-10-24T09:01:56.624765Z",
+"count": 319,
 "items": [
+{
+"title": "Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM",
+"url": "https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-10-24T08:34:00Z",
+"summary": "Google has made Data Agent Kit generally available, a free set of MCP tools and 37 open-source skills that connect coding agents to more than fifteen Google Data Cloud services. Two kinds of…",
+"source": "InfoQ"
+},
+{
+"title": "Cloudflare Reclaims 100 TB of RAM by Optimizing Consistent Hashing",
+"url": "https://www.infoq.com/news/2026/10/cloudflare-hashing-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-10-24T08:10:00Z",
+"summary": "Cloudflare recently documented how it reduced the memory footprint of its internal load-balancing service by more than 100 TB by optimizing the Rust implementation of consistent hashing in…",
+"source": "InfoQ"
+},
+{
+"title": "\"Nobody has it figured out, and that’s the point\": Radim Malinic on the power of creative risk",
+"url": "https://www.creativebloq.com/news/nobody-has-it-figured-out-and-thats-the-point-radim-malinic-on-the-power-of-creative-risk",
+"published": "2026-10-24T08:00:00Z",
+"summary": "The creative director makes the case for backing yourself in his new book, Daring Forever.",
+"source": "Creative Bloq"
+},
 {
 "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
 "url": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
@@ -267,6 +288,13 @@
 "published": "2026-10-23T17:55:03Z",
 "summary": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout.…",
 "source": "The Verge"
+},
+{
+"title": "Basedash Scheduled CSV Exports",
+"url": "https://www.producthunt.com/products/basedash",
+"published": "2026-10-23T17:51:50Z",
+"summary": "Ask once. Get a fresh CSV in Slack or email every week. Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Elon Musk’s dangerous grip on outer space",
@@ -633,6 +661,13 @@
 "source": "Tom's Hardware"
 },
 {
+"title": "sideOS.ai",
+"url": "https://www.producthunt.com/products/sideos-ai",
+"published": "2026-10-23T13:28:40Z",
+"summary": "Local AI for dictation, meetings, background tasks and more Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Greece enacts social media ban for kids under 15",
 "url": "https://www.engadget.com/2295143/greece-enacts-social-media-ban-for-kids-under-15/",
 "published": "2026-10-23T13:12:47Z",
@@ -990,6 +1025,13 @@
 "source": "Creative Bloq"
 },
 {
+"title": "Canva Craft",
+"url": "https://www.producthunt.com/products/canva",
+"published": "2026-10-23T08:41:59Z",
+"summary": "Turn prompts into design-ready images you can edit Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Beware the claw: Do you want to win the bunny or reboot Android?",
 "url": "https://www.theregister.com/offbeat/2026/10/23/beware-the-claw-do-you-want-to-win-the-bunny-or-reboot-android/5304172",
 "published": "2026-10-23T08:30:00Z",
@@ -1067,31 +1109,17 @@
 "source": "Creative Bloq"
 },
 {
-"title": "ShogunAI",
-"url": "https://www.producthunt.com/products/shogunai",
-"published": "2026-10-23T06:32:57Z",
-"summary": "Your personal AGI on your pc Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Product Hunt Visual Launch Editor",
-"url": "https://www.producthunt.com/products/producthunt",
-"published": "2026-10-23T06:03:38Z",
-"summary": "See your launch as you build it Discussion | Link",
-"source": "Product Hunt"
+"title": "The ambitious EA Sports rebrand looks great from every angle",
+"url": "https://www.creativebloq.com/news/the-ambitious-ea-sports-rebrand-looks-great-from-every-angle",
+"published": "2026-10-23T06:00:00Z",
+"summary": "Brand check: DixonBaxi have released their superb rebranding of EAFC27 – a work blending iconic branding with sports and gaming culture.",
+"source": "Creative Bloq"
 },
 {
 "title": "how humour can enhance the storytelling in your art",
 "url": "https://www.creativebloq.com/how-to/how-humour-can-enhance-the-storytelling-in-your-art",
 "published": "2026-10-23T06:00:00Z",
 "summary": "Eilene Huang reveals how adding comedic touches can boost a scene.",
-"source": "Creative Bloq"
-},
-{
-"title": "The ambitious EA Sports rebrand looks great from every angle",
-"url": "https://www.creativebloq.com/news/the-ambitious-ea-sports-rebrand-looks-great-from-every-angle",
-"published": "2026-10-23T06:00:00Z",
-"summary": "Brand check: DixonBaxi have released their superb rebranding of EAFC27 – a work blending iconic branding with sports and gaming culture.",
 "source": "Creative Bloq"
 },
 {
@@ -1121,13 +1149,6 @@
 "published": "2026-10-23T04:22:57Z",
 "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
 "source": "TechCrunch"
-},
-{
-"title": "Agent Hunt",
-"url": "https://www.producthunt.com/products/monid",
-"published": "2026-10-23T04:03:20Z",
-"summary": "Live rankings of the tools AI agents use most Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
@@ -1480,6 +1501,13 @@
 "source": "GitHub Changelog"
 },
 {
+"title": "1Password for Agents",
+"url": "https://www.producthunt.com/products/1password",
+"published": "2026-10-22T18:14:06Z",
+"summary": "Let AI agents sign in for you without seeing your passwords Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Public monitoring now available with data residency",
 "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
 "published": "2026-10-22T18:12:58Z",
@@ -1527,6 +1555,13 @@
 "published": "2026-10-22T17:36:30Z",
 "summary": "Vendor 'strongly recommends' upgrading to a fixed version 'as soon as possible'",
 "source": "The Register"
+},
+{
+"title": "River Writer",
+"url": "https://www.producthunt.com/products/river-writer",
+"published": "2026-10-22T17:23:21Z",
+"summary": "A quiet Mac app for screenplays, stage plays and novels Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "How bug bounty sharpens one researcher’s security skills",
@@ -1935,10 +1970,10 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Resend Inboxes",
-"url": "https://www.producthunt.com/products/resend",
-"published": "2026-10-22T05:25:49Z",
-"summary": "Create shared inboxes, connect your agents, build workflows Discussion | Link",
+"title": "Penta",
+"url": "https://www.producthunt.com/products/penta-cd-player-changer",
+"published": "2026-10-22T04:20:49Z",
+"summary": "A ’90s 5-disc CD changer on iPhone Duo Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -1991,13 +2026,6 @@
 "source": "UX Collective"
 },
 {
-"title": "Bits",
-"url": "https://www.producthunt.com/products/bits-4",
-"published": "2026-10-21T20:59:15Z",
-"summary": "An open-source personal agent that gets you things done Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Autodesk reveals how The Cat in the Hat was made in the new Made to Make series",
 "url": "https://www.creativebloq.com/news/autodesk-reveals-how-the-cat-in-the-hat-was-made-in-the-new-made-to-make-series-",
 "published": "2026-10-21T18:55:07Z",
@@ -2005,11 +2033,11 @@
 "source": "Creative Bloq"
 },
 {
-"title": "eMudhra Intermediate CA Compromise",
-"url": "https://www.infoq.com/news/2026/10/emudhra-ca-compromise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-"published": "2026-10-21T17:30:00Z",
-"summary": "Private keys for eight eMudhra intermediate CA certificates have been compromised, allowing attackers to forge certificates for any site. The keys were revealed due to low entropy, not through a…",
-"source": "InfoQ"
+"title": "Byter",
+"url": "https://www.producthunt.com/products/byter",
+"published": "2026-10-21T16:47:39Z",
+"summary": "Know exactly how much data you use, on every network Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Polylane for Cloudflare",
@@ -2033,25 +2061,11 @@
 "source": "Creative Bloq"
 },
 {
-"title": "ElevenLabs Realtime Translation",
-"url": "https://www.producthunt.com/products/elevenlabs-realtime-translation",
-"published": "2026-10-21T14:36:07Z",
-"summary": "Turn live speech into translated audio as people talk Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "The massive Creality Halloween sale slashes 3D printer prices by up to 42%, with options for beginners and pros",
 "url": "https://www.creativebloq.com/deals/the-massive-creality-halloween-sale-slashes-3d-printer-prices-by-up-to-42-percent-with-options-for-beginners-and-pros",
 "published": "2026-10-21T14:15:44Z",
 "summary": "There's a spookily good deal on filaments too.",
 "source": "Creative Bloq"
-},
-{
-"title": "Netflix Bridges AWS IAM and Internal Identity with Workload Attestation",
-"url": "https://www.infoq.com/news/2026/10/netflix-workload-attestation-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-"published": "2026-10-21T13:45:00Z",
-"summary": "Netflix has developed a workload attestation mechanism for Apache Spark jobs running on Amazon EMR. The design combines AWS IAM identity with signed claims from Netflix’s control plane before issuing…",
-"source": "InfoQ"
 },
 {
 "title": "Make a DIY boo basket with up to 60% off Halloween goodies",
@@ -2131,24 +2145,10 @@
 "source": "UX Collective"
 },
 {
-"title": "GTA 6 unleashes saucy ads on the streets of Miami",
-"url": "https://www.creativebloq.com/news/gta-6-unleashes-saucy-ads-on-the-streets-of-miami",
-"published": "2026-10-21T08:00:00Z",
-"summary": "Reality and fiction are starting to blur.",
-"source": "Creative Bloq"
-},
-{
-"title": "Cloudflare Clairic",
-"url": "https://www.producthunt.com/products/cloudflare",
-"published": "2026-10-21T02:18:07Z",
-"summary": "Cloudflare's AI model for fast, cheap data extraction Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Dots Phone",
-"url": "https://www.producthunt.com/products/dots-phone",
-"published": "2026-10-21T00:32:17Z",
-"summary": "A phone-calling plugin for OpenAI Dots Discussion | Link",
+"title": "Shedi",
+"url": "https://www.producthunt.com/products/shedi",
+"published": "2026-10-21T06:38:11Z",
+"summary": "Get back the space Xcode, Docker and node_modules ate Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -2180,17 +2180,10 @@
 "source": "GitHub Blog"
 },
 {
-"title": "ElevenLabs Realtime",
-"url": "https://www.producthunt.com/products/realtime-max-mini",
-"published": "2026-10-20T14:31:02Z",
-"summary": "Realtime voice agent models with 570ms to first audio Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Voxelo 3.0",
-"url": "https://www.producthunt.com/products/voxelo-ai",
-"published": "2026-10-20T13:15:43Z",
-"summary": "Phone video to photoreal 3D & JSON-LD in an hour Discussion | Link",
+"title": "AgentValley",
+"url": "https://www.producthunt.com/products/agentvalley",
+"published": "2026-10-20T12:55:46Z",
+"summary": "Every Claude Code agent, at a glance, in your Mac's notch Discussion | Link",
 "source": "Product Hunt"
 },
 {
