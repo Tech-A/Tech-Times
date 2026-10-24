@@ -1,7 +1,42 @@
 {
-"updated": "2026-10-24T19:40:50.633613Z",
-"count": 293,
+"updated": "2026-10-24T22:18:41.699883Z",
+"count": 292,
 "items": [
+{
+"title": "The pros and cons of using an eSIM over a physical SIM card",
+"url": "https://www.engadget.com/2292112/using-esim-vs-physcial-sim-card-pros-and-cons/",
+"published": "2026-10-24T22:00:00Z",
+"summary": "eSIMs are more convenient than physical SIM cards in many ways, but they aren't a 100 percent upgrade.",
+"source": "Engadget"
+},
+{
+"title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
+"url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
+"published": "2026-10-24T21:46:33Z",
+"summary": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with a USB-C port for charging. The second is a 5,000mAh MagSafe offering , which offers 15W…",
+"source": "9to5Mac"
+},
+{
+"title": "Blue Planet III is keeping the rough edges in the age of AI",
+"url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+"published": "2026-10-24T21:29:12Z",
+"summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage…",
+"source": "The Verge"
+},
+{
+"title": "Starlink seems to be working normally again in Ukraine",
+"url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+"published": "2026-10-24T20:46:34Z",
+"summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+"source": "TechCrunch"
+},
+{
+"title": "Will AI expose the rickety infrastructure of the internet?",
+"url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+"published": "2026-10-24T20:15:33Z",
+"summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+"source": "TechCrunch"
+},
 {
 "title": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
 "url": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo/",
@@ -395,13 +430,6 @@
 "source": "Wired"
 },
 {
-"title": "Peak on consoles, hockey roguelites and other new indie games worth checking out",
-"url": "https://www.engadget.com/2295856/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/",
-"published": "2026-10-24T11:30:00Z",
-"summary": "Steam Next Fest means there are a lot of weird new games in our indie gaming roundup this week.",
-"source": "Engadget"
-},
-{
 "title": "Raspberry Pi Desktop proves old PCs aren't past it",
 "url": "https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676",
 "published": "2026-10-24T11:30:00Z",
@@ -610,13 +638,6 @@
 "published": "2026-10-23T21:29:58Z",
 "summary": "The new GitHub app in Teams brings notifications and Copilot together, helping teams turn issues into fixes and ship code faster without leaving the conversation. Get notified in channels, group… The…",
 "source": "GitHub Changelog"
-},
-{
-"title": "OpenAI now trains its frontier AI models with no internet access",
-"url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-"published": "2026-10-23T21:11:07Z",
-"summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment…",
-"source": "The Verge"
 },
 {
 "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
@@ -974,13 +995,6 @@
 "published": "2026-10-23T15:03:30Z",
 "summary": "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API… The…",
 "source": "GitHub Changelog"
-},
-{
-"title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
-"url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-"published": "2026-10-23T15:00:09Z",
-"summary": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
-"source": "TechCrunch"
 },
 {
 "title": "How Many Billions Would It Take to Hold Meta Accountable?",
@@ -1466,6 +1480,13 @@
 "source": "Creative Bloq"
 },
 {
+"title": "ShogunAI",
+"url": "https://www.producthunt.com/products/shogunai",
+"published": "2026-10-23T06:32:57Z",
+"summary": "Your personal AGI on your pc Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Product Hunt Visual Launch Editor",
 "url": "https://www.producthunt.com/products/producthunt",
 "published": "2026-10-23T06:03:38Z",
@@ -1501,13 +1522,6 @@
 "source": "Product Hunt"
 },
 {
-"title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
-"url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-"published": "2026-10-23T04:22:57Z",
-"summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-"source": "TechCrunch"
-},
-{
 "title": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch",
 "url": "https://9to5mac.com/2026/10/22/greg-joswiak-talks-iphone-duo-in-store-availability-and-demand-ahead-of-launch/",
 "published": "2026-10-23T03:15:09Z",
@@ -1519,13 +1533,6 @@
 "url": "https://9to5mac.com/2026/10/22/apple-is-finally-catching-up-with-siri-but-the-goalposts-are-moving-again/",
 "published": "2026-10-23T01:42:38Z",
 "summary": "9to5Mac is brought to you by Memoket : Memoket Gem is a 0.4 oz AI wearable that slots beside your Apple Watch. One press captures a conversation, and KITE memory connects it to what you said weeks…",
-"source": "9to5Mac"
-},
-{
-"title": "WhatsApp starts testing long-awaited scheduled messages on iPhone",
-"url": "https://9to5mac.com/2026/10/22/whatsapp-starts-testing-long-awaited-scheduled-messages-on-iphone/",
-"published": "2026-10-23T01:22:37Z",
-"summary": "After years of waiting, WhatsApp is finally making one of its most-requested messaging features available to select iPhone beta testers. Here are the details. more…",
 "source": "9to5Mac"
 },
 {
@@ -1795,10 +1802,10 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Monish",
-"url": "https://www.producthunt.com/products/monish",
-"published": "2026-10-22T14:38:26Z",
-"summary": "Your AI agents, live on your iPhone lock screen Discussion | Link",
+"title": "Gerty",
+"url": "https://www.producthunt.com/products/gerty",
+"published": "2026-10-22T14:14:10Z",
+"summary": "Private ChatGPT alternative that sets itself up on your Mac Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -2038,20 +2045,6 @@
 "published": "2026-10-21T00:32:17Z",
 "summary": "A phone-calling plugin for OpenAI Dots Discussion | Link",
 "source": "Product Hunt"
-},
-{
-"title": "Let AI have the average user: Why User Research should focus on bad days",
-"url": "https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4",
-"published": "2026-10-20T21:30:52Z",
-"summary": "Nn/g found that synthetic research captures common responses. The bad days are still up to you. Continue reading on UX Collective »",
-"source": "UX Collective"
-},
-{
-"title": "AI doesn’t care about your job title",
-"url": "https://uxdesign.cc/ai-doesnt-care-about-your-job-title-c08dd4fdf8d8?source=rss----138adf9c44c---4",
-"published": "2026-10-20T21:29:28Z",
-"summary": "",
-"source": "UX Collective"
 }
 ]
 }
