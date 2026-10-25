@@ -1,7 +1,49 @@
 {
-"updated": "2026-10-25T05:10:16.894448Z",
-"count": 307,
+"updated": "2026-10-25T10:02:48.197298Z",
+"count": 296,
 "items": [
+{
+"title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads",
+"url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+"published": "2026-10-25T10:00:00Z",
+"summary": "A hacker reverse-engineered his own Samsung TV and found alarming spying activity, including code that used connected devices' microphones to listen to users.",
+"source": "Tom's Hardware"
+},
+{
+"title": "We Linked 150 of Ikea’s $10 Speakers to Make a Wall of Sound",
+"url": "https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/",
+"published": "2026-10-25T09:00:00Z",
+"summary": "WIRED attempts what even the Swedish brand hasn’t: making a sonic monolith using scores of the cheapest Bluetooth speakers on the market. Can you have too much of a small thing?",
+"source": "Wired"
+},
+{
+"title": "Reg readers land on 'Binface' as name for UK space cleanup mission",
+"url": "https://www.theregister.com/offbeat/2026/10/25/reg-readers-land-on-binface-as-name-for-uk-space-cleanup-mission/5305144",
+"published": "2026-10-25T09:00:00Z",
+"summary": "Intergalactic Space Warrior, or a bin in orbit?",
+"source": "The Register"
+},
+{
+"title": "Why do AI platforms want humans to design their branding?",
+"url": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
+"published": "2026-10-25T08:01:03Z",
+"summary": "AI firms keep hiring human designers. Ironic much?",
+"source": "Creative Bloq"
+},
+{
+"title": "PingCAP Breach Exposes Customer Records and Source Code",
+"url": "https://www.infoq.com/news/2026/10/pingcap-cloud-data-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-10-25T06:27:00Z",
+"summary": "PingCAP recently confirmed unauthorized access to its internal systems and the theft of source code and customer-related data. The attacker, cyber extortion group FulcrumSec, claimed to have stolen…",
+"source": "InfoQ"
+},
+{
+"title": "AgentGrid.io",
+"url": "https://www.producthunt.com/products/agentgrid-io",
+"published": "2026-10-25T05:39:16Z",
+"summary": "Shared workspace for humans and agents Discussion | Link",
+"source": "Product Hunt"
+},
 {
 "title": "Here's what you need to know before buying a wireless CarPlay adapter",
 "url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
@@ -92,6 +134,13 @@
 "published": "2026-10-24T19:30:00Z",
 "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If…",
 "source": "9to5Mac"
+},
+{
+"title": "Papermark Data Rooms",
+"url": "https://www.producthunt.com/products/papermark-2",
+"published": "2026-10-24T19:09:46Z",
+"summary": "Secure data rooms your AI agents can run. Live in Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -253,6 +302,13 @@
 "published": "2026-10-24T15:00:00Z",
 "summary": "The Sennheiser MOMENTUM True Wireless 5 offer sleek build, active-noise cancellation and could last a lot longer than rivals.",
 "source": "Creative Bloq"
+},
+{
+"title": "Yourcast 2.0",
+"url": "https://www.producthunt.com/products/yourcast",
+"published": "2026-10-24T14:42:59Z",
+"summary": "AI summaries with tap-to-jump timestamps, right in Telegram Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Why your Ring camera is still useful without a subscription",
@@ -493,17 +549,17 @@
 "source": "Wired"
 },
 {
-"title": "The Qubitunes Soundstage Toy Is a Great Gift for Kids",
-"url": "https://www.wired.com/story/qubitunes-starter-kit-october-2026/",
-"published": "2026-10-24T10:00:00Z",
-"summary": "This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.",
-"source": "Wired"
-},
-{
 "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
 "url": "https://www.wired.com/story/best-laptops/",
 "published": "2026-10-24T10:00:00Z",
 "summary": "I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.",
+"source": "Wired"
+},
+{
+"title": "The Qubitunes Soundstage Toy Is a Great Gift for Kids",
+"url": "https://www.wired.com/story/qubitunes-starter-kit-october-2026/",
+"published": "2026-10-24T10:00:00Z",
+"summary": "This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.",
 "source": "Wired"
 },
 {
@@ -568,6 +624,13 @@
 "published": "2026-10-24T08:00:00Z",
 "summary": "The creative director makes the case for backing yourself in his new book, Daring Forever.",
 "source": "Creative Bloq"
+},
+{
+"title": "Llama Windows",
+"url": "https://www.producthunt.com/products/llama-windows",
+"published": "2026-10-24T02:40:27Z",
+"summary": "One local AI server for all your Windows apps Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
@@ -1368,13 +1431,6 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "Extremely rare and 'previously undocumented' Pokémon Red prototype cartridge surfaces at auction, starting at $25,000",
-"url": "https://www.tomshardware.com/video-games/nintendo/extremely-rare-and-previously-undocumented-pokemon-red-prototype-cartridge-surfaces-at-auction-starting-at-usd25-000-nintendo-game-boy-dev-board-from-1998-features-32kb-of-readable-memory-fully-identical-to-the-final-game-release",
-"published": "2026-10-23T09:40:00Z",
-"summary": "A rare prototype cartridge of Pokémon Red for the Nintendo Game Boy is on sale, with one $25,000 bid so far.",
-"source": "Tom's Hardware"
-},
-{
 "title": "Best Early Black Friday Smart Bird Feeder Deals (2026)",
 "url": "https://www.wired.com/story/early-black-friday-smart-bird-feeder-deals-october-2026/",
 "published": "2026-10-23T09:30:00Z",
@@ -1515,20 +1571,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "ShogunAI",
-"url": "https://www.producthunt.com/products/shogunai",
-"published": "2026-10-23T06:32:57Z",
-"summary": "Your personal AGI on your pc Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Product Hunt Visual Launch Editor",
-"url": "https://www.producthunt.com/products/producthunt",
-"published": "2026-10-23T06:03:38Z",
-"summary": "See your launch as you build it Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "how humour can enhance the storytelling in your art",
 "url": "https://www.creativebloq.com/how-to/how-humour-can-enhance-the-storytelling-in-your-art",
 "published": "2026-10-23T06:00:00Z",
@@ -1548,13 +1590,6 @@
 "published": "2026-10-23T05:26:00Z",
 "summary": "Catching lightning in a tech support bottle",
 "source": "The Register"
-},
-{
-"title": "Termi Protocol",
-"url": "https://www.producthunt.com/products/termi-protocol",
-"published": "2026-10-23T04:32:57Z",
-"summary": "Watch AI agents code in 3D and hand off the work Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Agent Hunt",
@@ -1634,13 +1669,6 @@
 "source": "Ars Technica"
 },
 {
-"title": "Peras",
-"url": "https://www.producthunt.com/products/peras",
-"published": "2026-10-22T21:38:15Z",
-"summary": "Pause Claude Code and Codex before they burn your week Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Railway warns devs to rotate secrets after potential breach",
 "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
 "published": "2026-10-22T21:25:31Z",
@@ -1660,13 +1688,6 @@
 "published": "2026-10-22T21:07:09Z",
 "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
 "source": "Ars Technica"
-},
-{
-"title": "Plango",
-"url": "https://www.producthunt.com/products/plango",
-"published": "2026-10-22T21:03:15Z",
-"summary": "Use AI to defend against AI Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Global default for Copilot features generally available",
@@ -1723,13 +1744,6 @@
 "published": "2026-10-22T19:12:51Z",
 "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
 "source": "BleepingComputer"
-},
-{
-"title": "Inside the Exclusive Nathan Fielder Interview",
-"url": "https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/",
-"published": "2026-10-22T19:06:37Z",
-"summary": "This week on “Uncanny Valley,” we go behind the scenes of our Nathan Fielder cover story, unpack tech billionaires’ generous promises, and discuss the suspicious letters sent to US election offices.",
-"source": "Wired"
 },
 {
 "title": "The Foundations of Scalable AI",
@@ -1844,20 +1858,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Monish",
-"url": "https://www.producthunt.com/products/monish",
-"published": "2026-10-22T14:38:26Z",
-"summary": "Your AI agents, live on your iPhone lock screen Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Gerty",
-"url": "https://www.producthunt.com/products/gerty",
-"published": "2026-10-22T14:14:10Z",
-"summary": "Private ChatGPT alternative that sets itself up on your Mac Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Singapore boffins weave a GUI into fabric, and it's machine washable too",
 "url": "https://www.theregister.com/offbeat/2026/10/22/singapore-boffins-weave-a-gui-into-fabric-and-its-machine-washable-too/5304785",
 "published": "2026-10-22T14:09:01Z",
@@ -1877,13 +1877,6 @@
 "published": "2026-10-22T14:00:00Z",
 "summary": "A recent Harvard study of 718 firms, using the Jellyfish analytics platform, finds that although AI coding assistants and agents increase code volume, this does not translate into a corresponding…",
 "source": "InfoQ"
-},
-{
-"title": "Dots",
-"url": "https://www.producthunt.com/products/dots-7",
-"published": "2026-10-22T13:15:51Z",
-"summary": "A customizable workspace built into your Mac's notch Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
@@ -1914,6 +1907,13 @@
 "source": "MIT Technology Review"
 },
 {
+"title": "MRRaudit",
+"url": "https://www.producthunt.com/products/mrraudit",
+"published": "2026-10-22T11:47:53Z",
+"summary": "Understand why your MRR differs and get a number you trust Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Microsoft says ConnectWise breach let Chinese spies loose on 2,250 cloud tenants",
 "url": "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
 "published": "2026-10-22T11:28:00Z",
@@ -1926,13 +1926,6 @@
 "published": "2026-10-22T11:00:00Z",
 "summary": "Manju Rajashekhar explains how the actor model solves the complex runtime challenges of production AI agents. By treating agents as distributed systems, he discusses state ownership, message passing…",
 "source": "InfoQ"
-},
-{
-"title": "Veteran ESA probe rolls out welcome mat for Japan's Phobos mission",
-"url": "https://www.theregister.com/science/2026/10/22/veteran-esa-probe-rolls-out-welcome-mat-for-japans-phobos-mission/5304684",
-"published": "2026-10-22T10:45:27Z",
-"summary": "Mars Express could support MMX's 2027 arrival as another 'last ever' extension keeps old spacecraft in flight",
-"source": "The Register"
 },
 {
 "title": "Making the case for context-aware AI",
@@ -1967,13 +1960,6 @@
 "url": "https://www.infoq.com/articles/ai-changes-data-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
 "published": "2026-10-22T09:00:00Z",
 "summary": "This article presents a disaster-recovery analytics workflow in which an AI agent generates constrained SQL or Python, DuckDB computes reproducible facts from Parquet, and the agent interprets the…",
-"source": "InfoQ"
-},
-{
-"title": "Harbor Adds Docker Sandboxes to Run Reproducible AI Agent Evals in Isolated MicroVMs",
-"url": "https://www.infoq.com/news/2026/10/ai-agents-harbor-docker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-"published": "2026-10-22T09:00:00Z",
-"summary": "Docker announced that Harbor, the open-source agent evaluation framework, now works with Docker Sandboxes. This change allows each evaluation task to run in its own microVM. So, instead of sharing a…",
 "source": "InfoQ"
 },
 {
@@ -2068,13 +2054,6 @@
 "source": "UX Collective"
 },
 {
-"title": "Autodesk reveals how The Cat in the Hat was made in the new Made to Make series",
-"url": "https://www.creativebloq.com/news/autodesk-reveals-how-the-cat-in-the-hat-was-made-in-the-new-made-to-make-series-",
-"published": "2026-10-21T18:55:07Z",
-"summary": "The series goes behind the scenes to show the tools that made Warner's new animated movie possible.",
-"source": "Creative Bloq"
-},
-{
 "title": "Byter",
 "url": "https://www.producthunt.com/products/byter",
 "published": "2026-10-21T16:47:39Z",
@@ -2094,62 +2073,6 @@
 "published": "2026-10-21T12:10:00Z",
 "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print…",
 "source": "MIT Technology Review"
-},
-{
-"title": "We can do impossible things",
-"url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
-"published": "2026-10-21T09:00:00Z",
-"summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even…",
-"source": "MIT Technology Review"
-},
-{
-"title": "Your product is not the center of the universe",
-"url": "https://apeatling.com/2026/10/19/your-product-is-not-the-center-of-the-universe/",
-"published": "2026-10-21T08:28:34Z",
-"summary": "Established products have a problem. They assume they’re the center of someone’s universe, and everything should feed through them.",
-"source": "Sidebar"
-},
-{
-"title": "AI is driving a boom in modestly successful software projects",
-"url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
-"published": "2026-10-21T08:28:04Z",
-"summary": "If AI is so great, why aren’t we seeing an explosion of new, amazing software products?",
-"source": "Sidebar"
-},
-{
-"title": "Toolcraft",
-"url": "https://toolcraft.sh/",
-"published": "2026-10-21T08:27:35Z",
-"summary": "An open-source starter kit and UI library for building custom design apps with AI.",
-"source": "Sidebar"
-},
-{
-"title": "EditUI",
-"url": "https://www.editui.app/",
-"published": "2026-10-21T08:26:44Z",
-"summary": "Point at your UI. Tell your coding agent what to change.",
-"source": "Sidebar"
-},
-{
-"title": "A simple guide to calm UI",
-"url": "https://maxschmitt.me/posts/calm",
-"published": "2026-10-21T08:26:07Z",
-"summary": "A few basic rules to keep in mind to make simple UIs feel a lot better.",
-"source": "Sidebar"
-},
-{
-"title": "Design v ADHD",
-"url": "https://uxdesign.cc/design-vs-adhd-4411c3b81d1b?source=rss----138adf9c44c---4",
-"published": "2026-10-21T08:18:25Z",
-"summary": "",
-"source": "UX Collective"
-},
-{
-"title": "Shedi",
-"url": "https://www.producthunt.com/products/shedi",
-"published": "2026-10-21T06:38:11Z",
-"summary": "Get back the space Xcode, Docker and node_modules ate Discussion | Link",
-"source": "Product Hunt"
 }
 ]
 }
