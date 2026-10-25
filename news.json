@@ -1,7 +1,140 @@
 {
-"updated": "2026-10-25T14:30:42.913362Z",
-"count": 297,
+"updated": "2026-10-25T18:15:22.176795Z",
+"count": 294,
 "items": [
+{
+"title": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
+"url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+"published": "2026-10-25T18:00:00Z",
+"summary": "Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger.",
+"source": "Engadget"
+},
+{
+"title": "PyTorch Conference 2026: Google and Meta Open-Source TorchTPU for Native PyTorch on TPUs",
+"url": "https://www.infoq.com/news/2026/10/google-meta-torchtpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-10-25T18:00:00Z",
+"summary": "Google and Meta open-sourced TorchTPU, a native PyTorch backend for Google's TPUs, at PyTorch Conference North America 2026, and Meta said it plans to move larger LLM workloads onto TPUs with it. AWS…",
+"source": "InfoQ"
+},
+{
+"title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+"url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+"published": "2026-10-25T17:00:00Z",
+"summary": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a…",
+"source": "The Verge"
+},
+{
+"title": "Google ML Drift Accelerates On-Device AI Inference Across Diverse GPUs",
+"url": "https://www.infoq.com/news/2026/10/google-ml-drift/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-10-25T17:00:00Z",
+"summary": "Google has released ML Drift, an open-source, cross-platform GPU compute engine designed for on-device AI and machine learning inference. Licensed under Apache 2.0, it abstracts the complexities of…",
+"source": "InfoQ"
+},
+{
+"title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+"url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+"published": "2026-10-25T16:57:32Z",
+"summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+"source": "TechCrunch"
+},
+{
+"title": "What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?",
+"url": "https://www.engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone/",
+"published": "2026-10-25T16:45:00Z",
+"summary": "AirPods work with any Bluetooth device, but they lose almost all of Apple's fancy features.",
+"source": "Engadget"
+},
+{
+"title": "8BitDo's latest button-only arcade controller is now up for pre-order",
+"url": "https://www.engadget.com/2296362/8bitdos-latest-button-only-arcade-controller-is-now-up-for-preorder/",
+"published": "2026-10-25T16:42:46Z",
+"summary": "The Arcade Controller Pro starts at $119.99 and will start shipping in late November.",
+"source": "Engadget"
+},
+{
+"title": "Now you can watch Instagram Reels on your Apple TV",
+"url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+"published": "2026-10-25T16:20:17Z",
+"summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other…",
+"source": "The Verge"
+},
+{
+"title": "The internet needs IPv6 and so does your home network",
+"url": "https://www.engadget.com/2293285/internet-home-network-needs-ipv6/",
+"published": "2026-10-25T16:15:00Z",
+"summary": "IPv6 has more available addresses than we could ever hope to use, but not all devices are taking advantage yet.",
+"source": "Engadget"
+},
+{
+"title": "OLED iPad mini 8 debuting this week: Here’s what’s coming, and how much it’ll cost",
+"url": "https://9to5mac.com/2026/10/25/ipad-mini-8-redesign-with-oled-coming-this-week/",
+"published": "2026-10-25T16:06:33Z",
+"summary": "For the first time since 2021, Apple will be overhauling the iPad mini with new display technology. It also marks the first chip refresh since 2024. Here’s what Apple has in store for this all-new…",
+"source": "9to5Mac"
+},
+{
+"title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+"url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+"published": "2026-10-25T16:05:00Z",
+"summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+"source": "TechCrunch"
+},
+{
+"title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+"url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+"published": "2026-10-25T15:49:38Z",
+"summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+"source": "BleepingComputer"
+},
+{
+"title": "Here's how much PlayStation Plus cost in 2010 vs. 2026",
+"url": "https://www.engadget.com/2293248/how-much-playstation-plus-cost-2010-vs-2026/",
+"published": "2026-10-25T15:45:00Z",
+"summary": "Sony's gaming service has changed a lot in recent years, and the price reflects that.",
+"source": "Engadget"
+},
+{
+"title": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns",
+"url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins",
+"published": "2026-10-25T15:25:40Z",
+"summary": "Revenue per employee at the Magnificent Seven has outpaced the S&P 493, and a new comparison highlights the growing divide in fortunes between America’s largest technology companies and the rest of…",
+"source": "Tom's Hardware"
+},
+{
+"title": "4 Ray-Ban Meta privacy settings you should change before wearing them",
+"url": "https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing/",
+"published": "2026-10-25T15:15:00Z",
+"summary": "Ray-Ban Meta smart glasses have rightly been criticized for the many ways they can violate people's privacy.",
+"source": "Engadget"
+},
+{
+"title": "IQUNIX MQ80 low profile mechanical keyboard review",
+"url": "https://www.tomshardware.com/peripherals/mechanical-keyboards/iqunix-mq80-low-profile-mechanical-keyboard-review",
+"published": "2026-10-25T15:08:23Z",
+"summary": "The IQUNIX MQ80 is well-made and super stylish, but it’s not quite the instant sell it used to be. Catch this one if you don’t like magnetic switches, but otherwise wait for a sale.",
+"source": "Tom's Hardware"
+},
+{
+"title": "These beautiful buds bring expertly tuned audiophile sound to wireless inner-ear headphones",
+"url": "https://www.creativebloq.com/deals/these-beautiful-buds-bring-audiophile-sound-quality-to-wireless-inner-ear-headphones",
+"published": "2026-10-25T15:00:00Z",
+"summary": "The Status Pro X GoldenSound Edition offer a specialist signature tuning that targets a more acoustic-friendly and realistic presentation.",
+"source": "Creative Bloq"
+},
+{
+"title": "Touchscreen OLED MacBook Pro launches this week, here’s how the lineup will look",
+"url": "https://9to5mac.com/2026/10/25/macbook-pro-redesign-oled-touch-launching-this-week/",
+"published": "2026-10-25T14:48:28Z",
+"summary": "This week, Apple will be reversing a decades-long decision to exclude touchscreens from its laptop lineup, and we’ll be getting our first ever touchscreen MacBook in just a number of days. This…",
+"source": "9to5Mac"
+},
+{
+"title": "Get the ultimate security for your MacBook by changing these privacy settings",
+"url": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
+"published": "2026-10-25T14:45:00Z",
+"summary": "Your Mac comes with a fairly robust suite of built-in privacy tools.",
+"source": "Engadget"
+},
 {
 "title": "Why are earbuds usually cheaper than headphones?",
 "url": "https://www.engadget.com/2293014/why-earbuds-cheaper-than-headphones/",
@@ -332,20 +465,6 @@
 "source": "Engadget"
 },
 {
-"title": "What are the different types of digital wallets?",
-"url": "https://www.engadget.com/2292582/different-types-digital-wallet-explained/",
-"published": "2026-10-24T22:30:00Z",
-"summary": "Digital wallets can completely remove the need to carry cards and cash, but there's a lot more to them than just your usual Apple, Samsung and Google offerings.",
-"source": "Engadget"
-},
-{
-"title": "The pros and cons of using an eSIM over a physical SIM card",
-"url": "https://www.engadget.com/2292112/using-esim-vs-physcial-sim-card-pros-and-cons/",
-"published": "2026-10-24T22:00:00Z",
-"summary": "eSIMs are more convenient than physical SIM cards in many ways, but they aren't a 100 percent upgrade.",
-"source": "Engadget"
-},
-{
 "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
 "url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
 "published": "2026-10-24T21:46:33Z",
@@ -395,13 +514,6 @@
 "source": "TechCrunch"
 },
 {
-"title": "Google is quietly linking your phone number to other Android accounts",
-"url": "https://www.engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts/",
-"published": "2026-10-24T18:45:00Z",
-"summary": "Adding a new SIM to your phone links it to all Google accounts, and any new Google accounts you add all inherit your phone number.",
-"source": "Engadget"
-},
-{
 "title": "Pennsylvania will require labels on AI-generated ads",
 "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
 "published": "2026-10-24T18:32:21Z",
@@ -409,39 +521,11 @@
 "source": "The Verge"
 },
 {
-"title": "Why the wires in your ethernet cables are twisted",
-"url": "https://www.engadget.com/2294278/why-wires-in-ethernet-cable-twisted-explained/",
-"published": "2026-10-24T18:30:00Z",
-"summary": "There's a good reason for that arrangement.",
-"source": "Engadget"
-},
-{
-"title": "Steam rolls out Personal Calendar feature that constantly updates recommended games",
-"url": "https://www.engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/",
-"published": "2026-10-24T18:09:54Z",
-"summary": "You can try out the new feature on the Steam store's homepage.",
-"source": "Engadget"
-},
-{
-"title": "Xbox Game Pass could let you pick which features you pay for",
-"url": "https://www.engadget.com/2296222/xbox-game-pass-pick-which-features/",
-"published": "2026-10-24T18:00:00Z",
-"summary": "Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set tiers.",
-"source": "Engadget"
-},
-{
 "title": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
 "url": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later/",
 "published": "2026-10-24T17:47:49Z",
 "summary": "Yesterday, I picked up my iPhone Duo at Apple Fifth Avenue , and it’s been a wonder to use. Of course, the phone isn’t perfect, but after my first day of usage, I’m looking forward to daily driving…",
 "source": "9to5Mac"
-},
-{
-"title": "Capcom confirms data breach that affected 11.7 million users",
-"url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
-"published": "2026-10-24T16:40:45Z",
-"summary": "Capcom ID is still available to use, but users may see more phishing scam emails.",
-"source": "Engadget"
 },
 {
 "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
@@ -591,13 +675,6 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "Lee Chang Dong ponders the ethics of the camera",
-"url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
-"published": "2026-10-24T12:30:00Z",
-"summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide.…",
-"source": "The Verge"
-},
-{
 "title": "This week on Tom's Hardware Premium: October 24, 2026",
 "url": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-24-2026-tp-links-fcc-saga-file-semantic-ssds-and-unlocking-better-gaming-performance-from-rtx-spark",
 "published": "2026-10-24T12:25:00Z",
@@ -617,13 +694,6 @@
 "published": "2026-10-24T12:06:43Z",
 "summary": "Valve practically just flipped a switch to give gamers the ability to read optical drives directly from the Steam Frame.",
 "source": "Tom's Hardware"
-},
-{
-"title": "Laika has spent 20 years building up to Wildwood",
-"url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
-"published": "2026-10-24T12:00:00Z",
-"summary": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and…",
-"source": "The Verge"
 },
 {
 "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
@@ -738,17 +808,17 @@
 "source": "Wired"
 },
 {
-"title": "The Qubitunes Soundstage Toy Is a Great Gift for Kids",
-"url": "https://www.wired.com/story/qubitunes-starter-kit-october-2026/",
-"published": "2026-10-24T10:00:00Z",
-"summary": "This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.",
-"source": "Wired"
-},
-{
 "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
 "url": "https://www.wired.com/story/best-laptops/",
 "published": "2026-10-24T10:00:00Z",
 "summary": "I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.",
+"source": "Wired"
+},
+{
+"title": "The Qubitunes Soundstage Toy Is a Great Gift for Kids",
+"url": "https://www.wired.com/story/qubitunes-starter-kit-october-2026/",
+"published": "2026-10-24T10:00:00Z",
+"summary": "This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.",
 "source": "Wired"
 },
 {
@@ -1130,25 +1200,11 @@
 "source": "Ars Technica"
 },
 {
-"title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-"url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-"published": "2026-10-23T16:26:29Z",
-"summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-"source": "TechCrunch"
-},
-{
 "title": "AI models describe humans as a bunch of amoral sheep",
 "url": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-describe-humans-as-a-bunch-of-amoral-sheep/5305123",
 "published": "2026-10-23T16:26:13Z",
 "summary": "Ask LLMs for their most controversial take on humanity, and it turns out they have little nice to say about us, as one AI experiment found",
 "source": "The Register"
-},
-{
-"title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-"url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-"published": "2026-10-23T16:20:28Z",
-"summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
-"source": "TechCrunch"
 },
 {
 "title": "Elon Musk Just Dumped Another $76 Million Into the Midterms",
@@ -1361,13 +1417,6 @@
 "source": "Product Hunt"
 },
 {
-"title": "Bambu Lab teases its mysterious H3C tool changer 3D printer",
-"url": "https://www.tomshardware.com/3d-printing/bambu-lab-teases-its-mysterious-h3c-tool-changer-3d-printer-features-nine-tools-and-a-drop-down-rack-slated-for-november-3-launch",
-"published": "2026-10-23T13:00:00Z",
-"summary": "Bambu Lab’s long-awaited tool changer H3C launches Nov. 3, 2026.",
-"source": "Tom's Hardware"
-},
-{
 "title": "Accordion Icons: Which Work Best?",
 "url": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
 "published": "2026-10-23T13:00:00Z",
@@ -1394,20 +1443,6 @@
 "published": "2026-10-23T12:29:00Z",
 "summary": "Watchdog also warns retiring Falcon and Dragon could leave US access to orbit short of a backup",
 "source": "The Register"
-},
-{
-"title": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network",
-"url": "https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor",
-"published": "2026-10-23T12:26:23Z",
-"summary": "A security firm has been able to identify 32 Nvidia Blackwell Ultra B300 AI chips running inside a China Telecom network, but it's unclear where the export-barred components are physically located.",
-"source": "Tom's Hardware"
-},
-{
-"title": "New iPhone Duo cases available for purchase: Fabric, leather, aramid fiber, metal, more [Updated]",
-"url": "https://9to5mac.com/2026/10/23/best-iphone-duo-cases-now-available-purchase/",
-"published": "2026-10-23T12:17:00Z",
-"summary": "Apple’s new iPhone Duo Apple’s all-new TechWoven treatment and Pitaka’s aramid fiber, we are also seeing some of the best leather brands in the business ready to take orders for their latest…",
-"source": "9to5Mac"
 },
 {
 "title": "The Download: testing six tech promises and biotech’s blind spots",
@@ -1676,13 +1711,6 @@
 "source": "The Register"
 },
 {
-"title": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch",
-"url": "https://9to5mac.com/2026/10/22/greg-joswiak-talks-iphone-duo-in-store-availability-and-demand-ahead-of-launch/",
-"published": "2026-10-23T03:15:09Z",
-"summary": "Friday is iPhone Duo launch day, and there are a lot of eager customers hoping to walk into an Apple Store and get one after a messy pre-order launch . In a new interview with TechRadar , Apple…",
-"source": "9to5Mac"
-},
-{
 "title": "GitHub Copilot in Visual Studio — September update",
 "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
 "published": "2026-10-23T00:17:51Z",
@@ -1900,13 +1928,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Monish",
-"url": "https://www.producthunt.com/products/monish",
-"published": "2026-10-22T14:38:26Z",
-"summary": "Your AI agents, live on your iPhone lock screen Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Singapore boffins weave a GUI into fabric, and it's machine washable too",
 "url": "https://www.theregister.com/offbeat/2026/10/22/singapore-boffins-weave-a-gui-into-fabric-and-its-machine-washable-too/5304785",
 "published": "2026-10-22T14:09:01Z",
@@ -1926,13 +1947,6 @@
 "published": "2026-10-22T14:00:00Z",
 "summary": "A recent Harvard study of 718 firms, using the Jellyfish analytics platform, finds that although AI coding assistants and agents increase code volume, this does not translate into a corresponding…",
 "source": "InfoQ"
-},
-{
-"title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-"url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-"published": "2026-10-22T13:09:12Z",
-"summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
-"source": "BleepingComputer"
 },
 {
 "title": "Nvidia's Huang: Don't mention the AI-pocalypse",
@@ -1982,27 +1996,6 @@
 "published": "2026-10-22T10:00:00Z",
 "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the…",
 "source": "MIT Technology Review"
-},
-{
-"title": "How Disney's Hexed got to put a common animation blooper in the final movie",
-"url": "https://www.creativebloq.com/news/disneys-hexed-features-a-hilarious-blooper-that-made-it-into-the-final-movie",
-"published": "2026-10-22T10:00:00Z",
-"summary": "And it totally works.",
-"source": "Creative Bloq"
-},
-{
-"title": "Vercel Labs Open-Sources fx: a Zig Coding Agent Designed to Be Embedded",
-"url": "https://www.infoq.com/news/2026/10/vercel-zig-fx-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-"published": "2026-10-22T09:33:00Z",
-"summary": "Vercel Labs has released fx, an experimental open-source coding agent written in Zig. It runs as a CLI, a script component, or an embedded library, including a WebAssembly build. Early feedback…",
-"source": "InfoQ"
-},
-{
-"title": "Article: AI Changes the Data Interface, Not the Query Engine",
-"url": "https://www.infoq.com/articles/ai-changes-data-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-"published": "2026-10-22T09:00:00Z",
-"summary": "This article presents a disaster-recovery analytics workflow in which an AI agent generates constrained SQL or Python, DuckDB computes reproducible facts from Parquet, and the agent interprets the…",
-"source": "InfoQ"
 },
 {
 "title": "AI’s hidden storage bill: What inference leaves behind",
@@ -2066,20 +2059,6 @@
 "published": "2026-10-21T21:50:06Z",
 "summary": "AI agents explain their own work fluently, and sometimes wrongly. Designers stopped trusting that kind of account from people long ago. Continue reading on UX Collective »",
 "source": "UX Collective"
-},
-{
-"title": "Byter",
-"url": "https://www.producthunt.com/products/byter",
-"published": "2026-10-21T16:47:39Z",
-"summary": "Know exactly how much data you use, on every network Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "The bridge to agent-scale Git infrastructure",
-"url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-"published": "2026-10-21T16:00:00Z",
-"summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge…",
-"source": "GitHub Blog"
 }
 ]
 }
