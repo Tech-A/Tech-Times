@@ -1,7 +1,14 @@
 {
-"updated": "2026-10-25T00:27:30.582037Z",
-"count": 292,
+"updated": "2026-10-25T05:10:16.894448Z",
+"count": 307,
 "items": [
+{
+"title": "Here's what you need to know before buying a wireless CarPlay adapter",
+"url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
+"published": "2026-10-25T00:30:00Z",
+"summary": "Wireless CarPlay doesn't require a new car or head unit; with the right adapter, you can enjoy a cable-free connection.",
+"source": "Engadget"
+},
 {
 "title": "What is the cheapest new gaming console you can buy in 2026?",
 "url": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/",
@@ -304,13 +311,6 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "How to get better iPhone battery life without closing any apps",
-"url": "https://www.engadget.com/2290702/get-better-iphone-battery-life-without-closing-apps/",
-"published": "2026-10-24T13:45:00Z",
-"summary": "Apple has added a host of battery-management features to the iPhone over the years.",
-"source": "Engadget"
-},
-{
 "title": "Proton hosts Flock map revealing over 300,000 cameras, defying cease-and-desist threats against creator",
 "url": "https://www.tomshardware.com/software/maps/proton-hosts-flock-map-revealing-over-300-000-cameras-defying-cease-and-desist-threats-against-creator-privacy-focused-company-hosts-site-on-swiss-servers-says-users-have-the-right-to-know-whos-recording-them",
 "published": "2026-10-24T13:42:41Z",
@@ -395,17 +395,17 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "The Atlanta Falcons 'Nazi' logo controversy strikes again",
-"url": "https://www.creativebloq.com/news/the-atlanta-falcons-nazi-logo-controversy-strikes-again",
-"published": "2026-10-24T12:00:00Z",
-"summary": "(And this time even harder).",
-"source": "Creative Bloq"
-},
-{
 "title": "How Ben & Jerry's became a beacon of brand bravery",
 "url": "https://www.creativebloq.com/news/how-ben-and-jerrys-became-a-beacon-of-brand-bravery",
 "published": "2026-10-24T12:00:00Z",
 "summary": "We caught up with the brand's Chief Marketing Officer to find out how Ben & Jerry's puts its values into practice.",
+"source": "Creative Bloq"
+},
+{
+"title": "The Atlanta Falcons 'Nazi' logo controversy strikes again",
+"url": "https://www.creativebloq.com/news/the-atlanta-falcons-nazi-logo-controversy-strikes-again",
+"published": "2026-10-24T12:00:00Z",
+"summary": "(And this time even harder).",
 "source": "Creative Bloq"
 },
 {
@@ -1466,11 +1466,39 @@
 "source": "The Register"
 },
 {
-"title": "Quote of the Day by George Lucas: \"Failure is another word for experience\"",
-"url": "https://www.creativebloq.com/inspiration/quote-of-the-day-by-george-lucas-failure-is-another-word-for-experience",
-"published": "2026-10-23T07:00:00Z",
-"summary": "Why getting it wrong is part of being creative.",
-"source": "Creative Bloq"
+"title": "Fast is a design decision",
+"url": "https://shannadige.com/blog/performance-is-design/",
+"published": "2026-10-23T07:09:03Z",
+"summary": "Building a site has never been cheaper, but making it fast still costs attention and your user’s resources.",
+"source": "Sidebar"
+},
+{
+"title": "Moving objects in 3D space",
+"url": "https://visualrambling.space/moving-objects-in-3d/",
+"published": "2026-10-23T07:08:31Z",
+"summary": "Have you ever wondered how to move objects along a spherical helix path?",
+"source": "Sidebar"
+},
+{
+"title": "Where decisions live",
+"url": "https://www.antonsten.com/articles/where-decisions-live/",
+"published": "2026-10-23T07:07:02Z",
+"summary": "Slack for discussion, meetings to resolve, notes for thinking, and a dated decisions log for where things landed.",
+"source": "Sidebar"
+},
+{
+"title": "Apple Music’s new logo was shaped by sound and mineral oil",
+"url": "https://www.creativeboom.com/news/apple-musics-new-logo-was-shaped-by-fred-again-and-a-bath-of-mineral-oil/",
+"published": "2026-10-23T07:06:22Z",
+"summary": "Created with TBWA\\Media Arts Lab, the new identity is full of ripples made by sound.",
+"source": "Sidebar"
+},
+{
+"title": "Gradient background generator",
+"url": "https://backgrounds.supply/gradient-lab",
+"published": "2026-10-23T07:05:34Z",
+"summary": "A free gradient background generator with 20+ animated shader modes.",
+"source": "Sidebar"
 },
 {
 "title": "Olivia Rodrigo just showed creatives how to deal with false design allegations in style",
@@ -1480,18 +1508,25 @@
 "source": "Creative Bloq"
 },
 {
+"title": "Quote of the Day by George Lucas: \"Failure is another word for experience\"",
+"url": "https://www.creativebloq.com/inspiration/quote-of-the-day-by-george-lucas-failure-is-another-word-for-experience",
+"published": "2026-10-23T07:00:00Z",
+"summary": "Why getting it wrong is part of being creative.",
+"source": "Creative Bloq"
+},
+{
+"title": "ShogunAI",
+"url": "https://www.producthunt.com/products/shogunai",
+"published": "2026-10-23T06:32:57Z",
+"summary": "Your personal AGI on your pc Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Product Hunt Visual Launch Editor",
 "url": "https://www.producthunt.com/products/producthunt",
 "published": "2026-10-23T06:03:38Z",
 "summary": "See your launch as you build it Discussion | Link",
 "source": "Product Hunt"
-},
-{
-"title": "The ambitious EA Sports rebrand looks great from every angle",
-"url": "https://www.creativebloq.com/news/the-ambitious-ea-sports-rebrand-looks-great-from-every-angle",
-"published": "2026-10-23T06:00:00Z",
-"summary": "Brand check: DixonBaxi have released their superb rebranding of EAFC27 – a work blending iconic branding with sports and gaming culture.",
-"source": "Creative Bloq"
 },
 {
 "title": "how humour can enhance the storytelling in your art",
@@ -1501,11 +1536,11 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Instant Search",
-"url": "https://www.producthunt.com/products/instant-search-2",
-"published": "2026-10-23T05:36:03Z",
-"summary": "The fastest, most precise local AI Search for your files. Discussion | Link",
-"source": "Product Hunt"
+"title": "The ambitious EA Sports rebrand looks great from every angle",
+"url": "https://www.creativebloq.com/news/the-ambitious-ea-sports-rebrand-looks-great-from-every-angle",
+"published": "2026-10-23T06:00:00Z",
+"summary": "Brand check: DixonBaxi have released their superb rebranding of EAFC27 – a work blending iconic branding with sports and gaming culture.",
+"source": "Creative Bloq"
 },
 {
 "title": "Windows said modem worked fine. That unmistakable scorched electronics smell suggested otherwise",
@@ -1519,6 +1554,13 @@
 "url": "https://www.producthunt.com/products/termi-protocol",
 "published": "2026-10-23T04:32:57Z",
 "summary": "Watch AI agents code in 3D and hand off the work Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "Agent Hunt",
+"url": "https://www.producthunt.com/products/monid",
+"published": "2026-10-23T04:03:20Z",
+"summary": "Live rankings of the tools AI agents use most Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -1618,6 +1660,13 @@
 "published": "2026-10-22T21:07:09Z",
 "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
 "source": "Ars Technica"
+},
+{
+"title": "Plango",
+"url": "https://www.producthunt.com/products/plango",
+"published": "2026-10-22T21:03:15Z",
+"summary": "Use AI to defend against AI Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Global default for Copilot features generally available",
@@ -1970,6 +2019,41 @@
 "source": "Product Hunt"
 },
 {
+"title": "The fastest gun in UX",
+"url": "https://www.doc.cc/articles/fastest-gun",
+"published": "2026-10-22T04:05:00Z",
+"summary": "Designers are skipping steps of the process in a rush for faster outputs. But the contest that really matters is stakeholder alignment.",
+"source": "Sidebar"
+},
+{
+"title": "Interfere Design System",
+"url": "https://design.interfere.com/",
+"published": "2026-10-22T04:04:00Z",
+"summary": "Components, styles and guidelines for building Interfere products.",
+"source": "Sidebar"
+},
+{
+"title": "Everyone is starting over",
+"url": "https://www.gabrielvaldivia.com/notes/everybody-is-starting-over",
+"published": "2026-10-22T04:03:00Z",
+"summary": "The careers that thrive now are the ones willing to become someone new, over and over.",
+"source": "Sidebar"
+},
+{
+"title": "The Lightbulb Computer",
+"url": "https://lightbulbcomputer.com/",
+"published": "2026-10-22T04:02:00Z",
+"summary": "A device that combines a projector and computer vision in the shape of a large lightbulb.",
+"source": "Sidebar"
+},
+{
+"title": "How employment is changing at Anthropic",
+"url": "https://www.anthropic.com/research/employment-at-anthropic",
+"published": "2026-10-22T04:01:00Z",
+"summary": "Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
+"source": "Sidebar"
+},
+{
 "title": "A founder with a tool is not a founder with a clue",
 "url": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4",
 "published": "2026-10-21T21:50:55Z",
@@ -1998,13 +2082,6 @@
 "source": "Product Hunt"
 },
 {
-"title": "Polylane for Cloudflare",
-"url": "https://www.producthunt.com/products/polylane",
-"published": "2026-10-21T16:40:31Z",
-"summary": "An AI on-call engineer for your Cloudflare apps Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "The bridge to agent-scale Git infrastructure",
 "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
 "published": "2026-10-21T16:00:00Z",
@@ -2026,6 +2103,41 @@
 "source": "MIT Technology Review"
 },
 {
+"title": "Your product is not the center of the universe",
+"url": "https://apeatling.com/2026/10/19/your-product-is-not-the-center-of-the-universe/",
+"published": "2026-10-21T08:28:34Z",
+"summary": "Established products have a problem. They assume they’re the center of someone’s universe, and everything should feed through them.",
+"source": "Sidebar"
+},
+{
+"title": "AI is driving a boom in modestly successful software projects",
+"url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+"published": "2026-10-21T08:28:04Z",
+"summary": "If AI is so great, why aren’t we seeing an explosion of new, amazing software products?",
+"source": "Sidebar"
+},
+{
+"title": "Toolcraft",
+"url": "https://toolcraft.sh/",
+"published": "2026-10-21T08:27:35Z",
+"summary": "An open-source starter kit and UI library for building custom design apps with AI.",
+"source": "Sidebar"
+},
+{
+"title": "EditUI",
+"url": "https://www.editui.app/",
+"published": "2026-10-21T08:26:44Z",
+"summary": "Point at your UI. Tell your coding agent what to change.",
+"source": "Sidebar"
+},
+{
+"title": "A simple guide to calm UI",
+"url": "https://maxschmitt.me/posts/calm",
+"published": "2026-10-21T08:26:07Z",
+"summary": "A few basic rules to keep in mind to make simple UIs feel a lot better.",
+"source": "Sidebar"
+},
+{
 "title": "Design v ADHD",
 "url": "https://uxdesign.cc/design-vs-adhd-4411c3b81d1b?source=rss----138adf9c44c---4",
 "published": "2026-10-21T08:18:25Z",
@@ -2037,13 +2149,6 @@
 "url": "https://www.producthunt.com/products/shedi",
 "published": "2026-10-21T06:38:11Z",
 "summary": "Get back the space Xcode, Docker and node_modules ate Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Cloudflare Clairic",
-"url": "https://www.producthunt.com/products/cloudflare",
-"published": "2026-10-21T02:18:07Z",
-"summary": "Cloudflare's AI model for fast, cheap data extraction Discussion | Link",
 "source": "Product Hunt"
 }
 ]
