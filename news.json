@@ -1,9 +1,65 @@
 {
-"updated": "2026-10-25T21:07:37.576662Z",
-"count": 294,
+"updated": "2026-10-25T23:28:09.983609Z",
+"count": 293,
 "items": [
 {
-"title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
+"title": "Most Windows users are seriously underusing this powerful desktop feature",
+"url": "https://www.engadget.com/2294241/why-should-use-multiple-desktop-windows/",
+"published": "2026-10-25T23:00:00Z",
+"summary": "Windows has an option to give you more working desktop space, but you might have overlooked it.",
+"source": "Engadget"
+},
+{
+"title": "Does TSA actually allow AirTags in your luggage? Here's what the rules say",
+"url": "https://www.engadget.com/2294102/does-tsa-allow-airtags-in-luggage-what-rules-say/",
+"published": "2026-10-25T22:45:00Z",
+"summary": "Airlines don't want you to put batteries in your checked luggage, but how does this affect tiny batteries like those in AirTags?",
+"source": "Engadget"
+},
+{
+"title": "Don't throw away your old, unsupported Nest gadgets — Do this instead",
+"url": "https://www.engadget.com/2294122/dont-throw-away-your-old-unsupported-nest-gadgets/",
+"published": "2026-10-25T22:30:00Z",
+"summary": "If you have a first- or second-generation Nest Learning Thermostat, you may be wondering if it's still worth having.",
+"source": "Engadget"
+},
+{
+"title": "Your devices could be on the wrong Wi-Fi band, and it's slowing them down",
+"url": "https://www.engadget.com/2294022/devices-could-be-wrong-wifi-band-slowing-them-down/",
+"published": "2026-10-25T22:00:00Z",
+"summary": "Your router has two or perhaps three bands, and choosing the right one for each device is vital for performance.",
+"source": "Engadget"
+},
+{
+"title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+"url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+"published": "2026-10-25T21:40:27Z",
+"summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen…",
+"source": "The Verge"
+},
+{
+"title": "iFixit tears down iPhone Duo, finds possible causes of early screen failures",
+"url": "https://9to5mac.com/2026/10/25/ifixit-tears-down-iphone-duo-finds-possible-causes-of-early-screen-failures/",
+"published": "2026-10-25T21:36:58Z",
+"summary": "iFixit’s teardown of the iPhone Duo is up, revealing some interesting (and some worrisome) details about what it calls the most repairable foldable phone yet. Here are the details. more…",
+"source": "9to5Mac"
+},
+{
+"title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+"url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+"published": "2026-10-25T21:31:16Z",
+"summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+"source": "TechCrunch"
+},
+{
+"title": "Scott Walker’s The Drift will get under your skin",
+"url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+"published": "2026-10-25T21:08:09Z",
+"summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely…",
+"source": "The Verge"
+},
+{
+"title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
 "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
 "published": "2026-10-25T20:20:08Z",
 "summary": "\"That's a 12-year-old view of the world.\"",
@@ -465,34 +521,6 @@
 "source": "Product Hunt"
 },
 {
-"title": "Here's what you need to know before buying a wireless CarPlay adapter",
-"url": "https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/",
-"published": "2026-10-25T00:30:00Z",
-"summary": "Wireless CarPlay doesn't require a new car or head unit; with the right adapter, you can enjoy a cable-free connection.",
-"source": "Engadget"
-},
-{
-"title": "What is the cheapest new gaming console you can buy in 2026?",
-"url": "https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/",
-"published": "2026-10-25T00:00:00Z",
-"summary": "Even after price hikes, you can get an affordable console, but it requires some care to pick the right option.",
-"source": "Engadget"
-},
-{
-"title": "How to extend the battery life of your Apple AirTags",
-"url": "https://www.engadget.com/2292921/how-to-extend-battery-life-apple-airtags/",
-"published": "2026-10-24T23:45:00Z",
-"summary": "An AirTag's battery is easy to replace, but you don't want it to run low at a critical moment.",
-"source": "Engadget"
-},
-{
-"title": "Common mistakes you should avoid when setting up your home network",
-"url": "https://www.engadget.com/2292817/common-mistakes-avoid-setting-up-home-network/",
-"published": "2026-10-24T23:30:00Z",
-"summary": "Setting up a home network is rewarding, but you should be aware of common missteps to avoid hassle in the future.",
-"source": "Engadget"
-},
-{
 "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
 "url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
 "published": "2026-10-24T21:46:33Z",
@@ -589,20 +617,6 @@
 "published": "2026-10-24T15:30:00Z",
 "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
 "source": "TechCrunch"
-},
-{
-"title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-"url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-"published": "2026-10-24T15:00:00Z",
-"summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an…",
-"source": "The Verge"
-},
-{
-"title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
-"url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
-"published": "2026-10-24T15:00:00Z",
-"summary": "Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the…",
-"source": "The Verge"
 },
 {
 "title": "These clever apps show off the iPhone Duo’s potential",
@@ -1053,13 +1067,6 @@
 "source": "Ars Technica"
 },
 {
-"title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-"url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-"published": "2026-10-23T19:25:13Z",
-"summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
-"source": "TechCrunch"
-},
-{
 "title": "Spotify ramps up policy enforcement on family plans",
 "url": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
 "published": "2026-10-23T19:20:27Z",
@@ -1386,13 +1393,6 @@
 "url": "https://9to5mac.com/2026/10/23/apple-overtakes-nvidia-as-most-valuable-company-in-the-world-on-iphone-duo-launch-day/",
 "published": "2026-10-23T13:41:59Z",
 "summary": "It’s iPhone Duo launch day around the world, and Wall Street is pleased. Apple reclaimed the title of most valuable company in the world on Friday as it reached new trading highs. more…",
-"source": "9to5Mac"
-},
-{
-"title": "iPhone Duo launch day: Lines form at Apple Stores, walk-in availability limited",
-"url": "https://9to5mac.com/2026/10/23/iphone-duo-launch-day-lines-form-at-apple-stores-walk-in-availability-limited/",
-"published": "2026-10-23T13:39:41Z",
-"summary": "Today is iPhone Duo launch day, and it’s a worldwide party at Apple Stores. In a press release published this morning, Apple is sharing pictures from the iPhone Duo launch around the world. 9to5Mac…",
 "source": "9to5Mac"
 },
 {
@@ -1935,6 +1935,13 @@
 "source": "Creative Bloq"
 },
 {
+"title": "Gerty",
+"url": "https://www.producthunt.com/products/gerty",
+"published": "2026-10-22T14:14:10Z",
+"summary": "Private ChatGPT alternative that sets itself up on your Mac Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Singapore boffins weave a GUI into fabric, and it's machine washable too",
 "url": "https://www.theregister.com/offbeat/2026/10/22/singapore-boffins-weave-a-gui-into-fabric-and-its-machine-washable-too/5304785",
 "published": "2026-10-22T14:09:01Z",
@@ -2045,20 +2052,6 @@
 "published": "2026-10-22T04:01:00Z",
 "summary": "Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
 "source": "Sidebar"
-},
-{
-"title": "A founder with a tool is not a founder with a clue",
-"url": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4",
-"published": "2026-10-21T21:50:55Z",
-"summary": "",
-"source": "UX Collective"
-},
-{
-"title": "Can you take AI at its word?",
-"url": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4",
-"published": "2026-10-21T21:50:06Z",
-"summary": "AI agents explain their own work fluently, and sometimes wrongly. Designers stopped trusting that kind of account from people long ago. Continue reading on UX Collective »",
-"source": "UX Collective"
 }
 ]
 }
