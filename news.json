@@ -1,7 +1,49 @@
 {
-"updated": "2026-10-25T18:15:22.176795Z",
+"updated": "2026-10-25T21:07:37.576662Z",
 "count": 294,
 "items": [
+{
+"title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
+"url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+"published": "2026-10-25T20:20:08Z",
+"summary": "\"That's a 12-year-old view of the world.\"",
+"source": "TechCrunch"
+},
+{
+"title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+"url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+"published": "2026-10-25T20:16:19Z",
+"summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the…",
+"source": "The Verge"
+},
+{
+"title": "Zen Browser is the Arc replacement I was looking for",
+"url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+"published": "2026-10-25T19:24:50Z",
+"summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company…",
+"source": "The Verge"
+},
+{
+"title": "What does the bell icon mean on your CarPlay screen?",
+"url": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/",
+"published": "2026-10-25T18:45:00Z",
+"summary": "Even as a simplified interface, CarPlay has a few icons that aren't so obvious, like its bell that appears on the app switcher.",
+"source": "Engadget"
+},
+{
+"title": "The most unexpected everyday tool can be found on your phone",
+"url": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/",
+"published": "2026-10-25T18:30:00Z",
+"summary": "If you have an iPhone, that is.",
+"source": "Engadget"
+},
+{
+"title": "PHP Patches Two Critical RCE Flaws That Were Already Under Attack",
+"url": "https://www.infoq.com/news/2026/10/php-critical-rce-patches/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-10-25T18:07:00Z",
+"summary": "PHP released 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to fix two critical vulnerabilities allowing unauthenticated remote code execution. Amazon recorded an exploitation attempt four days before the…",
+"source": "InfoQ"
+},
 {
 "title": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
 "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
@@ -451,20 +493,6 @@
 "source": "Engadget"
 },
 {
-"title": "Why your EV battery still loses charge while it's parked",
-"url": "https://www.engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked/",
-"published": "2026-10-24T23:00:00Z",
-"summary": "Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control.",
-"source": "Engadget"
-},
-{
-"title": "What kind of cooling system do EV batteries use and how does it work?",
-"url": "https://www.engadget.com/2292606/ev-battery-cooling-system-how-works/",
-"published": "2026-10-24T22:45:00Z",
-"summary": "Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.",
-"source": "Engadget"
-},
-{
 "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
 "url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
 "published": "2026-10-24T21:46:33Z",
@@ -612,25 +640,11 @@
 "source": "BleepingComputer"
 },
 {
-"title": "What to expect from Apple’s ‘Pro and tell’ event",
-"url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-"published": "2026-10-24T14:15:00Z",
-"summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the…",
-"source": "The Verge"
-},
-{
 "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
 "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
 "published": "2026-10-24T14:15:00Z",
 "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
 "source": "TechCrunch"
-},
-{
-"title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-"url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-"published": "2026-10-24T14:00:00Z",
-"summary": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this…",
-"source": "The Verge"
 },
 {
 "title": "Here are the top AI agents that can live in your text messages",
@@ -1011,6 +1025,13 @@
 "source": "TechCrunch"
 },
 {
+"title": "9to5Mac Overtime 087: Happy iPhone Duo day",
+"url": "https://9to5mac.com/2026/10/23/9to5mac-overtime-087-happy-iphone-duo-day/",
+"published": "2026-10-23T20:00:00Z",
+"summary": "Jeff interviews Fernando about his first 24 hours with the iPhone Duo, covering everything from initial impressions to how it works as a phone versus a tablet, how it compares to the iPad mini, and…",
+"source": "9to5Mac"
+},
+{
 "title": "Report: Apple gains ground in China as smartphone shipments hit 14-year low in Q3",
 "url": "https://9to5mac.com/2026/10/23/report-apple-gains-ground-in-china-as-smartphone-shipments-hit-14-year-low-in-q3/",
 "published": "2026-10-23T19:50:23Z",
@@ -1072,13 +1093,6 @@
 "published": "2026-10-23T19:06:48Z",
 "summary": "Even if you’re not planning on getting an iPhone Duo, you can now download its light and dark wallpapers for any of your devices. Get them below. more…",
 "source": "9to5Mac"
-},
-{
-"title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-"url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-"published": "2026-10-23T19:06:23Z",
-"summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch…",
-"source": "TechCrunch"
 },
 {
 "title": "EMU deletions fix",
@@ -1394,13 +1408,6 @@
 "published": "2026-10-23T13:34:00Z",
 "summary": "$99 replacement opens old .pub files on Windows and macOS, without a subscription",
 "source": "The Register"
-},
-{
-"title": "iOS 27.2: Three new features coming to your iPhone next week",
-"url": "https://9to5mac.com/2026/10/23/ios-27-2-three-new-features-coming-soon-to-your-iphone/",
-"published": "2026-10-23T13:30:11Z",
-"summary": "iOS 27.2 is about to launch, arriving as the next big iPhone update—iOS 27.1 is iPhone Duo-only. Here are three new features coming next week with iOS 27.2. more…",
-"source": "9to5Mac"
 },
 {
 "title": "China can make advanced chips without EUV, but the bill keeps growing",
@@ -1975,13 +1982,6 @@
 "published": "2026-10-22T11:47:53Z",
 "summary": "Understand why your MRR differs and get a number you trust Discussion | Link",
 "source": "Product Hunt"
-},
-{
-"title": "Presentation: Actors for Agents: Patterns for Production AI",
-"url": "https://www.infoq.com/presentations/actors-for-production-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-"published": "2026-10-22T11:00:00Z",
-"summary": "Manju Rajashekhar explains how the actor model solves the complex runtime challenges of production AI agents. By treating agents as distributed systems, he discusses state ownership, message passing…",
-"source": "InfoQ"
 },
 {
 "title": "Making the case for context-aware AI",
