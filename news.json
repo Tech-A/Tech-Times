@@ -1,13 +1,62 @@
 {
-"updated": "2026-10-26T01:35:09.542558Z",
-"count": 292,
+"updated": "2026-10-26T07:35:10.455488Z",
+"count": 293,
 "items": [
+{
+"title": "'Let's just shove a bigger fan in there and see what happens'",
+"url": "https://www.theregister.com/systems/2026/10/26/lets-just-shove-a-bigger-fan-in-there-and-see-what-happens/5304654",
+"published": "2026-10-26T06:30:00Z",
+"summary": "Techies tiptoed around server to keep it working as company sank",
+"source": "The Register"
+},
+{
+"title": "Tesco replacing VMware with Proxmox in its stores and on the edge",
+"url": "https://www.theregister.com/virtualization/2026/10/26/tesco-replacing-vmware-with-proxmox-in-its-stores-and-on-the-edge/5305281",
+"published": "2026-10-26T05:24:02Z",
+"summary": "Advertises for someone to ‘own cost-effective alternative virtualisation platform’",
+"source": "The Register"
+},
+{
+"title": "Will Apple’s overhauled MacBook Pro finally offer 5G cellular support?",
+"url": "https://9to5mac.com/2026/10/25/macbook-pro-overhaul-cellular-support-touchscreen/",
+"published": "2026-10-26T05:16:58Z",
+"summary": "This week, Apple will be overhauling the MacBook Pro for the first time since 2021. OLED, touch support, and a significantly lighter design are expected. Another rumor for the new MacBook Pros has…",
+"source": "9to5Mac"
+},
+{
+"title": "AllModels",
+"url": "https://www.producthunt.com/products/allmodels-io",
+"published": "2026-10-26T05:15:29Z",
+"summary": "Explore every abliterated model Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "Work to protect DNS from quantum decryption attacks is speeding up",
+"url": "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
+"published": "2026-10-26T04:08:23Z",
+"summary": "PLUS: Regional internet registry reform nears; Trustworthy-sounding domains attract scammers",
+"source": "The Register"
+},
+{
+"title": "Standfast",
+"url": "https://www.producthunt.com/products/standfast",
+"published": "2026-10-26T02:50:33Z",
+"summary": "Know if your Mac's GitHub Actions runners will get work Discussion | Link",
+"source": "Product Hunt"
+},
 {
 "title": "The best apps for tracking your reading and discovering new books",
 "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
 "published": "2026-10-26T01:10:00Z",
 "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
 "source": "TechCrunch"
+},
+{
+"title": "After threatening AI export bans, China allows DeepSeek to keep selling",
+"url": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
+"published": "2026-10-26T00:39:57Z",
+"summary": "PLUS: AI datacenter bubble wobbles in Australia; E-commerce app suggests it can detect diseases; India’s top telco to IPO amid investor frenzy; and more!",
+"source": "The Register"
 },
 {
 "title": "Can you run regular Ethernet cables outside?",
@@ -45,6 +94,20 @@
 "source": "Engadget"
 },
 {
+"title": "Jobmate AI",
+"url": "https://www.producthunt.com/products/jobmate-ai-3",
+"published": "2026-10-25T22:59:42Z",
+"summary": "The humanized AI Copilot for your entire Job search Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "AVP",
+"url": "https://www.producthunt.com/products/avp",
+"published": "2026-10-25T22:53:07Z",
+"summary": "Open source alternative to Git for AI coding agents Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Does TSA actually allow AirTags in your luggage? Here's what the rules say",
 "url": "https://www.engadget.com/2294102/does-tsa-allow-airtags-in-luggage-what-rules-say/",
 "published": "2026-10-25T22:45:00Z",
@@ -64,6 +127,13 @@
 "published": "2026-10-25T22:00:00Z",
 "summary": "Your router has two or perhaps three bands, and choosing the right one for each device is vital for performance.",
 "source": "Engadget"
+},
+{
+"title": "WhoIsCooking",
+"url": "https://www.producthunt.com/products/whoiscooking",
+"published": "2026-10-25T21:45:54Z",
+"summary": "See which AI agent is heating your Mac. Cool it down. Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
@@ -87,6 +157,20 @@
 "source": "TechCrunch"
 },
 {
+"title": "VibeiDE",
+"url": "https://www.producthunt.com/products/vibeide",
+"published": "2026-10-25T21:30:48Z",
+"summary": "Queue agent tasks in parallel and review each result Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "omerta",
+"url": "https://www.producthunt.com/products/omerta",
+"published": "2026-10-25T21:11:05Z",
+"summary": "Catch .env secrets leaking into git Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Scott Walker’s The Drift will get under your skin",
 "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
 "published": "2026-10-25T21:08:09Z",
@@ -108,11 +192,25 @@
 "source": "The Verge"
 },
 {
+"title": "ManyAgents",
+"url": "https://www.producthunt.com/products/manyagents",
+"published": "2026-10-25T19:55:39Z",
+"summary": "Run a team of AI coding agents from one Mac window Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Zen Browser is the Arc replacement I was looking for",
 "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
 "published": "2026-10-25T19:24:50Z",
 "summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company…",
 "source": "The Verge"
+},
+{
+"title": "desigma",
+"url": "https://www.producthunt.com/products/desigma",
+"published": "2026-10-25T19:20:38Z",
+"summary": "Free Figma alternative made on Rust Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "What does the bell icon mean on your CarPlay screen?",
@@ -190,6 +288,13 @@
 "published": "2026-10-25T16:20:17Z",
 "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other…",
 "source": "The Verge"
+},
+{
+"title": "Mozy",
+"url": "https://www.producthunt.com/products/mozy-walk-to-unlock-apps",
+"published": "2026-10-25T16:15:13Z",
+"summary": "App Blocker for Android & iPhone Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "The internet needs IPv6 and so does your home network",
@@ -500,6 +605,13 @@
 "source": "Creative Bloq"
 },
 {
+"title": "tabsh",
+"url": "https://www.producthunt.com/products/tabsh",
+"published": "2026-10-25T09:18:55Z",
+"summary": "Work with agents with an IDE in your browser tab Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "We Linked 150 of Ikea’s $10 Speakers to Make a Wall of Sound",
 "url": "https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/",
 "published": "2026-10-25T09:00:00Z",
@@ -528,10 +640,10 @@
 "source": "InfoQ"
 },
 {
-"title": "AgentGrid.io",
-"url": "https://www.producthunt.com/products/agentgrid-io",
-"published": "2026-10-25T05:39:16Z",
-"summary": "Shared workspace for humans and agents Discussion | Link",
+"title": "Kiwi",
+"url": "https://www.producthunt.com/products/kiwi-7",
+"published": "2026-10-24T23:19:29Z",
+"summary": "A proactive AI assistant that texts you before you ask Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -563,18 +675,18 @@
 "source": "TechCrunch"
 },
 {
+"title": "2G",
+"url": "https://www.producthunt.com/products/2g",
+"published": "2026-10-24T19:44:28Z",
+"summary": "Sampler to create early 2000 Neural Synthesis Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
 "url": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo/",
 "published": "2026-10-24T19:30:00Z",
 "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If…",
 "source": "9to5Mac"
-},
-{
-"title": "Papermark Data Rooms",
-"url": "https://www.producthunt.com/products/papermark-2",
-"published": "2026-10-24T19:09:46Z",
-"summary": "Secure data rooms your AI agents can run. Live in Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -715,6 +827,13 @@
 "published": "2026-10-24T13:00:00Z",
 "summary": "The Edifier Hecate G2000 Pro speakers offer a uniquely designed RGB experience, all within a set of above-average 2.0 Stereo PC gaming speakers. They deliver an audio experience far surpassing their…",
 "source": "Tom's Hardware"
+},
+{
+"title": "Loqui",
+"url": "https://www.producthunt.com/products/loqui-2",
+"published": "2026-10-24T12:53:55Z",
+"summary": "Turns your voice into ready-to-send text in any Mac app Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "This week on Tom's Hardware Premium: October 24, 2026",
@@ -927,10 +1046,10 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Llama Windows",
-"url": "https://www.producthunt.com/products/llama-windows",
-"published": "2026-10-24T02:40:27Z",
-"summary": "One local AI server for all your Windows apps Discussion | Link",
+"title": "Knock",
+"url": "https://www.producthunt.com/products/knock-7",
+"published": "2026-10-24T06:07:32Z",
+"summary": "Create shortcuts by hitting you mac Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -1135,13 +1254,6 @@
 "published": "2026-10-23T18:07:00Z",
 "summary": "Lighting effects can make or break your TV room, gaming setup, etc. SwitchBot’s RGBICWW Light Bars take a different approach from most products, with dedicated cool-white and warm-white LEDs…",
 "source": "9to5Mac"
-},
-{
-"title": "Basedash Scheduled CSV Exports",
-"url": "https://www.producthunt.com/products/basedash",
-"published": "2026-10-23T17:51:50Z",
-"summary": "Ask once. Get a fresh CSV in Slack or email every week. Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Apple publishes iPhone Duo support documents covering hinge, Touch ID, cases, more",
@@ -1396,13 +1508,6 @@
 "source": "Ars Technica"
 },
 {
-"title": "Apple overtakes Nvidia as most valuable company in the world on iPhone Duo launch day",
-"url": "https://9to5mac.com/2026/10/23/apple-overtakes-nvidia-as-most-valuable-company-in-the-world-on-iphone-duo-launch-day/",
-"published": "2026-10-23T13:41:59Z",
-"summary": "It’s iPhone Duo launch day around the world, and Wall Street is pleased. Apple reclaimed the title of most valuable company in the world on Friday as it reached new trading highs. more…",
-"source": "9to5Mac"
-},
-{
 "title": "Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia",
 "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-bows-to-local-backlash-over-ai-data-centers-scraps-plans-to-build-four-new-facilities-in-northern-virginia-site-to-be-repurposed-for-mixed-use-and-residential-development",
 "published": "2026-10-23T13:36:50Z",
@@ -1422,13 +1527,6 @@
 "published": "2026-10-23T13:30:00Z",
 "summary": "China has stretched older DUV lithography far further than expected, using multiple patterning to approach 5nm-class without EUV. But experts say the trade-offs in cost, yield, and die size mean…",
 "source": "Tom's Hardware"
-},
-{
-"title": "sideOS.ai",
-"url": "https://www.producthunt.com/products/sideos-ai",
-"published": "2026-10-23T13:28:40Z",
-"summary": "Local AI for dictation, meetings, background tasks and more Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Accordion Icons: Which Work Best?",
@@ -1620,13 +1718,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Canva Craft",
-"url": "https://www.producthunt.com/products/canva",
-"published": "2026-10-23T08:41:59Z",
-"summary": "Turn prompts into design-ready images you can edit Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Beware the claw: Do you want to win the bunny or reboot Android?",
 "url": "https://www.theregister.com/offbeat/2026/10/23/beware-the-claw-do-you-want-to-win-the-bunny-or-reboot-android/5304172",
 "published": "2026-10-23T08:30:00Z",
@@ -1690,17 +1781,17 @@
 "source": "Sidebar"
 },
 {
-"title": "Quote of the Day by George Lucas: \"Failure is another word for experience\"",
-"url": "https://www.creativebloq.com/inspiration/quote-of-the-day-by-george-lucas-failure-is-another-word-for-experience",
-"published": "2026-10-23T07:00:00Z",
-"summary": "Why getting it wrong is part of being creative.",
-"source": "Creative Bloq"
-},
-{
 "title": "Olivia Rodrigo just showed creatives how to deal with false design allegations in style",
 "url": "https://www.creativebloq.com/news/olivia-rodrigo-just-showed-creatives-how-to-deal-with-false-design-allegations-in-style",
 "published": "2026-10-23T07:00:00Z",
 "summary": "Accused of using AI, the pop star’s team responded with something better than denial.",
+"source": "Creative Bloq"
+},
+{
+"title": "Quote of the Day by George Lucas: \"Failure is another word for experience\"",
+"url": "https://www.creativebloq.com/inspiration/quote-of-the-day-by-george-lucas-failure-is-another-word-for-experience",
+"published": "2026-10-23T07:00:00Z",
+"summary": "Why getting it wrong is part of being creative.",
 "source": "Creative Bloq"
 },
 {
@@ -1844,13 +1935,6 @@
 "source": "GitHub Changelog"
 },
 {
-"title": "1Password for Agents",
-"url": "https://www.producthunt.com/products/1password",
-"published": "2026-10-22T18:14:06Z",
-"summary": "Let AI agents sign in for you without seeing your passwords Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Public monitoring now available with data residency",
 "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
 "published": "2026-10-22T18:12:58Z",
@@ -1870,13 +1954,6 @@
 "published": "2026-10-22T17:36:30Z",
 "summary": "Vendor 'strongly recommends' upgrading to a fixed version 'as soon as possible'",
 "source": "The Register"
-},
-{
-"title": "River Writer",
-"url": "https://www.producthunt.com/products/river-writer",
-"published": "2026-10-22T17:23:21Z",
-"summary": "A quiet Mac app for screenplays, stage plays and novels Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "How bug bounty sharpens one researcher’s security skills",
@@ -1928,20 +2005,6 @@
 "source": "The Register"
 },
 {
-"title": "When the attacker becomes the user: Rethinking account takeover",
-"url": "https://www.theregister.com/security/2026/10/22/sponsored-when-the-attacker-becomes-the-user-rethinking-account-takeover/5303913",
-"published": "2026-10-22T15:00:00Z",
-"summary": "SPONSORED FEATURE: AI makes phishing easier than ever",
-"source": "The Register"
-},
-{
-"title": "Singapore boffins weave a GUI into fabric, and it's machine washable too",
-"url": "https://www.theregister.com/offbeat/2026/10/22/singapore-boffins-weave-a-gui-into-fabric-and-its-machine-washable-too/5304785",
-"published": "2026-10-22T14:09:01Z",
-"summary": "For those who find taking a phone out of their pocket just so last century",
-"source": "The Register"
-},
-{
 "title": "Machine speed attacks require machine speed detection and response",
 "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
 "published": "2026-10-22T14:02:12Z",
@@ -1954,20 +2017,6 @@
 "published": "2026-10-22T14:00:00Z",
 "summary": "A recent Harvard study of 718 firms, using the Jellyfish analytics platform, finds that although AI coding assistants and agents increase code volume, this does not translate into a corresponding…",
 "source": "InfoQ"
-},
-{
-"title": "Nvidia's Huang: Don't mention the AI-pocalypse",
-"url": "https://www.theregister.com/ai-and-ml/2026/10/22/nvidias-huang-dont-mention-the-ai-pocalypse/5304743",
-"published": "2026-10-22T13:01:00Z",
-"summary": "GPU chief doesn't want to hear about job losses or the end of human civilization",
-"source": "The Register"
-},
-{
-"title": "Hackers pile on PHP2Shell as AWS reveals attacks began before disclosure",
-"url": "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749",
-"published": "2026-10-22T12:15:00Z",
-"summary": "Cloudflare reports millions of exploit attempts, while Amazon spotted attackers trying their luck four days before patches landed",
-"source": "The Register"
 },
 {
 "title": "The Download: computing’s next leap and permafrost’s climate threat",
@@ -2003,48 +2052,6 @@
 "published": "2026-10-22T08:41:18Z",
 "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage…",
 "source": "MIT Technology Review"
-},
-{
-"title": "Penta",
-"url": "https://www.producthunt.com/products/penta-cd-player-changer",
-"published": "2026-10-22T04:20:49Z",
-"summary": "A ’90s 5-disc CD changer on iPhone Duo Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "The fastest gun in UX",
-"url": "https://www.doc.cc/articles/fastest-gun",
-"published": "2026-10-22T04:05:00Z",
-"summary": "Designers are skipping steps of the process in a rush for faster outputs. But the contest that really matters is stakeholder alignment.",
-"source": "Sidebar"
-},
-{
-"title": "Interfere Design System",
-"url": "https://design.interfere.com/",
-"published": "2026-10-22T04:04:00Z",
-"summary": "Components, styles and guidelines for building Interfere products.",
-"source": "Sidebar"
-},
-{
-"title": "Everyone is starting over",
-"url": "https://www.gabrielvaldivia.com/notes/everybody-is-starting-over",
-"published": "2026-10-22T04:03:00Z",
-"summary": "The careers that thrive now are the ones willing to become someone new, over and over.",
-"source": "Sidebar"
-},
-{
-"title": "The Lightbulb Computer",
-"url": "https://lightbulbcomputer.com/",
-"published": "2026-10-22T04:02:00Z",
-"summary": "A device that combines a projector and computer vision in the shape of a large lightbulb.",
-"source": "Sidebar"
-},
-{
-"title": "How employment is changing at Anthropic",
-"url": "https://www.anthropic.com/research/employment-at-anthropic",
-"published": "2026-10-22T04:01:00Z",
-"summary": "Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy.",
-"source": "Sidebar"
 }
 ]
 }
