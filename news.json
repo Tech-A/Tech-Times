@@ -1,13 +1,244 @@
 {
-"updated": "2026-10-27T05:26:06.019965Z",
-"count": 266,
+"updated": "2026-10-27T10:50:35.592680Z",
+"count": 296,
 "items": [
+{
+"title": "NASA’s Oldest Martian Spacecraft Have Been Running for Decades. Here’s How",
+"url": "https://www.wired.com/story/how-nasa-oldest-martian-spacecraft-run-for-decades/",
+"published": "2026-10-27T10:45:00Z",
+"summary": "Two orbiters have long outlasted their expected lifespans and completely reshaped our understanding of the Red Planet, all while operating 140 million miles from Earth.",
+"source": "Wired"
+},
+{
+"title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+"url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+"published": "2026-10-27T10:36:12Z",
+"summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+"source": "BleepingComputer"
+},
+{
+"title": "Instagram Is a Streaming Service Now",
+"url": "https://www.wired.com/story/instagram-is-a-streaming-service-now/",
+"published": "2026-10-27T10:30:00Z",
+"summary": "Instagram’s long-form video update is more than a swipe at YouTube. It’s an attempt to capture the clip economy.",
+"source": "Wired"
+},
+{
+"title": "60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite",
+"url": "https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk",
+"published": "2026-10-27T10:30:00Z",
+"summary": "Microsoft is offering buyouts to around 60,000 members of its workforce as it looks to balance the books amid a ramp-up in AI data center spending.",
+"source": "Tom's Hardware"
+},
+{
+"title": "Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls",
+"url": "https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/",
+"published": "2026-10-27T10:15:00Z",
+"summary": "From heat maps to Signal chats to war rooms, volunteers across the US are ready to act if federal immigration agents show up on Election Day.",
+"source": "Wired"
+},
+{
+"title": "FreeBSD founder ports Omarchy to FreeBSD in ten days, ten releases",
+"url": "https://www.theregister.com/os-platforms/2026/10/27/freebsd-founder-ports-omarchy-to-freebsd-in-ten-days-ten-releases/5305446",
+"published": "2026-10-27T10:15:00Z",
+"summary": "Daemonarchy in unaffiliated with the Linux original, built with AI help, and could complicate FreeBSD's debate over AI contributions",
+"source": "The Register"
+},
+{
+"title": "Data center backlash is uniting America",
+"url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+"published": "2026-10-27T10:00:00Z",
+"summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and…",
+"source": "The Verge"
+},
+{
+"title": "How to Hide Your Baby From the Government",
+"url": "https://www.wired.com/story/the-rise-of-sovereign-babies/",
+"published": "2026-10-27T10:00:00Z",
+"summary": "“Sovereign citizens” think they can live beyond the reach of the state. Now the movement has influencers—and they’re selling all sorts of anarchist courses to expectant families.",
+"source": "Wired"
+},
+{
+"title": "Anthropic prepares for potential $2 trillion IPO valuation after reporting billions in revenue",
+"url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-prepares-for-potential-usd2-trillion-ipo-valuation-after-reporting-billions-in-revenue-company-warns-ai-could-pose-catastrophic-existential-risks-to-humanity",
+"published": "2026-10-27T10:00:00Z",
+"summary": "Anthropic has filed to go public as it pursues a potential multitrillion-dollar valuation, reporting $16.3 billion in revenue for the first half of 2026. The company’s filing also warns that its AI…",
+"source": "Tom's Hardware"
+},
+{
+"title": "Acer is bringing a Predator gaming handheld to the US for the first time",
+"url": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
+"published": "2026-10-27T09:54:22Z",
+"summary": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the…",
+"source": "The Verge"
+},
+{
+"title": "Data center gear is being hijacked in transit to the tune of hundreds of millions",
+"url": "https://www.tomshardware.com/tech-industry/big-tech/data-center-gear-is-being-hijacked-in-transit-to-the-tune-of-hundreds-of-millions-grand-theft-gpu-thieves-hack-accounts-perform-hit-and-runs-spoof-gps-signals-and-funnel-hardware-to-china",
+"published": "2026-10-27T09:40:00Z",
+"summary": "Data center gear is being stolen in transit to the tune of hundreds of millions — grand-theft-GPU thieves hack accounts, perform hit-and-runs, and spoof GPS signals",
+"source": "Tom's Hardware"
+},
+{
+"title": "Is an Under-Sink Reverse Osmosis System Worth It? Benefits, Costs, and Drawbacks",
+"url": "https://www.wired.com/story/is-an-under-sink-reverse-osmosis-system-worth-it/",
+"published": "2026-10-27T09:35:00Z",
+"summary": "The Waterdrop X12 improved the taste of my tap water, but reverse osmosis comes with costs beyond the purchase price.",
+"source": "Wired"
+},
+{
+"title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+"url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+"published": "2026-10-27T09:30:00Z",
+"summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+"source": "Wired"
+},
+{
+"title": "Year of Linux on the Beach confirmed",
+"url": "https://www.theregister.com/offbeat/2026/10/27/year-of-linux-on-the-beach-confirmed/5305385",
+"published": "2026-10-27T09:30:00Z",
+"summary": "Don't forget to keep code up to date. Even with a cold beverage in hand",
+"source": "The Register"
+},
+{
+"title": "Energy giant ENGIE discloses data breach affecting customers",
+"url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+"published": "2026-10-27T09:25:50Z",
+"summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners.…",
+"source": "BleepingComputer"
+},
+{
+"title": "SpaceX closes $40 billion debt financing for GPUs expected in the first half of 2027, Musk says",
+"url": "https://www.tomshardware.com/tech-industry/data-centers/spacex-closes-usd40-billion-debt-financing-for-gpus-expected-in-the-first-half-of-2027-musk-says-company-faces-up-to-usd40-billion-in-additional-fourth-quarter-capital-spending-as-ai-infrastructure-costs-soar",
+"published": "2026-10-27T09:20:00Z",
+"summary": "SpaceX expects fourth-quarter capital expenditure of $35 billion to $40 billion, CFO Bret Johnsen said, as Elon Musk pushes to expand the company’s AI computing infrastructure.",
+"source": "Tom's Hardware"
+},
+{
+"title": "How solid-state transformers could help power the AI boom",
+"url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+"published": "2026-10-27T09:00:00Z",
+"summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their…",
+"source": "MIT Technology Review"
+},
+{
+"title": "How everyday technology choices drive true workplace sustainability",
+"url": "https://www.theregister.com/on-prem/2026/10/27/sponsored-how-everyday-technology-choices-drive-true-workplace-sustainability/5296594",
+"published": "2026-10-27T09:00:00Z",
+"summary": "SPONSORED FEATURE: Introducing certified, environmentally friendly meeting room solutions, such as Barco ClickShare, in a standardized way across the organization can make the difference between…",
+"source": "The Register"
+},
+{
+"title": "AWS Shows Use of AI Agents to Triage Linux Kernel CVEs",
+"url": "https://www.infoq.com/news/2026/10/aws-ai-agents-linux-kernel-cves/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-10-27T09:00:00Z",
+"summary": "Engineers from Amazon Web Services (AWS) have described how the team that maintains the Linux kernel for EC2 infrastructure handles kernel CVEs. The process combines an automated filter, an AI agent…",
+"source": "InfoQ"
+},
+{
+"title": "How artworks from classic films inspired this matte painter and director",
+"url": "https://www.creativebloq.com/features/how-artworks-from-classic-films-inspired-this-matte-painter-and-director",
+"published": "2026-10-27T09:00:00Z",
+"summary": "Ian Vicknair reveals the inspirations behind his highly detailed environment work.",
+"source": "Creative Bloq"
+},
+{
+"title": "Knowing how is not knowing what",
+"url": "https://algoroxyolo.github.io/blog/2026/knowing-how-is-not-knowing-what/",
+"published": "2026-10-27T08:42:26Z",
+"summary": "What RL environments need to supply: organizational context, domain rules and connected information.",
+"source": "Sidebar"
+},
+{
+"title": "How sad is this chapter?",
+"url": "https://howsadisthischapter.com/",
+"published": "2026-10-27T08:41:29Z",
+"summary": "Find out how emotionally devastating a chapter is before you read it.",
+"source": "Sidebar"
+},
+{
+"title": "Code review was never about the code",
+"url": "https://mattstromawn.com/writing/code-review-was-never-about-the-code/",
+"published": "2026-10-27T08:40:51Z",
+"summary": "Code review was always meant as a verification step: does the code produce the outcome we want?",
+"source": "Sidebar"
+},
+{
+"title": "André Britz’s landscapes, bound with a pink elastic band",
+"url": "https://www.creativeboom.com/work/andre-britz-draws-landscapes-from-memory-in-a-book-held-together-with-an-elastic-band/",
+"published": "2026-10-27T08:39:48Z",
+"summary": "Intuitive drawings of places made from memory alone, in a 64-page book designed to feel unfinished.",
+"source": "Sidebar"
+},
+{
+"title": "Decoy Font: a TTF font that hides what you type",
+"url": "https://www.mixfont.com/experiments/decoy-font",
+"published": "2026-10-27T08:38:51Z",
+"summary": "Decoy Font combines every letter with a decoy, making it harder for AI to read what you type.",
+"source": "Sidebar"
+},
+{
+"title": "Apple event LIVE: Touchscreen MacBook Pro, iPad mini, iMac and more",
+"url": "https://www.creativebloq.com/live/news/apple-pro-and-tell-event",
+"published": "2026-10-27T08:23:51Z",
+"summary": "Every ‘Pro and Tell’ announcement as it happens.",
+"source": "Creative Bloq"
+},
+{
+"title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+"url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+"published": "2026-10-27T08:20:54Z",
+"summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch…",
+"source": "BleepingComputer"
+},
+{
+"title": "OpenAI announces new discoveries in mathematics, computer science and physics",
+"url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+"published": "2026-10-27T08:18:16Z",
+"summary": "OpenAI said its models generated proof that the Exponential Time Hypothesis is false. It also released new results for math and physics problems.",
+"source": "Engadget"
+},
+{
+"title": "Cloudflare and VoidZero Introduce tsrs: An AI-Generated Rust Port of TypeScript",
+"url": "https://www.infoq.com/news/2026/10/cloudflare-tsrs-ai-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-10-27T07:34:00Z",
+"summary": "Cloudflare, VoidZero and Max Schwenk announced tsrs, an experimental Rust port of the TypeScript compiler, built with the TypeScript team's involvement. Cloudflare claims up to 8x faster checking and…",
+"source": "InfoQ"
+},
+{
+"title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+"url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+"published": "2026-10-27T06:34:44Z",
+"summary": "Whose hand is behind this travesty?",
+"source": "TechCrunch"
+},
+{
+"title": "Elvis rightsholders sue Anthropic for stealing songs and leaving them in Heartbreak Hotel",
+"url": "https://www.theregister.com/ai-and-ml/2026/10/27/elvis-rightsholders-sue-anthropic-for-stealing-songs-and-leaving-them-in-heartbreak-hotel/5305625",
+"published": "2026-10-27T05:39:18Z",
+"summary": "They want a little less chatbot conversation, and a whole lot more royalty action",
+"source": "The Register"
+},
+{
+"title": "ContextGem 1.0",
+"url": "https://www.producthunt.com/products/contextgem",
+"published": "2026-10-27T04:48:43Z",
+"summary": "Decision models join LLMs to extract data from documents Discussion | Link",
+"source": "Product Hunt"
+},
 {
 "title": "Developers Reporting Double-Digit Weekly Time Savings From AI Fell From 68% to 26%",
 "url": "https://www.infoq.com/news/2026/10/atlassian-devex-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
 "published": "2026-10-27T04:45:00Z",
 "summary": "Atlassian’s State of Developer Experience 2026 finds the share of developers saving ten or more hours a week with AI dropped from 68% to 26% year over year, while only 28% report noticeably less…",
 "source": "InfoQ"
+},
+{
+"title": "IBM admits mainframes need to be modernized and will use AI to do the job",
+"url": "https://www.theregister.com/systems/2026/10/27/ibm-admits-mainframes-need-to-be-modernized-and-will-use-ai-to-do-the-job/5305618",
+"published": "2026-10-27T04:07:15Z",
+"summary": "Promises to build ‘IBM Z Atlas’ tool that will tidy up messy big iron and enable AIOps",
+"source": "The Register"
 },
 {
 "title": "JAŸ-Z confirmed as headliner for Apple Music’s 2027 Super Bowl Halftime Show",
@@ -17,11 +248,18 @@
 "source": "9to5Mac"
 },
 {
-"title": "XPPen’s new Magic Pro 13 is an Android drawing tablet that turns into a pen display",
+"title": "Save $100 on XPPen’s new Magic Pro 13, an Android drawing tablet that turns into a desktop pen display",
 "url": "https://www.creativebloq.com/news/xppens-new-magic-pro-13-is-an-android-drawing-tablet-that-turns-into-a-pen-display",
 "published": "2026-10-27T03:00:00Z",
 "summary": "It’s $899, it has a 3K 120Hz screen, and it’s gunning for Wacom’s MovinkPad Pro 14.",
 "source": "Creative Bloq"
+},
+{
+"title": "Paddock",
+"url": "https://www.producthunt.com/products/paddock-2",
+"published": "2026-10-27T02:46:50Z",
+"summary": "Computers and sandboxes for your agents Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -113,6 +351,13 @@
 "published": "2026-10-26T22:49:25Z",
 "summary": "Ollama, the popular app for running AI models locally, announced that its Mac app now supports text-to-speech generation, with Windows and Linux support coming soon. Here are the details. more…",
 "source": "9to5Mac"
+},
+{
+"title": "PulseDev",
+"url": "https://www.producthunt.com/products/pulsedev",
+"published": "2026-10-26T22:47:46Z",
+"summary": "Click any UI bug on localhost. Your AI agent fixes it. Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
@@ -213,6 +458,13 @@
 "source": "UX Collective"
 },
 {
+"title": "Revix AI",
+"url": "https://www.producthunt.com/products/revix-ai-2",
+"published": "2026-10-26T21:29:10Z",
+"summary": "AI code review that learns your repo's own rules Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Alibaba's Qwen AI caught trying to contact server in China",
 "url": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
 "published": "2026-10-26T21:27:37Z",
@@ -283,6 +535,13 @@
 "source": "Ars Technica"
 },
 {
+"title": "fswitcher",
+"url": "https://www.producthunt.com/products/fswitcher",
+"published": "2026-10-26T20:26:31Z",
+"summary": "fswitcher replaces Command-Tab on your Mac Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "From iPhone Duo to Mac, Craft shows what a native productivity app can do",
 "url": "https://9to5mac.com/2026/10/26/from-iphone-duo-to-mac-craft-shows-what-a-native-productivity-app-can-do/",
 "published": "2026-10-26T20:26:07Z",
@@ -302,6 +561,13 @@
 "published": "2026-10-26T20:13:46Z",
 "summary": "Avoid the scariest thing this Halloween (your phone at 1 percent) with Anker's 20 percent off sale on all charging gear.",
 "source": "Wired"
+},
+{
+"title": "Nuvio 5.0",
+"url": "https://www.producthunt.com/products/nuvio",
+"published": "2026-10-26T20:06:22Z",
+"summary": "Hand your financial admin to your AI agent Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
@@ -416,6 +682,13 @@
 "source": "Ars Technica"
 },
 {
+"title": "Intel quietly confirms Raptor Lake Next CPUs through internal driver publication",
+"url": "https://www.tomshardware.com/pc-components/cpus/intel-quietly-confirms-raptor-lake-next-cpus-through-internal-driver-publication-lga-1700-chips-also-appear-in-shipping-manifests-dating-back-to-august",
+"published": "2026-10-26T18:50:28Z",
+"summary": "An internal driver and a shipping manifest reveal that Intel's desktop Raptor Lake Next parts may be on the way right now.",
+"source": "Tom's Hardware"
+},
+{
 "title": "Google Fitbit Edge Review: I Still Prefer the Air (2026)",
 "url": "https://www.wired.com/review/google-fitbit-edge/",
 "published": "2026-10-26T18:49:49Z",
@@ -505,6 +778,13 @@
 "published": "2026-10-26T17:58:00Z",
 "summary": "Redmond joins growing list of software maintainers scrambling to patch compression flaw",
 "source": "The Register"
+},
+{
+"title": "OpenRadView",
+"url": "https://www.producthunt.com/products/openradview",
+"published": "2026-10-26T17:57:31Z",
+"summary": "Free, open-source viewer for your own CT, MRI and X-rays Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "watchOS 27.2 available now for Apple Watch, here’s what’s new",
@@ -612,25 +892,11 @@
 "source": "Engadget"
 },
 {
-"title": "Five weird details from Anthropic’s IPO filing",
-"url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-"published": "2026-10-26T17:10:23Z",
-"summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for…",
-"source": "The Verge"
-},
-{
 "title": "Microsoft reportedly offers voluntary buyouts to 60,000 employees as an attempt to trim costs",
 "url": "https://www.engadget.com/2297175/microsoft-reportedly-offers-voluntary-buyouts-to-60000-employees/",
 "published": "2026-10-26T17:10:23Z",
 "summary": "That's over a quarter of the company's global workforce.",
 "source": "Engadget"
-},
-{
-"title": "Everything old is new again with the Fitbit Edge",
-"url": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
-"published": "2026-10-26T17:00:00Z",
-"summary": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is…",
-"source": "The Verge"
 },
 {
 "title": "Fitbit Edge review: Google strikes the right balance",
@@ -675,6 +941,13 @@
 "source": "Engadget"
 },
 {
+"title": "JSAUX FlipGo dual-screen portable monitor review: Gorgeous displays with touch support and a built-in USB hub",
+"url": "https://www.tomshardware.com/monitors/portable-monitors/jsaux-flipgo-dual-screen-portable-monitor-review",
+"published": "2026-10-26T16:33:31Z",
+"summary": "The JSAUX FlipGo features dual 16-inch touch displays and a built-in hub.",
+"source": "Tom's Hardware"
+},
+{
 "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
 "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
 "published": "2026-10-26T16:27:57Z",
@@ -701,6 +974,13 @@
 "published": "2026-10-26T16:01:55Z",
 "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
 "source": "Wired"
+},
+{
+"title": "Save $134 on this WD Red Plus 10TB HDD bundle at Newegg",
+"url": "https://www.tomshardware.com/pc-components/hdds/save-usd134-on-this-wd-red-plus-10tb-hdd-bundle-at-newegg-this-double-drive-deal-lands-you-with-20tb-of-total-capacity-for-your-nas",
+"published": "2026-10-26T16:00:00Z",
+"summary": "Grab two 10TB NAS Hard Disk Drives and save $134 — this two-pack WD Red Plus bundle is the best deal for adding capacity to your NAS",
+"source": "Tom's Hardware"
 },
 {
 "title": "Commuters appalled by accidental optical illusion ad",
@@ -773,6 +1053,20 @@
 "source": "InfoQ"
 },
 {
+"title": "Asus ROG Xbox Ally X20 tested: Same performance, more comfortable, and a glorious OLED screen",
+"url": "https://www.tomshardware.com/video-games/handheld-gaming/asus-rog-xbox-ally-x20-tested-same-performance-more-comfortable-and-a-glorious-oled-screen",
+"published": "2026-10-26T15:00:00Z",
+"summary": "Asus adds an OLED screen, TMR sticks, and more comfortable grips to its AMD-powered gaming handheld.",
+"source": "Tom's Hardware"
+},
+{
+"title": "iPad mini 8",
+"url": "https://www.producthunt.com/products/apple",
+"published": "2026-10-26T14:59:19Z",
+"summary": "OLED, A20 Pro and IP67 in Apple's smallest iPad Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
 "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
 "published": "2026-10-26T14:50:47Z",
@@ -787,18 +1081,18 @@
 "source": "Ars Technica"
 },
 {
-"title": "What are the downsides of a foldable electric bike?",
-"url": "https://www.engadget.com/2294298/foldable-electric-bike-downsides/",
-"published": "2026-10-26T14:45:00Z",
-"summary": "The foldable form factor comes with some trade-offs.",
-"source": "Engadget"
-},
-{
 "title": "Swift operations end: 2004 spacecraft headed for fiery reentry",
 "url": "https://www.theregister.com/science/2026/10/26/swift-operations-end-2004-spacecraft-headed-for-fiery-reentry/5305346",
 "published": "2026-10-26T14:44:00Z",
 "summary": "Atmospheric drag brings an extraordinarily long-lived mission to a close",
 "source": "The Register"
+},
+{
+"title": "3.2 Petabits per second real-time optical fiber transfer speed world record claimed by Chinese team",
+"url": "https://www.tomshardware.com/networking/3-2-pb-s-real-time-optical-fiber-transfer-speed-world-record-claimed-by-chinese-team-speed-fast-enough-to-download-more-than-20-000-4k-movies-in-one-second",
+"published": "2026-10-26T14:43:37Z",
+"summary": "A Chinese team has claimed a new world record for real-time transfer speeds across a 24-core optical fiber cable.",
+"source": "Tom's Hardware"
 },
 {
 "title": "Anthropic officially files for its public debut",
@@ -820,6 +1114,13 @@
 "published": "2026-10-26T14:33:11Z",
 "summary": "Apple unveiled a new iPad mini today, and it’s a big upgrade over the previous model. Here’s everything new. more…",
 "source": "9to5Mac"
+},
+{
+"title": "Leaked 256-core Zen 6c EPYC CPU destroys Zen 5 in early single-threaded benchmarks hints at 24% IPC gain",
+"url": "https://www.tomshardware.com/pc-components/cpus/leaked-256-core-zen-6c-epyc-cpu-destroys-zen-5-in-early-single-threaded-benchmarks-hints-at-24-percent-ipc-gain-early-single-threaded-benchmarks-point-to-huge-amd-zen-6-improvements",
+"published": "2026-10-26T14:31:43Z",
+"summary": "A benchmark leak and a direct clock-matched comparison from an enthusiast seed the idea that Zen 6 may come with a decent IPC bump as well as increased clocks.",
+"source": "Tom's Hardware"
 },
 {
 "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
@@ -864,6 +1165,13 @@
 "source": "Creative Bloq"
 },
 {
+"title": "Arcade Controller Pro",
+"url": "https://www.producthunt.com/products/bluetooth-snes-controller",
+"published": "2026-10-26T14:01:45Z",
+"summary": "A fight controller with no stick and its own screen Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
 "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
 "published": "2026-10-26T14:00:10Z",
@@ -876,6 +1184,13 @@
 "published": "2026-10-26T14:00:00Z",
 "summary": "Five hauntings from the other side of technology.",
 "source": "Wired"
+},
+{
+"title": "Micron plans to use wafer bonding and High-NA EUV for next-gen DRAM",
+"url": "https://www.tomshardware.com/pc-components/dram/micron-plans-to-use-wafer-bonding-and-high-na-euv-for-next-gen-dram-company-also-developing-vertical-high-bandwidth-memory-and-vertical-edge-inference-memory-integrated-directly-on-top-of-processors",
+"published": "2026-10-26T14:00:00Z",
+"summary": "Micron rejects 4F2, intends to use wafer bonding and High-NA EUV before going 3D NAND over the next few years.",
+"source": "Tom's Hardware"
 },
 {
 "title": "Private equity giant: AI payoff strictly limited to Big Tech",
@@ -892,11 +1207,25 @@
 "source": "BleepingComputer"
 },
 {
+"title": "Windows 11’s ‘whole ISO’ squeezed into a CD-ROM",
+"url": "https://www.tomshardware.com/software/windows/windows-11s-whole-iso-squeezed-into-a-cd-rom-sub-700mb-disk-boots-to-the-desktop-runs-apps-just-like-the-microsoft-original",
+"published": "2026-10-26T13:40:00Z",
+"summary": "Professional Windows crusher NTDEV has showcased their next-generation tool for compressing Windows 11 with a video of an install that fits on a single CD-ROM.",
+"source": "Tom's Hardware"
+},
+{
 "title": "Apple teases an ‘exciting week’ of new products ahead",
 "url": "https://9to5mac.com/2026/10/26/apple-teases-an-exciting-week-of-new-products-ahead/",
 "published": "2026-10-26T13:36:02Z",
 "summary": "Today Apple introduced a big update to the iPad mini, but it’s only the start of what the company has planned, as Greg Joswiak just teased an exciting week ahead. more…",
 "source": "9to5Mac"
+},
+{
+"title": "Cadence reveals Maestro, fine-tuned AI models built to run specialized chip design agents, with early access coming for 'select customers' in Q4 2026",
+"url": "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model",
+"published": "2026-10-26T13:20:00Z",
+"summary": "Cadence unveiled Maestro, domain-specialized AI models for its chip design agents, with early access for select customers in Q4 2026.",
+"source": "Tom's Hardware"
 },
 {
 "title": "New iPad mini has big limitation on all but one model",
@@ -927,6 +1256,13 @@
 "source": "Wired"
 },
 {
+"title": "Chinese research vessels loiter near Pacific undersea cables more than any other nation, report finds",
+"url": "https://www.tomshardware.com/tech-industry/chinese-research-vessels-loiter-near-pacific-undersea-cables-more-than-any-other-nation-report-finds-civilian-fleet-using-lawnmower-patterns-may-be-mapping-seafloor-for-future-sabotage",
+"published": "2026-10-26T13:00:00Z",
+"summary": "Chinese vessels are spending more time near undersea cables in the Pacific than nearly 50 other nations, according to a new report by the Center for Strategic and International Studies.",
+"source": "Tom's Hardware"
+},
+{
 "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
 "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
 "published": "2026-10-26T12:58:40Z",
@@ -948,11 +1284,32 @@
 "source": "MIT Technology Review"
 },
 {
+"title": "Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD",
+"url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business",
+"published": "2026-10-26T12:40:00Z",
+"summary": "Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have…",
+"source": "Tom's Hardware"
+},
+{
 "title": "UK Biobank back online soon, months after someone tried to sell 500k people's data on Alibaba",
 "url": "https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363",
 "published": "2026-10-26T12:38:00Z",
 "summary": "Charity confirms slew of security improvements as it waits for UK.gov's go-ahead",
 "source": "The Register"
+},
+{
+"title": "Save over $1,000 on this Alienware gaming PC with an RTX 5070 and 32GB DDR5",
+"url": "https://www.tomshardware.com/desktops/gaming-pcs/save-over-usd1-000-on-this-alienware-gaming-pc-with-an-rtx-5070-and-32gb-ddr5-unlock-1440p-and-4k-gameplay-with-this-aurora-act1250-rig-with-a-20-core-intel-cpu-and-a-1tb-ssd-for-usd2-199-99",
+"published": "2026-10-26T12:20:00Z",
+"summary": "Newegg have cut this Alienware Aurora gaming PC by over $1,000, netting yo ua 4K-ready machine with an RTX 5070 and 32GB of DDR5 RAM for $2,199.99.",
+"source": "Tom's Hardware"
+},
+{
+"title": "Off Grid AI",
+"url": "https://www.producthunt.com/products/off-grid-ai",
+"published": "2026-10-26T12:12:10Z",
+"summary": "Private AI on your phone and computer. Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Watch the iPhone Duo run a Shortcuts automation when it is opened or closed [Video]",
@@ -974,6 +1331,13 @@
 "published": "2026-10-26T12:00:00Z",
 "summary": "Forget flying cars; this is the future I dreamed of.",
 "source": "Creative Bloq"
+},
+{
+"title": "Lack of staff and funding likely led to the recent PHP security snafu; project has only one full-time employee, but that's just the tip of the iceberg",
+"url": "https://www.tomshardware.com/tech-industry/cyber-security/lack-of-funding-likely-led-to-the-recent-php-security-snafu-but-thats-just-the-tip-of-the-iceberg-a-dreary-situation-caused-by-services-running-old-versions-with-no-support",
+"published": "2026-10-26T11:50:00Z",
+"summary": "Lack of funding likely led to the recent PHP security snafu, but that's just the tip of the iceberg — dreary situation caused by services running old versions with no support",
+"source": "Tom's Hardware"
 },
 {
 "title": "This might be why Apple iPhone Duo screens are cracking in exactly the same place",
@@ -1018,6 +1382,13 @@
 "source": "UX Collective"
 },
 {
+"title": "Modder turns NES into a Windows-like desktop with original hardware",
+"url": "https://www.tomshardware.com/video-games/retro-gaming/modder-turns-nes-into-a-windows-like-desktop-with-original-hardware-emulates-a-full-retro-experience-with-a-cd-drive-and-slow-internet",
+"published": "2026-10-26T11:20:00Z",
+"summary": "Throaty Mumbo turns his NES into a Windows-like desktop using an FPGA cartridge emulating an old Intel CPU, complete with a CD drive and internet capabilities, all without tearing the NES apart.",
+"source": "Tom's Hardware"
+},
+{
 "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
 "url": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
 "published": "2026-10-26T11:00:15Z",
@@ -1046,11 +1417,25 @@
 "source": "InfoQ"
 },
 {
+"title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
+"url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+"published": "2026-10-26T11:00:00Z",
+"summary": "Linux kernel modules lift Nvidia’s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
+"source": "Tom's Hardware"
+},
+{
 "title": "LG B6 OLED TV Review (2026)",
 "url": "https://www.wired.com/review/lg-b6/",
 "published": "2026-10-26T10:30:00Z",
 "summary": "The LG B6 has deep and rich blacks and a low price tag, but midrange performance elsewhere.",
 "source": "Wired"
+},
+{
+"title": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty",
+"url": "https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy",
+"published": "2026-10-26T10:30:00Z",
+"summary": "The “Steal My Bitcoin” challenge offers a bounty to anyone who can breach a deliberately vulnerable PHP website using the recently disclosed PHP2Shell flaws. The challenge follows previous recoveries…",
+"source": "Tom's Hardware"
 },
 {
 "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
@@ -1088,6 +1473,13 @@
 "source": "Wired"
 },
 {
+"title": "Reddit’s r/opensource bans AI-made and AI-focused projects, also bans non-English speakers",
+"url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers",
+"published": "2026-10-26T10:00:00Z",
+"summary": "Reddit’s r/opensource has barred AI-built, AI-focused, and AI-using projects under new rules announced October 24. The crackdown also imposes strict requirements on project age and contributors…",
+"source": "Tom's Hardware"
+},
+{
 "title": "PHP2Shell is a warning shot for vulnerability disclosure",
 "url": "https://www.theregister.com/columnists/2026/10/26/php2shell-is-a-warning-shot-for-vulnerability-disclosure/5304918",
 "published": "2026-10-26T09:38:00Z",
@@ -1100,6 +1492,13 @@
 "published": "2026-10-26T09:30:00Z",
 "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
 "source": "Wired"
+},
+{
+"title": "Denmark’s bid to ditch Microsoft Office for open-source alternative Collabora collapses in under six months",
+"url": "https://www.tomshardware.com/software/microsoft-office/denmarks-bid-to-ditch-microsoft-office-for-open-source-alternative-collabora-collapses-in-under-six-months-employees-cite-issues-with-style-formatting-and-tracking-changes",
+"published": "2026-10-26T09:30:00Z",
+"summary": "The Danish digitization ministry experimented with Collabora as an alternative to Microsoft Office, but employees who used them were frequently frustrated with style and paragraph formatting…",
+"source": "Tom's Hardware"
 },
 {
 "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
@@ -1200,20 +1599,6 @@
 "source": "The Register"
 },
 {
-"title": "AllModels",
-"url": "https://www.producthunt.com/products/allmodels-io",
-"published": "2026-10-26T05:15:29Z",
-"summary": "Explore every abliterated model Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Work to protect DNS from quantum decryption attacks is speeding up",
-"url": "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
-"published": "2026-10-26T04:08:23Z",
-"summary": "PLUS: Regional internet registry reform nears; Trustworthy-sounding domains attract scammers",
-"source": "The Register"
-},
-{
 "title": "Standfast",
 "url": "https://www.producthunt.com/products/standfast",
 "published": "2026-10-26T02:50:33Z",
@@ -1228,13 +1613,6 @@
 "source": "TechCrunch"
 },
 {
-"title": "After threatening AI export bans, China allows DeepSeek to keep selling",
-"url": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
-"published": "2026-10-26T00:39:57Z",
-"summary": "PLUS: AI datacenter bubble wobbles in Australia; E-commerce app suggests it can detect diseases; India’s top telco to IPO amid investor frenzy; and more!",
-"source": "The Register"
-},
-{
 "title": "Phantom Blade Zero review: dark wuxia martial arts masters with an apprentice's execution",
 "url": "https://www.creativebloq.com/reviews/phantom-blade-zero-review-dark-wuxia-martial-arts-masters-with-an-apprentices-execution",
 "published": "2026-10-26T00:00:00Z",
@@ -1242,24 +1620,10 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Jobmate AI",
-"url": "https://www.producthunt.com/products/jobmate-ai-3",
-"published": "2026-10-25T22:59:42Z",
-"summary": "The humanized AI Copilot for your entire Job search Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "AVP",
 "url": "https://www.producthunt.com/products/avp",
 "published": "2026-10-25T22:53:07Z",
 "summary": "Open source alternative to Git for AI coding agents Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "WhoIsCooking",
-"url": "https://www.producthunt.com/products/whoiscooking",
-"published": "2026-10-25T21:45:54Z",
-"summary": "See which AI agent is heating your Mac and cool it down. Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -1289,13 +1653,6 @@
 "published": "2026-10-25T20:20:08Z",
 "summary": "\"That's a 12-year-old view of the world.\"",
 "source": "TechCrunch"
-},
-{
-"title": "ManyAgents",
-"url": "https://www.producthunt.com/products/manyagents",
-"published": "2026-10-25T19:55:39Z",
-"summary": "Run a team of AI coding agents from one Mac window Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "desigma",
@@ -1333,13 +1690,6 @@
 "source": "TechCrunch"
 },
 {
-"title": "Mozy",
-"url": "https://www.producthunt.com/products/mozy-walk-to-unlock-apps",
-"published": "2026-10-25T16:15:13Z",
-"summary": "App Blocker for Android & iPhone Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
 "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
 "published": "2026-10-25T16:05:00Z",
@@ -1354,6 +1704,20 @@
 "source": "BleepingComputer"
 },
 {
+"title": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns",
+"url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins",
+"published": "2026-10-25T15:25:40Z",
+"summary": "Revenue per employee at the Magnificent Seven has outpaced the S&P 493, and a new comparison highlights the growing divide in fortunes between America’s largest technology companies and the rest of…",
+"source": "Tom's Hardware"
+},
+{
+"title": "IQUNIX MQ80 low profile mechanical keyboard review",
+"url": "https://www.tomshardware.com/peripherals/mechanical-keyboards/iqunix-mq80-low-profile-mechanical-keyboard-review",
+"published": "2026-10-25T15:08:23Z",
+"summary": "The IQUNIX MQ80 is well-made and super stylish, but it’s not quite the instant sell it used to be. Catch this one if you don’t like magnetic switches, but otherwise wait for a sale.",
+"source": "Tom's Hardware"
+},
+{
 "title": "These beautiful buds bring expertly tuned audiophile sound to wireless inner-ear headphones",
 "url": "https://www.creativebloq.com/deals/these-beautiful-buds-bring-audiophile-sound-quality-to-wireless-inner-ear-headphones",
 "published": "2026-10-25T15:00:00Z",
@@ -1361,11 +1725,11 @@
 "source": "Creative Bloq"
 },
 {
-"title": "The hottest AI wearables and gadgets you should know about",
-"url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-"published": "2026-10-25T14:10:00Z",
-"summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-"source": "TechCrunch"
+"title": "Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases",
+"url": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drone-attacks-hammer-russias-finance-ministry-data-center-damaged-facility-reportedly-holds-tax-databases-facility-also-holds-other-important-state-registry-data",
+"published": "2026-10-25T14:05:00Z",
+"summary": "Reports say that this is one of three data centers that the Russian finance ministry operated.",
+"source": "Tom's Hardware"
 },
 {
 "title": "Uh oh, the iPhone Duo complaints have begun",
@@ -1375,11 +1739,32 @@
 "source": "Creative Bloq"
 },
 {
+"title": "Samsung's new 2TB 990 SSD is 38% off at Amazon today",
+"url": "https://www.tomshardware.com/pc-components/ssds/samsungs-new-2tb-990-ssd-is-38-percent-off-at-amazon-today-get-usd200-off-this-pcie-4-0-all-rounder-drive-for-a-limited-time",
+"published": "2026-10-25T13:43:37Z",
+"summary": "Get 38% off the new Samsung 990 2TB SSD, a $200 saving.",
+"source": "Tom's Hardware"
+},
+{
+"title": "Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories'",
+"url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+"published": "2026-10-25T13:00:00Z",
+"summary": "Nvidia CEO Jensen Huang is reportedly weighing annual software fees of around $2,000 per GPU for enterprise AI, a model that could generate $10 billion a year if five million licenses were sold. The…",
+"source": "Tom's Hardware"
+},
+{
 "title": "\"If I start at 8am, I feel I've lost the day already,\" manga artist Yé Wei shows us his obsessively organised art studio",
 "url": "https://www.creativebloq.com/features/if-i-start-at-8am-i-feel-ive-lost-the-day-already-manga-artist-ye-wei-shows-around-his-obsessively-organised-art-studio",
 "published": "2026-10-25T13:00:00Z",
 "summary": "Esquissewei has a split studio with two desks, 3,000 markers and a bed for breaking the day in half.",
 "source": "Creative Bloq"
+},
+{
+"title": "Jailbroken PS5s can now run Steam PC games",
+"url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-steam-pc-games-you-can-now-sign-in-with-your-steam-account-and-install-games-from-your-library-directly-to-the-console",
+"published": "2026-10-25T12:40:11Z",
+"summary": "Playden for PS5 creates an app for each Steam game that it downloads, allowing it to appear as a separate tile on the console's home screen.",
+"source": "Tom's Hardware"
 },
 {
 "title": "The context advantage of human UX",
@@ -1410,11 +1795,25 @@
 "source": "Wired"
 },
 {
+"title": "Windows XP debuted 25 years ago today",
+"url": "https://www.tomshardware.com/software/windows/windows-xp-debuted-25-years-ago-today-microsofts-biggest-launch-since-95-was-its-first-consumer-os-to-remove-the-dos-underpinnings",
+"published": "2026-10-25T12:20:00Z",
+"summary": "Windows XP became available at retailers for the first time on this day back in 2001.",
+"source": "Tom's Hardware"
+},
+{
 "title": "Scientists Trapped an Antimatter Particle for Months to Study Its Secrets",
 "url": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/",
 "published": "2026-10-25T12:00:00Z",
 "summary": "These elusive and reactive particles have been challenging to hold on to and even more challenging to study, but a new method paves the way for tests on the differences between matter and antimatter.",
 "source": "Wired"
+},
+{
+"title": "New CD players keep launching, but a drive shortage could make them unfixable",
+"url": "https://www.tomshardware.com/peripherals/new-cd-players-keep-launching-but-a-drive-shortage-could-make-them-unfixable-almost-nobody-makes-the-drives-anymore",
+"published": "2026-10-25T12:00:00Z",
+"summary": "The lack of optical drive manufacturers is raising questions about the repairability and longevity of new CD players that are coming out on the market today.",
+"source": "Tom's Hardware"
 },
 {
 "title": "6 Best Folding Phones (2026): Samsung, Apple, Google, Motorola",
@@ -1431,13 +1830,6 @@
 "source": "Wired"
 },
 {
-"title": "Want to build a UK datacenter? Please hold while Whitehall transfers you",
-"url": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956",
-"published": "2026-10-25T10:39:00Z",
-"summary": "Minister insists responsibilities are clear as construction, telecoms, and energy fall under separate departments",
-"source": "The Register"
-},
-{
 "title": "Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later",
 "url": "https://www.wired.com/story/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later/",
 "published": "2026-10-25T10:30:00Z",
@@ -1452,20 +1844,6 @@
 "source": "Wired"
 },
 {
-"title": "Hyve Smart Package Locker Review: Protecting Your Holiday Deliveries",
-"url": "https://www.wired.com/review/hyve-smart-package-locker/",
-"published": "2026-10-25T10:01:00Z",
-"summary": "Hyve’s smart porch lockbox can secure incoming gifts—if your delivery driver uses it and there’s still room inside.",
-"source": "Wired"
-},
-{
-"title": "What the US Movement Against Data Centers Can Learn From Abroad",
-"url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
-"published": "2026-10-25T10:00:00Z",
-"summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
-"source": "Wired"
-},
-{
 "title": "Just Eat's AI apocalypse raises a glaring question",
 "url": "https://www.creativebloq.com/news/just-eats-ai-apocalypse-raises-a-pretty-obvious-question",
 "published": "2026-10-25T10:00:00Z",
@@ -1473,67 +1851,11 @@
 "source": "Creative Bloq"
 },
 {
-"title": "tabsh",
-"url": "https://www.producthunt.com/products/tabsh",
-"published": "2026-10-25T09:18:55Z",
-"summary": "Work with agents with an IDE in your browser tab Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "We Linked 150 of Ikea’s $10 Speakers to Make a Wall of Sound",
-"url": "https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/",
-"published": "2026-10-25T09:00:00Z",
-"summary": "WIRED attempts what even the Swedish brand hasn’t: making a sonic monolith using scores of the cheapest Bluetooth speakers on the market. Can you have too much of a small thing?",
-"source": "Wired"
-},
-{
-"title": "Reg readers land on 'Binface' as name for UK space cleanup mission",
-"url": "https://www.theregister.com/offbeat/2026/10/25/reg-readers-land-on-binface-as-name-for-uk-space-cleanup-mission/5305144",
-"published": "2026-10-25T09:00:00Z",
-"summary": "Intergalactic Space Warrior, or a bin in orbit?",
-"source": "The Register"
-},
-{
 "title": "Why do AI platforms want humans to design their branding?",
 "url": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
 "published": "2026-10-25T08:01:03Z",
 "summary": "AI firms keep hiring human designers. Ironic much?",
 "source": "Creative Bloq"
-},
-{
-"title": "PingCAP Breach Exposes Customer Records and Source Code",
-"url": "https://www.infoq.com/news/2026/10/pingcap-cloud-data-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-"published": "2026-10-25T06:27:00Z",
-"summary": "PingCAP recently confirmed unauthorized access to its internal systems and the theft of source code and customer-related data. The attacker, cyber extortion group FulcrumSec, claimed to have stolen…",
-"source": "InfoQ"
-},
-{
-"title": "AgentGrid.io",
-"url": "https://www.producthunt.com/products/agentgrid-io",
-"published": "2026-10-25T05:39:16Z",
-"summary": "Shared workspace for humans and agents Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Kiwi",
-"url": "https://www.producthunt.com/products/kiwi-7",
-"published": "2026-10-24T23:19:29Z",
-"summary": "A proactive AI assistant that texts you before you ask Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "2G",
-"url": "https://www.producthunt.com/products/2g",
-"published": "2026-10-24T19:44:28Z",
-"summary": "Sampler to create early 2000 Neural Synthesis Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Google Optimizes Agent Development Kit's 200K-line Python Codebase Overnight with Gemini 4 Argon",
-"url": "https://www.infoq.com/news/2026/10/google-argon-optimizes-adk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-"published": "2026-10-24T16:00:00Z",
-"summary": "Google explained how an 11-hour unattended run of Gemini 4 Argon produced two accepted optimizations for Google Agent Development Kit's codebase, reducing in-memory session-preparation overhead by…",
-"source": "InfoQ"
 },
 {
 "title": "These premium earbuds have a game-changing feature that Apple AirPods will never get",
@@ -1550,25 +1872,11 @@
 "source": "BleepingComputer"
 },
 {
-"title": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
-"url": "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
-"published": "2026-10-24T13:02:00Z",
-"summary": "Designed to carry out 100,000 steps without human approval",
-"source": "The Register"
-},
-{
 "title": "Loqui",
 "url": "https://www.producthunt.com/products/loqui-2",
 "published": "2026-10-24T12:53:55Z",
 "summary": "Turns your voice into ready-to-send text in any Mac app Discussion | Link",
 "source": "Product Hunt"
-},
-{
-"title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-"url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-"published": "2026-10-24T12:00:00Z",
-"summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
-"source": "Wired"
 },
 {
 "title": "The Atlanta Falcons 'Nazi' logo controversy strikes again",
@@ -1590,20 +1898,6 @@
 "published": "2026-10-24T11:50:28Z",
 "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
 "source": "Ars Technica"
-},
-{
-"title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
-"url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
-"published": "2026-10-24T11:30:00Z",
-"summary": "The vaccine is personalized to a patient’s tumor, and results from the Phase 3 trial are yet another example of the promise of mRNA vaccines in treating cancer.",
-"source": "Wired"
-},
-{
-"title": "Best Pet Camera of 2026: Furbo, Petcube, and Enabot",
-"url": "https://www.wired.com/gallery/best-pet-cameras/",
-"published": "2026-10-24T11:03:00Z",
-"summary": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
-"source": "Wired"
 },
 {
 "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
@@ -1634,20 +1928,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Knock",
-"url": "https://www.producthunt.com/products/knock-7",
-"published": "2026-10-24T06:07:32Z",
-"summary": "Create shortcuts by hitting your mac Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Llama Windows",
-"url": "https://www.producthunt.com/products/llama-windows",
-"published": "2026-10-24T02:40:27Z",
-"summary": "One local AI server for all your Windows apps Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Usage metrics API adds usage from tools like OpenCode",
 "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
 "published": "2026-10-23T23:42:03Z",
@@ -1669,13 +1949,6 @@
 "source": "GitHub Changelog"
 },
 {
-"title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-"url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-"published": "2026-10-23T20:55:05Z",
-"summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to…",
-"source": "BleepingComputer"
-},
-{
 "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
 "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
 "published": "2026-10-23T20:28:43Z",
@@ -1688,6 +1961,13 @@
 "published": "2026-10-23T20:19:55Z",
 "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
 "source": "Ars Technica"
+},
+{
+"title": "Notra",
+"url": "https://www.producthunt.com/products/notra-3",
+"published": "2026-10-23T20:02:20Z",
+"summary": "Notra is a GEO tool that helps you rank in AI Search. Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
@@ -1711,13 +1991,6 @@
 "source": "GitHub Changelog"
 },
 {
-"title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-"url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-"published": "2026-10-23T18:54:41Z",
-"summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
-"source": "BleepingComputer"
-},
-{
 "title": "Crows can evaluate visual info twice as fast as mammals",
 "url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
 "published": "2026-10-23T17:32:58Z",
@@ -1730,13 +2003,6 @@
 "published": "2026-10-23T17:17:58Z",
 "summary": "Public monitoring now includes alert management capabilities like automatic validity checks to help you triage and remediate leaked secrets at scale. Alert management with dismissals, timelines, and…",
 "source": "GitHub Changelog"
-},
-{
-"title": "Microsoft: Windows Server 2016 reaches end of support in January",
-"url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-"published": "2026-10-23T17:05:07Z",
-"summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
-"source": "BleepingComputer"
 },
 {
 "title": "Headphones and speakers in a single device? The TDM Neo look wild",
@@ -1807,62 +2073,6 @@
 "published": "2026-10-23T11:00:00Z",
 "summary": "The UK's 'Peter Pan of Pop' is no longer just for the boomers.",
 "source": "Creative Bloq"
-},
-{
-"title": "In the biotech world, you can’t see everything",
-"url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-"published": "2026-10-23T09:00:00Z",
-"summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes. I went in not really knowing what to expect.…",
-"source": "MIT Technology Review"
-},
-{
-"title": "New Wildwood video reveals the painstaking beauty of Laika's handcrafted animation",
-"url": "https://www.creativebloq.com/news/new-wildwood-video-reveals-the-painstaking-beauty-of-laikas-handcrafted-animation",
-"published": "2026-10-23T09:00:00Z",
-"summary": "Yes, all those details really were made and moved by hand.",
-"source": "Creative Bloq"
-},
-{
-"title": "Tomb Raider 30th anniversary wallpaper shows the evolution of an icon",
-"url": "https://www.creativebloq.com/news/tomb-raider-30th-anniversary-wallpaper-shows-the-evolution-of-an-icon",
-"published": "2026-10-23T08:00:00Z",
-"summary": "30 years of Lara Croft in a single artwork.",
-"source": "Creative Bloq"
-},
-{
-"title": "Fast is a design decision",
-"url": "https://shannadige.com/blog/performance-is-design/",
-"published": "2026-10-23T07:09:03Z",
-"summary": "Building a site has never been cheaper, but making it fast still costs attention and your user’s resources.",
-"source": "Sidebar"
-},
-{
-"title": "Moving objects in 3D space",
-"url": "https://visualrambling.space/moving-objects-in-3d/",
-"published": "2026-10-23T07:08:31Z",
-"summary": "Have you ever wondered how to move objects along a spherical helix path?",
-"source": "Sidebar"
-},
-{
-"title": "Where decisions live",
-"url": "https://www.antonsten.com/articles/where-decisions-live/",
-"published": "2026-10-23T07:07:02Z",
-"summary": "Slack for discussion, meetings to resolve, notes for thinking, and a dated decisions log for where things landed.",
-"source": "Sidebar"
-},
-{
-"title": "Apple Music’s new logo was shaped by sound and mineral oil",
-"url": "https://www.creativeboom.com/news/apple-musics-new-logo-was-shaped-by-fred-again-and-a-bath-of-mineral-oil/",
-"published": "2026-10-23T07:06:22Z",
-"summary": "Created with TBWA\\Media Arts Lab, the new identity is full of ripples made by sound.",
-"source": "Sidebar"
-},
-{
-"title": "Gradient background generator",
-"url": "https://backgrounds.supply/gradient-lab",
-"published": "2026-10-23T07:05:34Z",
-"summary": "A free gradient background generator with 20+ animated shader modes.",
-"source": "Sidebar"
 }
 ]
 }
