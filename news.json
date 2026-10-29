@@ -1,7 +1,63 @@
 {
-"updated": "2026-10-28T23:25:54.401484Z",
+"updated": "2026-10-29T02:43:07.224219Z",
 "count": 311,
 "items": [
+{
+"title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+"url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+"published": "2026-10-29T02:22:46Z",
+"summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a…",
+"source": "The Verge"
+},
+{
+"title": "Russia now requires Apple to store user communications and hand them over if requested",
+"url": "https://9to5mac.com/2026/10/28/russia-now-requires-apple-to-store-user-communications-and-hand-them-over-if-requested/",
+"published": "2026-10-29T01:24:17Z",
+"summary": "As Bloomberg reported today, Apple and Microsoft are now subject to Russian regulations requiring companies to store users’ communications and provide them to security agencies if requested. Here are…",
+"source": "9to5Mac"
+},
+{
+"title": "Google struggling to make AI Mode searches pay",
+"url": "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181",
+"published": "2026-10-29T01:12:24Z",
+"summary": "That’s a problem, cos it just spent $51 billion on infrastructure and still needs to rent compute from others to run its cloud",
+"source": "The Register"
+},
+{
+"title": "Apple and OpenAI trade secrets lawsuit now has an official trial date",
+"url": "https://9to5mac.com/2026/10/28/apple-and-openai-trade-secrets-lawsuit-now-has-an-official-trial-date/",
+"published": "2026-10-29T00:17:48Z",
+"summary": "Judge Edward Davila today formally established the schedule for Apple’s trade secrets misappropriation lawsuit against two former employees, OpenAI, and io Products, including a trial date. Here are…",
+"source": "9to5Mac"
+},
+{
+"title": "How I stopped dreading AI and started studying it full-time",
+"url": "https://uxdesign.cc/how-i-stopped-dreading-ai-and-started-studying-it-full-time-fee7afc2b967?source=rss----138adf9c44c---4",
+"published": "2026-10-28T23:24:01Z",
+"summary": "",
+"source": "UX Collective"
+},
+{
+"title": "Designing for AI deep research: lessons from Google, Perplexity and Microsoft",
+"url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4",
+"published": "2026-10-28T23:23:05Z",
+"summary": "6 UX questions for AI research tasks that take time Continue reading on UX Collective »",
+"source": "UX Collective"
+},
+{
+"title": "The AI reckoning in UX was 20 years in the making",
+"url": "https://uxdesign.cc/the-ai-reckoning-in-ux-was-20-years-in-the-making-ecd7e36185de?source=rss----138adf9c44c---4",
+"published": "2026-10-28T23:22:26Z",
+"summary": "",
+"source": "UX Collective"
+},
+{
+"title": "Autonomy by design: how gamification and AI can respect (or rewrite) our choices",
+"url": "https://uxdesign.cc/autonomy-by-design-how-gamification-and-ai-can-respect-or-rewrite-our-choices-122ad795ec57?source=rss----138adf9c44c---4",
+"published": "2026-10-28T23:21:43Z",
+"summary": "All design influences behavior. The ethical line is whether people can see the influence and still choose otherwise. Continue reading on UX Collective »",
+"source": "UX Collective"
+},
 {
 "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
 "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
@@ -27,7 +83,7 @@
 "title": "The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal",
 "url": "https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/",
 "published": "2026-10-28T22:54:16Z",
-"summary": "The touchscreen in the new MacBook Pro is crazily bright with very deep blacks. Here's why it's unlike anything else you can currently buy.",
+"summary": "The touchscreen in the new MacBook Pro is crazily bright with very deep blacks. Here’s why it’s unlike anything else you can currently buy.",
 "source": "Wired"
 },
 {
@@ -295,13 +351,6 @@
 "published": "2026-10-28T19:19:58Z",
 "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
 "source": "TechCrunch"
-},
-{
-"title": "Hands-on with the new OLED iPad Mini",
-"url": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
-"published": "2026-10-28T19:18:58Z",
-"summary": "Apple announced a new iPad Mini with a larger OLED display this week, and we've just gotten to try it out at Apple's \"Pro and tell\" event. It's an iPad for sure, but the new OLED on the Mini looks…",
-"source": "The Verge"
 },
 {
 "title": "OpenAI now lets you text your Dot agent",
@@ -1298,13 +1347,6 @@
 "source": "Wired"
 },
 {
-"title": "LG Promo Codes and Coupons for October 2026",
-"url": "https://www.wired.com/story/lg-promo-code/",
-"published": "2026-10-28T05:00:00Z",
-"summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-"source": "Wired"
-},
-{
 "title": "Google Workspace Promo Codes: 14% Off for October 2026",
 "url": "https://www.wired.com/story/google-workspace-promo-code/",
 "published": "2026-10-28T05:00:00Z",
@@ -1344,6 +1386,13 @@
 "url": "https://www.wired.com/story/disney-plus-discounts/",
 "published": "2026-10-28T05:00:00Z",
 "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
+"source": "Wired"
+},
+{
+"title": "LG Promo Codes and Coupons for October 2026",
+"url": "https://www.wired.com/story/lg-promo-code/",
+"published": "2026-10-28T05:00:00Z",
+"summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
 "source": "Wired"
 },
 {
@@ -1445,25 +1494,11 @@
 "source": "9to5Mac"
 },
 {
-"title": "9to5Mac Daily: October 27, 2026 – Apple announces new iMac, MacBook Pro with M6",
-"url": "https://9to5mac.com/2026/10/27/daily-october-27-2026/",
-"published": "2026-10-28T00:01:52Z",
-"summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for…",
-"source": "9to5Mac"
-},
-{
 "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
 "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
 "published": "2026-10-27T23:35:51Z",
 "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a…",
 "source": "BleepingComputer"
-},
-{
-"title": "Last-minute leak reveals new touchscreen MacBook Pro details: pricing, new cooling system, more",
-"url": "https://9to5mac.com/2026/10/27/last-minute-leak-reveals-new-touchscreen-macbook-pro-details-pricing-new-cooling-system-more/",
-"published": "2026-10-27T22:50:54Z",
-"summary": "In a roundup of what to expect from tomorrow’s “Pro and Tell” event , Bloomberg ’s Mark Gurman shared new details about the upcoming OLED touchscreen MacBook Pro models. Here’s what to expect. more…",
-"source": "9to5Mac"
 },
 {
 "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
@@ -1527,6 +1562,13 @@
 "published": "2026-10-27T20:57:25Z",
 "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
 "source": "BleepingComputer"
+},
+{
+"title": "Congress Trades",
+"url": "https://www.producthunt.com/products/alpha-vantage",
+"published": "2026-10-27T20:23:42Z",
+"summary": "See how Congress members trade, and if copying them pays off Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Big Red gets cozy with Google to offer TPUs to AI customers",
@@ -1757,13 +1799,6 @@
 "url": "https://www.theregister.com/personal-tech/2026/10/27/apples-foldable-phone-has-a-crease-in-its-reputation/5305669",
 "published": "2026-10-27T13:15:00Z",
 "summary": "Admits a 'small number' of iPhone Duos have display problems, and no, you're not folding it wrong.",
-"source": "The Register"
-},
-{
-"title": "When file infrastructure becomes the bottleneck",
-"url": "https://www.theregister.com/storage/2026/10/27/sponsored-when-file-infrastructure-becomes-the-bottleneck/5305523",
-"published": "2026-10-27T13:00:00Z",
-"summary": "Legacy NAS, VPNs, and file-sync workflows leave hidden costs in their wake. Is the way your organization manages files still fit for purpose?",
 "source": "The Register"
 },
 {
@@ -2019,13 +2054,6 @@
 "source": "CSS-Tricks"
 },
 {
-"title": "Dotverse",
-"url": "https://www.producthunt.com/products/dotverse",
-"published": "2026-10-26T14:16:17Z",
-"summary": "Your Dot now with a crew Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "The Simpsons' brilliant parody of The Nightmare Before Christmas is proof that handmade creativity is on the rise",
 "url": "https://www.creativebloq.com/news/the-simpsons-brilliant-parody-of-the-nightmare-before-christmas-is-proof-that-handmade-creativity-is-on-the-rise",
 "published": "2026-10-26T14:02:01Z",
@@ -2052,27 +2080,6 @@
 "published": "2026-10-26T11:45:51Z",
 "summary": "Multiple early users have reported identical damage.",
 "source": "Creative Bloq"
-},
-{
-"title": "Who gets to name the future?",
-"url": "https://uxdesign.cc/who-gets-to-name-the-future-436d069f16af?source=rss----138adf9c44c---4",
-"published": "2026-10-26T11:26:31Z",
-"summary": "",
-"source": "UX Collective"
-},
-{
-"title": "The tap that pours hot water, not cold",
-"url": "https://uxdesign.cc/the-tap-that-pours-hot-water-not-cold-8983ac0b614c?source=rss----138adf9c44c---4",
-"published": "2026-10-26T11:26:19Z",
-"summary": "On where a sushi self-service system quietly puts its risk Continue reading on UX Collective »",
-"source": "UX Collective"
-},
-{
-"title": "Telling the wrong story, Design v ADHD, AI doesn’t care about your job title",
-"url": "https://uxdesign.cc/telling-the-wrong-story-design-v-adhd-ai-doesnt-care-about-your-job-title-63869c750f07?source=rss----138adf9c44c---4",
-"published": "2026-10-26T11:20:17Z",
-"summary": "",
-"source": "UX Collective"
 },
 {
 "title": "The focus on AI safety disasters ignores everyday harms",
@@ -2150,13 +2157,6 @@
 "published": "2026-10-25T13:00:00Z",
 "summary": "Esquissewei has a split studio with two desks, 3,000 markers and a bed for breaking the day in half.",
 "source": "Creative Bloq"
-},
-{
-"title": "The context advantage of human UX",
-"url": "https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4",
-"published": "2026-10-25T12:34:03Z",
-"summary": "Context is today’s human advantage, but it is also the raw material AI is rapidly learning to absorb. Continue reading on UX Collective »",
-"source": "UX Collective"
 },
 {
 "title": "Zest",
