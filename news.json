@@ -1,7 +1,77 @@
 {
-"updated": "2026-10-31T20:12:01.809016Z",
+"updated": "2026-10-31T23:34:45.999066Z",
 "count": 310,
 "items": [
+{
+"title": "Why your Apple AirPods' battery drains so fast and how to make it last longer",
+"url": "https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix/",
+"published": "2026-10-31T23:30:00Z",
+"summary": "It's annoying when your Apple AirPods run out of juice, but the culprit might not be what you think. Here's what's going on and what you can do about it.",
+"source": "Engadget"
+},
+{
+"title": "The Slate vs Ford Fathom debate might be settled by this one key tech feature",
+"url": "https://www.engadget.com/2300238/slate-vs-ford-fathom-android-auto-carplay-support/",
+"published": "2026-10-31T23:00:00Z",
+"summary": "Slate and Ford are both building affordable electric pickups, and that means compromises. But the two automakers are taking very different paths to get there.",
+"source": "Engadget"
+},
+{
+"title": "4 important features you should know if you use Microsoft Teams",
+"url": "https://www.engadget.com/2300242/important-features-should-know-microsoft-teams/",
+"published": "2026-10-31T22:45:00Z",
+"summary": "A wealth of not-so-well-known features on Microsoft Teams make the experience easier and more stress-free than you may have previously thought.",
+"source": "Engadget"
+},
+{
+"title": "The reason most electrical plug prongs have holes in them",
+"url": "https://www.engadget.com/2300248/reason-most-electrical-plug-prongs-have-holes/",
+"published": "2026-10-31T22:30:00Z",
+"summary": "If you've ever looked at the end of a plug, you've probably wondered why some have holes, and some don't - and no, it's not actually a big conspiracy theory.",
+"source": "Engadget"
+},
+{
+"title": "5 Netflix tips we all wish we knew sooner",
+"url": "https://www.engadget.com/2300249/netflix-download-speeds-offline-tricks-wish-knew-sooner/",
+"published": "2026-10-31T22:00:00Z",
+"summary": "If there are aspects of Netflix streaming that aren't to your liking, there are several changes you can make to optimize your viewing experience.",
+"source": "Engadget"
+},
+{
+"title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+"url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+"published": "2026-10-31T21:41:00Z",
+"summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+"source": "TechCrunch"
+},
+{
+"title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+"url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+"published": "2026-10-31T21:36:07Z",
+"summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your…",
+"source": "TechCrunch"
+},
+{
+"title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+"url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+"published": "2026-10-31T21:17:03Z",
+"summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+"source": "TechCrunch"
+},
+{
+"title": "Get in the spirit with these horrors from YouTube",
+"url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+"published": "2026-10-31T21:06:58Z",
+"summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird…",
+"source": "The Verge"
+},
+{
+"title": "Why your Apple AirPods won't connect to your iPhone and how can you fix it",
+"url": "https://www.engadget.com/2302450/why-apple-airpods-wont-connect-to-iphone-fixes/",
+"published": "2026-10-31T21:00:00Z",
+"summary": "When your AirPods refuse to show up on your iPhone, the cause is usually simpler than you'd think. Here's where to look first and what to try next.",
+"source": "Engadget"
+},
 {
 "title": "Xbox manager says AI is already being used in game development",
 "url": "https://www.engadget.com/2302431/brandon-stirrup-xbox-manager-says-ai-used-game-development/",
@@ -234,13 +304,6 @@
 "source": "BleepingComputer"
 },
 {
-"title": "The Amazon Fire TV Stick setting you should try for better audio",
-"url": "https://www.engadget.com/2299191/amazon-fire-tv-stick-setting-better-audio/",
-"published": "2026-10-31T15:30:00Z",
-"summary": "Dialogue is an important part of any movie or TV show, but it isn't always as clear as we would like. Amazon's Fire TV Stick has a solution.",
-"source": "Engadget"
-},
-{
 "title": "Apple @ Work: Next to a growing token bill, Macs might start looking like a bargain",
 "url": "https://9to5mac.com/2026/10/31/apple-work-next-to-a-token-bill-macs-might-start-looking-like-a-bargain/",
 "published": "2026-10-31T15:19:00Z",
@@ -248,25 +311,11 @@
 "source": "9to5Mac"
 },
 {
-"title": "What is the purpose of reposting on Instagram and how do you do it?",
-"url": "https://www.engadget.com/2301218/repost-with-instagram-purpose-how-to-do/",
-"published": "2026-10-31T15:15:00Z",
-"summary": "It's the easiest way to share posts and reels you like with all of your followers.",
-"source": "Engadget"
-},
-{
 "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
 "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
 "published": "2026-10-31T15:12:19Z",
 "summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings…",
 "source": "The Verge"
-},
-{
-"title": "Sam Altman is upset at you for hoarding RAM in your own computer",
-"url": "https://www.engadget.com/2303266/sam-altman-says-its-terrible-dram-computer/",
-"published": "2026-10-31T15:07:10Z",
-"summary": "Sam Altman, in an interview, said it's 'terrible' for people to have 'a bunch of the world's limited supply of DRAM' that they barely use.",
-"source": "Engadget"
 },
 {
 "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
@@ -281,27 +330,6 @@
 "published": "2026-10-31T15:00:00Z",
 "summary": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major…",
 "source": "The Verge"
-},
-{
-"title": "Is IMAX 3D a better experience than 2D? Here's what to know",
-"url": "https://www.engadget.com/2300266/imax-3d-vs-2d-which-is-better-experience/",
-"published": "2026-10-31T15:00:00Z",
-"summary": "While IMAX 3D may sound bigger and better, there are a handful of distinct advantages and disadvantages to both movie-viewing experiences.",
-"source": "Engadget"
-},
-{
-"title": "Why SNES games are so expensive",
-"url": "https://www.engadget.com/2301220/why-snes-games-so-expensive/",
-"published": "2026-10-31T14:45:00Z",
-"summary": "Scarcity and increased interest in retro games makes for an expensive combo.",
-"source": "Engadget"
-},
-{
-"title": "5 Samsung One UI features you won't get with other Android phones",
-"url": "https://www.engadget.com/2299207/one-ui-features-not-on-other-androids/",
-"published": "2026-10-31T14:30:00Z",
-"summary": "Samsung doesn't just make great phone and tablet hardware; its One UI is also a standout, offering many features you just can't get elsewhere.",
-"source": "Engadget"
 },
 {
 "title": "9to5Mac Overtime 088: Finally, a touchscreen MacBook",
@@ -731,13 +759,6 @@
 "source": "Ars Technica"
 },
 {
-"title": "Apple Intelligence is finally coming to China with iOS 27.3",
-"url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-"published": "2026-10-30T22:32:53Z",
-"summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first…",
-"source": "The Verge"
-},
-{
 "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
 "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
 "published": "2026-10-30T22:21:05Z",
@@ -1137,25 +1158,11 @@
 "source": "9to5Mac"
 },
 {
-"title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
-"url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
-"published": "2026-10-30T14:00:25Z",
-"summary": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
-"source": "TechCrunch"
-},
-{
 "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
 "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
 "published": "2026-10-30T14:00:10Z",
 "summary": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices.…",
 "source": "BleepingComputer"
-},
-{
-"title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-"url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-"published": "2026-10-30T14:00:00Z",
-"summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in…",
-"source": "TechCrunch"
 },
 {
 "title": "NASA ponders a Hubble servicing mission or a controlled deorbit",
@@ -1170,13 +1177,6 @@
 "published": "2026-10-30T14:00:00Z",
 "summary": "TCL’s 27C2A Pro is a super-bright 27-inch 4K Mini LED gaming monitor with full-array local dimming (2,304 zones), Quantum Dot color, 160 Hz, 320 Hz/FHD mode, HDR10 and Adaptive-Sync. It’s also…",
 "source": "Tom's Hardware"
-},
-{
-"title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-"url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-"published": "2026-10-30T13:54:25Z",
-"summary": "DoorDash said that it is open to working with third-party agent makers.",
-"source": "TechCrunch"
 },
 {
 "title": "GM to pay $220 million after selling customer Smart Driver data",
@@ -1445,17 +1445,17 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "Male Insecurity Over Penis Size Is a Booming Business",
-"url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/",
-"published": "2026-10-30T10:30:00Z",
-"summary": "Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.",
-"source": "Wired"
-},
-{
 "title": "The Best Handheld Translators for Work and Travel (2026)",
 "url": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
 "published": "2026-10-30T10:30:00Z",
 "summary": "Your cell phone can handle basic language translation, but dedicated translator devices can offer a much more immersive, versatile experience.",
+"source": "Wired"
+},
+{
+"title": "Male Insecurity Over Penis Size Is a Booming Business",
+"url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/",
+"published": "2026-10-30T10:30:00Z",
+"summary": "Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.",
 "source": "Wired"
 },
 {
@@ -1690,20 +1690,6 @@
 "source": "9to5Mac"
 },
 {
-"title": "Norah Studio",
-"url": "https://www.producthunt.com/products/norah-studio",
-"published": "2026-10-29T22:05:03Z",
-"summary": "A new space to explore your music Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "StepGrab",
-"url": "https://www.producthunt.com/products/stepgrab",
-"published": "2026-10-29T22:03:45Z",
-"summary": "Now on Windows, with redaction and a real editor Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Touchscreen MacBook Pro with OLED, new iPad mini, and more",
 "url": "https://9to5mac.com/2026/10/29/happy-hour-614/",
 "published": "2026-10-29T21:55:40Z",
@@ -1744,13 +1730,6 @@
 "published": "2026-10-29T19:46:08Z",
 "summary": "Infrastructure automation needs something better than prompt and pray",
 "source": "The Register"
-},
-{
-"title": "ilse",
-"url": "https://www.producthunt.com/products/ilse",
-"published": "2026-10-29T19:42:40Z",
-"summary": "Point at your app and your AI agent changes the code Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Topcoat enables Rust to render server-side web apps",
@@ -1828,6 +1807,13 @@
 "published": "2026-10-29T16:30:00Z",
 "summary": "I just gave the Sennheiser HD 480 Pro a full 5 stars, so this is one to snap up.",
 "source": "Creative Bloq"
+},
+{
+"title": "sitesolide",
+"url": "https://www.producthunt.com/products/sitesolide",
+"published": "2026-10-29T15:27:44Z",
+"summary": "Deploy your vibe-coded apps on your own server Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Mass Effect 5 art director says it's “truly heartbreaking” we'll never play his team's game",
@@ -1956,6 +1942,13 @@
 "source": "Product Hunt"
 },
 {
+"title": "fastbrowse",
+"url": "https://www.producthunt.com/products/fastbrowse",
+"published": "2026-10-29T03:25:09Z",
+"summary": "Fastest open source browser agent Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "telemetry.dev",
 "url": "https://www.producthunt.com/products/telemetry-dev",
 "published": "2026-10-29T00:13:46Z",
@@ -1996,6 +1989,13 @@
 "published": "2026-10-28T20:32:02Z",
 "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process…",
 "source": "MIT Technology Review"
+},
+{
+"title": "Kestrix",
+"url": "https://www.producthunt.com/products/kestrix",
+"published": "2026-10-28T20:26:10Z",
+"summary": "Repo-agnostic CI control plane with DAG-based triggers. Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "They did it! Sennheiser HD 480 Pro are the best closed-back headphones I’ve heard (and it's not even close)",
