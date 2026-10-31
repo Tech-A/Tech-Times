@@ -1,7 +1,49 @@
 {
-"updated": "2026-10-30T23:57:56.917323Z",
-"count": 323,
+"updated": "2026-10-31T05:21:12.662921Z",
+"count": 321,
 "items": [
+{
+"title": "Wayfair Coupons: Up to 80% Off November 2026",
+"url": "https://www.wired.com/story/wayfair-promo-code/",
+"published": "2026-10-31T05:00:00Z",
+"summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+"source": "Wired"
+},
+{
+"title": "Amazon's dropped the price of our favourite laptop for graphic designers by $160 in early Black Friday deal",
+"url": "https://www.creativebloq.com/deals/amazons-dropped-the-price-of-our-favourite-laptop-for-graphic-designers-by-usd160-in-early-black-friday-deal",
+"published": "2026-10-31T05:00:00Z",
+"summary": "The M5 MacBook Pro tops our buying guide.",
+"source": "Creative Bloq"
+},
+{
+"title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+"url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+"published": "2026-10-31T04:16:50Z",
+"summary": "The money behind the money is thrilled, mostly.",
+"source": "TechCrunch"
+},
+{
+"title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+"url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+"published": "2026-10-31T01:20:05Z",
+"summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+"source": "TechCrunch"
+},
+{
+"title": "Download all 20 Apple HomeView wallpapers in light and dark mode here",
+"url": "https://9to5mac.com/2026/10/30/download-all-20-apple-homeview-wallpapers-in-light-and-dark-mode-here/",
+"published": "2026-10-31T01:03:35Z",
+"summary": "Apple tonight rolled out the HomeView 27.2 system update, ahead of the device’s official launch on November 13. The update includes the device’s default wallpapers, each available in light and dark…",
+"source": "9to5Mac"
+},
+{
+"title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+"url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+"published": "2026-10-31T00:07:22Z",
+"summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+"source": "Ars Technica"
+},
 {
 "title": "WhatsApp announces four new features to make group chats easier to manage",
 "url": "https://9to5mac.com/2026/10/30/whatsapp-announces-four-new-features-to-make-group-chats-easier-to-manage/",
@@ -38,7 +80,7 @@
 "source": "9to5Mac"
 },
 {
-"title": "Flesh-eating screwworms are feasting on pets; 4 dogs and cat attacked this week",
+"title": "Flesh-eating screwworms spread to third state and are attacking pets",
 "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
 "published": "2026-10-30T22:36:41Z",
 "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
@@ -1123,13 +1165,6 @@
 "source": "9to5Mac"
 },
 {
-"title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-"url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-"published": "2026-10-30T01:20:48Z",
-"summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-"source": "TechCrunch"
-},
-{
 "title": "Axonnic",
 "url": "https://www.producthunt.com/products/axonnic",
 "published": "2026-10-30T01:11:16Z",
@@ -1149,13 +1184,6 @@
 "published": "2026-10-30T00:58:40Z",
 "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for…",
 "source": "9to5Mac"
-},
-{
-"title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-"url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-"published": "2026-10-29T23:44:56Z",
-"summary": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
-"source": "TechCrunch"
 },
 {
 "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
@@ -1403,13 +1431,6 @@
 "source": "Product Hunt"
 },
 {
-"title": "Trump declares robot imports a national security threat",
-"url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-"published": "2026-10-29T19:07:53Z",
-"summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-"source": "Ars Technica"
-},
-{
 "title": "Suspected Chinese attackers built a custom PHP2Shell exploit and rooted 25 servers",
 "url": "https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456",
 "published": "2026-10-29T19:05:17Z",
@@ -1417,7 +1438,7 @@
 "source": "The Register"
 },
 {
-"title": "Google Adopts DPoP to Strengthen OAuth 2.0 Against Token Theft and Replay Attacks",
+"title": "Google Adopts DPoP to Strengthen OAuth 2.0 against Token Theft and Replay Attacks",
 "url": "https://www.infoq.com/news/2026/10/google-dpop-oauth2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
 "published": "2026-10-29T19:00:00Z",
 "summary": "Google's OAuth Platform has recently introduces support for Demonstrating Proof-of-Possession (DPoP), an OAuth 2.0 security mechanism designed to mitigate token theft and replay attacks. By Sergio De…",
@@ -1555,13 +1576,6 @@
 "published": "2026-10-29T15:25:25Z",
 "summary": "The AI industry continues to gobble up manufacturing resources that were once dedicated to serving PC, smart device, and gadget makers. Inevitably, the PCB industry has started to feel its effects.",
 "source": "Tom's Hardware"
-},
-{
-"title": "Apple TV’s new crime thriller hailed as ‘impossible to stop watching’",
-"url": "https://9to5mac.com/2026/10/29/apple-tvs-new-crime-thriller-hailed-as-impossible-to-stop-watching/",
-"published": "2026-10-29T15:19:00Z",
-"summary": "Apple TV has a new crime thriller premiering tonight— Nocturne —and early reviews indicate it could be another hit series for the streamer. more…",
-"source": "9to5Mac"
 },
 {
 "title": "Bug0 Releases QA Agent to Automate Regression Testing With Cached Playwright Replays",
@@ -1746,13 +1760,6 @@
 "source": "Wired"
 },
 {
-"title": "I Did Push-Ups With Snap’s Chunky AR Glasses",
-"url": "https://www.wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses/",
-"published": "2026-10-29T10:15:00Z",
-"summary": "They fit better than they look and stay put when you move, but Snap’s $2,195 Specs still feel like a developer prototype in search of a purpose.",
-"source": "Wired"
-},
-{
 "title": "We urgently need to monitor AI agents’ actions in real time",
 "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
 "published": "2026-10-29T10:11:12Z",
@@ -1858,24 +1865,10 @@
 "source": "Product Hunt"
 },
 {
-"title": "Arco",
-"url": "https://www.producthunt.com/products/arco-4",
-"published": "2026-10-29T05:31:15Z",
-"summary": "GitHub and Linear issues, right inside your Codex Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "fastbrowse",
 "url": "https://www.producthunt.com/products/fastbrowse",
 "published": "2026-10-29T03:25:09Z",
 "summary": "Fastest open source browser agent Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Flatbread",
-"url": "https://www.producthunt.com/products/flatbread",
-"published": "2026-10-28T23:47:45Z",
-"summary": "Share the whole agent run, not a screenshot Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -1907,24 +1900,10 @@
 "source": "UX Collective"
 },
 {
-"title": "AssemblyAI",
-"url": "https://www.producthunt.com/products/assemblyai",
-"published": "2026-10-28T22:35:24Z",
-"summary": "text-to-speech built for voice agents Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "AutoShelf 2.6",
 "url": "https://www.producthunt.com/products/autoshelf",
 "published": "2026-10-28T22:19:51Z",
 "summary": "Automate any folder on your Mac with if-this-then-that rules Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Polylane for ChatGPT",
-"url": "https://www.producthunt.com/products/polylane",
-"published": "2026-10-28T22:04:42Z",
-"summary": "Ask ChatGPT what broke in production Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -1939,6 +1918,20 @@
 "url": "https://www.producthunt.com/products/kestrix",
 "published": "2026-10-28T20:26:10Z",
 "summary": "Repo-agnostic CI control plane with DAG-based triggers. Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "Suno MCP",
+"url": "https://www.producthunt.com/products/suno",
+"published": "2026-10-28T18:33:54Z",
+"summary": "The music layerfor your AI stack Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "IFTTT.ai",
+"url": "https://www.producthunt.com/products/ifttt",
+"published": "2026-10-28T18:26:21Z",
+"summary": "The easiest way to automate anything Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -2068,25 +2061,11 @@
 "source": "Creative Bloq"
 },
 {
-"title": "MAO",
-"url": "https://www.producthunt.com/products/mao-multi-agentic-orchestration-tool",
-"published": "2026-10-28T11:27:28Z",
-"summary": "Team up Claude Code, Codex and Grok on one canvas Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Coca-Cola gives everyday heroes the royal treatment in posh portrait campaign",
 "url": "https://www.creativebloq.com/news/coca-cola-gives-everyday-heroes-the-royal-treatment-in-posh-portrait-campaign",
 "published": "2026-10-28T11:00:00Z",
 "summary": "Real royal artists were commissioned to honour local legends from",
 "source": "Creative Bloq"
-},
-{
-"title": "Kin",
-"url": "https://www.producthunt.com/products/kin-6",
-"published": "2026-10-28T10:24:00Z",
-"summary": "The AI labs want to own you. Make them answer to you. Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "XPPen Magic Pro 13 review: a premium Android drawing tablet for work and play",
@@ -2159,6 +2138,20 @@
 "source": "Sidebar"
 },
 {
+"title": "Radar",
+"url": "https://www.producthunt.com/products/radar-7",
+"published": "2026-10-27T20:41:59Z",
+"summary": "You don't need an AI SRE. Give your agent Radar. Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "Voxel51 Multimodal",
+"url": "https://www.producthunt.com/products/voxel51",
+"published": "2026-10-27T17:03:15Z",
+"summary": "Better data. Smarter robots. Repeat. Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "This monitor light has brightened my mood – and it's down to $35!",
 "url": "https://www.creativebloq.com/news/this-monitor-light-has-lightened-my-mood-and-its-down-to-usd35",
 "published": "2026-10-27T16:30:00Z",
@@ -2178,13 +2171,6 @@
 "published": "2026-10-27T15:09:16Z",
 "summary": "We’re back! Don't worry, this isn’t a trick (despite what our name suggests!). However, due to the hiatus, we're also a little behind. That’s why this issue of What’s !important is absolutely…",
 "source": "CSS-Tricks"
-},
-{
-"title": "Bambu Lab’s Black Friday sale has started already with up to 20% off 3D printers",
-"url": "https://www.creativebloq.com/deals/bambu-labs-black-friday-sale-has-started-already-with-up-to-20-percent-off-3d-printers",
-"published": "2026-10-27T14:00:00Z",
-"summary": "Find the year's best prices on 3D printers for both beginners and pros.",
-"source": "Creative Bloq"
 },
 {
 "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
