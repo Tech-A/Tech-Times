@@ -1,7 +1,140 @@
 {
-"updated": "2026-11-01T17:53:01.391665Z",
-"count": 292,
+"updated": "2026-11-01T21:51:50.920204Z",
+"count": 291,
 "items": [
+{
+"title": "Game Off 2026: The theme is SHIFT",
+"url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+"published": "2026-11-01T21:36:00Z",
+"summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The…",
+"source": "GitHub Blog"
+},
+{
+"title": "NASA hopes the commercial space industry can help save Hubble",
+"url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+"published": "2026-11-01T21:09:21Z",
+"summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its…",
+"source": "The Verge"
+},
+{
+"title": "Anthropic updates Claude to stop it from recreating existing video games",
+"url": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
+"published": "2026-11-01T21:08:32Z",
+"summary": "Users can still lean on Claude to help with designing original or genre games.",
+"source": "Engadget"
+},
+{
+"title": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
+"url": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
+"published": "2026-11-01T21:00:00Z",
+"summary": "An Apple Watch is a handy accessory for your iPhone, but choosing the most durable material can be challenging. This one is better suited to your needs.",
+"source": "Engadget"
+},
+{
+"title": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself — payload builds custom target assessment, can switch models if one refuses, or skip the AI step entirely",
+"url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
+"published": "2026-11-01T21:00:00Z",
+"summary": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value.",
+"source": "Tom's Hardware"
+},
+{
+"title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+"url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+"published": "2026-11-01T20:57:58Z",
+"summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+"source": "TechCrunch"
+},
+{
+"title": "How to know if a USB-C cable is waterproof",
+"url": "https://www.engadget.com/2300388/how-to-know-usb-c-cable-waterproof/",
+"published": "2026-11-01T20:00:00Z",
+"summary": "If you need extra protection for your USB cables, knowing how to tell if they're waterproof beforehand is important. Here's how to check a cable's rating.",
+"source": "Engadget"
+},
+{
+"title": "Flock keeps ignoring requests to cancel its contracts",
+"url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+"published": "2026-11-01T19:58:02Z",
+"summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its…",
+"source": "The Verge"
+},
+{
+"title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+"url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+"published": "2026-11-01T19:57:53Z",
+"summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on…",
+"source": "BleepingComputer"
+},
+{
+"title": "5 ways to get Amazon Prime for free (or way cheaper)",
+"url": "https://www.engadget.com/2301057/ways-get-amazon-prime-free-cheaper/",
+"published": "2026-11-01T19:45:00Z",
+"summary": "Don't pay full price; you might already qualify for cheaper Prime or have another benefit that covers the membership fee",
+"source": "Engadget"
+},
+{
+"title": "How to turn on the flashlight on your Android phone without unlocking it",
+"url": "https://www.engadget.com/2300305/how-to-turn-on-andoird-phone-flashlight-without-unlocking/",
+"published": "2026-11-01T19:30:00Z",
+"summary": "You can easily access your flashlight on Samsung Galaxy and Google Pixel devices - here's how.",
+"source": "Engadget"
+},
+{
+"title": "Judge says xAI must face NAACP lawsuit on data center pollution",
+"url": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/",
+"published": "2026-11-01T19:19:22Z",
+"summary": "The legal battle revolves around the AI company's operations in southern Memphis.",
+"source": "Engadget"
+},
+{
+"title": "This hidden Windows 11 menu can save you valuable time when troubleshooting",
+"url": "https://www.engadget.com/2300300/hidden-windows-11-menu-saves-time-troubleshooting/",
+"published": "2026-11-01T19:00:00Z",
+"summary": "Windows 11 has a sneaky menu that connects you with Settings, Task Manager, Event Viewer, and more in one place.",
+"source": "Engadget"
+},
+{
+"title": "GOG explores reviving physical PC game releases — digital storefront needs publisher approvals, has to figure out the logistics and legal challenges",
+"url": "https://www.tomshardware.com/video-games/gog-explores-reviving-physical-pc-game-releases-digital-storefront-needs-publisher-approvals-has-to-figure-out-the-logistics-and-legal-challenges",
+"published": "2026-11-01T18:45:00Z",
+"summary": "GOG wants to sell physical games, in contrast to consoles going digital-only, giving gamers more freedom over their games. However, it still has to figure out logistics and publisher permissions.",
+"source": "Tom's Hardware"
+},
+{
+"title": "The biggest problem with trying to directly power EVs with solar roofs",
+"url": "https://www.engadget.com/2300413/biggest-problem-directly-powering-evs-with-solar-roofs/",
+"published": "2026-11-01T18:30:00Z",
+"summary": "Solar roofs promise a future where EVs rarely need plugging in, but turning that vision into reality presents some surprisingly difficult challenges.",
+"source": "Engadget"
+},
+{
+"title": "How much would it cost to build a PC similar to the Xbox Series S?",
+"url": "https://www.engadget.com/2300614/xbox-series-s-pc-similar-how-much-to-build/",
+"published": "2026-11-01T18:15:00Z",
+"summary": "The Xbox Series S offers a solid entry-level experience for those interested in console gaming. Here's what an equivalent gaming PC would cost you.",
+"source": "Engadget"
+},
+{
+"title": "Snag a Nintendo Switch 2 for only $469 while stock lasts — $30 off a system that's not often on sale",
+"url": "https://www.tomshardware.com/pc-components/snag-a-nintendo-switch-2-for-only-usd469-while-stock-lasts-usd30-off-a-system-thats-not-often-on-sale",
+"published": "2026-11-01T18:09:28Z",
+"summary": "Snag a Nintendo Switch 2 for only $469 while stocks last — $30 off a system that's not often on sale",
+"source": "Tom's Hardware"
+},
+{
+"title": "5 safety practices to know before vibe coding",
+"url": "https://www.engadget.com/2302658/vibe-coding-safety-practices/",
+"published": "2026-11-01T18:00:00Z",
+"summary": "Here's what beginners need to know to vibe code securely.",
+"source": "Engadget"
+},
+{
+"title": "All the leaks for the Portal prequel F-Stop have been compiled into a playable game",
+"url": "https://www.engadget.com/2303446/all-the-leaks-for-the-portal-prequel-f-stop-have-been-compiled-into-a-playable-game/",
+"published": "2026-11-01T17:54:34Z",
+"summary": "This rough version is the closest thing to a release we'll see.",
+"source": "Engadget"
+},
 {
 "title": "The reason why your Xbox controller still uses AA batteries",
 "url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
@@ -108,13 +241,6 @@
 "source": "Engadget"
 },
 {
-"title": "What is AssistiveTouch on your Apple Watch and when should you use it?",
-"url": "https://www.engadget.com/2302464/what-is-assistivetouch-apple-watch-when-use-it/",
-"published": "2026-11-01T16:00:00Z",
-"summary": "Your Apple Watch can respond to simple hand and finger gestures with AssistiveTouch. Learn how to set it up, toggle it off and when it's actually helps.",
-"source": "Engadget"
-},
-{
 "title": "Walmart honors massive shelf price mistake, lucky buyer gets two $2,299 CyberPowerPC gaming rigs for $1,099 each",
 "url": "https://www.tomshardware.com/desktops/gaming-pcs/lucky-pc-buyer-gets-usd1-200-discount-on-9900x3d-gaming-pc-walmart-honors-usd1-099-shelf-price-on-usd2-299-unit",
 "published": "2026-11-01T15:53:45Z",
@@ -127,27 +253,6 @@
 "published": "2026-11-01T15:48:22Z",
 "summary": "As they lift our gaze from our phones, we'll start looking up.",
 "source": "Creative Bloq"
-},
-{
-"title": "Your old iPod could get Spotify and USB-C support — here's how",
-"url": "https://www.engadget.com/2300286/how-old-ipod-get-spotify-usb-c-upgrade-sprout-mod/",
-"published": "2026-11-01T15:45:00Z",
-"summary": "The iPod hasn't been sold for some time, but dedicated fans are keeping it alive with mods and complete refreshes.",
-"source": "Engadget"
-},
-{
-"title": "AI software clones are coming for big-name companies like Adobe",
-"url": "https://www.engadget.com/2302459/ai-software-clones-coming-for-big-name-companies-adobe/",
-"published": "2026-11-01T15:30:00Z",
-"summary": "Vibe-coded clones of Adobe software are shaking things up.",
-"source": "Engadget"
-},
-{
-"title": "The simple reason hardware accelerated GPU scheduling isn't the best fit for cheap GPUs",
-"url": "https://www.engadget.com/2300281/hardware-accelerated-gpu-scheduling-not-best-fit-cheap-gpu-reason/",
-"published": "2026-11-01T15:15:00Z",
-"summary": "Hardware accelerated GPU scheduling is one of those features many of us don't really think about, but it could cause problems for your old GPU.",
-"source": "Engadget"
 },
 {
 "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
@@ -171,13 +276,6 @@
 "source": "TechCrunch"
 },
 {
-"title": "5 Spotify settings you'll wish you changed sooner",
-"url": "https://www.engadget.com/2302442/spotify-settings-worth-changing/",
-"published": "2026-11-01T15:00:00Z",
-"summary": "Improve your audio quality, keep kids music out of your algorithm and more.",
-"source": "Engadget"
-},
-{
 "title": "Anycubic and Thingiverse announce exclusive 3D printing partnership",
 "url": "https://www.tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models",
 "published": "2026-11-01T15:00:00Z",
@@ -190,13 +288,6 @@
 "published": "2026-11-01T15:00:00Z",
 "summary": "The Biwin M560 brings SMI’s SM2504XT to retail with top-tier responsiveness and excellent efficiency, though not the fastest post-cache writes.",
 "source": "Tom's Hardware"
-},
-{
-"title": "Which Android is the closest counterpart to the iPhone 18 Pro Max?",
-"url": "https://www.engadget.com/2300277/which-android-closest-to-iphone-18-pro-max/",
-"published": "2026-11-01T14:45:00Z",
-"summary": "The iPhone 18 Pro Max is a brilliant phone, but not everyone wants to live in Apple's walled garden. This is the closest competitor Android can offer.",
-"source": "Engadget"
 },
 {
 "title": "When colors pass but palettes fail",
@@ -241,13 +332,6 @@
 "source": "UX Collective"
 },
 {
-"title": "How to check if your upcoming flight has Starlink Wi-Fi",
-"url": "https://www.engadget.com/2300275/starlink-wifi-how-to-check-upcoming-flight/",
-"published": "2026-11-01T14:30:00Z",
-"summary": "Starlink is coming to many airlines, but the rollouts are all in different stages of completion.",
-"source": "Engadget"
-},
-{
 "title": "Bambu Lab's Black Friday sale cuts up to $300 on the flagship H2C printer and more",
 "url": "https://www.tomshardware.com/3d-printing/bambu-labs-black-friday-sale-cuts-up-to-usd300-on-the-flagship-h2c-printer-and-more-deep-cuts-across-companys-3d-printer-and-filament-lineup",
 "published": "2026-11-01T14:30:00Z",
@@ -262,13 +346,6 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "MacBook Pro battery life in 2011 vs 2026: how much has it really improved in 15 years?",
-"url": "https://www.engadget.com/2300274/macbook-pro-battery-life-comparison-2011-vs-2026/",
-"published": "2026-11-01T14:15:00Z",
-"summary": "Apple's 2026 MacBook Pro is light-years ahead of its 2011 model in terms of performance. But is longer battery life one of those improvements?",
-"source": "Engadget"
-},
-{
 "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
 "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
 "published": "2026-11-01T14:00:00Z",
@@ -281,13 +358,6 @@
 "published": "2026-11-01T14:00:00Z",
 "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
 "source": "TechCrunch"
-},
-{
-"title": "Change these PlayStation 5 settings before GTA 6 comes out",
-"url": "https://www.engadget.com/2302290/playstation-5-settings-change-before-gta-6/",
-"published": "2026-11-01T14:00:00Z",
-"summary": "For the best experience playing the new Grand Theft Auto 6, you're going to want to make some adjustments.",
-"source": "Engadget"
 },
 {
 "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows",
@@ -316,20 +386,6 @@
 "published": "2026-11-01T13:53:11Z",
 "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
 "source": "BleepingComputer"
-},
-{
-"title": "Here's how to know if your TV is too big for any room",
-"url": "https://www.engadget.com/2300272/how-to-know-tv-too-big-for-any-room/",
-"published": "2026-11-01T13:45:00Z",
-"summary": "When purchasing a television, this first instinct is to go big. But before choosing a model, make sure it won't overpower the room.",
-"source": "Engadget"
-},
-{
-"title": "Tesla is ditching its solar roof tiles for a good reason",
-"url": "https://www.engadget.com/2301053/tesla-ditching-solar-roof-tiles-discontinued-good-reason/",
-"published": "2026-11-01T13:30:00Z",
-"summary": "Tesla was making solar roof panels that were designed to look like typical roof shingles if you saw them from the street, but they were transparent from above.",
-"source": "Engadget"
 },
 {
 "title": "Elon Musk says Neuralink's 'BlindSight' is ready to cure blindness",
@@ -605,13 +661,6 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-"url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-"published": "2026-10-31T18:40:32Z",
-"summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to…",
-"source": "The Verge"
-},
-{
 "title": "agentmash",
 "url": "https://www.producthunt.com/products/agentmash",
 "published": "2026-10-31T18:08:19Z",
@@ -631,13 +680,6 @@
 "published": "2026-10-31T17:53:56Z",
 "summary": "Apple introduced the new Beats 360 headphones about a month and a half ago. I reviewed them , and really appreciated their customizable design, the fact that they offer automatic device switching, as…",
 "source": "9to5Mac"
-},
-{
-"title": "Happy Pikmin Day Eve",
-"url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
-"published": "2026-10-31T17:50:12Z",
-"summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the…",
-"source": "The Verge"
 },
 {
 "title": "OpenBSD 8.0 Brings Expanded Hardware Support, Security Enhancements, and Virtualization Improvements",
@@ -850,13 +892,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Modder uses a trash 4-kW air conditioner radiator for his test bench to see how well it can cool a PC",
-"url": "https://www.tomshardware.com/pc-components/liquid-cooling/trashbench-repurposes-a-trash-4-kw-air-conditioner-radiator-for-his-test-bench-to-see-how-well-it-can-cool-a-pc-achieves-a-shocking-28c-on-an-nvidia-rtx-3080",
-"published": "2026-10-31T11:20:00Z",
-"summary": "TrashBench repurposes a trash AC radiator for his test bench to see how well it can cool a PC — RTX 3080 didn't run much above ambient temperature",
-"source": "Tom's Hardware"
-},
-{
 "title": "Seabirds racing home over the ocean can get jet-lagged",
 "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
 "published": "2026-10-31T11:15:26Z",
@@ -892,13 +927,6 @@
 "source": "The Register"
 },
 {
-"title": "3D-printed ghost guns may now have a way to be traced to their source",
-"url": "https://www.tomshardware.com/3d-printing/3d-printed-guns-may-now-have-a-way-to-be-traced-to-their-source-australian-researchers-correctly-identify-26-out-of-28-printed-pla-samples-to-their-filament-product",
-"published": "2026-10-31T11:00:00Z",
-"summary": "Researchers from Curtin University in Australia have come up with a way to potentially track down seized 3D-printed guns to their source by identifying differences in material properties in various…",
-"source": "Tom's Hardware"
-},
-{
 "title": "Backup by Biolite Review: A Cool Idea",
 "url": "https://www.wired.com/review/backup-by-biolite/",
 "published": "2026-10-31T10:33:00Z",
@@ -925,13 +953,6 @@
 "published": "2026-10-31T10:00:00Z",
 "summary": "They’re a steal at over 40 percent off in multiple colors. Plus, other great Bose deals you should know about ahead of Black Friday.",
 "source": "Wired"
-},
-{
-"title": "Tech sleuth claims to have found the oldest GUI application that still works with Windows 11",
-"url": "https://www.tomshardware.com/software/windows/tech-sleuth-claims-to-have-found-the-oldest-gui-application-that-still-works-with-windows-11-cdplayer-exe-from-windows-nt-in-november-1992-wins-the-prize",
-"published": "2026-10-31T10:00:00Z",
-"summary": "A technology enthusiast claims that the oldest GUI application that still runs on Windows 11 is CDPLAYER.EXE from November 1992.",
-"source": "Tom's Hardware"
 },
 {
 "title": "\"Nostalgia is a double-edged sword\": how Dolmio revived its beloved puppet family for a new generation",
@@ -1053,13 +1074,6 @@
 "source": "TechCrunch"
 },
 {
-"title": "Godwit",
-"url": "https://www.producthunt.com/products/godwit",
-"published": "2026-10-31T03:45:26Z",
-"summary": "An open-source, AI-native email client Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
 "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
 "published": "2026-10-31T01:20:05Z",
@@ -1072,13 +1086,6 @@
 "published": "2026-10-31T01:03:35Z",
 "summary": "Apple tonight rolled out the HomeView 27.2 system update, ahead of the device’s official launch on November 13. The update includes the device’s default wallpapers, each available in light and dark…",
 "source": "9to5Mac"
-},
-{
-"title": "AwaitIO",
-"url": "https://www.producthunt.com/products/awaitio",
-"published": "2026-10-31T00:15:52Z",
-"summary": "Write a TypeScript function, get an admin screen Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
@@ -1198,13 +1205,6 @@
 "published": "2026-10-30T21:19:26Z",
 "summary": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
 "source": "Wired"
-},
-{
-"title": "Cracks are emerging in the AI spending boom",
-"url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-"published": "2026-10-30T21:17:40Z",
-"summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-"source": "TechCrunch"
 },
 {
 "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
@@ -1704,13 +1704,6 @@
 "source": "The Register"
 },
 {
-"title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-"url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-"published": "2026-10-30T09:18:13Z",
-"summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
-"source": "BleepingComputer"
-},
-{
 "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
 "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
 "published": "2026-10-30T09:00:00Z",
@@ -1744,13 +1737,6 @@
 "published": "2026-10-30T08:13:00Z",
 "summary": "Azure Deployment Environments retires on February 22, 2027 and Microsoft names no successor, telling teams to use Bicep or ARM templates directly. Microsoft Dev Box follows on September 18, 2028…",
 "source": "InfoQ"
-},
-{
-"title": "SKI",
-"url": "https://www.producthunt.com/products/ski",
-"published": "2026-10-30T07:45:39Z",
-"summary": "Voice-first coding harness Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Google's search revenue Ferrari hits an AI-powered speed bump",
@@ -1837,6 +1823,13 @@
 "source": "9to5Mac"
 },
 {
+"title": "Hemmed",
+"url": "https://www.producthunt.com/products/hemmed",
+"published": "2026-10-30T00:50:28Z",
+"summary": "Hide Mac menu bar clutter and pin individual actions Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
 "url": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
 "published": "2026-10-29T23:12:26Z",
@@ -1855,6 +1848,13 @@
 "url": "https://www.producthunt.com/products/usage-for-claude",
 "published": "2026-10-29T21:38:31Z",
 "summary": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "Backenly",
+"url": "https://www.producthunt.com/products/backenly-2",
+"published": "2026-10-29T21:07:32Z",
+"summary": "The autonomous backend for AI coding agents Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -2038,13 +2038,6 @@
 "published": "2026-10-28T23:21:43Z",
 "summary": "All design influences behavior. The ethical line is whether people can see the influence and still choose otherwise. Continue reading on UX Collective »",
 "source": "UX Collective"
-},
-{
-"title": "Creating AI value with enterprise context",
-"url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-"published": "2026-10-28T20:32:02Z",
-"summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process…",
-"source": "MIT Technology Review"
 }
 ]
 }
