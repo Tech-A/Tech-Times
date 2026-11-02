@@ -1,7 +1,77 @@
 {
-"updated": "2026-11-01T21:51:50.920204Z",
-"count": 291,
+"updated": "2026-11-02T01:22:06.476220Z",
+"count": 287,
 "items": [
+{
+"title": "How to add and rearrange apps on your Samsung smart TV",
+"url": "https://www.engadget.com/2300335/how-to-add-rearrange-apps-samsung-smart-tv/",
+"published": "2026-11-02T00:45:00Z",
+"summary": "Though your Samsung smart TV comes pre-loaded with the most popular streaming apps, you may want to add others and do some reorganizing while you're at it.",
+"source": "Engadget"
+},
+{
+"title": "Android Auto could upset your work-life balance with its next update",
+"url": "https://www.engadget.com/2300324/android-auto-next-update-could-upset-work-life-balance/",
+"published": "2026-11-02T00:30:00Z",
+"summary": "A hidden toggle buried in the Android Auto app's code isn't functional yet. Here's what it could do, what it might not, and what Google hasn't said so far.",
+"source": "Engadget"
+},
+{
+"title": "10 iPad widgets you probably didn't realize existed",
+"url": "https://www.engadget.com/2299525/ipad-widgets-didnt-realize-existed/",
+"published": "2026-11-02T00:15:00Z",
+"summary": "Widgets take advantage of your iPad's large screen, and some of the best ones are often overlooked.",
+"source": "Engadget"
+},
+{
+"title": "AI glasses can replace your prescription glasses, but should they?",
+"url": "https://www.engadget.com/2300320/ai-glasses-replace-prescription-should-they/",
+"published": "2026-11-02T00:00:00Z",
+"summary": "You can easily get AI glasses with prescription if you need them, but before making the investment, it's recommended to learn the pros and cons of them.",
+"source": "Engadget"
+},
+{
+"title": "How using one earbud more than the other can cause uneven wear and tear",
+"url": "https://www.engadget.com/2301054/using-one-earbud-more-than-other-cause-uneven-wear-and-tear/",
+"published": "2026-11-01T23:45:00Z",
+"summary": "Using one earbud may feel like the natural choice at times, but the reality is that it can chip away at their lifespan if you don't kick the habit.",
+"source": "Engadget"
+},
+{
+"title": "This is the right way to clean your vinyl records",
+"url": "https://www.engadget.com/2300311/this-is-the-right-way-to-clean-your-vinyl-records/",
+"published": "2026-11-01T23:30:00Z",
+"summary": "The answer depends on your budget - and how hardcore you want to get.",
+"source": "Engadget"
+},
+{
+"title": "Linus Torvalds says Linux kernel is out of ‘stabilization phase’ and using ‘much healthier model’ for AI contributions",
+"url": "https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852",
+"published": "2026-11-01T23:11:41Z",
+"summary": "Yet machine-made patches ‘often get rewritten’",
+"source": "The Register"
+},
+{
+"title": "How to clean your PlayStation 5 without damaging it",
+"url": "https://www.engadget.com/2300309/how-to-clean-playstation-5-without-damaging/",
+"published": "2026-11-01T23:00:00Z",
+"summary": "Your PS5 requires occasional maintenance to run at its best, but it only needs a light touch.",
+"source": "Engadget"
+},
+{
+"title": "Which Samsung S Pens can be located using SmartThings Find?",
+"url": "https://www.engadget.com/2300395/which-samsung-s-pens-located-with-smartthings-find/",
+"published": "2026-11-01T22:00:00Z",
+"summary": "Not all of Samsung's S Pens are made the same. Only one of them can be found through the SmartThings Find network.",
+"source": "Engadget"
+},
+{
+"title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+"url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+"published": "2026-11-01T21:55:23Z",
+"summary": "Data centers are deeply unpopular. But what if we called them something else?",
+"source": "TechCrunch"
+},
 {
 "title": "Game Off 2026: The theme is SHIFT",
 "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
@@ -31,7 +101,7 @@
 "source": "Engadget"
 },
 {
-"title": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself — payload builds custom target assessment, can switch models if one refuses, or skip the AI step entirely",
+"title": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself",
 "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
 "published": "2026-11-01T21:00:00Z",
 "summary": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value.",
@@ -94,7 +164,7 @@
 "source": "Engadget"
 },
 {
-"title": "GOG explores reviving physical PC game releases — digital storefront needs publisher approvals, has to figure out the logistics and legal challenges",
+"title": "GOG explores reviving physical PC game releases",
 "url": "https://www.tomshardware.com/video-games/gog-explores-reviving-physical-pc-game-releases-digital-storefront-needs-publisher-approvals-has-to-figure-out-the-logistics-and-legal-challenges",
 "published": "2026-11-01T18:45:00Z",
 "summary": "GOG wants to sell physical games, in contrast to consoles going digital-only, giving gamers more freedom over their games. However, it still has to figure out logistics and publisher permissions.",
@@ -143,20 +213,6 @@
 "source": "Engadget"
 },
 {
-"title": "5 nifty ways you can reuse your old laptop",
-"url": "https://www.engadget.com/2300621/nifty-ways-reuse-old-laptop/",
-"published": "2026-11-01T17:30:00Z",
-"summary": "You can do so much more with an old laptop than just throwing it away or leaving it to rot in a drawer. Here are some clever ways to reuse one.",
-"source": "Engadget"
-},
-{
-"title": "Meta reportedly built a humanoid robot prototype that can do household chores",
-"url": "https://www.engadget.com/2303434/meta-reportedly-built-a-humanoid-robot-prototype-that-can-do-household-chores/",
-"published": "2026-11-01T17:17:42Z",
-"summary": "A report said the company is already working on the second version that's codenamed Max 2.",
-"source": "Engadget"
-},
-{
 "title": "Apple’s HomeView could add security camera features",
 "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
 "published": "2026-11-01T17:16:07Z",
@@ -164,39 +220,11 @@
 "source": "The Verge"
 },
 {
-"title": "Here's how to tell which gen AirPods you own",
-"url": "https://www.engadget.com/2300295/how-to-tell-which-airpods-gen-you-own/",
-"published": "2026-11-01T17:15:00Z",
-"summary": "AirPods are difficult to identify from looks alone, so you'll need to check the model number in one of several places.",
-"source": "Engadget"
-},
-{
 "title": "TechCrunch Mobility: A new, bigger AV boom is here",
 "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
 "published": "2026-11-01T17:04:00Z",
 "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
 "source": "TechCrunch"
-},
-{
-"title": "Whatever happened to 8K TVs?",
-"url": "https://www.engadget.com/2302734/what-happened-to-8k-tvs/",
-"published": "2026-11-01T17:00:00Z",
-"summary": "8K TVs sounded like the inevitable upgrade to 4K, but they've barely sold and most companies aren't bothering to make them anymore.",
-"source": "Engadget"
-},
-{
-"title": "Here's what your Fitbit heart rate variability actually tells you",
-"url": "https://www.engadget.com/2300292/what-fitbit-heart-rate-variability-tells-you/",
-"published": "2026-11-01T16:45:00Z",
-"summary": "Your Fitbit's HRV reading can offer clues about stress and recovery, but your usual numbers matter more than anyone else's.",
-"source": "Engadget"
-},
-{
-"title": "How to tell if your smart TV has a camera (and how to disable it)",
-"url": "https://www.engadget.com/2302466/how-to-tell-if-smart-tv-has-camera/",
-"published": "2026-11-01T16:30:00Z",
-"summary": "If you're concerned about privacy, then you'll want to make sure that your smart TV doesn't have a camera - and that you disable it if it does.",
-"source": "Engadget"
 },
 {
 "title": "Here’s how I’m solving the iPhone Duo kickstand problem, without any bulk",
@@ -225,20 +253,6 @@
 "published": "2026-11-01T16:16:29Z",
 "summary": "I have tested and used countless charging stations over the years, and while many of them get the job done, I feel like there is always some sort of compromise. Whether it’s not enough power, lack of…",
 "source": "9to5Mac"
-},
-{
-"title": "You might be neglecting the one thing that keeps your PC healthy",
-"url": "https://www.engadget.com/2300290/desktop-pc-neglecting-cleaning-computer-health/",
-"published": "2026-11-01T16:15:00Z",
-"summary": "While Windows has some built-in tools to help you keep your PC running smoothly, there's a better option.",
-"source": "Engadget"
-},
-{
-"title": "OpenAI adds stricter limits for teens asking about firearms",
-"url": "https://www.engadget.com/2303421/openai-adds-stricter-limits-for-teens-asking-about-firearms/",
-"published": "2026-11-01T16:03:12Z",
-"summary": "The company said these tighter restrictions apply even if the question asked \"appears harmless.\"",
-"source": "Engadget"
 },
 {
 "title": "Walmart honors massive shelf price mistake, lucky buyer gets two $2,299 CyberPowerPC gaming rigs for $1,099 each",
@@ -276,17 +290,17 @@
 "source": "TechCrunch"
 },
 {
-"title": "Anycubic and Thingiverse announce exclusive 3D printing partnership",
-"url": "https://www.tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models",
-"published": "2026-11-01T15:00:00Z",
-"summary": "Thingiverse partners with Anycubic to bring models directly to 3D printers.",
-"source": "Tom's Hardware"
-},
-{
 "title": "Biwin M560 2TB SSD Review: The DRAM-less drive to beat",
 "url": "https://www.tomshardware.com/pc-components/ssds/biwin-m560-2tb-ssd-review",
 "published": "2026-11-01T15:00:00Z",
 "summary": "The Biwin M560 brings SMI’s SM2504XT to retail with top-tier responsiveness and excellent efficiency, though not the fastest post-cache writes.",
+"source": "Tom's Hardware"
+},
+{
+"title": "Anycubic and Thingiverse announce exclusive 3D printing partnership",
+"url": "https://www.tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models",
+"published": "2026-11-01T15:00:00Z",
+"summary": "Thingiverse partners with Anycubic to bring models directly to 3D printers.",
 "source": "Tom's Hardware"
 },
 {
@@ -1193,13 +1207,6 @@
 "source": "Ars Technica"
 },
 {
-"title": "Last-minute Halloween costumes for tech nerds",
-"url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-"published": "2026-10-30T21:26:59Z",
-"summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-"source": "TechCrunch"
-},
-{
 "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
 "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
 "published": "2026-10-30T21:19:26Z",
@@ -1254,13 +1261,6 @@
 "published": "2026-10-30T20:17:50Z",
 "summary": "Faked symptoms still point to infections that antibiotics don't treat.",
 "source": "Ars Technica"
-},
-{
-"title": "Agnos",
-"url": "https://www.producthunt.com/products/agnos",
-"published": "2026-10-30T20:02:49Z",
-"summary": "Clean documents for AI, and see what was removed Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "HTTP/3 is faster with some work and help from Cloudflare",
@@ -1872,13 +1872,6 @@
 "source": "The Register"
 },
 {
-"title": "Topcoat enables Rust to render server-side web apps",
-"url": "https://www.theregister.com/devops/2026/10/29/topcoat-enables-rust-to-render-server-side-web-apps/5306470",
-"published": "2026-10-29T19:27:21Z",
-"summary": "Rust guru rejiggers web app reactivity for potentially speedier page loading",
-"source": "The Register"
-},
-{
 "title": "Fluent 2",
 "url": "https://www.producthunt.com/products/fluent-ai-writing-assistant-for-macos",
 "published": "2026-10-29T18:35:46Z",
@@ -2012,32 +2005,11 @@
 "source": "Sidebar"
 },
 {
-"title": "How I stopped dreading AI and started studying it full-time",
-"url": "https://uxdesign.cc/how-i-stopped-dreading-ai-and-started-studying-it-full-time-fee7afc2b967?source=rss----138adf9c44c---4",
-"published": "2026-10-28T23:24:01Z",
-"summary": "",
-"source": "UX Collective"
-},
-{
-"title": "Beyond chatbots: UX for deep AI research",
-"url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4",
-"published": "2026-10-28T23:23:05Z",
-"summary": "What Gemini, Perplexity, Copilot and Consensus do when an answer takes time Continue reading on UX Collective »",
-"source": "UX Collective"
-},
-{
-"title": "The AI reckoning in UX was 20 years in the making",
-"url": "https://uxdesign.cc/the-ai-reckoning-in-ux-was-20-years-in-the-making-ecd7e36185de?source=rss----138adf9c44c---4",
-"published": "2026-10-28T23:22:26Z",
-"summary": "",
-"source": "UX Collective"
-},
-{
-"title": "Autonomy by design: how gamification and AI can respect (or rewrite) our choices",
-"url": "https://uxdesign.cc/autonomy-by-design-how-gamification-and-ai-can-respect-or-rewrite-our-choices-122ad795ec57?source=rss----138adf9c44c---4",
-"published": "2026-10-28T23:21:43Z",
-"summary": "All design influences behavior. The ethical line is whether people can see the influence and still choose otherwise. Continue reading on UX Collective »",
-"source": "UX Collective"
+"title": "GitHub Copilot Fusion",
+"url": "https://www.producthunt.com/products/github-copilot-fusion",
+"published": "2026-10-29T05:39:35Z",
+"summary": "GitHub's AI coding agent that picks and combines models Discussion | Link",
+"source": "Product Hunt"
 }
 ]
 }
