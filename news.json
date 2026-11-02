@@ -1,7 +1,133 @@
 {
-"updated": "2026-11-02T01:22:06.476220Z",
-"count": 287,
+"updated": "2026-11-02T08:03:23.728071Z",
+"count": 283,
 "items": [
+{
+"title": "Manager threatened to fire a colleague, then gave them a critical task – which they flubbed",
+"url": "https://www.theregister.com/storage/2026/11/02/manager-threatened-to-fire-a-colleague-then-gave-them-a-critical-task-which-they-flubbed/5306555",
+"published": "2026-11-02T07:30:00Z",
+"summary": "Nobody noticed for years, at which point the boss realized they had to cover up their poor decision",
+"source": "The Register"
+},
+{
+"title": "Help",
+"url": "https://www.producthunt.com/products/help-381",
+"published": "2026-11-02T07:05:48Z",
+"summary": "The app designed for targeted and transparent help Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "Chap who coded Google’s Pac-Man clone reveals how the game freaked out Firefox",
+"url": "https://www.theregister.com/personal-tech/2026/11/02/chap-who-coded-googles-pac-man-clone-reveals-how-the-game-freaked-out-firefox/5306879",
+"published": "2026-11-02T06:05:39Z",
+"summary": "Waka-waka-waka-waka why why why why?",
+"source": "The Register"
+},
+{
+"title": "Will your digital work still exist in 2046? Here’s why the answer might be no",
+"url": "https://www.creativebloq.com/news/will-your-digital-work-still-exist-in-2046-heres-why-the-answer-might-be-no",
+"published": "2026-11-02T06:00:00Z",
+"summary": "Our stuff is more fragile than we think.",
+"source": "Creative Bloq"
+},
+{
+"title": "The AI Notepad for back-to-back meetings",
+"url": "https://bit.ly/side-gra8",
+"published": "2026-11-02T05:44:00Z",
+"summary": "Notes, actions and memory. Without a meeting bot. Give it a try during your next meeting.",
+"source": "Sidebar"
+},
+{
+"title": "Who owns the doubt?",
+"url": "https://www.doc.cc/humankind/doubt",
+"published": "2026-11-02T05:43:44Z",
+"summary": "Nobody arrives at their first design job doubting their first idea; they defend it, usually too loudly.",
+"source": "Sidebar"
+},
+{
+"title": "A select should tell you something",
+"url": "https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html",
+"published": "2026-11-02T05:43:04Z",
+"summary": "Customizable select isn’t just a prettier dropdown. Five before/after demos show how options can carry what people need to decide.",
+"source": "Sidebar"
+},
+{
+"title": "Now entering: The era of bleh",
+"url": "https://www.noemamag.com/now-entering-the-era-of-bleh/",
+"published": "2026-11-02T05:42:45Z",
+"summary": "Airbrain, AI and the homogenization of knowledge work.",
+"source": "Sidebar"
+},
+{
+"title": "Stageshow",
+"url": "https://benji.org/stageshow",
+"published": "2026-11-02T05:41:24Z",
+"summary": "Create better faux UI with agents. Avoid results often look sloppy and heavy-handed.",
+"source": "Sidebar"
+},
+{
+"title": "These are the best MacBook deals right now: November 2026 Buyer’s Guide",
+"url": "https://9to5mac.com/2026/11/01/best-macbook-discounts-november-2026-edition/",
+"published": "2026-11-02T05:01:57Z",
+"summary": "In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar, and the introduction of MacBook Neo. For the first time, Apple had…",
+"source": "9to5Mac"
+},
+{
+"title": "Jackery made its portable power stations even smaller",
+"url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+"published": "2026-11-02T05:00:00Z",
+"summary": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D…",
+"source": "The Verge"
+},
+{
+"title": "India floats AI plan under which ‘The model travels to the data, rather than the data travelling to the model’",
+"url": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
+"published": "2026-11-02T04:39:50Z",
+"summary": "Wants more local AI, without Big Tech getting open access to everything",
+"source": "The Register"
+},
+{
+"title": "Borrowed reading: stories from our extended colleagues",
+"url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+"published": "2026-11-02T04:23:48Z",
+"summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+"source": "TechCrunch"
+},
+{
+"title": "Hands-on: ESR’s 45W Xtend charger is an excellent iPhone fast charger on the go",
+"url": "https://9to5mac.com/2026/11/01/esr-45w-fast-charger-with-retractable-cable-for-iphone-hands-on/",
+"published": "2026-11-02T03:32:37Z",
+"summary": "Last month, ESR released a new set of chargers under the xtend branding – all of which offer built-in retractable cables. They have a 45W wall charger that supports up to 60W with AVS, as well as a…",
+"source": "9to5Mac"
+},
+{
+"title": "Three new iPad models are reportedly launching early next year, here’s what’s coming",
+"url": "https://9to5mac.com/2026/11/01/three-new-ipad-models-are-reportedly-launching-early-next-year-heres-whats-coming/",
+"published": "2026-11-02T02:12:39Z",
+"summary": "After debuting the refreshed iPad mini with OLED this past week, Apple still has more in the pipeline for the rest of the iPad lineup in the first half of next year. That includes a new iPad Air , a…",
+"source": "9to5Mac"
+},
+{
+"title": "How long is a new Apple TV actually supposed to last?",
+"url": "https://www.engadget.com/2300332/how-long-new-apple-tv-last-lifespan/",
+"published": "2026-11-02T01:30:00Z",
+"summary": "Past Apple TV models have seen excellent support from Apple compared to some other product lines, but it's not a guarantee.",
+"source": "Engadget"
+},
+{
+"title": "Google says Asian advertisers spending less due to Europe's customs changes",
+"url": "https://www.theregister.com/legal/2026/11/02/google-says-asian-advertisers-spending-less-due-to-europes-customs-changes/5306860",
+"published": "2026-11-02T01:02:26Z",
+"summary": "PLUS: Brake pedals break on Huawei-made cars; North Korea named as source of Binance hack; and more!",
+"source": "The Register"
+},
+{
+"title": "6 Google Maps features that work better on Android Auto vs. CarPlay",
+"url": "https://www.engadget.com/2300327/google-maps-features-work-better-android-auto-vs-carplay/",
+"published": "2026-11-02T01:00:00Z",
+"summary": "You would think that Maps would be the same regardless of your phone's brand, but there are some differences between the Android Auto and CarPlay experiences.",
+"source": "Engadget"
+},
 {
 "title": "How to add and rearrange apps on your Samsung smart TV",
 "url": "https://www.engadget.com/2300335/how-to-add-rearrange-apps-samsung-smart-tv/",
@@ -15,6 +141,13 @@
 "published": "2026-11-02T00:30:00Z",
 "summary": "A hidden toggle buried in the Android Auto app's code isn't functional yet. Here's what it could do, what it might not, and what Google hasn't said so far.",
 "source": "Engadget"
+},
+{
+"title": "Xmind 2027",
+"url": "https://www.producthunt.com/products/xmind",
+"published": "2026-11-02T00:24:06Z",
+"summary": "Your mind map is now an AI thinking partner Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "10 iPad widgets you probably didn't realize existed",
@@ -57,6 +190,13 @@
 "published": "2026-11-01T23:00:00Z",
 "summary": "Your PS5 requires occasional maintenance to run at its best, but it only needs a light touch.",
 "source": "Engadget"
+},
+{
+"title": "Friday Work",
+"url": "https://www.producthunt.com/products/friday-work",
+"published": "2026-11-01T22:55:35Z",
+"summary": "When Claude hits its limit, your task keeps going Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Which Samsung S Pens can be located using SmartThings Find?",
@@ -199,20 +339,6 @@
 "source": "Engadget"
 },
 {
-"title": "All the leaks for the Portal prequel F-Stop have been compiled into a playable game",
-"url": "https://www.engadget.com/2303446/all-the-leaks-for-the-portal-prequel-f-stop-have-been-compiled-into-a-playable-game/",
-"published": "2026-11-01T17:54:34Z",
-"summary": "This rough version is the closest thing to a release we'll see.",
-"source": "Engadget"
-},
-{
-"title": "The reason why your Xbox controller still uses AA batteries",
-"url": "https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/",
-"published": "2026-11-01T17:45:00Z",
-"summary": "Xbox controllers use AA batteries, which may seem like an outdated way of powering a device, but there are reasons for this intentional choice.",
-"source": "Engadget"
-},
-{
 "title": "Apple’s HomeView could add security camera features",
 "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
 "published": "2026-11-01T17:16:07Z",
@@ -290,17 +416,17 @@
 "source": "TechCrunch"
 },
 {
-"title": "Biwin M560 2TB SSD Review: The DRAM-less drive to beat",
-"url": "https://www.tomshardware.com/pc-components/ssds/biwin-m560-2tb-ssd-review",
-"published": "2026-11-01T15:00:00Z",
-"summary": "The Biwin M560 brings SMI’s SM2504XT to retail with top-tier responsiveness and excellent efficiency, though not the fastest post-cache writes.",
-"source": "Tom's Hardware"
-},
-{
 "title": "Anycubic and Thingiverse announce exclusive 3D printing partnership",
 "url": "https://www.tomshardware.com/3d-printing/anycubic-and-thingiverse-announce-exclusive-3d-printing-partnership-makeronline-platform-to-offer-1-click-multicolor-3mf-models",
 "published": "2026-11-01T15:00:00Z",
 "summary": "Thingiverse partners with Anycubic to bring models directly to 3D printers.",
+"source": "Tom's Hardware"
+},
+{
+"title": "Biwin M560 2TB SSD Review: The DRAM-less drive to beat",
+"url": "https://www.tomshardware.com/pc-components/ssds/biwin-m560-2tb-ssd-review",
+"published": "2026-11-01T15:00:00Z",
+"summary": "The Biwin M560 brings SMI’s SM2504XT to retail with top-tier responsiveness and excellent efficiency, though not the fastest post-cache writes.",
 "source": "Tom's Hardware"
 },
 {
@@ -456,6 +582,13 @@
 "published": "2026-11-01T12:30:00Z",
 "summary": "These Seneca drones should help the San Bernardino County Fire Protection District achieve its goal of stopping 90% of fires before they grow larger than 10 square feet.",
 "source": "Tom's Hardware"
+},
+{
+"title": "Agent Inbox",
+"url": "https://www.producthunt.com/products/agent-inbox",
+"published": "2026-11-01T12:10:54Z",
+"summary": "Give your agent an email address, Slack and Telegram handle Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
@@ -652,13 +785,6 @@
 "published": "2026-10-31T19:49:44Z",
 "summary": "Apple just unveiled the new MacBook Pro with PROLED XDR , its first MacBook with a touch display. While Apple already added a handful of touch optimizations to macOS 27 Golden Gate earlier this year…",
 "source": "9to5Mac"
-},
-{
-"title": "Keyboards of The Verge",
-"url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-"published": "2026-10-31T19:30:00Z",
-"summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the…",
-"source": "The Verge"
 },
 {
 "title": "Indie App Spotlight: ‘Pumpkin Lights’ adds a fun jack-o-lantern to your Mac’s menu bar",
@@ -1074,13 +1200,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "AC Bridge",
-"url": "https://www.producthunt.com/products/ac-bridge",
-"published": "2026-10-31T04:20:01Z",
-"summary": "Your smart lights show when Claude Code or Codex needs you. Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
 "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
 "published": "2026-10-31T04:16:50Z",
@@ -1137,6 +1256,13 @@
 "source": "TechCrunch"
 },
 {
+"title": "Hyperresearch",
+"url": "https://www.producthunt.com/products/hyperresearch",
+"published": "2026-10-30T22:54:03Z",
+"summary": "Durable, verified agentic search Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Apple confirms iOS 27.3 beta is coming next week with Apple Intelligence in China",
 "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/",
 "published": "2026-10-30T22:37:36Z",
@@ -1165,13 +1291,6 @@
 "source": "Wired"
 },
 {
-"title": "Pluto Door",
-"url": "https://www.producthunt.com/products/pluto-door",
-"published": "2026-10-30T22:10:44Z",
-"summary": "SSH client with an AI agent and a desktop for every server Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Intel’s stock crashes, knocking $12B from government’s stake",
 "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
 "published": "2026-10-30T21:54:34Z",
@@ -1183,13 +1302,6 @@
 "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
 "published": "2026-10-30T21:52:03Z",
 "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has…",
-"source": "TechCrunch"
-},
-{
-"title": "Applebee’s exposed customers’ personal data after leaving database password in app",
-"url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-"published": "2026-10-30T21:48:53Z",
-"summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
 "source": "TechCrunch"
 },
 {
@@ -1319,6 +1431,13 @@
 "source": "9to5Mac"
 },
 {
+"title": "Widgeteer",
+"url": "https://www.producthunt.com/products/widgeteer",
+"published": "2026-10-30T17:42:32Z",
+"summary": "Describe a widget, get a working one on your site Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
 "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
 "published": "2026-10-30T17:38:19Z",
@@ -1403,18 +1522,18 @@
 "source": "The Register"
 },
 {
+"title": "Display 1.0",
+"url": "https://www.producthunt.com/products/display-dev",
+"published": "2026-10-30T15:28:49Z",
+"summary": "Create docs and apps with any agent, in one workspace Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Deals: Week 1 early Black Friday Doorbusters, AirTag 2 $17 ea, HomeView, Apple Watch Ultra 4, more",
 "url": "https://9to5mac.com/2026/10/30/deals-black-friday-doorbusters-airtag-2-homeview-ultra-4/",
 "published": "2026-10-30T15:13:59Z",
 "summary": "Joining pre-orders on the new new OLED iPad mini , M6 MacBook Pro , M6 iMac , and the MacBook Pro with PROLED XDR Display , the early week1 Black Friday Doorbusters start today! While the Apple TV 4K…",
 "source": "9to5Mac"
-},
-{
-"title": "Chorin: Ora et Labora",
-"url": "https://www.producthunt.com/products/chorin-ora-et-labora",
-"published": "2026-10-30T15:04:03Z",
-"summary": "Build a real medieval abbey, from 1258 to today Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
@@ -1534,13 +1653,6 @@
 "published": "2026-10-30T12:30:00Z",
 "summary": "Hundreds of practices hit by small health tech firm going into administration",
 "source": "The Register"
-},
-{
-"title": "Apple acquires Ascend․io, an agentic AI engineering startup",
-"url": "https://9to5mac.com/2026/10/30/apple-acquires-ascend%e2%80%a4io-an-agentic-ai-engineering-startup/",
-"published": "2026-10-30T12:06:19Z",
-"summary": "Apple recently struck a deal to acquire Ascend.io, a company focused on agentic data engineering technology. Under the Digital Markets Act, Apple must now publicly report acquisitions above a certain…",
-"source": "9to5Mac"
 },
 {
 "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
@@ -1753,13 +1865,6 @@
 "source": "UX Collective"
 },
 {
-"title": "Embage",
-"url": "https://www.producthunt.com/products/embage",
-"published": "2026-10-30T07:01:40Z",
-"summary": "Build agent for your customers, run workflows, analyzed. Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Farm PC 'maintained' by a 14-year-old dumped support chap in a steaming pile of tech mess",
 "url": "https://www.theregister.com/systems/2026/10/30/farm-pc-maintained-by-a-14-year-old-dumped-support-chap-in-a-steaming-pile-of-tech-mess/5306217",
 "published": "2026-10-30T06:33:00Z",
@@ -1767,25 +1872,11 @@
 "source": "The Register"
 },
 {
-"title": "Termy",
-"url": "https://www.producthunt.com/products/termy-6ded6eb5-533c-4df5-a4f6-94b97ed8ca62",
-"published": "2026-10-30T06:24:13Z",
-"summary": "Your coding agent, in the notch Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "The Dunu Vitruvian promises DaVinci’s JM-1 warmth, trading low end for top-end sparkle",
 "url": "https://www.creativebloq.com/news/the-dunu-vitruvian-promises-davincis-jm-1-warmth-trading-low-end-for-top-end-sparkle",
 "published": "2026-10-30T06:00:00Z",
 "summary": "Succeeding a New Meta classic, Dunu’s latest begs the question: is less sub-bass ever a good idea?",
 "source": "Creative Bloq"
-},
-{
-"title": "Hamdori",
-"url": "https://www.producthunt.com/products/hamdori",
-"published": "2026-10-30T05:53:06Z",
-"summary": "A tiny 3D hamster that lives on your desktop Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "AWS installs an AI accelerator every 14 seconds and eyes $1 trillion annual revenue",
@@ -1799,41 +1890,6 @@
 "url": "https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539",
 "published": "2026-10-30T04:22:12Z",
 "summary": "Binance freezes funny money after compromise of engineer’s laptop linked to $6.3 billion of unauthorized trades",
-"source": "The Register"
-},
-{
-"title": "PC chip plunge wipes out a quarter of Intel’s value",
-"url": "https://www.theregister.com/systems/2026/10/30/pc-chip-plunge-wipes-out-a-quarter-of-intels-value/5306531",
-"published": "2026-10-30T02:42:58Z",
-"summary": "CEO predicts massive datacenter CPU boom, coming soon, but production problems mean Chipzilla may not cash in",
-"source": "The Register"
-},
-{
-"title": "Apple’s best MacBook Pro decision this week had nothing to do with touch",
-"url": "https://9to5mac.com/2026/10/29/apples-best-macbook-pro-decision-this-week-had-nothing-to-do-with-touch/",
-"published": "2026-10-30T02:06:23Z",
-"summary": "Apple’s new touchscreen MacBook Pro brings plenty of welcome upgrades, but one of the best things about this week’s launch is what the company decided not to change. more…",
-"source": "9to5Mac"
-},
-{
-"title": "Apple TV’s new crime thriller series ‘Nocturne’ is now streaming",
-"url": "https://9to5mac.com/2026/10/29/apple-tvs-new-crime-thriller-series-nocturne-is-now-streaming/",
-"published": "2026-10-30T01:01:35Z",
-"summary": "The first two episodes for Apple TV’s latest crime thriller, “ Nocturne ,” are now available to stream. Watch the trailer below. more…",
-"source": "9to5Mac"
-},
-{
-"title": "Hemmed",
-"url": "https://www.producthunt.com/products/hemmed",
-"published": "2026-10-30T00:50:28Z",
-"summary": "Hide Mac menu bar clutter and pin individual actions Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
-"url": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
-"published": "2026-10-29T23:12:26Z",
-"summary": "Embedded browsers are at the heart of the problem",
 "source": "The Register"
 },
 {
@@ -1851,38 +1907,10 @@
 "source": "Product Hunt"
 },
 {
-"title": "Backenly",
-"url": "https://www.producthunt.com/products/backenly-2",
-"published": "2026-10-29T21:07:32Z",
-"summary": "The autonomous backend for AI coding agents Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Howler will have AI answer your questions, then burn the chat",
-"url": "https://www.theregister.com/offbeat/2026/10/29/howler-will-have-ai-answer-your-questions-then-burn-the-chat/5306484",
-"published": "2026-10-29T20:04:05Z",
-"summary": "Ask AI dumb things and leave no local chat history, all with the style of a kids' fantasy novel – or rather, one of its magical letters",
-"source": "The Register"
-},
-{
-"title": "Startup wants to make AI agents safe for DevOps duty",
-"url": "https://www.theregister.com/ai-and-ml/2026/10/29/startup-wants-to-make-ai-agents-safe-for-devops-duty/5306477",
-"published": "2026-10-29T19:46:08Z",
-"summary": "Infrastructure automation needs something better than prompt and pray",
-"source": "The Register"
-},
-{
 "title": "Fluent 2",
 "url": "https://www.producthunt.com/products/fluent-ai-writing-assistant-for-macos",
 "published": "2026-10-29T18:35:46Z",
 "summary": "AI teammates that run locally on your Mac Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "BaseTab AI",
-"url": "https://www.producthunt.com/products/basetab-ai",
-"published": "2026-10-29T17:41:03Z",
-"summary": "Turn your new tab into an AI-powered workspace Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -1921,13 +1949,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "BeeBranch",
-"url": "https://www.producthunt.com/products/beebranch",
-"published": "2026-10-29T15:59:11Z",
-"summary": "The local-first desktop Git client Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Mass Effect 5 art director says it's “truly heartbreaking” we'll never play his team's game",
 "url": "https://www.creativebloq.com/news/mass-effect-5-art-director-says-its-truly-heartbreaking-well-never-play-his-teams-game",
 "published": "2026-10-29T15:26:52Z",
@@ -1940,13 +1961,6 @@
 "published": "2026-10-29T13:47:08Z",
 "summary": "A super scary way to go about tables using other layout techniques, like CSS Grid. The Frankenstein Table originally handwritten and published with love on CSS-Tricks . You should really get the…",
 "source": "CSS-Tricks"
-},
-{
-"title": "Croc 2: Kingdom of the Gobbos (Switch) review: this awkward '90s platformer is finally fixed",
-"url": "https://www.creativebloq.com/reviews/croc-2-kingdom-of-the-gobbos-switch-review-this-awkward-90s-platformer-is-finally-fixed",
-"published": "2026-10-29T13:00:00Z",
-"summary": "A colourful reminder of how hard 3D platformers used to be, and the brilliant Croc2pedia museum makes this more than a nostalgia trip.",
-"source": "Creative Bloq"
 },
 {
 "title": "The Download: AI agent tracking and climate feedback loops",
@@ -1968,48 +1982,6 @@
 "published": "2026-10-29T10:00:00Z",
 "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully…",
 "source": "MIT Technology Review"
-},
-{
-"title": "The software factory forgot about design",
-"url": "https://atifaz.am/writing/the-software-factory-forgot-about-design",
-"published": "2026-10-29T07:25:26Z",
-"summary": "Code is cheap now. What's still expensive is deciding what to build and how it should feel. I think that's the part the factory is missing.",
-"source": "Sidebar"
-},
-{
-"title": "Microsoft’s identity for Copilot positions it as a tool for work",
-"url": "https://the-brandidentity.com/project/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work",
-"published": "2026-10-29T07:24:37Z",
-"summary": "Redefining Copilot via dynamic motion geometry, translating software logic into enterprise productivity.",
-"source": "Sidebar"
-},
-{
-"title": "Shipping the roadmap is the minimum",
-"url": "https://avivbenyosef.com/shipping-the-roadmap-is-the-minimum/",
-"published": "2026-10-29T07:21:05Z",
-"summary": "People look at the roadmap and their commitments, and success is about how much of those they actually shipped.",
-"source": "Sidebar"
-},
-{
-"title": "Air Theremin",
-"url": "https://theremin.bizibah.com/",
-"published": "2026-10-29T07:19:44Z",
-"summary": "Tilt your phone, or wave both hands at the camera: spread them for volume, raise them for pitch.",
-"source": "Sidebar"
-},
-{
-"title": "On giving people an undo button in AI products",
-"url": "https://karlkoch.me/writing/on-giving-people-an-undo-button-in-ai-products",
-"published": "2026-10-29T07:18:06Z",
-"summary": "Designing AI edits people can inspect, accept and recover from without losing the work they wanted to keep.",
-"source": "Sidebar"
-},
-{
-"title": "GitHub Copilot Fusion",
-"url": "https://www.producthunt.com/products/github-copilot-fusion",
-"published": "2026-10-29T05:39:35Z",
-"summary": "GitHub's AI coding agent that picks and combines models Discussion | Link",
-"source": "Product Hunt"
 }
 ]
 }
