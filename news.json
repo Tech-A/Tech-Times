@@ -1,13 +1,139 @@
 {
-"updated": "2026-11-06T22:15:59.042932Z",
-"count": 310,
+"updated": "2026-11-07T02:13:53.374959Z",
+"count": 324,
 "items": [
+{
+"title": "Apple Music Classical gets new black-and-white icon in latest update",
+"url": "https://9to5mac.com/2026/11/06/apple-music-classical-gets-new-black-and-white-icon-in-latest-update/",
+"published": "2026-11-07T02:11:48Z",
+"summary": "Following the redesign of the Apple Music app icon, which replaced the familiar white music note on a red background with a black-and-white look, Apple today updated Apple Music Classical to match…",
+"source": "9to5Mac"
+},
+{
+"title": "Crusoe sells troubled Wyoming data center project to Google",
+"url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+"published": "2026-11-07T01:40:28Z",
+"summary": "The deal highlights the challenges of developing massive AI data centers.",
+"source": "TechCrunch"
+},
+{
+"title": "Copilot code review: API management and review overview updates",
+"url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+"published": "2026-11-07T00:27:19Z",
+"summary": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories. Copilot’s review overview comment is now more…",
+"source": "GitHub Changelog"
+},
+{
+"title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+"url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+"published": "2026-11-07T00:00:55Z",
+"summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+"source": "BleepingComputer"
+},
+{
+"title": "9to5Mac Daily: November 6, 2026 – App Store changes, new MacBook Pro launch",
+"url": "https://9to5mac.com/2026/11/06/daily-november-6-2026/",
+"published": "2026-11-06T23:47:18Z",
+"summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for…",
+"source": "9to5Mac"
+},
+{
+"title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+"url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+"published": "2026-11-06T23:46:18Z",
+"summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long…",
+"source": "The Verge"
+},
+{
+"title": "Apple TV renews ‘Knife Edge: Chasing Michelin Stars’ for season three",
+"url": "https://9to5mac.com/2026/11/06/apple-tv-renews-knife-edge-chasing-michelin-stars-for-season-three/",
+"published": "2026-11-06T23:15:19Z",
+"summary": "Award-winning culinary show ‘ Knife Edge: Chasing Michelin Stars ’ is getting a third season, in an announcement that came hours after its second season came to a close. Here are the details. more…",
+"source": "9to5Mac"
+},
+{
+"title": "Man unexpectedly recovers from a knife wound through his eye and brain",
+"url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+"published": "2026-11-06T23:09:45Z",
+"summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+"source": "Ars Technica"
+},
+{
+"title": "China reportedly recruited AI exec to spy on Jensen Huang",
+"url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+"published": "2026-11-06T23:00:44Z",
+"summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean…",
+"source": "The Verge"
+},
+{
+"title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+"url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+"published": "2026-11-06T22:53:46Z",
+"summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+"source": "TechCrunch"
+},
+{
+"title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
+"url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+"published": "2026-11-06T22:45:43Z",
+"summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big…",
+"source": "The Verge"
+},
+{
+"title": "After the AI bubble: a manifesto",
+"url": "https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662?source=rss----138adf9c44c---4",
+"published": "2026-11-06T22:42:58Z",
+"summary": "",
+"source": "UX Collective"
+},
+{
+"title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+"url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+"published": "2026-11-06T22:41:37Z",
+"summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+"source": "Ars Technica"
+},
+{
+"title": "The Cybertruck’s Death Is Actually Great News for EVs",
+"url": "https://www.wired.com/story/cybertrucks-death-great-news-for-evs/",
+"published": "2026-11-06T22:31:15Z",
+"summary": "Tesla’s massive EV is the second within the last year to get the ax, while smaller vehicles are proliferating. It could be a huge benefit for the US battery supply chain.",
+"source": "Wired"
+},
+{
+"title": "Raycast combines voice dictation and screen awareness in new AI feature",
+"url": "https://9to5mac.com/2026/11/06/raycast-combines-voice-dictation-and-screen-awareness-in-new-ai-feature/",
+"published": "2026-11-06T22:28:13Z",
+"summary": "Following the recent release of Screen Awareness, Raycast got an interesting update this week that lets users talk to AI about whatever is on their screen without having to explain the context. Here…",
+"source": "9to5Mac"
+},
+{
+"title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+"url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+"published": "2026-11-06T22:27:25Z",
+"summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing…",
+"source": "BleepingComputer"
+},
+{
+"title": "Copilot impact dashboard adds chat and VS Code agent usage",
+"url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+"published": "2026-11-06T22:17:28Z",
+"summary": "The Agent adoption chart in the Copilot impact dashboard now includes Copilot Chat and the VS Code Agents window, so you can see engagement across nine Copilot experiences. The adoption… The post…",
+"source": "GitHub Changelog"
+},
 {
 "title": "Beyond code generation: A developer’s guide to agentic engineering",
 "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
 "published": "2026-11-06T22:15:59Z",
 "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.…",
 "source": "GitHub Blog"
+},
+{
+"title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+"url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+"published": "2026-11-06T22:08:47Z",
+"summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+"source": "Ars Technica"
 },
 {
 "title": "iOS 27.3: New features, release date, more",
@@ -41,7 +167,7 @@
 "title": "The Duo apps are coming, says Apple",
 "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
 "published": "2026-11-06T21:38:05Z",
-"summary": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+"summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
 "source": "TechCrunch"
 },
 {
@@ -59,6 +185,13 @@
 "source": "9to5Mac"
 },
 {
+"title": "GitHub Copilot weekly releases — November 2",
+"url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
+"published": "2026-11-06T21:00:26Z",
+"summary": "This week, Copilot comes to JetBrains Air and Xcode’s coding assistant, with updates to help you manage pull requests, settings, and agent sessions. GitHub Copilot app Set up Agent Merge… The post…",
+"source": "GitHub Changelog"
+},
+{
 "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
 "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
 "published": "2026-11-06T20:56:41Z",
@@ -71,6 +204,13 @@
 "published": "2026-11-06T20:55:39Z",
 "summary": "Apple shared a new Apple Card ad on its YouTube page today featuring a therapist who realizes she really needs a vacation. Watch it below. more…",
 "source": "9to5Mac"
+},
+{
+"title": "@GitHub in Slack and Teams is generally available and more",
+"url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
+"published": "2026-11-06T20:31:08Z",
+"summary": "Turn conversations into code with @GitHub in Slack and Teams! Investigate bugs, create issues, implement changes, and open pull requests—all without leaving your conversation. What’s new Build and…",
+"source": "GitHub Changelog"
 },
 {
 "title": "Earth's churning mantle may have created the Great Unconformity",
@@ -269,20 +409,6 @@
 "source": "The Verge"
 },
 {
-"title": "Kobo will soon let you upload and sync your own ebooks across devices, for a price",
-"url": "https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files",
-"published": "2026-11-06T17:32:16Z",
-"summary": "Kobo is launching a new monthly subscription service called Stack that lets you upload your own ebooks and documents to the company's servers where they'll be synced across multiple devices and apps…",
-"source": "The Verge"
-},
-{
-"title": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
-"url": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
-"published": "2026-11-06T17:24:36Z",
-"summary": "Apple's iPhone Duo has been officially on sale for two weeks, and the company said today that the App Store now has over 100,000 apps that are built for the foldable. \"It's been wonderful to see how…",
-"source": "The Verge"
-},
-{
 "title": "After the midterms, is the AI industry in for a rough two years?",
 "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
 "published": "2026-11-06T17:23:52Z",
@@ -330,13 +456,6 @@
 "published": "2026-11-06T17:02:00Z",
 "summary": "New and revived desktops promise Cupertino polish, but our quick tests found a few seams showing",
 "source": "The Register"
-},
-{
-"title": "AI is the new dating dealbreaker",
-"url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-"published": "2026-11-06T17:00:00Z",
-"summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the…",
-"source": "The Verge"
 },
 {
 "title": "Oak Ridge labs gets hybrid quantum-HPC system to test qubit error correction",
@@ -512,6 +631,13 @@
 "published": "2026-11-06T14:29:00Z",
 "summary": "Mint 27 to land before Christmas, with stable Wayland display upgrades, as punters try out Cinnamon 6.8",
 "source": "The Register"
+},
+{
+"title": "Yelp Combines Native and Server-Driven UI for Its AI Assistant",
+"url": "https://www.infoq.com/news/2026/11/yelp-assistant-hybrid-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-06T14:25:00Z",
+"summary": "Yelp combines native mobile controls with server-driven conversation rendering in its AI Assistant using the CHAOS framework. The architecture separates view configuration from conversation data…",
+"source": "InfoQ"
 },
 {
 "title": "RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd",
@@ -703,6 +829,13 @@
 "source": "Wired"
 },
 {
+"title": "GitLab 19.5 Makes Agentic Development a Governed Part of the DevOps Platform",
+"url": "https://www.infoq.com/news/2026/11/gitlab-19-5-agentic-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-06T12:00:00Z",
+"summary": "GitLab 19.5, released on October 15, puts agentic software development and governance at the centre of the platform, making its GitLab MCP server generally available while expanding how external AI…",
+"source": "InfoQ"
+},
+{
 "title": "Tesla unveils AI accelerator roadmap, adopts new 'SI' branding in 'Super Intelligence' push",
 "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space",
 "published": "2026-11-06T12:00:00Z",
@@ -727,7 +860,7 @@
 "title": "Tesla will stop making the Cybertruck in 2027",
 "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
 "published": "2026-11-06T11:50:10Z",
-"summary": "Elon Musk said the company will use the factory space to make more Cybercabs.",
+"summary": "The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more Cybercabs.",
 "source": "TechCrunch"
 },
 {
@@ -766,6 +899,13 @@
 "source": "Engadget"
 },
 {
+"title": "TypeScript 7.1 Beta: Restores the Compiler API and Makes Vue and Svelte First-Class",
+"url": "https://www.infoq.com/news/2026/11/typescript-7-1-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-06T11:06:00Z",
+"summary": "TypeScript 7.1 Beta, announced October 20, 2026, restores the compiler API removed in 7.0, now split into separate entry points. It adds content mappers, letting tools like Vue check non-standard…",
+"source": "InfoQ"
+},
+{
 "title": "10 Best Subscription Boxes for Kids (2026): STEM, Books, Clothes, Snacks, and More",
 "url": "https://www.wired.com/gallery/best-subscription-boxes-for-kids/",
 "published": "2026-11-06T11:00:00Z",
@@ -785,6 +925,13 @@
 "published": "2026-11-06T11:00:00Z",
 "summary": "Cyber Security and Resilience Bill could pave way for searches, seizures, and inspections when operators lose control of automated systems",
 "source": "The Register"
+},
+{
+"title": "Presentation: The Socio-Technical Staff+ Engineer: Architecture, Culture and Organisational Change",
+"url": "https://www.infoq.com/presentations/sociotechnical-staff-engineer-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-06T11:00:00Z",
+"summary": "Vanessa Formicola shares how technical leaders can move beyond \"wishful architecture\" by practicing holistic socio-technical engineering. She discusses why engineering leaders must account for…",
+"source": "InfoQ"
 },
 {
 "title": "Nintendo’s latest Zelda remake already circulating online as a Switch 2 ROM",
@@ -829,6 +976,13 @@
 "source": "MIT Technology Review"
 },
 {
+"title": "AWS Ships Continuum for Code Vulnerabilities",
+"url": "https://www.infoq.com/news/2026/11/aws-continuum-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-06T10:00:00Z",
+"summary": "AWS has made Continuum for code vulnerabilities generally available in two regions. The service proves exploitability by running real exploits in a sandbox, then opens fixes as pull requests.…",
+"source": "InfoQ"
+},
+{
 "title": "Get 78% off Bluehost AI website builder and hosting",
 "url": "https://www.creativebloq.com/deals/get-78-percent-off-bluehost-ai-website-builder-and-hosting",
 "published": "2026-11-06T10:00:00Z",
@@ -855,6 +1009,27 @@
 "published": "2026-11-06T09:22:28Z",
 "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
 "source": "BleepingComputer"
+},
+{
+"title": "Article: Identity as an Architectural Concern: Enterprise IAM Beyond Authentication",
+"url": "https://www.infoq.com/articles/identity-as-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-06T09:00:00Z",
+"summary": "The way you design your identities will drive your data models, your service scope, and your revocation policies; enterprise identity management is thus an architectural problem, not an afterthought.…",
+"source": "InfoQ"
+},
+{
+"title": "Vault Fork OpenBao Adds External Keys and Quantum-Ready TLS",
+"url": "https://www.infoq.com/news/2026/11/vault-fork-openbao-27/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-06T09:00:00Z",
+"summary": "OpenBao has released version 2.7, adding read scaling for PostgreSQL-backed deployments, support for external hardware security module (HSM) and key management service (KMS) keys, and post-quantum…",
+"source": "InfoQ"
+},
+{
+"title": "GitHub Actions Lockfiles Reach GA to Secure Workflow Dependencies",
+"url": "https://www.infoq.com/news/2026/11/github-actions-lockfiles-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-06T09:00:00Z",
+"summary": "GitHub has made workflow dependency lockfiles for GitHub Actions generally available on October 28, 2026, two weeks after the feature entered public preview. Workflows can maintain clear tag and…",
+"source": "InfoQ"
 },
 {
 "title": "Finally, a CD player that doesn’t look like a plastic Y2K nightmare",
@@ -920,6 +1095,13 @@
 "source": "TechCrunch"
 },
 {
+"title": "Edera's Object Capability Bounded Authority Promises to Isolate Credentials From AI Agent Workloads",
+"url": "https://www.infoq.com/news/2026/11/ai-credentials-isolation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-06T06:06:00Z",
+"summary": "Edera announced Object Capability Bounded Authority, a security model that separates an AI agent's or MCP server's required authority from the credentials behind it. Hypervisor-enforced capabilities…",
+"source": "InfoQ"
+},
+{
 "title": "AI agents are a 'bane' for some website operators, says Cloudflare",
 "url": "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
 "published": "2026-11-06T04:25:14Z",
@@ -976,25 +1158,11 @@
 "source": "UX Collective"
 },
 {
-"title": "crystl",
-"url": "https://www.producthunt.com/products/crystl-multitasking-terminal",
-"published": "2026-11-06T02:44:33Z",
-"summary": "multitasking terminal for AI coding agents, built for macOS Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "‘Awkwafina: The Unlikely Cook’ premieres on Apple TV",
 "url": "https://9to5mac.com/2026/11/05/awkwafina-the-unlikely-cook-premieres-on-apple-tv/",
 "published": "2026-11-06T02:10:07Z",
 "summary": "Apple TV subscribers can now stream the first two episodes of the platform’s new unscripted food series, ‘ Awkwafina: The Unlikely Cook .’ Watch the trailer below. more…",
 "source": "9to5Mac"
-},
-{
-"title": "Cursor Craft",
-"url": "https://www.producthunt.com/products/cursor-craft",
-"published": "2026-11-06T01:53:45Z",
-"summary": "Custom cursors for Mac Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Apple explains how to turn off the new MacBook Pro’s glowing logo",
@@ -1067,18 +1235,18 @@
 "source": "TechCrunch"
 },
 {
+"title": "Kodivo",
+"url": "https://www.producthunt.com/products/kodivo",
+"published": "2026-11-06T00:07:03Z",
+"summary": "Learn coding with AI and PHP through swipeable cards Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Meta, Google, and TikTok sue California AG over teen social media law",
 "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
 "published": "2026-11-06T00:01:38Z",
 "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
 "source": "TechCrunch"
-},
-{
-"title": "Cloptima",
-"url": "https://www.producthunt.com/products/cloptima",
-"published": "2026-11-05T23:40:34Z",
-"summary": "AI Gateway, Guardrails & LLM FinOps Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
@@ -1151,32 +1319,11 @@
 "source": "The Register"
 },
 {
-"title": "Sony revives the original Walkman headphones, adds USB-C",
-"url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
-"published": "2026-11-05T21:56:36Z",
-"summary": "Orange ear cushions included.",
-"source": "Ars Technica"
-},
-{
 "title": "CleanMyMac now helps you clean up Gmail and manage Chrome tabs",
 "url": "https://9to5mac.com/2026/11/05/cleanmymac-now-helps-you-clean-up-gmail-and-manage-chrome-tabs/",
 "published": "2026-11-05T21:48:20Z",
 "summary": "MacPaw today announced an expansion of CleanMyMac’s capabilities beyond the app’s traditional Mac maintenance and optimization tools. Here are the details. more…",
 "source": "9to5Mac"
-},
-{
-"title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-"url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-"published": "2026-11-05T21:40:36Z",
-"summary": "Google is technically offering schools more choice but not the choices anyone wants.",
-"source": "Ars Technica"
-},
-{
-"title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-"url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-"published": "2026-11-05T21:39:40Z",
-"summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-"source": "Ars Technica"
 },
 {
 "title": "Bose recalls S1 Pro battery packs due to fire and overheating risks",
@@ -1219,6 +1366,13 @@
 "published": "2026-11-05T21:15:00Z",
 "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
 "source": "TechCrunch"
+},
+{
+"title": "Codiclens",
+"url": "https://www.producthunt.com/products/codiclens-local-ai-powerd-mac-launcher",
+"published": "2026-11-05T21:12:24Z",
+"summary": "Local AI powerd Mac launcher and file finder Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead",
@@ -1319,53 +1473,11 @@
 "source": "9to5Mac"
 },
 {
-"title": "MacBook Pro with PROLED review, new iPad mini hands-on, and iOS 27.3 features",
-"url": "https://9to5mac.com/2026/11/05/happy-hour-615/",
-"published": "2026-11-05T19:24:26Z",
-"summary": "It’s another bumper week, with Chance’s hands-on reviews of both the new iPad mini and the new MacBook Pro to discuss, especially around just how good the OLED display looks, and how touchscreens fit…",
-"source": "9to5Mac"
-},
-{
 "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
 "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
 "published": "2026-11-05T19:24:26Z",
 "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
 "source": "BleepingComputer"
-},
-{
-"title": "Meta warns that election backlash against data centers could make AI expansion harder",
-"url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-"published": "2026-11-05T19:12:39Z",
-"summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-"source": "TechCrunch"
-},
-{
-"title": "OpenAI released a new cybersecurity model. Is that enough?",
-"url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-"published": "2026-11-05T19:06:12Z",
-"summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-"source": "TechCrunch"
-},
-{
-"title": "macOS 27.3 Golden Gate public beta 1 now available, here’s everything new",
-"url": "https://9to5mac.com/2026/11/05/macos-27-3-golden-gate-public-beta-1-now-available-heres-everything-new/",
-"published": "2026-11-05T19:04:55Z",
-"summary": "Following the release of macOS 27.3 developer beta 1 , Apple is now rolling out the first test build for users enrolled in the public beta. Here’s what’s coming more…",
-"source": "9to5Mac"
-},
-{
-"title": "Apple releases iPadOS 27.3 public beta and more, here’s what’s new",
-"url": "https://9to5mac.com/2026/11/05/apple-releases-ipados-27-3-public-beta-and-more-heres-whats-new/",
-"published": "2026-11-05T19:04:35Z",
-"summary": "Public beta testers, Apple is now rolling out the first public betas for iPadOS 27.3, tvOS 27.3, and more. Here’s what‘s new. more…",
-"source": "9to5Mac"
-},
-{
-"title": "First macOS Sequoia 15.8.3 and macOS Tahoe 26.7.3 RCs now available [U]",
-"url": "https://9to5mac.com/2026/11/05/first-macos-sequoia-15-8-3-and-macos-tahoe-26-7-3-rcs-now-available/",
-"published": "2026-11-05T19:03:56Z",
-"summary": "Update, November 5: The release candidates are now available to public beta testers as well. In addition to the release of macOS 27.3 beta 1, Apple is also rolling out the first release candidates of…",
-"source": "9to5Mac"
 },
 {
 "title": "Plainmail",
@@ -1389,13 +1501,6 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "Shipnoted",
-"url": "https://www.producthunt.com/products/shipnoted",
-"published": "2026-11-05T18:10:18Z",
-"summary": "Changelog + feedback board for closing the loop on your git Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "October crypto-tracker hack: Access cracked, law enforcement tokens packed",
 "url": "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852",
 "published": "2026-11-05T18:03:00Z",
@@ -1415,6 +1520,13 @@
 "published": "2026-11-05T18:00:00Z",
 "summary": "Ohuhu's sets are a Creative Bloq favourite, suitable for both kids and pro artists.",
 "source": "Creative Bloq"
+},
+{
+"title": "BuildFerry",
+"url": "https://www.producthunt.com/products/buildferry",
+"published": "2026-11-05T17:46:58Z",
+"summary": "Install iOS test builds on any iPhone with one link Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
@@ -1452,6 +1564,13 @@
 "source": "The Register"
 },
 {
+"title": "Wisp",
+"url": "https://www.producthunt.com/products/wisp-9",
+"published": "2026-11-05T16:28:20Z",
+"summary": "Wisp is a little AI fairy who lives on your desktop Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Nintendo Switch 2 sales dropped by 41% from last year due to console's price increase",
 "url": "https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-sales-dropped-by-41-percent-from-last-year-due-to-consoles-price-increase-pressure-to-release-more-big-games-to-make-up-for-shortfall",
 "published": "2026-11-05T16:27:28Z",
@@ -1466,25 +1585,18 @@
 "source": "Wired"
 },
 {
-"title": "Hackers backdoor Linux servers using trojanized CWP web server",
-"url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-"published": "2026-11-05T16:24:26Z",
-"summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-"source": "BleepingComputer"
-},
-{
-"title": "DigiCert data breach exposes customer information, identity documents",
-"url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-"published": "2026-11-05T16:12:46Z",
-"summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity…",
-"source": "BleepingComputer"
-},
-{
 "title": "Tobacco company got smoked by leaving secret recipes on a file share",
 "url": "https://www.theregister.com/security/2026/11/05/tobacco-company-got-smoked-by-leaving-secret-recipes-on-a-file-share/5307704",
 "published": "2026-11-05T16:02:00Z",
 "summary": "They denied the data was real...then removed it",
 "source": "The Register"
+},
+{
+"title": "Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications",
+"url": "https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-05T16:00:00Z",
+"summary": "Google has announced the public preview of streaming support for API Gateway, extending its traditional request-response model to support applications requiring real-time communication. According to…",
+"source": "InfoQ"
 },
 {
 "title": "Accessibility statements now have a home on GitHub",
@@ -1499,6 +1611,13 @@
 "published": "2026-11-05T16:00:00Z",
 "summary": "Alessandro Carloni and Erica Rivinoja on reinventing a book everyone thinks they know, and the one problem that could have sunk the whole film.",
 "source": "Creative Bloq"
+},
+{
+"title": "Leapwork Play Reaches GA with Governance for Playwright Tests",
+"url": "https://www.infoq.com/news/2026/11/leapwork-play-playwright/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-05T15:56:00Z",
+"summary": "Leapwork Play adds requirement traceability and approval workflows around portable Playwright tests. Full governance and audit capabilities require an enterprise package. By Mark Silvester",
+"source": "InfoQ"
 },
 {
 "title": "Secret scanning upgrades detectors, adds SpaceX as partner",
@@ -1569,13 +1688,6 @@
 "published": "2026-11-05T14:28:30Z",
 "summary": "Micron and the Taoyuan labor union is set to meet again on November 6 as the two parties engage in a protracted labor dispute regarding profit-sharing.",
 "source": "Tom's Hardware"
-},
-{
-"title": "Openroster",
-"url": "https://www.producthunt.com/products/openroster",
-"published": "2026-11-05T14:19:55Z",
-"summary": "Which \"Open\" companies are actually open source Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Rankfender v3.0",
@@ -1704,17 +1816,17 @@
 "source": "Creative Bloq"
 },
 {
-"title": "AI’s Next Trick? Speaking Dolphin",
-"url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
-"published": "2026-11-05T12:00:00Z",
-"summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
-"source": "Wired"
-},
-{
 "title": "Best Wireless Chargers (2026): My Picks After Testing 100+",
 "url": "https://www.wired.com/gallery/best-wireless-chargers/",
 "published": "2026-11-05T12:00:00Z",
 "summary": "Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.",
+"source": "Wired"
+},
+{
+"title": "AI’s Next Trick? Speaking Dolphin",
+"url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+"published": "2026-11-05T12:00:00Z",
+"summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
 "source": "Wired"
 },
 {
@@ -1753,6 +1865,20 @@
 "source": "Tom's Hardware"
 },
 {
+"title": "Building a Culture for a Kubernetes-Based Platform in a Bank",
+"url": "https://www.infoq.com/news/2026/11/culture-kubernetes-bank/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-05T11:11:00Z",
+"summary": "In banking, open source can earn trust by running real workloads, as Marcy Paramonova and Stéphane Cusin explained in their talk Building Cloud Native Culture in a Bank at KubeCon & CloudNativeCon…",
+"source": "InfoQ"
+},
+{
+"title": "Presentation: Zero Trust Agent Systems that Pass Audits and Still Ship",
+"url": "https://www.infoq.com/presentations/zero-trust-ai-agents-production-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-05T11:00:00Z",
+"summary": "Advait Patel shares a playbook for securing AI agent systems in production. He discusses moving defense boundaries from the prompt to the tool layer, enforcing scoped workload identities, and…",
+"source": "InfoQ"
+},
+{
 "title": "Design by numbers: is AI ruining UX or just pouring gasoline on the fire?",
 "url": "https://uxdesign.cc/design-by-numbers-is-ai-ruining-ux-or-just-pouring-gasoline-on-the-fire-24164d49e422?source=rss----138adf9c44c---4",
 "published": "2026-11-05T10:49:10Z",
@@ -1779,13 +1905,6 @@
 "published": "2026-11-05T10:27:12Z",
 "summary": "A live board of security flaws Discussion | Link",
 "source": "Product Hunt"
-},
-{
-"title": "The Best Smart Ring for Discreet Fitness Tracking in 2026",
-"url": "https://www.wired.com/story/best-smart-ring/",
-"published": "2026-11-05T10:09:00Z",
-"summary": "Turns out, your finger is prime real estate for health tracking. Here are the smart rings that impressed me the most.",
-"source": "Wired"
 },
 {
 "title": "A new bill could change how the US builds energy infrastructure",
@@ -1844,6 +1963,13 @@
 "source": "Creative Bloq"
 },
 {
+"title": "TraceX",
+"url": "https://www.producthunt.com/products/tracex",
+"published": "2026-11-05T08:53:29Z",
+"summary": "The AI engineer for your production issues Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "The John Lewis Christmas advert is getting a mauling",
 "url": "https://www.creativebloq.com/news/the-john-lewis-christmas-advert-is-getting-a-mauling",
 "published": "2026-11-05T08:00:00Z",
@@ -1863,6 +1989,13 @@
 "published": "2026-11-05T07:00:00Z",
 "summary": "It's finally time to upgrade your home coffee setup.",
 "source": "Creative Bloq"
+},
+{
+"title": "Mmory",
+"url": "https://www.producthunt.com/products/mmory",
+"published": "2026-11-05T03:06:22Z",
+"summary": "Mmory is a private voice memory app for iPhone Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Pressure",
@@ -1970,11 +2103,11 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Chronos DB",
-"url": "https://www.producthunt.com/products/chronos-db",
-"published": "2026-11-04T14:55:53Z",
-"summary": "The database for the autonomous AI era. Discussion | Link",
-"source": "Product Hunt"
+"title": "Inkitt Builds a One-Shot PR Creator with Resumable Agent Orchestration",
+"url": "https://www.infoq.com/news/2026/11/inkitt-one-shot-pr-creator-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-04T14:36:00Z",
+"summary": "Inkitt built a one-shot pull request creator that automates small, low-risk code changes from task intake to draft PR creation. Its event-driven orchestrator persists workflow state, coordinates…",
+"source": "InfoQ"
 },
 {
 "title": "Datastripes Data Stories",
@@ -1998,11 +2131,11 @@
 "source": "MIT Technology Review"
 },
 {
-"title": "Pauta",
-"url": "https://www.producthunt.com/products/pauta",
-"published": "2026-11-04T12:35:32Z",
-"summary": "Your private memory for every conversation Discussion | Link",
-"source": "Product Hunt"
+"title": "Presentation: Panel: Who Builds the Frontend Now? (And What Breaks When They Do)",
+"url": "https://www.infoq.com/presentations/panel-ai-frontend-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-04T11:00:00Z",
+"summary": "The panelists explain how AI tools and vibe coding reshape frontend and mobile engineering. They share insights on evolving junior developer roles, managing AI-generated code review fatigue…",
+"source": "InfoQ"
 },
 {
 "title": "Textwhisk",
@@ -2047,13 +2180,6 @@
 "source": "Sidebar"
 },
 {
-"title": "BYOK and enterprise custom models in the Copilot usage API",
-"url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-"published": "2026-11-04T00:32:19Z",
-"summary": "The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of… The post BYOK and…",
-"source": "GitHub Changelog"
-},
-{
 "title": "axel.md",
 "url": "https://www.producthunt.com/products/axel-3",
 "published": "2026-11-03T22:39:14Z",
@@ -2068,20 +2194,6 @@
 "source": "UX Collective"
 },
 {
-"title": "What do you do when a design solution is already pre-built?",
-"url": "https://uxdesign.cc/what-do-you-do-when-a-design-solution-is-already-pre-built-85d20edba31f?source=rss----138adf9c44c---4",
-"published": "2026-11-03T22:36:49Z",
-"summary": "How to deal with the “Fastest Idea in the Room” Continue reading on UX Collective »",
-"source": "UX Collective"
-},
-{
-"title": "Dependabot version updates support Agent Package Manager",
-"url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-"published": "2026-11-03T20:24:07Z",
-"summary": "You can now keep your AI agent skills, prompts, and instructions up to date with Dependabot version updates for Agent Package Manager (APM). Dependabot opens pull requests to update supported… The…",
-"source": "GitHub Changelog"
-},
-{
 "title": "Any Video to Text",
 "url": "https://www.producthunt.com/products/any-video-to-text",
 "published": "2026-11-03T19:34:34Z",
@@ -2094,20 +2206,6 @@
 "published": "2026-11-03T16:00:00Z",
 "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub…",
 "source": "GitHub Blog"
-},
-{
-"title": "Look up a resource’s cost center with the GitHub REST API",
-"url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-"published": "2026-11-03T15:27:13Z",
-"summary": "You can now use the GitHub REST API to find which cost center a user, organization, repository, or enterprise team belongs to. Previously, you had to list every cost center… The post Look up a…",
-"source": "GitHub Changelog"
-},
-{
-"title": "GitHub Copilot is now available in JetBrains Air",
-"url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-"published": "2026-11-03T15:11:46Z",
-"summary": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air. The integration uses the Agent Client Protocol (ACP) and supports tasks in your… The post…",
-"source": "GitHub Changelog"
 },
 {
 "title": "Re-Implementing :nth-child() With Modern CSS",
