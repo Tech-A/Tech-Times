@@ -1,7 +1,308 @@
 {
-"updated": "2026-11-08T12:06:23.867328Z",
-"count": 304,
+"updated": "2026-11-08T18:01:22.802122Z",
+"count": 301,
 "items": [
+{
+"title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+"url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+"published": "2026-11-08T18:00:04Z",
+"summary": "SNL seems to have its knives out for tech executives.",
+"source": "TechCrunch"
+},
+{
+"title": "The pros and cons of using your laptop with the lid closed",
+"url": "https://www.engadget.com/2308391/using-laptop-lid-closed-pros-and-cons/",
+"published": "2026-11-08T17:45:00Z",
+"summary": "Connecting your laptop to an external display and running it with the lid closed has some benefits and drawbacks.",
+"source": "Engadget"
+},
+{
+"title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+"url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+"published": "2026-11-08T17:30:00Z",
+"summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+"source": "TechCrunch"
+},
+{
+"title": "How much Netflix cost in 2007 vs. 2026",
+"url": "https://www.engadget.com/2308948/how-much-netflix-cost-2007-vs-2026/",
+"published": "2026-11-08T17:30:00Z",
+"summary": "It's been nearly 20 years since Netflix first introduced its streaming media plans. They've changed a bit .",
+"source": "Engadget"
+},
+{
+"title": "Elvis and Eminem rights holders are suing Suno",
+"url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+"published": "2026-11-08T17:23:19Z",
+"summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it…",
+"source": "The Verge"
+},
+{
+"title": "The reason why some USB ports are teal",
+"url": "https://www.engadget.com/2308359/reason-why-usb-ports-teal/",
+"published": "2026-11-08T17:15:00Z",
+"summary": "A teal USB port can indicate a connection with particular data and charging speeds. Here's what it means.",
+"source": "Engadget"
+},
+{
+"title": "TechCrunch Mobility: The Cybertruck experiment is over",
+"url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+"published": "2026-11-08T17:02:00Z",
+"summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+"source": "TechCrunch"
+},
+{
+"title": "5 unexpected uses for your old smartwatch",
+"url": "https://www.engadget.com/2308288/unexpected-uses-old-smartwatch/",
+"published": "2026-11-08T17:00:00Z",
+"summary": "Don't toss your smartwatch when you can repurpose it. If you're interested in an assistant or saving notes, you can stop that watch from gathering dust.",
+"source": "Engadget"
+},
+{
+"title": "How much did an iPhone cost in 2007 vs. 2026? The gap is smaller than you think",
+"url": "https://www.engadget.com/2308205/how-much-did-iphone-cost-2007-vs-2026/",
+"published": "2026-11-08T16:45:00Z",
+"summary": "The first iPhone launched at $499 in 2007. See how that price compares to today's models once inflation, storage and features are factored in.",
+"source": "Engadget"
+},
+{
+"title": "How long can you expect your Apple AirPods to last?",
+"url": "https://www.engadget.com/2307837/how-long-expect-apple-airpods-last/",
+"published": "2026-11-08T16:30:00Z",
+"summary": "Here's how to get the most out of your AirPods.",
+"source": "Engadget"
+},
+{
+"title": "AI music can be difficult to detect, but there are some telltale signs",
+"url": "https://www.engadget.com/2308062/ai-music-difficult-to-detect-telltale-signs/",
+"published": "2026-11-08T16:15:00Z",
+"summary": "AI-generated songs are filling Spotify and other platforms. These vocal, lyric and instrumental tells can help you catch them before you hit play.",
+"source": "Engadget"
+},
+{
+"title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+"url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+"published": "2026-11-08T16:00:00Z",
+"summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the…",
+"source": "The Verge"
+},
+{
+"title": "You can attach your Fitbit Air to almost any old-school watch",
+"url": "https://www.engadget.com/2307854/how-to-attach-fitbit-air-to-old-school-watch/",
+"published": "2026-11-08T16:00:00Z",
+"summary": "There are a few ways to combine the screen-less FitBit Air with an existing analog watch.",
+"source": "Engadget"
+},
+{
+"title": "Report: John Ternus pushing Craig Federighi to speed up Apple software engineering",
+"url": "https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/",
+"published": "2026-11-08T15:55:23Z",
+"summary": "In the past few years, a major Apple story (especially in the age of AI) has been that the company isn’t moving fast enough in the space to keep up with competitors. According to Bloomberg’s Mark…",
+"source": "9to5Mac"
+},
+{
+"title": "Can PC coolant expire? Here's how long it can last",
+"url": "https://www.engadget.com/2307846/how-long-pc-coolant-lasts/",
+"published": "2026-11-08T15:45:00Z",
+"summary": "A liquid-cooled PC can certainly look cool, but there are hurdles when mixing tech and water. Here's what you need to know to keep your rig running right.",
+"source": "Engadget"
+},
+{
+"title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+"url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+"published": "2026-11-08T15:43:08Z",
+"summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized…",
+"source": "BleepingComputer"
+},
+{
+"title": "Apple aiming to make Siri ‘more like an agent’ as soon as next year: report",
+"url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/",
+"published": "2026-11-08T15:30:36Z",
+"summary": "Apple finally shipped its long awaited personalized Siri with iOS 27. The company lived up to its promises, and delivered on its hefty goals that it set out back in 2024. That said, Siri still lacks…",
+"source": "9to5Mac"
+},
+{
+"title": "These experimental EV batteries can eject themselves during a fire",
+"url": "https://www.engadget.com/2307844/experimental-ev-batteries-eject-during-fire/",
+"published": "2026-11-08T15:30:00Z",
+"summary": "EV battery fires are highly dangerous and difficult to extinguish, but is launching a battery pack out of the car a smart or realistic solution?",
+"source": "Engadget"
+},
+{
+"title": "Diamond Foundry creates world's first 200mm single-crystal diamond wafer",
+"url": "https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors",
+"published": "2026-11-08T15:25:00Z",
+"summary": "This 200mm single-crystal diamond wafer is designed to efficiently remove heat and prevent hotspots from forming on AI processors.",
+"source": "Tom's Hardware"
+},
+{
+"title": "Pro Gamers typically don't use OLED monitors, but you most definitely can",
+"url": "https://www.engadget.com/2307840/pro-gamers-dont-use-oled-monitors-why-you-should/",
+"published": "2026-11-08T15:15:00Z",
+"summary": "Big tournaments favor LCD monitors, though perhaps not for the reasons you suspect. We'll explain why normal gamers can and should embrace OLED displays.",
+"source": "Engadget"
+},
+{
+"title": "Chatbots might be coming to Apple’s HomeView",
+"url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+"published": "2026-11-08T15:00:30Z",
+"summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what…",
+"source": "The Verge"
+},
+{
+"title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+"url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+"published": "2026-11-08T15:00:00Z",
+"summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+"source": "TechCrunch"
+},
+{
+"title": "How to set up Google Authenticator on a new phone",
+"url": "https://www.engadget.com/2307835/how-to-set-up-google-authenticator-new-phone/",
+"published": "2026-11-08T15:00:00Z",
+"summary": "How to setup Google Authenticator on a new phone without causing a headache.",
+"source": "Engadget"
+},
+{
+"title": "Logitech G502 X Lightspeed Review: No lights, same price",
+"url": "https://www.tomshardware.com/peripherals/gaming-mice/logitech-g502-x-lightspeed-review",
+"published": "2026-11-08T15:00:00Z",
+"summary": "Logitech's G502 X Lightspeed strips the G502 X Plus of its lighting, but retains the $160 price tag.",
+"source": "Tom's Hardware"
+},
+{
+"title": "Japanese arcades suffer week-long blackout following Sega server hack",
+"url": "https://www.tomshardware.com/video-games/japanese-arcades-suffer-week-long-blackout-following-sega-server-hack-bandai-namco-titles-resume-trial-operations-as-sega-games-remain-offline",
+"published": "2026-11-08T15:00:00Z",
+"summary": "The sensory overload in video game arcades in Japan was eerily absent from some venues this week.",
+"source": "Tom's Hardware"
+},
+{
+"title": "Your digital game library is yours, until it's not",
+"url": "https://www.engadget.com/2307829/digital-game-library-ownership-uncertainty/",
+"published": "2026-11-08T14:45:00Z",
+"summary": "Digital games you \"buy\" can be taken away at any time, and there are fewer options than ever for true game ownership.",
+"source": "Engadget"
+},
+{
+"title": "The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age",
+"url": "https://www.tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code",
+"published": "2026-11-08T14:40:00Z",
+"summary": "Linux developers are preparing to make Intel’s ancient MultiMedia eXtensions irrelevant, with the last MMX code now set to be removed from the kernel.",
+"source": "Tom's Hardware"
+},
+{
+"title": "Ukraine builds combat robots to hunt Russian troops in underground gas pipelines",
+"url": "https://www.tomshardware.com/tech-industry/robotics/ukraine-builds-combat-robots-to-hunt-russian-troops-in-underground-gas-pipelines-ugvs-adapted-following-15-kilometer-subterranean-assault",
+"published": "2026-11-08T14:36:39Z",
+"summary": "Ukraine is developing a new class of combat robots designed to operate inside underground gas pipelines.",
+"source": "Tom's Hardware"
+},
+{
+"title": "The pros and cons of buying refurbished laptops",
+"url": "https://www.engadget.com/2307699/buying-refurbished-laptops-pros-and-cons/",
+"published": "2026-11-08T14:30:00Z",
+"summary": "A properly refurbished laptop will get you a lot for your money, but not all refurb jobs are done to the same standard.",
+"source": "Engadget"
+},
+{
+"title": "Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage",
+"url": "https://www.tomshardware.com/pc-components/gpus/nvidia-released-its-8800-gtx-gpu-20-years-ago-today-celebrates-with-steam-game-homage-interactive-demos-eye-watering-minimum-requirements-include-rtx-4070-32gb-ram-and-30gb-storage",
+"published": "2026-11-08T14:20:00Z",
+"summary": "On this day in 2006, Nvidia released the legendary GeForce 8800 GTX graphics card and it is celebrating the event with a very demanding (but free) interactive Steam demo.",
+"source": "Tom's Hardware"
+},
+{
+"title": "The game reverse engineering community is the latest casualty of AI",
+"url": "https://www.engadget.com/2307604/game-reverse-engineering-community-latest-ai-casualty/",
+"published": "2026-11-08T14:15:00Z",
+"summary": "For years, decompilation communities thrived on the challenge of breaking down video games to their core code and adapting them. Then AI tools ruined the fun.",
+"source": "Engadget"
+},
+{
+"title": "How to reset your Vizio TV back to factory settings",
+"url": "https://www.engadget.com/2307501/how-to-reset-vizio-tv-factory-settings/",
+"published": "2026-11-08T14:00:00Z",
+"summary": "A factory reset shouldn't be your first instinct when your Vizio TV has issues, but it can sometimes be the only way to fix them. Thankfully, it's quite simple.",
+"source": "Engadget"
+},
+{
+"title": "The ergonomic chair that got a rare 5-star Creative Bloq review is 10% cheaper for Black Friday",
+"url": "https://www.creativebloq.com/deals/the-ergonomic-chair-that-got-a-rare-5-star-creative-bloq-review-is-10-percent-cheaper-for-black-friday",
+"published": "2026-11-08T14:00:00Z",
+"summary": "With its ergonomic features, it's the best chair deal I can find right now.",
+"source": "Creative Bloq"
+},
+{
+"title": "Can a hacker really do anything with your IP address?",
+"url": "https://www.engadget.com/2306218/can-hackers-do-anything-with-ip-address/",
+"published": "2026-11-08T13:45:00Z",
+"summary": "Your IP address won't give a hacker your passwords, yet it can point attackers to your home network. Here's what IPv6 changes and how to stay protected.",
+"source": "Engadget"
+},
+{
+"title": "Open-source GPU task manager reveals exactly what's eating your VRAM",
+"url": "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads",
+"published": "2026-11-08T13:40:00Z",
+"summary": "A new open-source GitHub project called gputaskman has been released by Microsoft VP Scott Hanselman.",
+"source": "Tom's Hardware"
+},
+{
+"title": "Streaming vs. downloading: Which uses more battery and data?",
+"url": "https://www.engadget.com/2306598/streaming-vs-downloading-battery-data-usage/",
+"published": "2026-11-08T13:30:00Z",
+"summary": "Does it make more sense to download in advance, or should you stream whenever possible? Video and sound quality have an impact on battery and data usage.",
+"source": "Engadget"
+},
+{
+"title": "Hundreds arrested after Microsoft data center protest turns violent",
+"url": "https://www.tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site",
+"published": "2026-11-08T13:20:00Z",
+"summary": "It's unclear which group entered the construction site first, but the action led to the arrest of 150 to 200 protesters.",
+"source": "Tom's Hardware"
+},
+{
+"title": "Avoid these common mistakes when buying a new monitor",
+"url": "https://www.engadget.com/2306213/avoid-common-mistakes-buying-new-monitor/",
+"published": "2026-11-08T13:15:00Z",
+"summary": "Many monitor buying mistakes come from ignoring viewing distance, port limits, and HDR claims. These tips help you pick a screen that fits your needs.",
+"source": "Engadget"
+},
+{
+"title": "There’s no slowing down media’s pivot-to-video 2.0",
+"url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+"published": "2026-11-08T13:00:00Z",
+"summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives…",
+"source": "The Verge"
+},
+{
+"title": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses",
+"url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers",
+"published": "2026-11-08T13:00:00Z",
+"summary": "The offices for New Matrix and Maginfra, both approved to receive H200 chips, appear abandoned, and people in the buildings say they're unfamiliar with the companies or have never seen anyone working…",
+"source": "Tom's Hardware"
+},
+{
+"title": "PC's with 64GB of RAM plummet 18% as memory prices soar",
+"url": "https://www.tomshardware.com/pc-components/ram/pcs-with-64gb-of-ram-plummet-18-percent-as-memory-prices-soar-cpu-z-install-base-data-shows-ddr4-making-a-surprise-comeback",
+"published": "2026-11-08T12:40:00Z",
+"summary": "CPU-Z data reveals PC memory capacity is dropping for the first time ever. Driven by skyrocketing AI DRAM prices, 64GB RAM adoption plummeted 18% YoY.",
+"source": "Tom's Hardware"
+},
+{
+"title": "Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone",
+"url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram",
+"published": "2026-11-08T12:20:00Z",
+"summary": "A Reddit homelab user ran Moonshot AI’s 2.8-trillion-parameter Kimi K3 CPU-only on Optane PMem 200 at 0.85 tokens/s with a 1-bit quant.",
+"source": "Tom's Hardware"
+},
+{
+"title": "Physicists listened to electrical noise to crack a superconductor mystery",
+"url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+"published": "2026-11-08T12:15:31Z",
+"summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+"source": "Ars Technica"
+},
 {
 "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
 "url": "https://www.wired.com/gallery/best-computer-speakers/",
@@ -66,7 +367,7 @@
 "source": "InfoQ"
 },
 {
-"title": "PC air duster motors power 21-inch DIY remote control plane at 130,000 RPM — $23 air duster power styrofoam A10 Warthog-style RC plane, hits the skies much faster than expected",
+"title": "PC air duster motors power 21-inch DIY remote control plane at 130,000 RPM",
 "url": "https://www.tomshardware.com/maker-stem/pc-air-duster-motors-power-21-inch-diy-remote-control-plane-at-130-000-rpm-usd23-air-duster-power-styrofoam-a10-warthog-style-rc-plane-hits-the-skies-much-faster-than-expected",
 "published": "2026-11-08T11:00:00Z",
 "summary": "A remote-control electronics and DIY hobbyist was surprised by a model airplane they built, powered by a pair of PC air duster engines.",
@@ -122,10 +423,10 @@
 "source": "Creative Bloq"
 },
 {
-"title": "These are the best laptops to buy right now, wether you're a professional or student",
+"title": "These are the best laptops to buy right now, whether you're a professional or student",
 "url": "https://www.creativebloq.com/buying-guides/these-are-the-best-laptops-to-buy-right-now-wether-youre-a-professional-or-student",
 "published": "2026-11-08T08:30:36Z",
-"summary": "From design work to watching movies, these are the best laptops for every kind of past time.",
+"summary": "From design work to watching movies, these are the best laptops for every kind of pasttime.",
 "source": "Creative Bloq"
 },
 {
@@ -157,81 +458,11 @@
 "source": "Engadget"
 },
 {
-"title": "Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program",
-"url": "https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up/",
-"published": "2026-11-08T01:00:00Z",
-"summary": "Samsung appears to be preparing the One UI 9.5 beta program ahead of an expected 2027 launch. Here's what to do if you want to test Samsung's latest OS.",
-"source": "Engadget"
-},
-{
-"title": "How do spam callers get your number in the first place?",
-"url": "https://www.engadget.com/2307324/spam-callers-how-they-get-your-number/",
-"published": "2026-11-08T00:45:00Z",
-"summary": "Ever wonder how a total stranger ended up with your phone number? The answer starts earlier than you think, and a few small habits can keep it from spreading.",
-"source": "Engadget"
-},
-{
-"title": "What does Apple One Family come with and which subscription is best for you?",
-"url": "https://www.engadget.com/2307150/apple-one-family-plan-what-comes-with-which-subscription-best/",
-"published": "2026-11-08T00:30:00Z",
-"summary": "Apple One offers strong value if you're using a lot of Apple services anyway, but make sure you do the math before signing up.",
-"source": "Engadget"
-},
-{
-"title": "10 useful iPad apps that could make your daily life easier",
-"url": "https://www.engadget.com/2309904/useful-ipad-apps-make-daily-life-easier/",
-"published": "2026-11-08T00:15:00Z",
-"summary": "Your iPad can do a lot with the right apps. Go beyond Apple's defaults and try these useful offerings that all have great free tiers.",
-"source": "Engadget"
-},
-{
-"title": "Why you shouldn't remove the screen protector film on your Nintendo Switch 2",
-"url": "https://www.engadget.com/2307095/why-keep-nintendo-switch-2-screen-protector/",
-"published": "2026-11-08T00:00:00Z",
-"summary": "The Switch 2 comes with a protective film on its screen, and you may be tempted to peel it off. Here's why you shouldn't.",
-"source": "Engadget"
-},
-{
-"title": "Why you should never put your PlayStation 5 on a carpeted floor",
-"url": "https://www.engadget.com/2306821/why-never-put-playstation-5-on-carpeted-floor/",
-"published": "2026-11-07T23:45:00Z",
-"summary": "The PlayStation 5 needs to stay cool when playing games, and a carpet is a literal hotbed. Here's the best ways to store a PS5 while keeping it cool.",
-"source": "Engadget"
-},
-{
-"title": "The pros and cons of using an Amazfit smartwatch",
-"url": "https://www.engadget.com/2306820/using-amazfit-smartwatch-pros-and-cons/",
-"published": "2026-11-07T23:30:00Z",
-"summary": "Thinking about an Amazfit smartwatch? Find out what makes these budget wearables so appealing and where they fall short before you spend your money.",
-"source": "Engadget"
-},
-{
-"title": "Claude Personal Finance vs. ChatGPT Finances: What sets them apart?",
-"url": "https://www.engadget.com/2310182/claude-vs-chatgpt-personal-finance-comparison/",
-"published": "2026-11-07T23:10:20Z",
-"summary": "Both AI tools offer to delve deep into your bank accounts, but they differ in privacy settings.",
-"source": "Engadget"
-},
-{
-"title": "What discs can a PlayStation 5 play?",
-"url": "https://www.engadget.com/2306942/playstation-5-playable-discs-explained/",
-"published": "2026-11-07T23:00:00Z",
-"summary": "The PS5 can't play every disc that the PS3 and PS4 were compatible with, but most of what you'll want to play and watch is supported.",
-"source": "Engadget"
-},
-{
-"title": "What does NAT type mean for online gaming?",
-"url": "https://www.engadget.com/2309599/what-nat-type-means-online-gaming/",
+"title": "Chromagraph Camera is exactly the camera app I’ve been looking for on iPhone",
+"url": "https://9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone/",
 "published": "2026-11-07T22:30:00Z",
-"summary": "If you regularly play online games, you may have noticed a setting called NAT type or even got an alert about it. Here's what it means and why it matters.",
-"source": "Engadget"
-},
-{
-"title": "The disadvantages of owning smart refrigerators",
-"url": "https://www.engadget.com/2309569/disadvantages-owning-smart-refrigerators/",
-"published": "2026-11-07T22:15:00Z",
-"summary": "A smart refrigerator can change how you manage your kitchen, but its features come with practical drawbacks worth checking before making a purchase.",
-"source": "Engadget"
+"summary": "Last week, movie director Rian Johnson announced a surprise new camera app for iPhone that reimagines what a smartphone photo should look like. Many people would agree that Apple’s iPhone photos are…",
+"source": "9to5Mac"
 },
 {
 "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -241,28 +472,7 @@
 "source": "TechCrunch"
 },
 {
-"title": "Is your router overheating? Here's how to keep it cool and working safely",
-"url": "https://www.engadget.com/2306359/how-to-keep-router-from-overheating/",
-"published": "2026-11-07T22:00:00Z",
-"summary": "You'll want your router to be well-ventilated for it to perform at its best.",
-"source": "Engadget"
-},
-{
-"title": "How often should you restart your Fitbit watch?",
-"url": "https://www.engadget.com/2309565/how-often-should-restart-fitbit-watch/",
-"published": "2026-11-07T21:45:00Z",
-"summary": "The old \"turn it off and turn it on again\" trick can come in handy for certain situations.",
-"source": "Engadget"
-},
-{
-"title": "The built-in iPhone app for creativity you may be ignoring (but shouldn't)",
-"url": "https://www.engadget.com/2309562/iphone-built-in-creativity-app-should-use-freeform/",
-"published": "2026-11-07T21:30:00Z",
-"summary": "Your iPhone has a built-in app for brainstorming and visual planning that can turn scattered screenshots, sketches and notes into something you can share.",
-"source": "Engadget"
-},
-{
-"title": "This RTX 5060 gaming PC costs less than the Steam Machine — grab the iBuyPower Slate prebuilt PC with massive $500 discount",
+"title": "This RTX 5060 gaming PC costs less than the Steam Machine",
 "url": "https://www.tomshardware.com/pc-components/this-rtx-5060-gaming-pc-costs-less-than-the-steam-machine-grab-the-ibuypower-slate-prebuilt-pc-with-massive-usd500-discount",
 "published": "2026-11-07T21:27:30Z",
 "summary": "Best Buy knocks $500 off the iBUYPOWER Slate, bringing this RTX 5060-powered gaming desktop down to $899 with a Ryzen 5 processor, 16GB of DDR5 memory, and a 1TB SSD",
@@ -276,27 +486,6 @@
 "source": "TechCrunch"
 },
 {
-"title": "Your EV's battery is big enough to run your house — here's what stops most people",
-"url": "https://www.engadget.com/2309559/ev-battery-can-power-house-what-stops-most-people/",
-"published": "2026-11-07T21:15:00Z",
-"summary": "Today's EV batteries could let you power specific appliances or your entire house. But a few factors line up to make that idea a non-starter for most folks.",
-"source": "Engadget"
-},
-{
-"title": "Your old iPod could be a sleeper flash drive",
-"url": "https://www.engadget.com/2306204/old-ipod-sleeper-flash-drive/",
-"published": "2026-11-07T21:00:00Z",
-"summary": "Old iPods still work fine as digital audio players, but you can reuse them in other ways if you're not interested in listening to music on the go.",
-"source": "Engadget"
-},
-{
-"title": "There is no end in sight for the GPU supply problem",
-"url": "https://www.engadget.com/2309554/gpu-supply-problem-no-end-in-sight/",
-"published": "2026-11-07T20:45:00Z",
-"summary": "GPU prices have soared as the supply of memory has tightened, and it doesn't look like this is going to change any time soon (though a few optimists disagree).",
-"source": "Engadget"
-},
-{
 "title": "Indie App Spotlight: ‘CueFlip’ automatically turns the page for your sheet music",
 "url": "https://9to5mac.com/2026/11/07/indie-app-spotlight-cueflip-automatically-turns-the-page-for-your-sheet-music/",
 "published": "2026-11-07T20:30:00Z",
@@ -304,25 +493,11 @@
 "source": "9to5Mac"
 },
 {
-"title": "How long should a PC processor actually last?",
-"url": "https://www.engadget.com/2309550/how-long-pc-processor-should-last/",
-"published": "2026-11-07T20:30:00Z",
-"summary": "Your computer's CPU is its most important part, and its most expensive one, too. So how long can you expect it to last if cared for properly?",
-"source": "Engadget"
-},
-{
 "title": "Otherwise you’re just a machine",
 "url": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5?source=rss----138adf9c44c---4",
 "published": "2026-11-07T20:15:42Z",
 "summary": "",
 "source": "UX Collective"
-},
-{
-"title": "Is AMD's Ryzen 7 5800X3D CPU still worth buying in 2026?",
-"url": "https://www.engadget.com/2309549/amd-cpu-ryzen-7-5800x3d-worth-buying-2026/",
-"published": "2026-11-07T20:15:00Z",
-"summary": "I've never regretted owning the 5800X3D, but before you spend $349 on a previous generation CPU, there are a few questions worth asking yourself.",
-"source": "Engadget"
 },
 {
 "title": "Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand",
@@ -458,15 +633,8 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "Good riddance, Cybertruck!",
-"url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
-"published": "2026-11-07T14:40:06Z",
-"summary": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab…",
-"source": "The Verge"
-},
-{
 "title": "Zigzag Browser",
-"url": "https://www.producthunt.com/products/zigzag-3",
+"url": "https://www.producthunt.com/products/zigzag-browser",
 "published": "2026-11-07T14:38:06Z",
 "summary": "The polished, native Mac browser for life after Arc Discussion | Link",
 "source": "Product Hunt"
@@ -507,13 +675,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Zelda is back and better than ever",
-"url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-"published": "2026-11-07T13:49:01Z",
-"summary": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and…",
-"source": "The Verge"
-},
-{
 "title": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot",
 "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidias-jensen-huang-officially-called-to-congress-due-to-reports-of-a-chinese-spy-plot-officials-mention-growing-concerns-over-national-security",
 "published": "2026-11-07T13:30:00Z",
@@ -542,24 +703,17 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "Why a new report on Anthropic automating AI development is alarming researchers",
-"url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+"title": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365",
+"url": "https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates",
 "published": "2026-11-07T12:30:00Z",
-"summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of…",
-"source": "The Verge"
+"summary": "A homelab enthusiast is retiring a Microsoft Exchange installation that began with Exchange 5.5 on Windows NT 4 in 1999. After migrating mailboxes to Microsoft 365, he kept Exchange 2019 running to…",
+"source": "Tom's Hardware"
 },
 {
 "title": "New Bluetooth High Data Throughput may finally satisfy audiophiles",
 "url": "https://www.tomshardware.com/peripherals/wearable-tech/new-bluetooth-high-data-throughput-may-finally-satisfy-audiophiles-bluetooth-hdt-offers-a-maximum-bandwidth-of-7-5mbps-allowing-true-lossless-transmission",
 "published": "2026-11-07T12:30:00Z",
 "summary": "Bluetooth HDT can offer a maximum bandwidth of 7.5 Mbps, allowing Bluetooth to be used with more sophisticated devices or big lossless audio files.",
-"source": "Tom's Hardware"
-},
-{
-"title": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365",
-"url": "https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates",
-"published": "2026-11-07T12:30:00Z",
-"summary": "A homelab enthusiast is retiring a Microsoft Exchange installation that began with Exchange 5.5 on Windows NT 4 in 1999. After migrating mailboxes to Microsoft 365, he kept Exchange 2019 running to…",
 "source": "Tom's Hardware"
 },
 {
@@ -626,17 +780,17 @@
 "source": "Wired"
 },
 {
-"title": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
-"url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
-"published": "2026-11-07T11:00:00Z",
-"summary": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
-"source": "Wired"
-},
-{
 "title": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
 "url": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
 "published": "2026-11-07T11:00:00Z",
 "summary": "Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.",
+"source": "Wired"
+},
+{
+"title": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
+"url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
+"published": "2026-11-07T11:00:00Z",
+"summary": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
 "source": "Wired"
 },
 {
@@ -752,6 +906,13 @@
 "source": "TechCrunch"
 },
 {
+"title": "Trace by Context.dev",
+"url": "https://www.producthunt.com/products/context-dev",
+"published": "2026-11-07T04:05:08Z",
+"summary": "Weekly web scraping API benchmark Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Apple Music Classical gets new black-and-white icon in latest update",
 "url": "https://9to5mac.com/2026/11/06/apple-music-classical-gets-new-black-and-white-icon-in-latest-update/",
 "published": "2026-11-07T02:11:48Z",
@@ -785,13 +946,6 @@
 "published": "2026-11-06T23:47:18Z",
 "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for…",
 "source": "9to5Mac"
-},
-{
-"title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-"url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-"published": "2026-11-06T23:46:18Z",
-"summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long…",
-"source": "The Verge"
 },
 {
 "title": "Apple TV renews ‘Knife Edge: Chasing Michelin Stars’ for season three",
@@ -1060,6 +1214,13 @@
 "source": "Ars Technica"
 },
 {
+"title": "Muse Realtime Avatar",
+"url": "https://www.producthunt.com/products/meta-ai",
+"published": "2026-11-06T18:21:58Z",
+"summary": "Turn voice chats with Muse into live video calls Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "You know the launch market is tough when satellite companies start building rockets",
 "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
 "published": "2026-11-06T18:20:47Z",
@@ -1158,13 +1319,6 @@
 "source": "Ars Technica"
 },
 {
-"title": "The Writer's Quarter",
-"url": "https://www.producthunt.com/products/the-writer-s-quarter",
-"published": "2026-11-06T16:06:36Z",
-"summary": "AI-Free Writing & Novel Planning Software Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Fox completes its $22B acquisition of Roku",
 "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
 "published": "2026-11-06T16:05:36Z",
@@ -1242,10 +1396,10 @@
 "source": "BleepingComputer"
 },
 {
-"title": "Rex (Beta)",
-"url": "https://www.producthunt.com/products/superlogical",
-"published": "2026-11-06T14:50:09Z",
-"summary": "Building the multiplexer for all work Discussion | Link",
+"title": "Sequence Tool",
+"url": "https://www.producthunt.com/products/sequence-tool",
+"published": "2026-11-06T14:55:13Z",
+"summary": "Edit with words: long recordings into polished stories Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -1312,13 +1466,6 @@
 "source": "Ars Technica"
 },
 {
-"title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-"url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-"published": "2026-11-06T14:10:00Z",
-"summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-"source": "TechCrunch"
-},
-{
 "title": "Blue Origin unveils more thrust, less haste as New Glenn slips to 2027",
 "url": "https://www.theregister.com/offbeat/2026/11/06/blue-origin-unveils-more-thrust-less-haste-as-new-glenn-slips-to-2027/5308138",
 "published": "2026-11-06T14:01:00Z",
@@ -1326,17 +1473,17 @@
 "source": "The Register"
 },
 {
-"title": "GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools — company targets 2030 for high-volume manufacturing, with planar transistors in tow",
-"url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
-"published": "2026-11-06T14:00:00Z",
-"summary": "GlobalFoundries reveals new details about its FDX Fusion technology, which promises 7nm-class performance and 8nm-class logic density using planar FD-SOI transistors without EUV lithography, shares…",
-"source": "Tom's Hardware"
-},
-{
 "title": "Elegoo M1 Ultra review: A good first entry into the scanner market",
 "url": "https://www.tomshardware.com/3d-printing/3d-scanning/elegoo-m1-ultra-review",
 "published": "2026-11-06T14:00:00Z",
 "summary": "Elegoo’s first scanner is a useful tool, but it requires a little extra work.",
+"source": "Tom's Hardware"
+},
+{
+"title": "GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools — company targets 2030 for high-volume manufacturing, with planar transistors in tow",
+"url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
+"published": "2026-11-06T14:00:00Z",
+"summary": "GlobalFoundries reveals new details about its FDX Fusion technology, which promises 7nm-class performance and 8nm-class logic density using planar FD-SOI transistors without EUV lithography, shares…",
 "source": "Tom's Hardware"
 },
 {
@@ -1396,39 +1543,11 @@
 "source": "MIT Technology Review"
 },
 {
-"title": "Underdog shows off a 32MB speech model in new demo",
-"url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-"published": "2026-11-06T13:02:16Z",
-"summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-"source": "TechCrunch"
-},
-{
-"title": "Physicl raises $10M to make the digital world real enough for robots",
-"url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-"published": "2026-11-06T13:00:00Z",
-"summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-"source": "TechCrunch"
-},
-{
-"title": "Save 26% on this 142-piece toolkit for your PC repairs and hobbyist projects, now under $28",
-"url": "https://www.tomshardware.com/desktops/pc-building/save-26-percent-on-this-142-piece-toolkit-for-your-pc-repairs-and-hobbyist-projects-now-under-usd28-precision-screwdriver-kit-includes-120-magnetic-bits-and-20-different-repair-tools-for-your-next-project",
-"published": "2026-11-06T13:00:00Z",
-"summary": "This 142-in-1 repair toolkit from Strebito has 120 bits and a number of other tools, and right now it's just $27.99, saving you 26% overall.",
-"source": "Tom's Hardware"
-},
-{
 "title": "Home Office cloud services contract may net AWS £1B",
 "url": "https://www.theregister.com/public-sector/2026/11/06/home-office-cloud-services-contract-may-net-aws-1b/5308106",
 "published": "2026-11-06T12:47:00Z",
 "summary": "Planning notice puts renewal at nearly twice the 2023 value, just as Whitehall frets about US tech dependence",
 "source": "The Register"
-},
-{
-"title": "Nvidia wants to repurpose over 130 old telco buildings as tiny data centers, report claims",
-"url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-wants-to-repurpose-over-130-old-telco-buildings-as-tiny-data-centers-report-claims-company-in-talks-with-brightspeed-after-pitching-idea-to-parent-company-apollo-global-management",
-"published": "2026-11-06T12:45:00Z",
-"summary": "Brightspeed has over 130 facilities located across the U.S., with Nvidia estimating that they could produce up to 1GW of compute capacity.",
-"source": "Tom's Hardware"
 },
 {
 "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
@@ -1443,13 +1562,6 @@
 "published": "2026-11-06T12:15:06Z",
 "summary": "Following yesterday’s report that Apple was preparing to raise approximately $7 billion through a bond offering, the company has now finalized terms with the SEC, confirming a slightly larger amount.…",
 "source": "9to5Mac"
-},
-{
-"title": "Rogue AI tasked with renumbering pages accidentally deletes law professor's entire syllabus, one year of lecture notes",
-"url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-"published": "2026-11-06T12:12:12Z",
-"summary": "A University of Chicago lecturer has revealed a rogue Claude AI agent deleted his entire syllabus and year's worth of lecture notes by mistake.",
-"source": "Tom's Hardware"
 },
 {
 "title": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
@@ -1473,39 +1585,11 @@
 "source": "InfoQ"
 },
 {
-"title": "Tesla unveils AI accelerator roadmap, adopts new 'SI' branding in 'Super Intelligence' push",
-"url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space",
-"published": "2026-11-06T12:00:00Z",
-"summary": "Tesla is ramping up its custom silicon ambitions with training-oriented Dojo D3 that can eventually go to orbital data centers and massive SI6 inference accelerator.",
-"source": "Tom's Hardware"
-},
-{
-"title": "Intel’s next-gen Nova Lake needs new motherboards — what we expect from Nova Point and Z990, Z970, and B960 chipsets",
-"url": "https://www.tomshardware.com/pc-components/chipsets/intels-next-gen-nova-lake-needs-new-motherboards-what-we-expect-from-nova-point-and-z990-z970-and-b960-chipsets",
-"published": "2026-11-06T12:00:00Z",
-"summary": "New Intel CPUs mean a new LGA 1954 socket and new motherboards. Here’s what we know about Nova Point’s Z990, Z970, and B960 chipsets, including more PCIe 5.0, Thunderbolt 5, faster base RAM speeds…",
-"source": "Tom's Hardware"
-},
-{
 "title": "e.l.f.’s stop-motion Christmas ad is a win for human creativity",
 "url": "https://www.creativebloq.com/features/e-l-f-s-stop-motion-christmas-ad-is-a-win-for-human-creativity",
 "published": "2026-11-06T12:00:00Z",
 "summary": "Apartment D Films’ Cami Kwan discusses the intricate process behind the handcrafted film.",
 "source": "Creative Bloq"
-},
-{
-"title": "Tesla will stop making the Cybertruck in 2027",
-"url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-"published": "2026-11-06T11:50:10Z",
-"summary": "The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more Cybercabs.",
-"source": "TechCrunch"
-},
-{
-"title": "Score a huge $600 saving on this RTX 5070 Ti gaming laptop from HP, now under $2,100",
-"url": "https://www.tomshardware.com/laptops/gaming-laptops/score-a-huge-usd600-saving-on-this-rtx-5070-ti-gaming-laptop-from-hp-now-under-usd2-100-hyperx-omen-max-16-machine-is-fully-customizable-base-model-ships-with-16gb-ddr5-and-a-512gb-ssd",
-"published": "2026-11-06T11:44:37Z",
-"summary": "Save $600 on this customizable RTX 5070 Ti HP Omen Max 16 gaming laptop with 16GB DDR5, 512GB SSD, and a 16-inch display.",
-"source": "Tom's Hardware"
 },
 {
 "title": "Bank of England pours cold water on AI productivity boom",
@@ -1548,20 +1632,6 @@
 "published": "2026-11-06T11:00:00Z",
 "summary": "Vanessa Formicola shares how technical leaders can move beyond \"wishful architecture\" by practicing holistic socio-technical engineering. She discusses why engineering leaders must account for…",
 "source": "InfoQ"
-},
-{
-"title": "Gelsinger-backed Nagare Labs’ Z2RAM promises SRAM speed at DRAM density",
-"url": "https://www.tomshardware.com/tech-industry/semiconductors/gelsinger-backed-nagare-labs-capacitorless-z2ram-promises-sram-speed-with-dram-density-latest-published-cell-retains-data-for-over-300-seconds-at-85-c-but-further-figures-are-projected",
-"published": "2026-11-06T11:00:00Z",
-"summary": "Georgia Tech spinout Nagare Labs, backed by Playground Global, unveils Z2RAM, a capacitorless memory to stack on AI accelerators.",
-"source": "Tom's Hardware"
-},
-{
-"title": "Nintendo’s latest Zelda remake already circulating online as a Switch 2 ROM",
-"url": "https://www.tomshardware.com/video-games/nintendo/nintendos-latest-zelda-remake-already-circulating-online-as-a-switch-2-rom-openai-assisted-software-jailbreak-new-game-dumper-let-pirates-share-game-for-free-immediately-following-release",
-"published": "2026-11-06T11:00:00Z",
-"summary": "The Legend of Zelda: Ocarina of Time has reportedly been dumped on its Switch 2 launch day, with its original release and a 23GB update already circulating online.",
-"source": "Tom's Hardware"
 },
 {
 "title": "\"More than an absence of colour\": 4 artists reveal the keys to working in black and white",
@@ -1760,20 +1830,6 @@
 "source": "9to5Mac"
 },
 {
-"title": "Apple explains how to turn off the new MacBook Pro’s glowing logo",
-"url": "https://9to5mac.com/2026/11/05/apple-explains-how-to-turn-off-the-new-macbook-pros-glowing-logo/",
-"published": "2026-11-06T01:48:42Z",
-"summary": "While the illuminated Apple logo on the new MacBook Pro drew one of the biggest cheers during last week’s announcement, Apple knows that not everyone will want to keep it on. Here’s the company’s…",
-"source": "9to5Mac"
-},
-{
-"title": "WhatsApp’s AI-powered photo expansion tool starts rolling out on iOS",
-"url": "https://9to5mac.com/2026/11/05/whatsapps-ai-powered-photo-expansion-tool-starts-rolling-out-on-ios/",
-"published": "2026-11-06T01:24:45Z",
-"summary": "Select WhatsApp users on TestFlight and in the main app are now seeing the option to expand an image in the app’s photo editor. Here are the details. more…",
-"source": "9to5Mac"
-},
-{
 "title": "Threat actor targets Indian fintechs on weekends when defenders aren’t watching",
 "url": "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
 "published": "2026-11-06T01:17:40Z",
@@ -1788,13 +1844,6 @@
 "source": "BleepingComputer"
 },
 {
-"title": "Report: iPad shipments drop 27.5% as global tablet market plunges in Q3",
-"url": "https://9to5mac.com/2026/11/05/report-ipad-shipments-drop-27-5-as-global-tablet-market-plunges-in-q3/",
-"published": "2026-11-06T00:56:11Z",
-"summary": "Despite global iPad shipments dropping 27.5% year-over-year in the third calendar quarter, Apple maintained its lead in the tablet market, according to a new report released today. Here are the…",
-"source": "9to5Mac"
-},
-{
 "title": "Instagram Edits for Desktop",
 "url": "https://www.producthunt.com/products/instagram",
 "published": "2026-11-06T00:46:05Z",
@@ -1807,13 +1856,6 @@
 "published": "2026-11-06T00:19:07Z",
 "summary": "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports…",
 "source": "GitHub Changelog"
-},
-{
-"title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-"url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
-"published": "2026-11-06T00:17:06Z",
-"summary": "\"This is going to be a game-changer.\"",
-"source": "Ars Technica"
 },
 {
 "title": "Usage metrics API flags telemetry and version gaps",
@@ -1844,13 +1886,6 @@
 "source": "BleepingComputer"
 },
 {
-"title": "Grab a Nintendo Switch 2 controller upgrade from $49, just in time for Zelda: Ocarina of Time's remaster",
-"url": "https://www.tomshardware.com/video-games/handheld-gaming/grab-a-nintendo-switch-2-controller-upgrade-from-usd49-just-in-time-for-zelda-ocarina-of-times-remaster-secure-the-tools-to-defeat-ganondorf-with-these-top-wireless-gamepads-from-8bitdo-gamesir-and-others",
-"published": "2026-11-05T21:00:00Z",
-"summary": "A selection of the best Switch 2 controllers for getting your best Zelda game on.",
-"source": "Tom's Hardware"
-},
-{
 "title": "The White House is apparently a popular residential proxy exit spot",
 "url": "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969",
 "published": "2026-11-05T20:50:57Z",
@@ -1865,13 +1900,6 @@
 "source": "GitHub Blog"
 },
 {
-"title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-"url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-"published": "2026-11-05T20:15:08Z",
-"summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
-"source": "BleepingComputer"
-},
-{
 "title": "Get root on a musl Linux system by slamming it with an overly long password",
 "url": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910",
 "published": "2026-11-05T18:29:00Z",
@@ -1879,25 +1907,11 @@
 "source": "The Register"
 },
 {
-"title": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password",
-"url": "https://www.tomshardware.com/tech-industry/cyber-security/combined-flaws-let-anyone-into-alpine-linux-and-other-distros-by-typing-anything-over-256-characters-as-a-password-emergency-fixes-for-openssh-and-musl-libc-issued-for-millions-of-systems-patch-immediately",
-"published": "2026-11-05T18:14:56Z",
-"summary": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password",
-"source": "Tom's Hardware"
-},
-{
 "title": "October crypto-tracker hack: Access cracked, law enforcement tokens packed",
 "url": "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852",
 "published": "2026-11-05T18:03:00Z",
 "summary": "Agentic 'on-path attack' went after Chainalysis's tools, which are routinely called upon to assist police investigations",
 "source": "The Register"
-},
-{
-"title": "India targets creating homegrown GPUs within 2 years and plans to commercialize indigenous SHAKTI and VEGA processors",
-"url": "https://www.tomshardware.com/tech-industry/semiconductors/india-targets-creating-homegrown-gpus-within-2-years-and-plans-to-commercialize-indigenous-shakti-and-vega-risc-v-processors-sees-ai-boom-as-a-potential-repeat-of-the-y2k-opportunity-for-its-it-industry",
-"published": "2026-11-05T18:00:00Z",
-"summary": "MeitY Secretary S. Krishnan says India plans to develop its own GPU under Semiconductor Mission 2.0, with a target of approximately two years. The country is also looking to commercialize its SHAKTI…",
-"source": "Tom's Hardware"
 },
 {
 "title": "Some of the best-rated markers for art are reduced by up to 26% for Black Friday",
@@ -1914,10 +1928,10 @@
 "source": "The Register"
 },
 {
-"title": "ChatGPT Images 2.6",
+"title": "GPT‑6 Cyber",
 "url": "https://www.producthunt.com/products/openai",
-"published": "2026-11-05T16:20:03Z",
-"summary": "Create, edit, and animate images with AI Discussion | Link",
+"published": "2026-11-05T17:12:40Z",
+"summary": "OpenAI’s cyber model, with vetted access for defenders Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -1940,13 +1954,6 @@
 "published": "2026-11-05T15:48:50Z",
 "summary": "This update expands secret scanning’s detection coverage: New partner: SpaceX is now a secret scanning partner. New detector: GitHub now detects starlink_public_api_v2_secret. Upgraded detectors…",
 "source": "GitHub Changelog"
-},
-{
-"title": "Dior's Christmas ad is the opposite to Prada's classy animation",
-"url": "https://www.creativebloq.com/news/diors-christmas-ad-is-the-opposite-to-pradas-classy-animation",
-"published": "2026-11-05T15:00:00Z",
-"summary": "An all star cast and leading director aren’t enough to distract eagle eyed critics.",
-"source": "Creative Bloq"
 },
 {
 "title": "Taming Typography: Building a Modern CSS Reset",
@@ -2100,34 +2107,6 @@
 "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
 "published": "2026-11-04T18:21:40Z",
 "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor…",
-"source": "MIT Technology Review"
-},
-{
-"title": "What’s next for US energy policy after the midterm elections?",
-"url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-"published": "2026-11-04T17:08:00Z",
-"summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of…",
-"source": "MIT Technology Review"
-},
-{
-"title": "Smashing AI Conference",
-"url": "https://css-tricks.com/smashing-ai-conference/",
-"published": "2026-11-04T15:02:51Z",
-"summary": "The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right. Smashing AI Conference originally…",
-"source": "CSS-Tricks"
-},
-{
-"title": "The Download: blended meat, restored sight, and the agentic web",
-"url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-"published": "2026-11-04T13:10:00Z",
-"summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for…",
-"source": "MIT Technology Review"
-},
-{
-"title": "Securing the agentic enterprise with data lineage",
-"url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-"published": "2026-11-04T13:00:00Z",
-"summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output…",
 "source": "MIT Technology Review"
 }
 ]
