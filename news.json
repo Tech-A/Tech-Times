@@ -1,7 +1,63 @@
 {
-"updated": "2026-11-09T01:51:07.970240Z",
-"count": 296,
+"updated": "2026-11-09T09:25:44.956922Z",
+"count": 300,
 "items": [
+{
+"title": "10 must-try techniques for creating environment art that drives visual storytelling",
+"url": "https://www.creativebloq.com/how-to/10-key-techniques-for-creating-environment-art-that-drives-visual-storytelling",
+"published": "2026-11-09T09:00:00Z",
+"summary": "An effective environment is about much more than spectacular landscape.",
+"source": "Creative Bloq"
+},
+{
+"title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+"url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+"published": "2026-11-09T08:00:00Z",
+"summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
+"source": "Wired"
+},
+{
+"title": "An anti-AI indie game about keeping hand-drawn fish has become a surprise viral hit",
+"url": "https://www.creativebloq.com/news/an-anti-ai-indie-game-about-keeping-hand-drawn-fish-has-become-a-surprise-viral-hit",
+"published": "2026-11-09T08:00:00Z",
+"summary": "And it's all thanks to its emotive trailer.",
+"source": "Creative Bloq"
+},
+{
+"title": "Dev error bricked 600 PCs, caused $1M CD-ROM write-off",
+"url": "https://www.theregister.com/software/2026/11/09/dev-error-bricked-600-pcs-caused-1m-cd-rom-write-off/5308039",
+"published": "2026-11-09T07:36:00Z",
+"summary": "One lucky engineer scored a free dinner during the frantic fix, the rest got to explain their mistake",
+"source": "The Register"
+},
+{
+"title": "Pinterest Replaces Journey Clustering with 4B Qwen3 LLM, Reports Improved Engagement",
+"url": "https://www.infoq.com/news/2026/11/pinterest-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-09T07:25:00Z",
+"summary": "Pinterest has moved its user-journey inference system from a multi-stage clustering pipeline to a fine-tuned 4-billion-parameter language model, reporting a 1.1% improvement in email click-through…",
+"source": "InfoQ"
+},
+{
+"title": "Welcome to Weed Island",
+"url": "https://www.wired.com/story/welcome-to-weed-island-jersey/",
+"published": "2026-11-09T07:00:00Z",
+"summary": "How the tiny, self-governing British island of Jersey unintentionally became Europe’s front line in the multibillion-dollar global cannabis industry.",
+"source": "Wired"
+},
+{
+"title": "Tokio Releases Topcoat: A Batteries-Included Full-Stack Rust Framework",
+"url": "https://www.infoq.com/news/2026/11/topcoat-rust-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-09T06:42:00Z",
+"summary": "Topcoat is an open-source, server-rendered full-stack web framework for Rust from the Tokio team, now public at version 0.9. It uses Rust expressions translated to JavaScript for reactivity instead…",
+"source": "InfoQ"
+},
+{
+"title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+"url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+"published": "2026-11-09T05:26:29Z",
+"summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+"source": "TechCrunch"
+},
 {
 "title": "Vote in Readymag Websites of the Year 2026",
 "url": "https://bit.ly/side-mag5",
@@ -38,6 +94,27 @@
 "source": "Sidebar"
 },
 {
+"title": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
+"url": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
+"published": "2026-11-09T04:53:08Z",
+"summary": "Fixes are arriving faster than new bug reports for one major Linux project",
+"source": "The Register"
+},
+{
+"title": "GitHub New PR Overview",
+"url": "https://www.producthunt.com/products/github",
+"published": "2026-11-09T03:34:44Z",
+"summary": "See what's blocking a PR before you scroll Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "Huawei says it’s made a 100 percent Chinese PC",
+"url": "https://www.theregister.com/systems/2026/11/09/huawei-says-its-made-a-100-percent-chinese-pc/5308335",
+"published": "2026-11-09T02:14:17Z",
+"summary": "PLUS: Japan declares infosec emergency; Apple’s makes biggest school Mac sale, ever, anywhere, in the Philippines; And more!",
+"source": "The Register"
+},
+{
 "title": "How to use your laptop as a second monitor",
 "url": "https://www.engadget.com/2309277/how-to-use-laptop-second-desktop-monitor/",
 "published": "2026-11-09T01:30:00Z",
@@ -71,6 +148,13 @@
 "published": "2026-11-09T00:15:00Z",
 "summary": "Tim Cook led Apple for 15 years, during which time the company's offerings expanded and went through all kinds of changes.",
 "source": "Engadget"
+},
+{
+"title": "Nvidia CEO Jensen Huang starring in possible remake of The Spy Who Shagged Me",
+"url": "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-starring-in-possible-remake-of-the-spy-who-shagged-me/5308327",
+"published": "2026-11-09T00:04:47Z",
+"summary": "Admits to affair after company board opens probe into alleged contact with possible Chinese asset who bought GPUs in bulk",
+"source": "The Register"
 },
 {
 "title": "Those white cameras mounted above traffic lights serve a little-known purpose",
@@ -234,11 +318,25 @@
 "source": "The Verge"
 },
 {
+"title": "Nörth",
+"url": "https://www.producthunt.com/products/north-5",
+"published": "2026-11-08T20:16:37Z",
+"summary": "Natural, peer-to-peer collaboration for remote work Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Don't throw away your old flip phone – do this instead",
 "url": "https://www.engadget.com/2309609/dont-throw-away-old-flip-phone-do-this-instead-recycle-donate-repurpose/",
 "published": "2026-11-08T20:15:00Z",
 "summary": "With smartphones serving all purposes, an old flip phone, especially a SIM-less one, may feel useless. However, this couldn't be further from the truth.",
 "source": "Engadget"
+},
+{
+"title": "Cue",
+"url": "https://www.producthunt.com/products/cue-voice-keyboard",
+"published": "2026-11-08T20:08:44Z",
+"summary": "AI meeting notes, prep Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how",
@@ -386,6 +484,13 @@
 "published": "2026-11-08T13:40:00Z",
 "summary": "A new open-source GitHub project called gputaskman has been released by Microsoft VP Scott Hanselman.",
 "source": "Tom's Hardware"
+},
+{
+"title": "ClipsPal",
+"url": "https://www.producthunt.com/products/clipspal",
+"published": "2026-11-08T13:34:07Z",
+"summary": "AI video editor that edits your talking-head videos Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Hundreds arrested after Microsoft data center protest turns violent",
@@ -626,18 +731,18 @@
 "source": "TechCrunch"
 },
 {
+"title": "Higgsfield Miracle",
+"url": "https://www.producthunt.com/products/higgsfield",
+"published": "2026-11-07T18:28:56Z",
+"summary": "Edit any part of a video without changing the rest Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Hands-on: I tested a bunch of iPhone Duo cases, these are my favorites [Video]",
 "url": "https://9to5mac.com/2026/11/07/hands-on-i-tested-a-bunch-of-iphone-duo-cases-these-are-my-favorites-video/",
 "published": "2026-11-07T18:02:09Z",
 "summary": "For the first time in a long time, I can say that iPhone cases are fun again! The introduction of the iPhone Duo has brought us a new era of cases in all shapes, sizes, functions, and form factors.…",
 "source": "9to5Mac"
-},
-{
-"title": "Agent Clan",
-"url": "https://www.producthunt.com/products/agent-clan",
-"published": "2026-11-07T17:52:26Z",
-"summary": "Command your Claude Code and Codex agents with gestures Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "iPhone Air 2 is coming next year, here’s why it has more to prove than ever",
@@ -675,10 +780,10 @@
 "source": "9to5Mac"
 },
 {
-"title": "NotchX",
-"url": "https://www.producthunt.com/products/notch-11",
-"published": "2026-11-07T16:04:59Z",
-"summary": "Turn your MacBook's notch into a hub for music and calls Discussion | Link",
+"title": "Egoist AI Passport",
+"url": "https://www.producthunt.com/products/egoist-ai-passport",
+"published": "2026-11-07T16:27:33Z",
+"summary": "Secure and share your personal data with AI tools. Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -710,18 +815,18 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "Zigzag Browser",
-"url": "https://www.producthunt.com/products/zigzag-browser",
-"published": "2026-11-07T14:38:06Z",
-"summary": "The polished, native Mac browser for life after Arc Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live",
 "url": "https://www.tomshardware.com/3d-printing/grab-a-new-elegoo-3d-printer-from-as-little-as-usd159-right-now-thanks-to-black-friday-sale-now-live-early-discounts-mean-you-can-score-up-to-54-percent-off-filament-and-resin-machines-perfect-for-pro-hobbyists-and-beginners",
 "published": "2026-11-07T14:30:00Z",
 "summary": "Elegoo's November sale has begun, and you can score savings of up to 54% on a new printer for the entire month, as long as the stock lasts.",
 "source": "Tom's Hardware"
+},
+{
+"title": "skuttr",
+"url": "https://www.producthunt.com/products/skuttr",
+"published": "2026-11-07T14:14:39Z",
+"summary": "Type one sentence, get a Reel from your camera roll Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
@@ -899,7 +1004,7 @@
 "source": "The Register"
 },
 {
-"title": "The 19 Best Early Black Friday Deals 2026",
+"title": "The 18 Best Early Black Friday Deals 2026",
 "url": "https://www.wired.com/story/best-black-friday-deals-11-7-2026/",
 "published": "2026-11-07T10:16:00Z",
 "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can already get right now.",
@@ -1109,6 +1214,13 @@
 "source": "9to5Mac"
 },
 {
+"title": "Product Hunt MCP",
+"url": "https://www.producthunt.com/products/producthunt",
+"published": "2026-11-06T21:39:54Z",
+"summary": "The community you trust in the assistant you use Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Agents reveal secrets when offered to team up with each other",
 "url": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260",
 "published": "2026-11-06T21:39:23Z",
@@ -1249,13 +1361,6 @@
 "source": "BleepingComputer"
 },
 {
-"title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-"url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-"published": "2026-11-06T18:44:38Z",
-"summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-"source": "TechCrunch"
-},
-{
 "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
 "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
 "published": "2026-11-06T18:43:43Z",
@@ -1275,13 +1380,6 @@
 "published": "2026-11-06T18:30:19Z",
 "summary": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
 "source": "Ars Technica"
-},
-{
-"title": "Muse Realtime Avatar",
-"url": "https://www.producthunt.com/products/meta-ai",
-"published": "2026-11-06T18:21:58Z",
-"summary": "Turn voice chats with Muse into live video calls Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "You know the launch market is tough when satellite companies start building rockets",
@@ -1347,6 +1445,13 @@
 "source": "Creative Bloq"
 },
 {
+"title": "If You Read This",
+"url": "https://www.producthunt.com/products/if-you-read-this",
+"published": "2026-11-06T16:47:29Z",
+"summary": "A daily check-in app that works like a dead man's switch Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "RIP to the world’s ugliest car",
 "url": "https://www.theregister.com/offbeat/2026/11/06/rip-to-the-worlds-ugliest-car/5308198",
 "published": "2026-11-06T16:31:44Z",
@@ -1410,6 +1515,13 @@
 "source": "9to5Mac"
 },
 {
+"title": "Arcjet AI security models",
+"url": "https://www.producthunt.com/products/arcjet",
+"published": "2026-11-06T15:23:25Z",
+"summary": "A family of custom-trained security models for coding agents Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "DoJ's 'Super Intelligence Task Force' up and running",
 "url": "https://www.theregister.com/ai-and-ml/2026/11/06/dojs-super-intelligence-task-force-up-and-running/5308074",
 "published": "2026-11-06T15:15:00Z",
@@ -1471,13 +1583,6 @@
 "published": "2026-11-06T14:20:59Z",
 "summary": "The decision to halt production of Tesla’s polarizing polygonal pickup marks the end of an error.",
 "source": "Wired"
-},
-{
-"title": "Inkling 2 Small",
-"url": "https://www.producthunt.com/products/tinker-2",
-"published": "2026-11-06T14:18:59Z",
-"summary": "A model that can see and refine what it builds Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Chainalysis says breach exposed credentials for all customers",
@@ -1550,6 +1655,13 @@
 "source": "The Register"
 },
 {
+"title": "MCP1",
+"url": "https://www.producthunt.com/products/appwrite",
+"published": "2026-11-06T13:13:56Z",
+"summary": "One URL for every MCP server. Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Twelve South’s new Cablesnap charger has a built-in retractable USB-C cable",
 "url": "https://9to5mac.com/2026/11/06/twelve-south-retractable-usb-c-charger/",
 "published": "2026-11-06T13:10:14Z",
@@ -1620,25 +1732,11 @@
 "source": "The Register"
 },
 {
-"title": "Kitchen Composters I Recommend After 2 Years of Testing (2026)",
-"url": "https://www.wired.com/story/home-composters-buying-guide/",
-"published": "2026-11-06T11:30:00Z",
-"summary": "After enduring years of smells, strange noises, and waste “tea,” I’ve found the composters and food recyclers I’d actually recommend.",
-"source": "Wired"
-},
-{
 "title": "TypeScript 7.1 Beta: Restores the Compiler API and Makes Vue and Svelte First-Class",
 "url": "https://www.infoq.com/news/2026/11/typescript-7-1-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
 "published": "2026-11-06T11:06:00Z",
 "summary": "TypeScript 7.1 Beta, announced October 20, 2026, restores the compiler API removed in 7.0, now split into separate entry points. It adds content mappers, letting tools like Vue check non-standard…",
 "source": "InfoQ"
-},
-{
-"title": "10 Best Subscription Boxes for Kids (2026): STEM, Books, Clothes, Snacks, and More",
-"url": "https://www.wired.com/gallery/best-subscription-boxes-for-kids/",
-"published": "2026-11-06T11:00:00Z",
-"summary": "These monthly deliveries get kids reading, coding, and cooking while encouraging them to learn about science and the world.",
-"source": "Wired"
 },
 {
 "title": "UK ministers seek powers to investigate when AI agents are let off the leash",
@@ -1660,13 +1758,6 @@
 "published": "2026-11-06T11:00:00Z",
 "summary": "The creative possibilities are endless if you know how to approach it.",
 "source": "Creative Bloq"
-},
-{
-"title": "Capnot",
-"url": "https://www.producthunt.com/products/capnot",
-"published": "2026-11-06T10:25:37Z",
-"summary": "Make Screen Demos Clear, Even on Mute Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -1725,18 +1816,18 @@
 "source": "InfoQ"
 },
 {
-"title": "GitHub Actions Lockfiles Reach GA to Secure Workflow Dependencies",
-"url": "https://www.infoq.com/news/2026/11/github-actions-lockfiles-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-"published": "2026-11-06T09:00:00Z",
-"summary": "GitHub has made workflow dependency lockfiles for GitHub Actions generally available on October 28, 2026, two weeks after the feature entered public preview. Workflows can maintain clear tag and…",
-"source": "InfoQ"
-},
-{
 "title": "Finally, a CD player that doesn’t look like a plastic Y2K nightmare",
 "url": "https://www.creativebloq.com/deals/finally-a-cd-player-that-doesnt-look-like-a-plastic-y2k-nightmare",
 "published": "2026-11-06T09:00:00Z",
 "summary": "Get 15% off the ultimate IT GIRL home accessory.",
 "source": "Creative Bloq"
+},
+{
+"title": "Flic Cue",
+"url": "https://www.producthunt.com/products/flic-cue",
+"published": "2026-11-06T08:39:34Z",
+"summary": "The AI Voice Button: hold to talk, shake to undo, open SDKs Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "A New Community For In-House UX People",
@@ -1772,20 +1863,6 @@
 "published": "2026-11-06T06:31:00Z",
 "summary": "Support chap told to either allow blatant policy violations or find a new job",
 "source": "The Register"
-},
-{
-"title": "Edera's Object Capability Bounded Authority Promises to Isolate Credentials from AI Agent Workloads",
-"url": "https://www.infoq.com/news/2026/11/ai-credentials-isolation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-"published": "2026-11-06T06:06:00Z",
-"summary": "Edera announced Object Capability Bounded Authority, a security model that separates an AI agent's or MCP server's required authority from the credentials behind it. Hypervisor-enforced capabilities…",
-"source": "InfoQ"
-},
-{
-"title": "Frameboy by World Labs",
-"url": "https://www.producthunt.com/products/marble-by-world-labs",
-"published": "2026-11-06T05:06:31Z",
-"summary": "Interactive world exploration with Atlas Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "AI agents are a 'bane' for some website operators, says Cloudflare",
@@ -1858,13 +1935,6 @@
 "source": "BleepingComputer"
 },
 {
-"title": "Instagram Edits for Desktop",
-"url": "https://www.producthunt.com/products/instagram",
-"published": "2026-11-06T00:46:05Z",
-"summary": "Instagram's free desktop video editor with AI agents Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Usage metrics API adds code review details and addressed rate",
 "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
 "published": "2026-11-06T00:19:07Z",
@@ -1900,13 +1970,6 @@
 "source": "BleepingComputer"
 },
 {
-"title": "The White House is apparently a popular residential proxy exit spot",
-"url": "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969",
-"published": "2026-11-05T20:50:57Z",
-"summary": "How it got there is another matter entirely",
-"source": "The Register"
-},
-{
 "title": "Inside GitHub’s new Git storage architecture",
 "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
 "published": "2026-11-05T20:23:21Z",
@@ -1914,45 +1977,31 @@
 "source": "GitHub Blog"
 },
 {
-"title": "Get root on a musl Linux system by slamming it with an overly long password",
-"url": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910",
-"published": "2026-11-05T18:29:00Z",
-"summary": "Decade-old vulnerability in OpenSSH is now fixed, so get a-patchin'",
-"source": "The Register"
-},
-{
-"title": "October crypto-tracker hack: Access cracked, law enforcement tokens packed",
-"url": "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852",
-"published": "2026-11-05T18:03:00Z",
-"summary": "Agentic 'on-path attack' went after Chainalysis's tools, which are routinely called upon to assist police investigations",
-"source": "The Register"
-},
-{
-"title": "Some of the best-rated markers for art are reduced by up to 26% for Black Friday",
-"url": "https://www.creativebloq.com/deals/some-of-the-best-rated-markers-for-art-are-reduced-by-up-to-26-percent-for-black-friday",
-"published": "2026-11-05T18:00:00Z",
-"summary": "Ohuhu's sets are a Creative Bloq favourite, suitable for both kids and pro artists.",
-"source": "Creative Bloq"
-},
-{
-"title": "openSUSE Leap 16.1 gives Linux users the right to remain immutable",
-"url": "https://www.theregister.com/os-platforms/2026/11/05/opensuse-leap-161-gives-linux-users-the-right-to-remain-immutable/5307874",
-"published": "2026-11-05T17:30:00Z",
-"summary": "One installer now offers conventional and read-only systems as separate Micro distro bows out",
-"source": "The Register"
-},
-{
-"title": "GPT‑6 Cyber",
-"url": "https://www.producthunt.com/products/openai",
-"published": "2026-11-05T17:12:40Z",
-"summary": "OpenAI’s cyber model, with vetted access for defenders Discussion | Link",
+"title": "Terse - Durable Actors",
+"url": "https://www.producthunt.com/products/terse-durable-actors",
+"published": "2026-11-05T20:09:55Z",
+"summary": "Infrastructure for Multiplayer AI Products Discussion | Link",
 "source": "Product Hunt"
 },
 {
-"title": "Google Omni 1.2 Flash",
-"url": "https://www.producthunt.com/products/google-omni-1-2-flash",
-"published": "2026-11-05T17:10:35Z",
-"summary": "Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second Discussion | Link",
+"title": "KIKUmap",
+"url": "https://www.producthunt.com/products/kikumap",
+"published": "2026-11-05T19:49:12Z",
+"summary": "A mind map for your Claude and ChatGPT chats Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "Calmly Script",
+"url": "https://www.producthunt.com/products/calmly-script",
+"published": "2026-11-05T18:39:57Z",
+"summary": "Beautiful screenwriting software. Pay once, no sign-up Discussion | Link",
+"source": "Product Hunt"
+},
+{
+"title": "Sign Language by Panda Video",
+"url": "https://www.producthunt.com/products/panda-video",
+"published": "2026-11-05T18:00:46Z",
+"summary": "Add a sign language interpreter to videos already online Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -1963,11 +2012,11 @@
 "source": "GitHub Blog"
 },
 {
-"title": "“If we loved him, we had a movie”: the directors who had to make the Cat in the Hat likeable",
-"url": "https://www.creativebloq.com/news/the-cat-in-the-hat-2026-warner-bros-animation-3d-look",
-"published": "2026-11-05T16:00:00Z",
-"summary": "Alessandro Carloni and Erica Rivinoja on reinventing a book everyone thinks they know, and the one problem that could have sunk the whole film.",
-"source": "Creative Bloq"
+"title": "Cardboard AI",
+"url": "https://www.producthunt.com/products/cardboard-3",
+"published": "2026-11-05T15:56:52Z",
+"summary": "Best way to edit videos with AI Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Secret scanning upgrades detectors, adds SpaceX as partner",
@@ -2052,27 +2101,6 @@
 "published": "2026-11-05T09:43:56Z",
 "summary": "Being intentional about ways that you access digital technology, making each use a conscious choice.",
 "source": "Sidebar"
-},
-{
-"title": "New pull request overview page in public preview",
-"url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
-"published": "2026-11-05T08:00:00Z",
-"summary": "On a long pull request, checking what’s blocking often means scrolling past dozens of comments and timeline events just to reach the merge box. And once you’re there, you still… The post New pull…",
-"source": "GitHub Changelog"
-},
-{
-"title": "DocsAlot for customer support",
-"url": "https://www.producthunt.com/products/docsalot-2",
-"published": "2026-11-05T05:41:21Z",
-"summary": "Slack and Discord bot that answers your customers questions Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Keypause",
-"url": "https://www.producthunt.com/products/keypause",
-"published": "2026-11-05T04:38:36Z",
-"summary": "Turn off your Mac's keyboard while you clean it Discussion | Link",
-"source": "Product Hunt"
 }
 ]
 }
