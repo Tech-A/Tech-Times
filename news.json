@@ -1,7 +1,126 @@
 {
-"updated": "2026-11-08T22:21:58.339239Z",
-"count": 295,
+"updated": "2026-11-09T01:51:07.970240Z",
+"count": 296,
 "items": [
+{
+"title": "Vote in Readymag Websites of the Year 2026",
+"url": "https://bit.ly/side-mag5",
+"published": "2026-11-09T05:05:00Z",
+"summary": "The award spotlights inventive projects made with Readymag, a design tool for creating outstanding websites. Explore the shortlist and vote.",
+"source": "Sidebar"
+},
+{
+"title": "Otherwise you’re just a machine",
+"url": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5",
+"published": "2026-11-09T05:04:00Z",
+"summary": "AI is getting better at design. Designers should too.",
+"source": "Sidebar"
+},
+{
+"title": "What does design system AI readiness mean, anyway?",
+"url": "https://seanvoisen.com/writing/design-system-ai-readiness/",
+"published": "2026-11-09T05:03:00Z",
+"summary": "Maybe it’s less about machine-legible artifacts and more about where humans stay in the loop.",
+"source": "Sidebar"
+},
+{
+"title": "edge-aura",
+"url": "https://edge-aura.js.org/",
+"published": "2026-11-09T05:02:00Z",
+"summary": "An organic glow that hugs the edge of your screen. Zero-dependency Canvas 2D engine with a thin React adapter.",
+"source": "Sidebar"
+},
+{
+"title": "Site Seeing",
+"url": "https://ishadeed.com/article/beyond-the-viewport/",
+"published": "2026-11-09T05:01:00Z",
+"summary": "See how a web page will behave in different contexts that force unusual viewport sizes.",
+"source": "Sidebar"
+},
+{
+"title": "How to use your laptop as a second monitor",
+"url": "https://www.engadget.com/2309277/how-to-use-laptop-second-desktop-monitor/",
+"published": "2026-11-09T01:30:00Z",
+"summary": "If you have an extra laptop lying around, you can connect it to your primary laptop with a wireless or wired connection for a free dual monitor set up.",
+"source": "Engadget"
+},
+{
+"title": "Why your USB device isn't showing up on your MacBook and how you can fix it",
+"url": "https://www.engadget.com/2309279/why-usb-device-not-showing-up-macbook-fixes/",
+"published": "2026-11-09T01:00:00Z",
+"summary": "If your USB device isn't showing up on your MacBook, the issue could be anything from a damaged cord to software troubles. Find out how to fix these problems.",
+"source": "Engadget"
+},
+{
+"title": "Which Canon Cameras Are Compatible With Its Free 3D Photo Software?",
+"url": "https://www.engadget.com/2309282/which-canon-cameras-compatible-with-free-3d-software/",
+"published": "2026-11-09T00:45:00Z",
+"summary": "Canon cameras are often known for their versatility and compatibility with software programs. These cameras are best used with the free 3D photo software.",
+"source": "Engadget"
+},
+{
+"title": "The disadvantages of buying tech from other countries",
+"url": "https://www.engadget.com/2309284/disadvantages-buying-tech-from-other-countries/",
+"published": "2026-11-09T00:30:00Z",
+"summary": "Importing a phone or a laptop can be appealing, especially if you can get a product you wouldn't otherwise have access to, but it has downsides.",
+"source": "Engadget"
+},
+{
+"title": "10 Apple products and features that transformed under Tim Cook's leadership",
+"url": "https://www.engadget.com/2305273/apple-products-features-transformed-under-tim-cook-leadership/",
+"published": "2026-11-09T00:15:00Z",
+"summary": "Tim Cook led Apple for 15 years, during which time the company's offerings expanded and went through all kinds of changes.",
+"source": "Engadget"
+},
+{
+"title": "Those white cameras mounted above traffic lights serve a little-known purpose",
+"url": "https://www.engadget.com/2309304/white-cameras-mounted-above-traffic-lights-little-known-purpose/",
+"published": "2026-11-09T00:00:00Z",
+"summary": "Many people are up in arms over Flock and similar cameras that can track you when you drive. But these cameras are there for a whole different reason.",
+"source": "Engadget"
+},
+{
+"title": "SpaceXAI Grok Bot availability just keeps growing - here's which plans offer it",
+"url": "https://www.engadget.com/2309308/spacexai-grok-bot-availability-plans/",
+"published": "2026-11-08T23:45:00Z",
+"summary": "SpaceXAI 's Grok Bot can handle multi-step work on a cloud computer, but you'll need to figure out the jumble of subscription plans first.",
+"source": "Engadget"
+},
+{
+"title": "Should you make the switch to Google Pixel from Samsung Galaxy?",
+"url": "https://www.engadget.com/2309302/switch-to-google-pixel-from-samsung-galaxy/",
+"published": "2026-11-08T23:30:00Z",
+"summary": "While Samsung Galaxy phones deliver flagship power, Google Pixel phones have lots of benefits, including faster updates and minimal bloatware.",
+"source": "Engadget"
+},
+{
+"title": "What is the Slate Telematics Module and what can it be used for?",
+"url": "https://www.engadget.com/2309298/what-is-slate-telematic-module-uses/",
+"published": "2026-11-08T23:00:00Z",
+"summary": "When you buy a Slate Truck, you only pay for the tech you want, and that includes connectivity between the vehicle and your phone. Is this a minimalist's dream?",
+"source": "Engadget"
+},
+{
+"title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+"url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+"published": "2026-11-08T22:54:50Z",
+"summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of…",
+"source": "The Verge"
+},
+{
+"title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+"url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+"published": "2026-11-08T22:37:22Z",
+"summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been…",
+"source": "The Verge"
+},
+{
+"title": "How long can you expect your PC RAM to last?",
+"url": "https://www.engadget.com/2309637/how-long-pc-ram-lasts-lifespan/",
+"published": "2026-11-08T22:30:00Z",
+"summary": "With the rising cost and demand for RAM and the ever-increasing tech requirements of PCs, it may be hard to determine just how long your components will last.",
+"source": "Engadget"
+},
 {
 "title": "Qalo SL-1 vs. Garmin Cirqa: How these minimalist wearables compare",
 "url": "https://www.engadget.com/2309634/qalo-sl-1-vs-garmin-cirqa-how-wearables-compare/",
@@ -122,13 +241,6 @@
 "source": "Engadget"
 },
 {
-"title": "The danger of charging your phone under your pillow isn't radiation",
-"url": "https://www.engadget.com/2309290/why-charging-phone-under-pillow-dangerous-explained/",
-"published": "2026-11-08T20:00:00Z",
-"summary": "The old fear about cell phone radiation causing cancer is an overblown concern, but there are other dangers when you tuck a charging phone under your pillow.",
-"source": "Engadget"
-},
-{
 "title": "macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how",
 "url": "https://9to5mac.com/2026/11/08/macos-changes-for-full-disk-access-ai-agents-imessage/",
 "published": "2026-11-08T19:52:41Z",
@@ -143,74 +255,11 @@
 "source": "TechCrunch"
 },
 {
-"title": "Why Apple's M6 Chip Can't Hold Its Own Against Any NVIDIA GPU",
-"url": "https://www.engadget.com/2309286/why-apple-m6-chip-cant-compete-any-nvidia-gpu/",
-"published": "2026-11-08T19:45:00Z",
-"summary": "With the announcement of its M6, Apple is stepping into a new generation of its processors. Here's why it still can't compete with NVIDIA GPUs.",
-"source": "Engadget"
-},
-{
-"title": "Suno AI music generator sued again for copyright infringement",
-"url": "https://www.engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement/",
-"published": "2026-11-08T19:42:14Z",
-"summary": "Groups that own the music rights to Elvis Presley and Eminem's tracks filed the latest lawsuits.",
-"source": "Engadget"
-},
-{
-"title": "You can have a PlayStation arcade machine at home, but there's a huge caveat",
-"url": "https://www.engadget.com/2307850/you-can-have-a-playstation-arcade-machine-at-home-but-theres-a-huge-caveat/",
-"published": "2026-11-08T19:30:00Z",
-"summary": "The $1,000-plus price is only part of the problem.",
-"source": "Engadget"
-},
-{
 "title": "Apple is racing to make Siri more agentic",
 "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
 "published": "2026-11-08T19:18:19Z",
 "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse.…",
 "source": "The Verge"
-},
-{
-"title": "What does the Xbox Series X have that the Playstation 5 Pro doesn't?",
-"url": "https://www.engadget.com/2309608/what-xbox-series-x-has-playstation-5-pro-doesnt/",
-"published": "2026-11-08T19:15:00Z",
-"summary": "While the PlayStation 5 Pro is the most powerful games console, the Xbox Series X offers features like Smart Delivery and Quick Resume.",
-"source": "Engadget"
-},
-{
-"title": "5 underrated PlayStation App features",
-"url": "https://www.engadget.com/2309256/underrated-playstation-app-features/",
-"published": "2026-11-08T19:00:00Z",
-"summary": "The PlayStation App offers its users certain features that will make their lives easier, especially if they really love playing on their console.",
-"source": "Engadget"
-},
-{
-"title": "Why 2TB of phone storage makes more sense than you think",
-"url": "https://www.engadget.com/2309548/2tb-phone-storage-makes-sense/",
-"published": "2026-11-08T18:45:00Z",
-"summary": "Is 2TB of phone storage worth it? Find out who needs it and who can safely skip it, plus how much space you need for everyday photos, apps and games.",
-"source": "Engadget"
-},
-{
-"title": "The biggest disadvantages of using AI glasses",
-"url": "https://www.engadget.com/2309033/biggest-disadvantages-using-ai-glasses/",
-"published": "2026-11-08T18:30:00Z",
-"summary": "AI glasses can do a lot of cool things, there's no debate about that. But there are also serious downsides to the tech.",
-"source": "Engadget"
-},
-{
-"title": "Apple's new MacBook Pro tops out at $15K – here's what that gets you",
-"url": "https://www.engadget.com/2308988/apple-macbook-pro-proled-tops-out-at-15000/",
-"published": "2026-11-08T18:15:00Z",
-"summary": "The new MacBook Pro offers more powerful configurations than ever before, but they'll cost you dearly.",
-"source": "Engadget"
-},
-{
-"title": "UK has no plans to slow down AI data center construction",
-"url": "https://www.engadget.com/2310304/uk-has-no-plans-to-slow-down-ai-data-center-construction/",
-"published": "2026-11-08T18:10:01Z",
-"summary": "The country's growth minister said the data centers will continue as \"essential infrastructure\" projects.",
-"source": "Engadget"
 },
 {
 "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
@@ -563,13 +612,6 @@
 "source": "9to5Mac"
 },
 {
-"title": "Otherwise you’re just a machine",
-"url": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5?source=rss----138adf9c44c---4",
-"published": "2026-11-07T20:15:42Z",
-"summary": "",
-"source": "UX Collective"
-},
-{
 "title": "Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand",
 "url": "https://9to5mac.com/2026/11/07/anker-maggo-2-pro-fast-magsafe-charger-for-iphone/",
 "published": "2026-11-07T19:11:00Z",
@@ -638,20 +680,6 @@
 "published": "2026-11-07T16:04:59Z",
 "summary": "Turn your MacBook's notch into a hub for music and calls Discussion | Link",
 "source": "Product Hunt"
-},
-{
-"title": "Costco members can get $5 off the reimagined Ocarina of Time",
-"url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
-"published": "2026-11-07T16:00:00Z",
-"summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the…",
-"source": "The Verge"
-},
-{
-"title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
-"url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
-"published": "2026-11-07T16:00:00Z",
-"summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling…",
-"source": "The Verge"
 },
 {
 "title": "Hackers pull off $133 million French bank heist via service provider",
@@ -752,17 +780,17 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "New Bluetooth High Data Throughput may finally satisfy audiophiles",
-"url": "https://www.tomshardware.com/peripherals/wearable-tech/new-bluetooth-high-data-throughput-may-finally-satisfy-audiophiles-bluetooth-hdt-offers-a-maximum-bandwidth-of-7-5mbps-allowing-true-lossless-transmission",
-"published": "2026-11-07T12:30:00Z",
-"summary": "Bluetooth HDT can offer a maximum bandwidth of 7.5 Mbps, allowing Bluetooth to be used with more sophisticated devices or big lossless audio files.",
-"source": "Tom's Hardware"
-},
-{
 "title": "Enthusiast abandons self-hosted Microsoft Exchange after 27 years, moving mailboxes to Microsoft 365",
 "url": "https://www.tomshardware.com/software/enthusiast-abandons-self-hosted-microsoft-exchange-after-27-years-moving-mailboxes-to-microsoft-365-replaces-final-on-premises-relay-with-postfix-starttls-and-lets-encrypt-certificates",
 "published": "2026-11-07T12:30:00Z",
 "summary": "A homelab enthusiast is retiring a Microsoft Exchange installation that began with Exchange 5.5 on Windows NT 4 in 1999. After migrating mailboxes to Microsoft 365, he kept Exchange 2019 running to…",
+"source": "Tom's Hardware"
+},
+{
+"title": "New Bluetooth High Data Throughput may finally satisfy audiophiles",
+"url": "https://www.tomshardware.com/peripherals/wearable-tech/new-bluetooth-high-data-throughput-may-finally-satisfy-audiophiles-bluetooth-hdt-offers-a-maximum-bandwidth-of-7-5mbps-allowing-true-lossless-transmission",
+"published": "2026-11-07T12:30:00Z",
+"summary": "Bluetooth HDT can offer a maximum bandwidth of 7.5 Mbps, allowing Bluetooth to be used with more sophisticated devices or big lossless audio files.",
 "source": "Tom's Hardware"
 },
 {
@@ -829,17 +857,17 @@
 "source": "Wired"
 },
 {
-"title": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
-"url": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
-"published": "2026-11-07T11:00:00Z",
-"summary": "Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.",
-"source": "Wired"
-},
-{
 "title": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
 "url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
 "published": "2026-11-07T11:00:00Z",
 "summary": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
+"source": "Wired"
+},
+{
+"title": "He Ran on Fighting Data Centers. Now, He’s Going to Congress",
+"url": "https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/",
+"published": "2026-11-07T11:00:00Z",
+"summary": "Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.",
 "source": "Wired"
 },
 {
@@ -953,13 +981,6 @@
 "published": "2026-11-07T04:16:43Z",
 "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what…",
 "source": "TechCrunch"
-},
-{
-"title": "Trace by Context.dev",
-"url": "https://www.producthunt.com/products/context-dev",
-"published": "2026-11-07T04:05:08Z",
-"summary": "Weekly web scraping API benchmark Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Apple Music Classical gets new black-and-white icon in latest update",
@@ -1347,13 +1368,6 @@
 "source": "Ars Technica"
 },
 {
-"title": "The Writer's Quarter",
-"url": "https://www.producthunt.com/products/the-writer-s-quarter",
-"published": "2026-11-06T16:06:36Z",
-"summary": "AI-Free Writing & Novel Planning Software Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Next year’s iPhone Pro redesign will drop an important button, per leak",
 "url": "https://9to5mac.com/2026/11/06/next-years-iphone-pro-redesign-will-drop-an-important-button-per-leak/",
 "published": "2026-11-06T16:02:43Z",
@@ -1415,13 +1429,6 @@
 "published": "2026-11-06T15:00:10Z",
 "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
 "source": "BleepingComputer"
-},
-{
-"title": "Rex (Beta)",
-"url": "https://www.producthunt.com/products/superlogical",
-"published": "2026-11-06T14:50:09Z",
-"summary": "Building the multiplexer for all work Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Which is the best iPad to buy right now? After 16 years of using them, this is our take",
@@ -1494,17 +1501,17 @@
 "source": "The Register"
 },
 {
-"title": "GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools — company targets 2030 for high-volume manufacturing, with planar transistors in tow",
-"url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
-"published": "2026-11-06T14:00:00Z",
-"summary": "GlobalFoundries reveals new details about its FDX Fusion technology, which promises 7nm-class performance and 8nm-class logic density using planar FD-SOI transistors without EUV lithography, shares…",
-"source": "Tom's Hardware"
-},
-{
 "title": "Elegoo M1 Ultra review: A good first entry into the scanner market",
 "url": "https://www.tomshardware.com/3d-printing/3d-scanning/elegoo-m1-ultra-review",
 "published": "2026-11-06T14:00:00Z",
 "summary": "Elegoo’s first scanner is a useful tool, but it requires a little extra work.",
+"source": "Tom's Hardware"
+},
+{
+"title": "GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools — company targets 2030 for high-volume manufacturing, with planar transistors in tow",
+"url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
+"published": "2026-11-06T14:00:00Z",
+"summary": "GlobalFoundries reveals new details about its FDX Fusion technology, which promises 7nm-class performance and 8nm-class logic density using planar FD-SOI transistors without EUV lithography, shares…",
 "source": "Tom's Hardware"
 },
 {
@@ -1942,6 +1949,13 @@
 "source": "Product Hunt"
 },
 {
+"title": "Google Omni 1.2 Flash",
+"url": "https://www.producthunt.com/products/google-omni-1-2-flash",
+"published": "2026-11-05T17:10:35Z",
+"summary": "Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Accessibility statements now have a home on GitHub",
 "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
 "published": "2026-11-05T16:00:00Z",
@@ -2058,13 +2072,6 @@
 "url": "https://www.producthunt.com/products/keypause",
 "published": "2026-11-05T04:38:36Z",
 "summary": "Turn off your Mac's keyboard while you clean it Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "outages.live",
-"url": "https://www.producthunt.com/products/polylane",
-"published": "2026-11-05T00:40:25Z",
-"summary": "A free live outage feed for your agents Discussion | Link",
 "source": "Product Hunt"
 }
 ]
