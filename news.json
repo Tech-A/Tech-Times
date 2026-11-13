@@ -1,7 +1,168 @@
 {
-"updated": "2026-11-12T23:59:49.138498Z",
-"count": 323,
+"updated": "2026-11-13T06:26:48.037456Z",
+"count": 324,
 "items": [
+{
+"title": "Dropbox Shares How Its In-House Cookie Auditor Tests Consent Behaviour Across 200+ Web Surfaces",
+"url": "https://www.infoq.com/news/2026/11/dropbox-cookie-auditor/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-13T06:15:00Z",
+"summary": "Dropbox engineers described a Playwright-based auditor that checks cookie consent behavior across more than 200 web surfaces. It runs three tests per page: US visitor, EU visitor, and Global Privacy…",
+"source": "InfoQ"
+},
+{
+"title": "Gametime Promo Code: Save on Tickets in November 2026",
+"url": "https://www.wired.com/story/gametime-promo-code/",
+"published": "2026-11-13T06:00:00Z",
+"summary": "Grab last-minute seats for less with a verified Gametime discount code for up to 10% off, first-purchase coupons, and lowest price guarantee credits.",
+"source": "Wired"
+},
+{
+"title": "Instacart Promo Code: $15 Off | November 2026",
+"url": "https://www.wired.com/story/instacart-promo/code/",
+"published": "2026-11-13T06:00:00Z",
+"summary": "Find the best Instacart promo code for massive savings in November 2026.",
+"source": "Wired"
+},
+{
+"title": "Peacock Promo Codes: 40% Off November 2026",
+"url": "https://www.wired.com/story/peacock-promo-code/",
+"published": "2026-11-13T06:00:00Z",
+"summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+"source": "Wired"
+},
+{
+"title": "LG Promo Codes and Coupons for November 2026",
+"url": "https://www.wired.com/story/lg-promo-code/",
+"published": "2026-11-13T06:00:00Z",
+"summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+"source": "Wired"
+},
+{
+"title": "Western Digital Promo Code: 15% Off",
+"url": "https://www.wired.com/story/western-digital-promo-code/",
+"published": "2026-11-13T06:00:00Z",
+"summary": "Get 15% off your first order at Western Digital when you register your email.",
+"source": "Wired"
+},
+{
+"title": "Logitech Promo Codes and Deals: Up to $100 Off",
+"url": "https://www.wired.com/story/logitech-promo-code/",
+"published": "2026-11-13T06:00:00Z",
+"summary": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
+"source": "Wired"
+},
+{
+"title": "Chatbooks Promo Code: 40% Off | November 2026",
+"url": "https://www.wired.com/story/chatbooks-promo-code/",
+"published": "2026-11-13T06:00:00Z",
+"summary": "Keep your memories alive without breaking the bank by using these top Chatbooks coupon codes and saving strategies.",
+"source": "Wired"
+},
+{
+"title": "Building interfaces that understand what we want to do",
+"url": "https://agustinbarrientos.com/writing/senior-eye/interfaces-that-understand-what-we-want",
+"published": "2026-11-13T05:05:00Z",
+"summary": "Chrome is building a Decisions API that runs a decision model on your computer, for free and privately.",
+"source": "Sidebar"
+},
+{
+"title": "Below the surface",
+"url": "https://belowthesurface.amsterdam/en/vondsten",
+"published": "2026-11-13T05:04:00Z",
+"summary": "The archaeological research project of the North/South metro line lends the River Amstel a voice in the historical portrayal of Amsterdam.",
+"source": "Sidebar"
+},
+{
+"title": "If X, then Y",
+"url": "https://cdevroe.com/2026/11/05/if-x-then-y/",
+"published": "2026-11-13T05:03:00Z",
+"summary": "It was never easy to predict the future, but at the moment it feels near impossible.",
+"source": "Sidebar"
+},
+{
+"title": "Bodega cats of New York",
+"url": "https://bodegacatsofnewyork.com/",
+"published": "2026-11-13T05:02:00Z",
+"summary": "Photographs and stories of the cats who live in New York’s bodegas, and the people who know them by name.",
+"source": "Sidebar"
+},
+{
+"title": "Where the disabled button got its rule",
+"url": "https://www.hipuku.dev/writing/where-the-disabled-button-got-its-rule",
+"published": "2026-11-13T05:01:00Z",
+"summary": "What Apple’s 1980 rules said about greyed-out commands.",
+"source": "Sidebar"
+},
+{
+"title": "Singapore says US authorities, and Supermicro, hardly helped investigation of Jensen Huang’s Chinese friend",
+"url": "https://www.theregister.com/legal/2026/11/13/singapore-says-us-authorities-and-supermicro-hardly-helped-investigation-of-jensen-huangs-chinese-friend/5309579",
+"published": "2026-11-13T03:41:24Z",
+"summary": "Seized passport during probe of suspected paperwork fibs that hid server shipments to parts unknown",
+"source": "The Register"
+},
+{
+"title": "AI is the new old design material",
+"url": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4",
+"published": "2026-11-13T02:33:09Z",
+"summary": "",
+"source": "UX Collective"
+},
+{
+"title": "Apple TV just debuted three new originals, including a heist thriller series",
+"url": "https://9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series/",
+"published": "2026-11-13T02:02:34Z",
+"summary": "Apple TV subscribers can now watch three new originals, including a heist thriller series, a film based on true events, and the first of two holiday specials coming to the platform this season. Watch…",
+"source": "9to5Mac"
+},
+{
+"title": "Alibaba's Qwen3.8 re-educated with a more Western worldview",
+"url": "https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555",
+"published": "2026-11-13T01:25:00Z",
+"summary": "Open weight model can now say things Chinese authorities don't like",
+"source": "The Register"
+},
+{
+"title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+"url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+"published": "2026-11-13T01:17:49Z",
+"summary": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.",
+"source": "Wired"
+},
+{
+"title": "Donald Trump really wants Tim Cook to run Nvidia",
+"url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+"published": "2026-11-13T00:46:07Z",
+"summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But…",
+"source": "The Verge"
+},
+{
+"title": "GitHub availability report: October 2026",
+"url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+"published": "2026-11-13T00:20:16Z",
+"summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
+"source": "GitHub Blog"
+},
+{
+"title": "Xbox announces Wolfenstein 3",
+"url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+"published": "2026-11-13T00:11:44Z",
+"summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially…",
+"source": "The Verge"
+},
+{
+"title": "Roborock Robot Vacuum Early Black Friday Deals (2026)",
+"url": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
+"published": "2026-11-12T23:54:58Z",
+"summary": "The brand’s official Black Friday sales start next week, but some of its best vacuums are already discounted.",
+"source": "Wired"
+},
+{
+"title": "DOJ takes aim at $1.2B in Binance loot as FBI disrupts North Korean scam",
+"url": "https://www.theregister.com/cyber-crime/2026/11/12/doj-takes-aim-at-12b-in-binance-loot-as-fbi-disrupts-north-korean-scam/5309523",
+"published": "2026-11-12T23:51:00Z",
+"summary": "‘FaceStealer’ scam tied to $400M+ theft, 900+ webcam recordings",
+"source": "The Register"
+},
 {
 "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
 "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
@@ -45,7 +206,7 @@
 "source": "The Verge"
 },
 {
-"title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+"title": "In reversal, American Cancer Society urges routine prostate cancer screening",
 "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
 "published": "2026-11-12T22:59:51Z",
 "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
@@ -115,10 +276,10 @@
 "source": "BleepingComputer"
 },
 {
-"title": "Muse can now place calls to U.S. businesses — if you pay",
+"title": "Muse can now place calls to US businesses — if you pay",
 "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
 "published": "2026-11-12T22:22:28Z",
-"summary": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+"summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
 "source": "TechCrunch"
 },
 {
@@ -297,13 +458,6 @@
 "source": "Wired"
 },
 {
-"title": "Meet the people who want peptides to be made in America",
-"url": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha",
-"published": "2026-11-12T20:00:00Z",
-"summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. We'll be…",
-"source": "The Verge"
-},
-{
 "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
 "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
 "published": "2026-11-12T19:59:59Z",
@@ -323,13 +477,6 @@
 "published": "2026-11-12T19:49:11Z",
 "summary": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
 "source": "Ars Technica"
-},
-{
-"title": "No, AI agents did not discover a previously unknown Maya site",
-"url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-"published": "2026-11-12T19:42:40Z",
-"summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had…",
-"source": "The Verge"
 },
 {
 "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
@@ -1172,25 +1319,11 @@
 "source": "InfoQ"
 },
 {
-"title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
-"url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
-"published": "2026-11-12T10:15:00Z",
-"summary": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
-"source": "Wired"
-},
-{
 "title": "Orbit Global Menu: A working global menu addon for GNOME",
 "url": "https://www.theregister.com/os-platforms/2026/11/12/orbit-global-menu-a-working-global-menu-addon-for-gnome/5309134",
 "published": "2026-11-12T10:14:00Z",
 "summary": "We love this, but suspect this is the Marmite of GNOME extensions",
 "source": "The Register"
-},
-{
-"title": "Rocco Classic Smart Fridge Review: A Cool Conversation Piece",
-"url": "https://www.wired.com/review/rocco-super-smart-fridge/",
-"published": "2026-11-12T10:08:00Z",
-"summary": "Some of this beverage fridge’s smart features could be better, but let’s be real—you’re probably buying it for the aesthetic.",
-"source": "Wired"
 },
 {
 "title": "Google Open-Sources TPU Sync for KV Cache and Weight Transfer on TPUs",
@@ -1270,13 +1403,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "The Polar Vortex Is About to Make Weather Weird From the UK to the US",
-"url": "https://www.wired.com/story/the-polar-vortex-is-about-to-make-weather-weird-from-the-uk-to-the-us/",
-"published": "2026-11-12T08:00:00Z",
-"summary": "These Arctic currents have never broken down so early in the season. Combined with an unprecedented El Niño, the outcomes aren’t easy to predict.",
-"source": "Wired"
-},
-{
 "title": "Gentler Streak 6.0 adds a new wellbeing timeline and customizable dashboard",
 "url": "https://9to5mac.com/2026/11/12/gentler-streak-6-0-adds-a-new-wellbeing-timeline-and-customizable-dashboard/",
 "published": "2026-11-12T08:00:00Z",
@@ -1312,48 +1438,6 @@
 "source": "Product Hunt"
 },
 {
-"title": "TurboTax Full Service Coupons This November 2026",
-"url": "https://www.wired.com/story/turbotax-coupon/",
-"published": "2026-11-12T06:00:00Z",
-"summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-"source": "Wired"
-},
-{
-"title": "Lovehoney Coupon Offers: 70% Off",
-"url": "https://www.wired.com/story/lovehoney-discount-code/",
-"published": "2026-11-12T06:00:00Z",
-"summary": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
-"source": "Wired"
-},
-{
-"title": "Wayfair Coupons: Up to 80% Off November 2026",
-"url": "https://www.wired.com/story/wayfair-promo-code/",
-"published": "2026-11-12T06:00:00Z",
-"summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-"source": "Wired"
-},
-{
-"title": "Lenovo Coupon Codes: 15% Off in November 2026",
-"url": "https://www.wired.com/story/lenovo-coupon-code/",
-"published": "2026-11-12T06:00:00Z",
-"summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-"source": "Wired"
-},
-{
-"title": "AirDoctor Coupon Codes: 40% Off | November 2026",
-"url": "https://www.wired.com/story/airdoctor-coupon-code/",
-"published": "2026-11-12T06:00:00Z",
-"summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
-"source": "Wired"
-},
-{
-"title": "HelloFresh Promo Codes: 55% Off for November 2026",
-"url": "https://www.wired.com/story/hellofresh-coupon/",
-"published": "2026-11-12T06:00:00Z",
-"summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code in November 2026. Discover our best codes and discounts to let you save time and money.",
-"source": "Wired"
-},
-{
 "title": "AWS distills its cloud into a local emulator that runs on your PC",
 "url": "https://www.theregister.com/off-prem/2026/11/12/aws-distills-its-cloud-into-a-local-emulator-that-runs-on-your-pc/5309251",
 "published": "2026-11-12T05:47:31Z",
@@ -1366,13 +1450,6 @@
 "published": "2026-11-12T04:22:18Z",
 "summary": "Couldn’t get the hardware it needed to generate certs, so tried to code a workaround",
 "source": "The Register"
-},
-{
-"title": "9to5Mac Daily: November 11, 2026 – New Apple TV feature, more",
-"url": "https://9to5mac.com/2026/11/11/daily-november-11-2026/",
-"published": "2026-11-12T04:01:11Z",
-"summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for…",
-"source": "9to5Mac"
 },
 {
 "title": "Crossfade",
@@ -1557,13 +1634,6 @@
 "source": "Engadget"
 },
 {
-"title": "Gemini Decisions API",
-"url": "https://www.producthunt.com/products/google",
-"published": "2026-11-11T19:44:51Z",
-"summary": "Fast, calibrated multimodal decisions Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "ByteDance is reportedly working on its own AI agent",
 "url": "https://www.engadget.com/2314064/bytedance-is-reportedly-working-on-its-own-ai-agent/",
 "published": "2026-11-11T19:42:19Z",
@@ -1676,13 +1746,6 @@
 "source": "InfoQ"
 },
 {
-"title": "Canonical web services get stage fright ahead of Ubuntu Summit",
-"url": "https://www.theregister.com/os-platforms/2026/11/11/canonical-web-services-get-stage-fright-ahead-of-ubuntu-summit/5309186",
-"published": "2026-11-11T16:38:00Z",
-"summary": "Outage hits login, software repositories, and patching tools hours before online event kicks off",
-"source": "The Register"
-},
-{
 "title": "OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center",
 "url": "https://www.tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved",
 "published": "2026-11-11T16:30:00Z",
@@ -1704,25 +1767,11 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "Apple's touchscreen MacBook Pro does not like to be taken apart",
-"url": "https://www.theregister.com/personal-tech/2026/11/11/apples-touchscreen-macbook-pro-does-not-like-to-be-taken-apart/5309110",
-"published": "2026-11-11T15:34:00Z",
-"summary": "Easy lid swaps earn praise from iFixit, but panel removal ends in cracks and USB-C repairs require logic board surgery",
-"source": "The Register"
-},
-{
 "title": "SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims",
 "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board",
 "published": "2026-11-11T15:03:08Z",
 "summary": "SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that relies on a massive 84-layer PCB midplane.",
 "source": "Tom's Hardware"
-},
-{
-"title": "Microsoft's Patch Tuesday can't break stuff if it won't install",
-"url": "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059",
-"published": "2026-11-11T14:55:00Z",
-"summary": "KB5132061 throws 0x800F0993 and 0x800F0989 errors, and Redmond is saying nothing",
-"source": "The Register"
 },
 {
 "title": "Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting",
@@ -1809,17 +1858,17 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "Save 36% on this Hoto cordless rotary 3D printing toolkit for makers, now under $32",
-"url": "https://www.tomshardware.com/desktops/pc-building/save-36-percent-on-this-hoto-cordless-rotary-3d-printing-toolkit-for-makers-now-under-usd32-5-speed-tool-ships-with-35-attachments-for-sanding-polishing-carving-and-more",
-"published": "2026-11-11T12:00:00Z",
-"summary": "Grab a 36% saving on Hoto’s cordless rotary toolkit, with a 25,000 RPM motor, 35 accessories and a built-in LED ring light.",
-"source": "Tom's Hardware"
-},
-{
 "title": "AMD shares how it can retain 95% of server performance with just half the DRAM, sidestepping memory shortages with MEXT",
 "url": "https://www.tomshardware.com/pc-components/cpus/amd-shares-how-it-can-retain-95-percent-of-server-performance-with-just-half-the-dram-sidestepping-memory-shortages-with-mext-tech-powers-over-100-servers-already-running-with-plans-to-expand-to-2-000-servers-in-2027",
 "published": "2026-11-11T12:00:00Z",
 "summary": "Following AMD’s acquisition of MEXT earlier this year, the company has revealed its own IT infrastructure is using the technology to run servers at 50% DRAM capacity while achieving 95% of the…",
+"source": "Tom's Hardware"
+},
+{
+"title": "Save 36% on this Hoto cordless rotary 3D printing toolkit for makers, now under $32",
+"url": "https://www.tomshardware.com/desktops/pc-building/save-36-percent-on-this-hoto-cordless-rotary-3d-printing-toolkit-for-makers-now-under-usd32-5-speed-tool-ships-with-35-attachments-for-sanding-polishing-carving-and-more",
+"published": "2026-11-11T12:00:00Z",
+"summary": "Grab a 36% saving on Hoto’s cordless rotary toolkit, with a 25,000 RPM motor, 35 accessories and a built-in LED ring light.",
 "source": "Tom's Hardware"
 },
 {
@@ -2110,13 +2159,6 @@
 "source": "UX Collective"
 },
 {
-"title": "Pinterest and Intel Take Open-Source Profiling to Internet Scale",
-"url": "https://www.infoq.com/news/2026/11/pinterest-intel-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-"published": "2026-11-10T12:00:00Z",
-"summary": "Pinterest has partnered with Intel to extend gProfiler, an open-source continuous profiler that provides production performance visibility across an internet-scale fleet of infrastructure. By Craig…",
-"source": "InfoQ"
-},
-{
 "title": "A more informative GitHub dashboard",
 "url": "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
 "published": "2026-11-10T10:34:35Z",
@@ -2222,46 +2264,11 @@
 "source": "UX Collective"
 },
 {
-"title": "What a ruler leaves out",
-"url": "https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85?source=rss----138adf9c44c---4",
-"published": "2026-11-09T12:13:57Z",
-"summary": "On designing tools as rules — and what they quietly subtract from the world Continue reading on UX Collective »",
-"source": "UX Collective"
-},
-{
-"title": "Vote in Readymag Websites of the Year 2026",
-"url": "https://bit.ly/side-mag5",
-"published": "2026-11-09T05:05:00Z",
-"summary": "The award spotlights inventive projects made with Readymag, a design tool for creating outstanding websites. Explore the shortlist and vote.",
-"source": "Sidebar"
-},
-{
-"title": "Otherwise you’re just a machine",
-"url": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5",
-"published": "2026-11-09T05:04:00Z",
-"summary": "AI is getting better at design. Designers should too.",
-"source": "Sidebar"
-},
-{
-"title": "What does design system AI readiness mean, anyway?",
-"url": "https://seanvoisen.com/writing/design-system-ai-readiness/",
-"published": "2026-11-09T05:03:00Z",
-"summary": "Maybe it’s less about machine-legible artifacts and more about where humans stay in the loop.",
-"source": "Sidebar"
-},
-{
-"title": "edge-aura",
-"url": "https://edge-aura.js.org/",
-"published": "2026-11-09T05:02:00Z",
-"summary": "An organic glow that hugs the edge of your screen. Zero-dependency Canvas 2D engine with a thin React adapter.",
-"source": "Sidebar"
-},
-{
-"title": "Site Seeing",
-"url": "https://ishadeed.com/article/beyond-the-viewport/",
-"published": "2026-11-09T05:01:00Z",
-"summary": "See how a web page will behave in different contexts that force unusual viewport sizes.",
-"source": "Sidebar"
+"title": "Gnista",
+"url": "https://www.producthunt.com/products/gnista",
+"published": "2026-11-09T11:16:01Z",
+"summary": "Run more coding agents, watch none of them Discussion | Link",
+"source": "Product Hunt"
 }
 ]
 }
