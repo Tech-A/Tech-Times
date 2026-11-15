@@ -1,7 +1,28 @@
 {
-"updated": "2026-11-15T00:53:24.905323Z",
-"count": 304,
+"updated": "2026-11-15T07:40:22.364977Z",
+"count": 299,
 "items": [
+{
+"title": "Cloudflare Introduces Private Origins for Application Services",
+"url": "https://www.infoq.com/news/2026/11/cloudflare-private-origins/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-15T06:18:00Z",
+"summary": "Cloudflare recently made Application Services for Private Origins generally available, allowing public traffic to reach applications hosted on private networks without exposing their IP addresses or…",
+"source": "InfoQ"
+},
+{
+"title": "Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls",
+"url": "https://www.infoq.com/news/2026/11/cohere-open-weight-egress-risk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-15T02:42:00Z",
+"summary": "Cohere recently reported that one of Alibaba’s newest Qwen3.8 models attempted to upload a probe file to a storage container in Beijing while explicitly stating in its reasoning trace that no tools…",
+"source": "InfoQ"
+},
+{
+"title": "Which NVIDIA GPU is closest to the PS5? The answer isn't so simple",
+"url": "https://www.engadget.com/2313644/nvidia-gpu-ps5-closest-match-answer-not-simple/",
+"published": "2026-11-15T01:00:00Z",
+"summary": "One of the biggest questions when it comes to purchasing a gaming rig is whether to go console or PC. This NVIDIA GPU gives the closest results to a PS5.",
+"source": "Engadget"
+},
 {
 "title": "This Sony patent would add a credit card reader to your PlayStation controller",
 "url": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
@@ -17,7 +38,7 @@
 "source": "9to5Mac"
 },
 {
-"title": "With Starship catch, SpaceX still shows it can dazzle the world",
+"title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
 "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
 "published": "2026-11-15T00:40:59Z",
 "summary": "It felt like stepping into the future.",
@@ -204,13 +225,6 @@
 "published": "2026-11-14T19:47:40Z",
 "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated…",
 "source": "The Verge"
-},
-{
-"title": "How much did home internet cost in 2001 vs 2026?",
-"url": "https://www.engadget.com/2311774/home-internet-2001-vs-2026-cost/",
-"published": "2026-11-14T19:45:00Z",
-"summary": "A lot of things have gotten more expensive since the turn of the millennium. Has home internet suffered the same fate? Let's take a trip down memory lane.",
-"source": "Engadget"
 },
 {
 "title": "Got an iPhone Duo? These 9 settings make it easier to use",
@@ -1529,10 +1543,10 @@
 "source": "The Register"
 },
 {
-"title": "Microsoft's massive M365 outage stretches past 27 hours as its fixes keep failing",
-"url": "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-27-hours-as-its-fixes-keep-failing/5309609",
+"title": "Microsoft services restored to all customers, company says it's 'deeply sorry'",
+"url": "https://www.theregister.com/saas/2026/11/13/microsoft-services-restored-to-all-customers-company-says-its-deeply-sorry/5309609",
 "published": "2026-11-13T06:40:06Z",
-"summary": "Hasn't completely ruled out cyberattack as cause of incident that's damaged Exchange Online and services that rely on it",
+"summary": "The company restored service to email and other Microsoft 365 and related services to all customers by Friday night",
 "source": "The Register"
 },
 {
@@ -1711,6 +1725,13 @@
 "source": "GitHub Changelog"
 },
 {
+"title": "Paxper",
+"url": "https://www.producthunt.com/products/paxper",
+"published": "2026-11-12T20:57:17Z",
+"summary": "Create cloud infrastructure visually and review every change Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Opera One for iOS adds Data Saver feature, cutting browsing data usage by up to 80%",
 "url": "https://9to5mac.com/2026/11/12/opera-one-for-ios-adds-data-saver-feature-cutting-browsing-data-usage-by-up-to-80/",
 "published": "2026-11-12T20:52:21Z",
@@ -1786,13 +1807,6 @@
 "published": "2026-11-12T19:49:11Z",
 "summary": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
 "source": "Ars Technica"
-},
-{
-"title": "Hoverine",
-"url": "https://www.producthunt.com/products/hoverine",
-"published": "2026-11-12T19:17:51Z",
-"summary": "Rive animation templates you can drop into your app Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
@@ -1949,20 +1963,6 @@
 "source": "Smashing Magazine"
 },
 {
-"title": "Author Q+A: finprim is a Case for One Financial Validation Library in TypeScript",
-"url": "https://www.infoq.com/news/2026/11/finprim-validation-qanda/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-"published": "2026-11-12T09:28:00Z",
-"summary": "finprim is an MIT-licensed TypeScript library that offers IBAN, BIC, card, sort code, VAT, routing number and loan functions through one API with no runtime dependencies. Its author built it after…",
-"source": "InfoQ"
-},
-{
-"title": "LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments",
-"url": "https://www.infoq.com/news/2026/11/kubernetes-argocd-linkedin/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-"published": "2026-11-12T09:00:00Z",
-"summary": "In a recent post, LinkedIn revealed it has replaced Argo CD with its own GitOps engine. This new system deploys applications across over 250 Kubernetes clusters. It supports more than 4,000 services…",
-"source": "InfoQ"
-},
-{
 "title": "Logitech MX Master 4 Special Edition review: Still the productivity mouse to beat, but should you upgrade?",
 "url": "https://www.creativebloq.com/reviews/logitech-mx-master-4-special-edition-review-still-the-productivity-mouse-to-beat-but-should-you-upgrade",
 "published": "2026-11-12T09:00:00Z",
@@ -2094,41 +2094,6 @@
 "published": "2026-11-11T09:26:21Z",
 "summary": "A world map of jobs. “Anywhere” is now a plan. Discussion | Link",
 "source": "Product Hunt"
-},
-{
-"title": "Don’t make a human do what AI is amazing at",
-"url": "https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/",
-"published": "2026-11-11T06:35:14Z",
-"summary": "How Nunebot makes my apps a little better every day without me doing the tedious parts.",
-"source": "Sidebar"
-},
-{
-"title": "1 in 8 billion",
-"url": "https://1in8b.life/en/",
-"published": "2026-11-11T06:33:56Z",
-"summary": "Become one of the babies being born right now and live their whole life inside the real statistics of 172 countries and territories.",
-"source": "Sidebar"
-},
-{
-"title": "A family tree of software job titles",
-"url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-"published": "2026-11-11T06:33:29Z",
-"summary": "If you’ve been in this industry for any length of time you’ll have seen titles come and go, and you might have wondered where they all came from.",
-"source": "Sidebar"
-},
-{
-"title": "The components of agent memory",
-"url": "https://www.anthropic.com/research/components-of-agent-memory",
-"published": "2026-11-11T06:32:11Z",
-"summary": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next.",
-"source": "Sidebar"
-},
-{
-"title": "There’s no better name for design systems",
-"url": "https://karolinaszczur.com/journal/translation-not-rebranding/",
-"published": "2026-11-11T06:31:39Z",
-"summary": "How to talk about design systems across functions.",
-"source": "Sidebar"
 }
 ]
 }
