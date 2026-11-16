@@ -1,7 +1,35 @@
 {
-"updated": "2026-11-16T00:51:57.035555Z",
-"count": 299,
+"updated": "2026-11-16T07:45:48.135613Z",
+"count": 296,
 "items": [
+{
+"title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+"url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+"published": "2026-11-16T07:00:00Z",
+"summary": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup…",
+"source": "TechCrunch"
+},
+{
+"title": "Techie rigged off-spec fan near flammable liquid and an exposed motherboard, then left it to run for days",
+"url": "https://www.theregister.com/on-prem/2026/11/16/techie-rigged-off-spec-fan-near-flammable-liquid-and-an-exposed-motherboard-then-left-it-to-run-for-days/5309601",
+"published": "2026-11-16T06:37:00Z",
+"summary": "Nobody died, money got made, and the maintenance crew didn’t care",
+"source": "The Register"
+},
+{
+"title": "Apple's new research app is designed to make AI health tools more user-friendly",
+"url": "https://www.engadget.com/2317303/apple-new-research-app-designed-to-make-ai-health-tools-user-friendly/",
+"published": "2026-11-16T06:06:05Z",
+"summary": "Apple has unveiled a new research study with the aim of learning how people use AI health tools.",
+"source": "Engadget"
+},
+{
+"title": "Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads",
+"url": "https://www.theregister.com/os-platforms/2026/11/16/microsofts-azure-linux-dons-fedora-to-dress-itself-up-for-mainstream-workloads/5310016",
+"published": "2026-11-16T06:04:02Z",
+"summary": "Version 4.0 of Redmond’s cloudy OS is free to use in its cloud. Repeat. Free to use",
+"source": "The Register"
+},
 {
 "title": "Send and sign agreements from Claude with Lumin",
 "url": "https://bit.ly/side-lum1",
@@ -38,6 +66,55 @@
 "source": "Sidebar"
 },
 {
+"title": "ULA Vulcan rocket failure destroys 40 Amazon Leo satellites",
+"url": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/",
+"published": "2026-11-16T04:56:53Z",
+"summary": "United Launch Alliance is known for its ultra-dependable Atlas V, but its its latest rocket is off to a shaky start.",
+"source": "Engadget"
+},
+{
+"title": "Amazon loses first batch of broadband satellites launched on custom rocket",
+"url": "https://www.theregister.com/networks/2026/11/16/amazon-loses-first-batch-of-broadband-satellites-launched-on-custom-rocket/5310000",
+"published": "2026-11-16T01:32:57Z",
+"summary": "United Launch Alliance’s Vulcan LEO didn’t reach orbit",
+"source": "The Register"
+},
+{
+"title": "Apple launches new app to study how people use AI for health",
+"url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+"published": "2026-11-16T01:30:00Z",
+"summary": "Apple's new app for a study will answer everyday medical questions",
+"source": "TechCrunch"
+},
+{
+"title": "How to clear the application cache on your Mac",
+"url": "https://www.engadget.com/2314079/how-to-clear-application-cache-mac/",
+"published": "2026-11-16T01:30:00Z",
+"summary": "Clearing app caches don't necessarily make your Mac run faster.",
+"source": "Engadget"
+},
+{
+"title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+"url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+"published": "2026-11-16T01:26:56Z",
+"summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting…",
+"source": "The Verge"
+},
+{
+"title": "The oldest gadget in your house could be your home network's biggest security hole",
+"url": "https://www.engadget.com/2314057/home-network-oldest-device-could-be-biggest-security-risk/",
+"published": "2026-11-16T01:00:00Z",
+"summary": "It may be more economical to hold onto gadgets for as long as possible, but you're putting your entire home network at risk with outdate hardware.",
+"source": "Engadget"
+},
+{
+"title": "The pros and cons of using your phone as a mobile hotspot",
+"url": "https://www.engadget.com/2313946/pros-cons-using-phone-mobile-hotspot/",
+"published": "2026-11-16T00:45:00Z",
+"summary": "Using your phone to help other devices connect to the internet is undeniably convenient, but it also comes with other perks – and a few downsides.",
+"source": "Engadget"
+},
+{
 "title": "The pros and cons of using cloud storage over local storage",
 "url": "https://www.engadget.com/2313943/pros-cons-using-cloud-storage-over-local/",
 "published": "2026-11-16T00:30:00Z",
@@ -57,6 +134,13 @@
 "published": "2026-11-16T00:00:00Z",
 "summary": "Tired of watching your phone's battery jump from green to red? It's time to start troubleshooting what's causing your battery percentage to suddenly drop.",
 "source": "Engadget"
+},
+{
+"title": "Microsoft lifts Indian cloud prices by 15 percent, cuts costs in China",
+"url": "https://www.theregister.com/off-prem/2026/11/15/microsoft-lifts-indian-cloud-prices-by-15-percent-cuts-costs-in-china/5309993",
+"published": "2026-11-15T23:46:01Z",
+"summary": "PLUS: SEGA Japan suffers outage and data leak; India bans dead battery exports; Alibaba chip unit to float; and more",
+"source": "The Register"
 },
 {
 "title": "Here's what actually happens if your laptop battery is completely drained",
@@ -206,13 +290,6 @@
 "source": "The Verge"
 },
 {
-"title": "How to find your IP address",
-"url": "https://www.engadget.com/2313878/how-to-find-ip-address/",
-"published": "2026-11-15T20:30:00Z",
-"summary": "You may need to find your IP address for network troubleshooting reasons or to remotely access your computer.",
-"source": "Engadget"
-},
-{
 "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
 "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
 "published": "2026-11-15T20:20:57Z",
@@ -220,39 +297,11 @@
 "source": "TechCrunch"
 },
 {
-"title": "Amazon is reportedly working on a database for 'virtually every item for sale on Earth'",
-"url": "https://www.engadget.com/2317210/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/",
-"published": "2026-11-15T20:19:05Z",
-"summary": "This would include products that the online commerce giant doesn't even sell.",
-"source": "Engadget"
-},
-{
-"title": "How you can give your old Apple TV new purpose",
-"url": "https://www.engadget.com/2313873/give-old-apple-tv-device-new-purpose/",
-"published": "2026-11-15T20:15:00Z",
-"summary": "There are a few other tasks your Apple TV can handle.",
-"source": "Engadget"
-},
-{
-"title": "What's the meaning of the \"A\" on your USB-A ports?",
-"url": "https://www.engadget.com/2313849/usb-port-letter-a-meaning/",
-"published": "2026-11-15T20:00:00Z",
-"summary": "The truth is, there's no surprising meaning for the \"A\" in USB-A. Discover what this connector is used for and if it's becoming obsolete.",
-"source": "Engadget"
-},
-{
 "title": "Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle",
 "url": "https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
 "published": "2026-11-15T20:00:00Z",
 "summary": "In a recent article, Uber Engineering highlights the limitations of traditional identity and API controls in securing AI agents that dynamically reason over external content and take real-world…",
 "source": "InfoQ"
-},
-{
-"title": "Sony is ditching its cross-product support app for dedicated alternatives",
-"url": "https://www.engadget.com/2313842/sony-ditching-cross-product-support-app-good-reason/",
-"published": "2026-11-15T19:45:00Z",
-"summary": "After over a decade of use, customers are going to need to switch to a less-efficient means of monitoring their favorite Sony products and gadgets.",
-"source": "Engadget"
 },
 {
 "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
@@ -479,13 +528,6 @@
 "source": "9to5Mac"
 },
 {
-"title": "An overview of Jensen Huang’s messy days",
-"url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-"published": "2026-11-15T13:00:00Z",
-"summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow…",
-"source": "The Verge"
-},
-{
 "title": "Modified Ender 3 becomes a $450 bioprinter for 3D printing engineered living materials",
 "url": "https://www.tomshardware.com/3d-printing/university-of-rochester-researchers-made-a-3d-bioprinter-from-a-modified-ender-3-usd450-bioprinter-makes-engineered-living-material-research-accessible",
 "published": "2026-11-15T13:00:00Z",
@@ -633,10 +675,10 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Canvas by AgentGrid.io",
+"title": "Agentic Canvas",
 "url": "https://www.producthunt.com/products/agentgrid-io",
 "published": "2026-11-15T06:22:09Z",
-"summary": "Agentic Design Canvas - A visual way to collaborate with AI Discussion | Link",
+"summary": "Free Agentic Design Canvas - A visual way to work with AI Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -736,13 +778,6 @@
 "published": "2026-11-14T17:43:49Z",
 "summary": "This week, Apple started shipping the HomeView , its first display made for the smart home. On the HomeView , there’s one particularly nice feature that I’d love to see make its way to all Apple…",
 "source": "9to5Mac"
-},
-{
-"title": "GotEmail",
-"url": "https://www.producthunt.com/products/gotemail",
-"published": "2026-11-14T17:42:45Z",
-"summary": "Fast, native and smart email for Mac and iPhone Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "HuntMonitor",
@@ -1319,13 +1354,6 @@
 "source": "Product Hunt"
 },
 {
-"title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-"url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-"published": "2026-11-13T18:40:30Z",
-"summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-"source": "TechCrunch"
-},
-{
 "title": "GitHub Enterprise Server support in the GitHub Copilot app",
 "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
 "published": "2026-11-13T18:27:13Z",
@@ -1424,13 +1452,6 @@
 "source": "The Register"
 },
 {
-"title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-"url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-"published": "2026-11-13T16:00:12Z",
-"summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-"source": "TechCrunch"
-},
-{
 "title": "Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri",
 "url": "https://www.infoq.com/news/2026/11/apple-siri-ai-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
 "published": "2026-11-13T16:00:00Z",
@@ -1499,6 +1520,13 @@
 "published": "2026-11-13T15:09:39Z",
 "summary": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
 "source": "Ars Technica"
+},
+{
+"title": "Tacie",
+"url": "https://www.producthunt.com/products/tacie",
+"published": "2026-11-13T15:03:50Z",
+"summary": "Meeting notes on your Mac, with no bot in the call Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "How one AI agent exposed five critical enterprise security gaps",
@@ -1620,6 +1648,13 @@
 "source": "The Register"
 },
 {
+"title": "Tabletop by Google Labs",
+"url": "https://www.producthunt.com/products/google-labs",
+"published": "2026-11-13T11:39:17Z",
+"summary": "Build interactive group experiences with AI. Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Crackdown on UK medical record snooping after staff reported sneaking 300+ times this year",
 "url": "https://www.theregister.com/security/2026/11/13/crackdown-on-uk-medical-record-snooping-after-staff-reported-sneaking-300-times-this-year/5309421",
 "published": "2026-11-13T11:02:00Z",
@@ -1704,13 +1739,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "CodeMesh",
-"url": "https://www.producthunt.com/products/codemesh-2",
-"published": "2026-11-13T09:07:28Z",
-"summary": "Cut AI coding costs by 90% Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Podcast: Doing The Right Thing: Accountability In The Age Of AI Coding Summary",
 "url": "https://www.infoq.com/podcasts/accountability-age-ai-coding-summary/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
 "published": "2026-11-13T09:00:00Z",
@@ -1772,13 +1800,6 @@
 "published": "2026-11-13T06:15:00Z",
 "summary": "Dropbox engineers described a Playwright-based auditor that checks cookie consent behavior across more than 200 web surfaces. It runs three tests per page: US visitor, EU visitor, and Global Privacy…",
 "source": "InfoQ"
-},
-{
-"title": "Blender 5.3",
-"url": "https://www.producthunt.com/products/blender",
-"published": "2026-11-13T05:32:19Z",
-"summary": "3D Gaussian splats, now native to Blender Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Building interfaces that understand what we want to do",
@@ -1858,13 +1879,6 @@
 "source": "Product Hunt"
 },
 {
-"title": "Microsoft struggling to fix massive cloud outage that's taken down email and Intune",
-"url": "https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531",
-"published": "2026-11-12T23:06:06Z",
-"summary": "‘Actions taken thus far have not provided the anticipated relief’",
-"source": "The Register"
-},
-{
 "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
 "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
 "published": "2026-11-12T22:59:51Z",
@@ -1893,39 +1907,11 @@
 "source": "BleepingComputer"
 },
 {
-"title": "Google promises its new smart specs won't give creeps their ideal view",
-"url": "https://www.theregister.com/personal-tech/2026/11/12/google-promises-its-new-smart-specs-wont-give-creeps-their-ideal-view/5309497",
-"published": "2026-11-12T22:17:08Z",
-"summary": "'Intelligent eyewear' has a built-in camera and mic, but there's a recording light to warn you and some stern legalese to discourage abuse",
-"source": "The Register"
-},
-{
-"title": "A third of US AI chatters are hot at bots, hurling insults at LLMs",
-"url": "https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506",
-"published": "2026-11-12T21:33:58Z",
-"summary": "Anthropic sets behavior standards to protect Claude from rough treatment",
-"source": "The Register"
-},
-{
 "title": "Actions for ARM32 Linux & Windows retirement",
 "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
 "published": "2026-11-12T20:59:36Z",
 "summary": "GitHub Actions hosted runners will be ending support for ARM32 job execution on Windows and Linux by 8th Dec 2026. This follows our end of support for node20 where Node… The post Actions for ARM32…",
 "source": "GitHub Changelog"
-},
-{
-"title": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them",
-"url": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
-"published": "2026-11-12T20:48:45Z",
-"summary": "Meanwhile, a group of nonprofits sue AI giants and cite AI-driven cyberattacks",
-"source": "The Register"
-},
-{
-"title": "Gemini Robotics 2.5",
-"url": "https://www.producthunt.com/products/gemini-robotics-2-5",
-"published": "2026-11-12T20:18:13Z",
-"summary": "Gemini Robotics 2.5: Google’s most capable robot model Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -1942,10 +1928,10 @@
 "source": "BleepingComputer"
 },
 {
-"title": "Default Tamer",
-"url": "https://www.producthunt.com/products/default-tamer",
-"published": "2026-11-12T17:27:40Z",
-"summary": "Open every link in the right browser on macOS Discussion | Link",
+"title": "inread.app",
+"url": "https://www.producthunt.com/products/inread-app",
+"published": "2026-11-12T16:48:30Z",
+"summary": "your newsletters, outside your inbox Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -2086,13 +2072,6 @@
 "url": "https://www.creativebloq.com/reviews/logitech-mx-master-4-special-edition-review-still-the-productivity-mouse-to-beat-but-should-you-upgrade",
 "published": "2026-11-12T09:00:00Z",
 "summary": "Same brilliant mouse, now in grey-white and red, with haptics and a dial under your thumb.",
-"source": "Creative Bloq"
-},
-{
-"title": "How I created this ninja puppet scene inspired by Naruto",
-"url": "https://www.creativebloq.com/how-to/how-i-created-this-ninja-puppet-scene-inspired-by-naruto",
-"published": "2026-11-12T07:00:00Z",
-"summary": "Guilherme Freitastalks us through his process for creating futuristic anime art",
 "source": "Creative Bloq"
 }
 ]
