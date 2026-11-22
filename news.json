@@ -1,7 +1,154 @@
 {
-"updated": "2026-11-21T20:49:56.326022Z",
-"count": 304,
+"updated": "2026-11-22T01:03:36.449778Z",
+"count": 301,
 "items": [
+{
+"title": "This is what can happen if too many devices are sharing your home network",
+"url": "https://www.engadget.com/2319295/what-can-happen-too-many-devices-on-home-network/",
+"published": "2026-11-22T00:45:00Z",
+"summary": "If you play your numbers right, you may be able to avoid internet connectivity issues at home without shelling out more money.",
+"source": "Engadget"
+},
+{
+"title": "Your PC's USB port can charge your phone, even when it's turned off — Here's how",
+"url": "https://www.engadget.com/2319291/how-to-enable-usb-port-charging-pc-off/",
+"published": "2026-11-22T00:30:00Z",
+"summary": "Yes, a powered-off PC can still charge your phone, but only if the right feature is on. Here's what to check before you shut down and walk away.",
+"source": "Engadget"
+},
+{
+"title": "10 things you should never do on your Android phone",
+"url": "https://www.engadget.com/2317775/never-do-these-things-on-android-phone/",
+"published": "2026-11-22T00:15:00Z",
+"summary": "Every Android user should know what to avoid so they don't make mistakes that shorten their phone's useful life.",
+"source": "Engadget"
+},
+{
+"title": "This is the best type of wireless earbuds for audio output",
+"url": "https://www.engadget.com/2319289/wireless-earbuds-type-best-for-audio-output/",
+"published": "2026-11-22T00:00:00Z",
+"summary": "Comfort, price and aesthetics obviously impact what we put on our ears, but if sound fidelity is your priority, this kind of wireless earbud is the best choice.",
+"source": "Engadget"
+},
+{
+"title": "How to calibrate your 3D printer (and why you should)",
+"url": "https://www.engadget.com/2310980/how-to-calibrate-3d-printer-why-should/",
+"published": "2026-11-21T23:45:00Z",
+"summary": "Your 3D printer might not need replacing just because its prints keep failing. A few calibration checks could solve the problem and improve print quality.",
+"source": "Engadget"
+},
+{
+"title": "Building your own mini PC is harder than you would think",
+"url": "https://www.engadget.com/2319272/build-mini-pc-cost-harder-than-expected/",
+"published": "2026-11-21T23:30:00Z",
+"summary": "Mini PCs are appealing for their small footprint, but there are some things you should consider before you commit to building your own.",
+"source": "Engadget"
+},
+{
+"title": "Six products and services Google discontinued in 2026",
+"url": "https://www.engadget.com/2319181/google-products-services-discontinued-2026/",
+"published": "2026-11-21T23:00:00Z",
+"summary": "Here's a rundown of some Google tools that ended up in the graveyard this year.",
+"source": "Engadget"
+},
+{
+"title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+"url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+"published": "2026-11-21T22:59:58Z",
+"summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in…",
+"source": "BleepingComputer"
+},
+{
+"title": "Why does your phone say no service even with a SIM card?",
+"url": "https://www.engadget.com/2319140/phone-says-no-service-with-sim-card/",
+"published": "2026-11-21T22:30:00Z",
+"summary": "Your SIM card controls your phone's connection to your carrier, and if it's not working, standard texts and calls won't go through.",
+"source": "Engadget"
+},
+{
+"title": "iOS 27: My favorite new iPhone features (other than AI)",
+"url": "https://9to5mac.com/2026/11/21/ios-27-my-favorite-new-iphone-features-other-than-ai/",
+"published": "2026-11-21T22:22:26Z",
+"summary": "When Apple released iOS 27 in September, Siri Ai stole a lot of the headline. However, the update also includes plenty of non-AI features that I’ve come to really enjoy. Here are a few of my favorite…",
+"source": "9to5Mac"
+},
+{
+"title": "iPad Air vs. iPad Pro: The features you're actually paying $450 extra for",
+"url": "https://www.engadget.com/2319122/ipad-air-vs-pro-features-compared-price-difference/",
+"published": "2026-11-21T22:15:00Z",
+"summary": "The iPad Air and iPad Pro are both great options if you plan to use a tablet for work or creativity, but you shouldn't pay for what you won't use.",
+"source": "Engadget"
+},
+{
+"title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+"url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+"published": "2026-11-21T22:12:41Z",
+"summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+"source": "Ars Technica"
+},
+{
+"title": "This built-in windows tool can tell if your DirectX has a problem",
+"url": "https://www.engadget.com/2319109/built-in-windows-tool-find-problem-directx-diagnostic/",
+"published": "2026-11-21T22:00:00Z",
+"summary": "DxDiag is a handy and free resource for troubleshooting DirectX.",
+"source": "Engadget"
+},
+{
+"title": "FBI and USDA were reportedly targeted in back-to-back cyberattacks",
+"url": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/",
+"published": "2026-11-21T21:51:29Z",
+"summary": "It's still unclear who is responsible for the two incidents.",
+"source": "Engadget"
+},
+{
+"title": "The free Raspberry Pi tool you should be using to access it remotely",
+"url": "https://www.engadget.com/2319090/free-raspberry-pi-tool-access-remotely/",
+"published": "2026-11-21T21:45:00Z",
+"summary": "Avoid forwarding ports by using this handy tool.",
+"source": "Engadget"
+},
+{
+"title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+"url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+"published": "2026-11-21T21:37:10Z",
+"summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+"source": "TechCrunch"
+},
+{
+"title": "How long can fiber optic cables be before they lose signal?",
+"url": "https://www.engadget.com/2319077/fiber-optic-cable-how-long-before-lose-signal/",
+"published": "2026-11-21T21:30:00Z",
+"summary": "Fiber optic cables can span your neighborhood or multiple continents, but there are limitations to this technology's communication capabilities.",
+"source": "Engadget"
+},
+{
+"title": "How to easily factory reset your Fitbit",
+"url": "https://www.engadget.com/2319074/how-to-factory-reset-fitbit-device/",
+"published": "2026-11-21T21:15:00Z",
+"summary": "There's a difference between restarting and factory resetting your Fitbit.",
+"source": "Engadget"
+},
+{
+"title": "A tale of two Nvidias",
+"url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+"published": "2026-11-21T21:07:42Z",
+"summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+"source": "TechCrunch"
+},
+{
+"title": "What's new with Apple's latest Siri Remote, and does your old Apple TV support it?",
+"url": "https://www.engadget.com/2319050/whats-new-siri-remote-does-older-apple-tv-support/",
+"published": "2026-11-21T21:00:00Z",
+"summary": "The 4th-gen Apple TV 4K comes with a new remote. Here's what you need to know about it.",
+"source": "Engadget"
+},
+{
+"title": "The trade-offs of using Apple's AirPods Max headphones",
+"url": "https://www.engadget.com/2319042/trade-offs-using-apple-airpods-max-headphones/",
+"published": "2026-11-21T20:45:00Z",
+"summary": "Apple's AirPods Max sound great, but they come with a lot of compromises for $549 headphones.",
+"source": "Engadget"
+},
 {
 "title": "Indie App Spotlight: ‘Salon’ is an Apple TV app that turns your TV into a picture frame",
 "url": "https://9to5mac.com/2026/11/21/indie-app-spotlight-salon-is-an-apple-tv-app-that-turns-your-tv-into-a-picture-frame/",
@@ -52,39 +199,11 @@
 "source": "Engadget"
 },
 {
-"title": "Here's how much a Sony Walkman cost in 1980 vs. 2026",
-"url": "https://www.engadget.com/2318873/how-much-sony-walkman-cost-1980-vs-2026/",
-"published": "2026-11-21T19:45:00Z",
-"summary": "What would the original Sony Walkman cost today? Here's the inflation-adjusted price of the TPS-L2 and how it paved the way for modern hi-res audio players.",
-"source": "Engadget"
-},
-{
 "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming in 2027",
 "url": "https://9to5mac.com/2026/11/21/heres-what-next-years-iphone-lineup-will-look-like/",
 "published": "2026-11-21T19:35:44Z",
 "summary": "iPhone 18 Pro and iPhone Duo have been out for quite some time now, and despite that, it’s still incredibly challenging to order an iPhone Duo in a timely manner. If for whatever reason you’re…",
 "source": "9to5Mac"
-},
-{
-"title": "Signs it's time to replace your phone's screen protector",
-"url": "https://www.engadget.com/2318871/signs-when-replace-phone-screen-protector/",
-"published": "2026-11-21T19:30:00Z",
-"summary": "Should you stick with a smashed screen protector or not bother? Here's how to tell when it's time for a new one and unsuspecting signs you need to look for.",
-"source": "Engadget"
-},
-{
-"title": "How does iCloud Private Relay's security compare to VPN alternatives?",
-"url": "https://www.engadget.com/2318772/how-does-icloud-private-relay-security-compare-vpn-alternatives/",
-"published": "2026-11-21T19:15:00Z",
-"summary": "iCloud+ subscribers get access to Private Relay, which protects some of their online privacy without being an outright replacement for a traditional VPN.",
-"source": "Engadget"
-},
-{
-"title": "Which car has the largest infotainment touchscreen?",
-"url": "https://www.engadget.com/2318759/largest-car-infotainment-touchscreen/",
-"published": "2026-11-21T19:00:00Z",
-"summary": "Most modern cars will have some kind of infotainment touchscreen, though not all are created equal. One car, in particular, rules the roost for sheer size.",
-"source": "Engadget"
 },
 {
 "title": "Save $78 on Corsair's triple-chamber AIR 5400 RS-R midtower PC case at new all-time low price",
@@ -94,39 +213,11 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "Six simple Raspberry Pi projects for beginners",
-"url": "https://www.engadget.com/2318530/simple-raspberry-pi-projects-for-beginners/",
-"published": "2026-11-21T18:45:00Z",
-"summary": "Stop leaving your Pi projects unfinished with these six accessible ideas.",
-"source": "Engadget"
-},
-{
 "title": "Trump says reported FBI database hack is ‘not good’",
 "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
 "published": "2026-11-21T18:44:53Z",
 "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
 "source": "TechCrunch"
-},
-{
-"title": "How to use a solar panel to charge your phone",
-"url": "https://www.engadget.com/2318512/how-to-use-solar-panel-charge-phone/",
-"published": "2026-11-21T18:30:00Z",
-"summary": "Can sunlight really charge your phone? Learn how portable solar chargers work and which features to look for before your next camping trip or blackout.",
-"source": "Engadget"
-},
-{
-"title": "Tesla's assisted driving system gets the green light for rollout in Italy",
-"url": "https://www.engadget.com/2324122/teslas-assisted-driving-system-gets-the-green-light-for-rollout-in-italy/",
-"published": "2026-11-21T18:29:20Z",
-"summary": "Tesla's self-driving tech is awaiting another major vote from the European Union before the end of the year.",
-"source": "Engadget"
-},
-{
-"title": "How much can you get for your old, discontinued Apple Watch?",
-"url": "https://www.engadget.com/2318441/how-much-old-discontinued-apple-watch-trade-in-program/",
-"published": "2026-11-21T18:15:00Z",
-"summary": "Your old Apple Watch can fetch some money toward your next one instead of sitting on your desk doing nothing.",
-"source": "Engadget"
 },
 {
 "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
@@ -136,39 +227,11 @@
 "source": "BleepingComputer"
 },
 {
-"title": "Setting up an Apple HomeView is ridiculously easy thanks to your iPhone",
-"url": "https://www.engadget.com/2318610/easy-apple-homeview-setup-with-iphone/",
-"published": "2026-11-21T18:00:00Z",
-"summary": "Here's how to set up an Apple HomeView and how to add other users.",
-"source": "Engadget"
-},
-{
-"title": "HomeView vs. Echo Show: What's the difference between Apple's and Amazon's smart displays?",
-"url": "https://www.engadget.com/2318413/apple-homeview-vs-amazon-echo-show-smart-display-comparison/",
-"published": "2026-11-21T17:45:00Z",
-"summary": "Both the HomeView and Echo Show put an AI assistant in your home, but they work in different ways.",
-"source": "Engadget"
-},
-{
 "title": "The FBI and USDA were reportedly hacked",
 "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
 "published": "2026-11-21T17:42:27Z",
 "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the…",
 "source": "The Verge"
-},
-{
-"title": "This retro classic is the most re-released game of all time — here's why",
-"url": "https://www.engadget.com/2318410/why-tetris-most-re-released-retro-game-ever/",
-"published": "2026-11-21T17:30:00Z",
-"summary": "Surpassing any other game, this recognizable retro title has been released on virtually every gaming platform, from the earliest retro machines to smartphones.",
-"source": "Engadget"
-},
-{
-"title": "How to set up surround sound with Apple TV 4K and HomePods",
-"url": "https://www.engadget.com/2318408/how-to-set-up-surround-sound-apple-tv-4k-homepods/",
-"published": "2026-11-21T17:15:00Z",
-"summary": "Surround yourself with Apple's premium home theater experience - for a price.",
-"source": "Engadget"
 },
 {
 "title": "Here are the top AI agents that can live in your text messages",
@@ -185,20 +248,6 @@
 "source": "9to5Mac"
 },
 {
-"title": "5 clever things you can still do with an old DVD or CD player",
-"url": "https://www.engadget.com/2318405/clever-uses-old-dvd-cd-players/",
-"published": "2026-11-21T17:00:00Z",
-"summary": "If you don't have discs to play, they can make for clever fodder for DIY projects.",
-"source": "Engadget"
-},
-{
-"title": "One of Apple HomeView's best features will have you cooking like a pro",
-"url": "https://www.engadget.com/2318404/apple-homeview-cooking-feature/",
-"published": "2026-11-21T16:45:00Z",
-"summary": "Apple makes cooking a blast with this new tool on its smart display.",
-"source": "Engadget"
-},
-{
 "title": "Best Black Friday gaming chair deals 2026",
 "url": "https://www.tomshardware.com/peripherals/gaming-chairs/best-gaming-chair-deals-secretlab-razer-and-more",
 "published": "2026-11-21T16:38:40Z",
@@ -206,25 +255,11 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "36 percent of households have ditched a streaming service subscription recently: Here's why",
-"url": "https://www.engadget.com/2318288/why-36-percent-households-ditching-streaming-subscriptions/",
-"published": "2026-11-21T16:30:00Z",
-"summary": "If you've cut back your streaming subscriptions recently, you're not alone.",
-"source": "Engadget"
-},
-{
 "title": "Trump wants to ban US companies from building overseas data centers as bans slow development",
 "url": "https://www.tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition",
 "published": "2026-11-21T16:29:39Z",
 "summary": "The president wants U.S. data center companies to stay within U.S. borders or pay a hefty fee if they want to build in foreign countries.",
 "source": "Tom's Hardware"
-},
-{
-"title": "Common reasons why your iPhone keeps randomly turning off",
-"url": "https://www.engadget.com/2318247/common-reasons-why-iphone-turning-off/",
-"published": "2026-11-21T16:15:00Z",
-"summary": "If your iPhone's battery can't keep up with what you're doing or you overwhelm its hardware, it might shut down to protect itself.",
-"source": "Engadget"
 },
 {
 "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
@@ -584,17 +619,17 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "How to pick the right website template for your creative business",
-"url": "https://www.creativebloq.com/features/how-to-pick-the-right-website-template-for-your-creative-business",
-"published": "2026-11-21T08:00:00Z",
-"summary": "Avoid the common mistakes to make sure your website template matches your vision for your brand.",
-"source": "Creative Bloq"
-},
-{
 "title": "Why has North Korea redesigned its flag? It's not about aesthetics...",
 "url": "https://www.creativebloq.com/news/why-has-north-korea-redesigned-its-flag-its-not-about-aesthetics",
 "published": "2026-11-21T08:00:00Z",
 "summary": "The new proportions are more about power than design.",
+"source": "Creative Bloq"
+},
+{
+"title": "How to pick the right website template for your creative business",
+"url": "https://www.creativebloq.com/features/how-to-pick-the-right-website-template-for-your-creative-business",
+"published": "2026-11-21T08:00:00Z",
+"summary": "Avoid the common mistakes to make sure your website template matches your vision for your brand.",
 "source": "Creative Bloq"
 },
 {
@@ -1550,18 +1585,18 @@
 "source": "Creative Bloq"
 },
 {
+"title": "Lumyna Community Challenge",
+"url": "https://www.producthunt.com/products/lumyna-community-challenge",
+"published": "2026-11-20T04:55:57Z",
+"summary": "A million virtual meters. A small pledge against hunger. Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Big Tech's compliance with EU market rules is performative, consumer group says",
 "url": "https://www.theregister.com/legal/2026/11/20/big-techs-compliance-with-eu-market-rules-is-performative-consumer-group-says/5311066",
 "published": "2026-11-20T04:30:00Z",
 "summary": "BEUC urges Brussels to impose tougher penalties over alleged barriers to switching services and controlling personal data",
 "source": "The Register"
-},
-{
-"title": "Mailpipe",
-"url": "https://www.producthunt.com/products/mailpipe-2",
-"published": "2026-11-20T04:13:55Z",
-"summary": "Draft Apple Mail replies with your local AI agent CLI Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies",
@@ -1613,13 +1648,6 @@
 "source": "BleepingComputer"
 },
 {
-"title": "Anthropic rival says companies can (mostly) skip the pricey models",
-"url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-"published": "2026-11-20T00:26:03Z",
-"summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
-"source": "TechCrunch"
-},
-{
 "title": "Germ Network infects Android, but in a good way",
 "url": "https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186",
 "published": "2026-11-20T00:06:35Z",
@@ -1645,20 +1673,6 @@
 "url": "https://9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access/",
 "published": "2026-11-19T23:47:30Z",
 "summary": "Following its launch for ChatGPT Pro, Business Premium, and Enterprise users, OpenAI is now beginning to test ChatGPT dot with a small number of ChatGPT Plus subscribers. Here are the details. more…",
-"source": "9to5Mac"
-},
-{
-"title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-"url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-"published": "2026-11-19T23:37:56Z",
-"summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
-"source": "TechCrunch"
-},
-{
-"title": "macOS 27.3 public beta 2 now available, here’s everything new",
-"url": "https://9to5mac.com/2026/11/19/macos-27-3-public-beta-2-now-available-heres-everything-new/",
-"published": "2026-11-19T23:01:25Z",
-"summary": "After releasing developer beta 2 of macOS 27.3 earlier this week, the company is now rolling out the public beta for users looking to try the new features ahead of next month’s official release.…",
 "source": "9to5Mac"
 },
 {
@@ -1704,18 +1718,18 @@
 "source": "The Register"
 },
 {
-"title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-"url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
-"published": "2026-11-19T20:29:46Z",
-"summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
-"source": "Ars Technica"
-},
-{
 "title": "Palo Alto Networks opens wallet for open-weight training biz",
 "url": "https://www.theregister.com/ai-and-ml/2026/11/19/palo-alto-networks-opens-wallet-for-open-weight-training-biz/5311168",
 "published": "2026-11-19T20:00:00Z",
 "summary": "Security shop buys the hand that feeds it",
 "source": "The Register"
+},
+{
+"title": "UndoGuard",
+"url": "https://www.producthunt.com/products/undoguard",
+"published": "2026-11-19T19:15:42Z",
+"summary": "The Ctrl+Z button for autonomous AI agents Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Nvidia adds possible hack to list of very bad things under investigation",
@@ -1744,13 +1758,6 @@
 "published": "2026-11-19T18:35:00Z",
 "summary": "Less is more, but this distro explores exactly how much less",
 "source": "The Register"
-},
-{
-"title": "Transport for London breach exposes 265,000 Oyster card users' data",
-"url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-"published": "2026-11-19T18:20:01Z",
-"summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
-"source": "BleepingComputer"
 },
 {
 "title": "Nintendo Switch Black Friday deals already include rare discounts on the Switch 2",
@@ -1854,7 +1861,7 @@
 "title": "QCon San Francisco 2026: Use AI to Multiply Your Team as a Staff Engineer",
 "url": "https://www.infoq.com/news/2026/11/ai-staff-engineer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
 "published": "2026-11-19T13:00:00Z",
-"summary": "At QCon San Francisco 2026, Jordan Cutler, Senior Staff Engineer and Web Platform Tech Lead at Pinterest, presented how the role of a staff engineer changes when every engineer has access to the same…",
+"summary": "At QCon San Francisco 2026, Jordan Cutler, senior staff engineer and web platform tech lead at Pinterest, presented how the role of a staff engineer changes when every engineer has access to the same…",
 "source": "InfoQ"
 },
 {
@@ -1879,10 +1886,10 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Stormi",
-"url": "https://www.producthunt.com/products/stormi",
-"published": "2026-11-19T12:24:03Z",
-"summary": "An AI team on your iPhone that does real work Discussion | Link",
+"title": "Andromon",
+"url": "https://www.producthunt.com/products/andromon",
+"published": "2026-11-19T12:20:09Z",
+"summary": "Your Android phone, on your computer. Free. Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -1960,13 +1967,6 @@
 "url": "https://www.producthunt.com/products/baby-s-day-in",
 "published": "2026-11-19T08:50:55Z",
 "summary": "Turn two phones into a baby monitor Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Inkrail",
-"url": "https://www.producthunt.com/products/inkrail",
-"published": "2026-11-19T08:46:08Z",
-"summary": "A cozy, nostalgic typewriter experience built for deep work. Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -2108,27 +2108,6 @@
 "published": "2026-11-18T07:46:33Z",
 "summary": "Thirty-six commits later, the page was live. I explored ideas directly in HTML and built on top of whatever worked.",
 "source": "Sidebar"
-},
-{
-"title": "pickfit",
-"url": "https://www.producthunt.com/products/pickfit",
-"published": "2026-11-18T05:38:56Z",
-"summary": "Every tool tested in a sandbox before it's recommended Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "What is a researcher’s worth?",
-"url": "https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12?source=rss----138adf9c44c---4",
-"published": "2026-11-17T23:26:24Z",
-"summary": "",
-"source": "UX Collective"
-},
-{
-"title": "Everyone knows sparkles mean AI. Use them to make design audits easier",
-"url": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11?source=rss----138adf9c44c---4",
-"published": "2026-11-17T23:25:21Z",
-"summary": "How to decipher your PM’s AI-generated mockup without losing hours Continue reading on UX Collective »",
-"source": "UX Collective"
 }
 ]
 }
