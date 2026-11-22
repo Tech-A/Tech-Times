@@ -1,7 +1,49 @@
 {
-"updated": "2026-11-22T01:03:36.449778Z",
-"count": 301,
+"updated": "2026-11-22T08:38:10.703694Z",
+"count": 298,
 "items": [
+{
+"title": "Formnext 2026: 4 things I loved and 1 that gives me the jeebies",
+"url": "https://www.creativebloq.com/news/formnext-2026-4-things-i-loved-and-1-that-gives-me-the-jeebies",
+"published": "2026-11-22T08:25:57Z",
+"summary": "Digital crafting is in rude health, but an omnipresent enemy is lurking in the wings.",
+"source": "Creative Bloq"
+},
+{
+"title": "Alienware Aurora PC with RTX 5070, 32GB of RAM drops to $1,899 in Amazon Black Friday offer — Core Ultra 7 equipped PC is one of the best value prebuilt deals we’ve seen so far",
+"url": "https://www.tomshardware.com/desktops/gaming-pcs/alienware-aurora-pc-with-rtx-5070-32gb-of-ram-drops-to-usd1-899-in-amazon-black-friday-offer-core-ultra-7-equipped-pc-is-one-of-the-best-value-prebuilt-deals-weve-seen-so-far",
+"published": "2026-11-22T08:08:15Z",
+"summary": "Pick up a gaming PC bargain this Black Friday with this RTX 5070-powered Alienware Aurora rig, which also comes with 32GB of DDR5 memory for only $1.899.",
+"source": "Tom's Hardware"
+},
+{
+"title": "Google Announces Agent Compute Engine for Secure AI Agent Execution",
+"url": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-22T06:30:00Z",
+"summary": "Google recently announced Agent Compute Engine, a managed service that runs AI agents in isolated microVMs, with checkpointing capabilities to suspend and resume execution environments. The design…",
+"source": "InfoQ"
+},
+{
+"title": "AWS Lambda Now Runs GPU Inference with 48 Concurrent Invocations Sharing One Model per GPU",
+"url": "https://www.infoq.com/news/2026/11/aws-lambda-gpu-managed-instances/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+"published": "2026-11-22T06:27:00Z",
+"summary": "AWS Lambda now runs Event Functions on EC2 G-series GPU instances through Lambda Managed Instances, with up to 48 concurrent invocations sharing one model per GPU, vLLM and SGLang base images that…",
+"source": "InfoQ"
+},
+{
+"title": "Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?",
+"url": "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/",
+"published": "2026-11-22T01:00:00Z",
+"summary": "New doesn't always mean better, especially in this economy. Here's what you need to know before deciding if the new Google Pixel 11 is the worth your money.",
+"source": "Engadget"
+},
+{
+"title": "Samsung vs. LG OLED TVs: What's the difference between them?",
+"url": "https://www.engadget.com/2310887/samsung-vs-lg-oled-tv-difference-between/",
+"published": "2026-11-22T01:00:00Z",
+"summary": "It's not simple to say that one is better than the other.",
+"source": "Engadget"
+},
 {
 "title": "This is what can happen if too many devices are sharing your home network",
 "url": "https://www.engadget.com/2319295/what-can-happen-too-many-devices-on-home-network/",
@@ -94,6 +136,13 @@
 "source": "Engadget"
 },
 {
+"title": "Amazon is complaining about NYC Council on shipping labels, too",
+"url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+"published": "2026-11-21T21:59:31Z",
+"summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could…",
+"source": "The Verge"
+},
+{
 "title": "FBI and USDA were reportedly targeted in back-to-back cyberattacks",
 "url": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/",
 "published": "2026-11-21T21:51:29Z",
@@ -178,25 +227,18 @@
 "source": "The Verge"
 },
 {
+"title": "oovi",
+"url": "https://www.producthunt.com/products/oovi",
+"published": "2026-11-21T20:02:03Z",
+"summary": "Your own team of AI on your desktop Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Act fast to score Intel's Core i7-14700K for its lowest price ever at $249.99",
 "url": "https://www.tomshardware.com/pc-components/cpus/act-fast-to-score-intels-core-i7-14700k-for-its-lowest-price-ever-at-usd249-99-raptor-lake-refresh-cpu-is-a-bargain-that-supports-ddr5-and-ddr4-motherboards",
 "published": "2026-11-21T20:00:22Z",
 "summary": "After months of inconsistent pricing, Intel's Core i7-14700K is down to its lowest price ever at $249.99, with support for LGA 1700 motherboards that come with either DDR4 or DDR5 memory support.",
 "source": "Tom's Hardware"
-},
-{
-"title": "How to block a device from your home network",
-"url": "https://www.engadget.com/2318874/how-to-block-device-home-network/",
-"published": "2026-11-21T20:00:00Z",
-"summary": "Did a strange device just connect to your home Wi-Fi? Don't panic. Here is how to identify exactly what it is and securely block it from your network.",
-"source": "Engadget"
-},
-{
-"title": "Anthropic employee claims to have proven the most famous math problem using Claude",
-"url": "https://www.engadget.com/2324141/anthropic-employee-claims-to-have-proven-the-most-famous-math-problem-using-claude/",
-"published": "2026-11-21T19:45:01Z",
-"summary": "Levent Alpöge says he worked with Claude to discover a proof of the Riemann Hypothesis.",
-"source": "Engadget"
 },
 {
 "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming in 2027",
@@ -260,6 +302,13 @@
 "published": "2026-11-21T16:29:39Z",
 "summary": "The president wants U.S. data center companies to stay within U.S. borders or pay a hefty fee if they want to build in foreign countries.",
 "source": "Tom's Hardware"
+},
+{
+"title": "Resurf",
+"url": "https://www.producthunt.com/products/resurf-2",
+"published": "2026-11-21T16:21:36Z",
+"summary": "Personal Knowledge Base & Bookmark Manager for Mac Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
@@ -458,6 +507,13 @@
 "source": "9to5Mac"
 },
 {
+"title": "Verge: Corner Controls",
+"url": "https://www.producthunt.com/products/verge-corner-controls",
+"published": "2026-11-21T12:26:00Z",
+"summary": "Swipe a screen corner to set brightness, volume and more Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "“Race realism” isn’t realistic—and it isn’t good science",
 "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
 "published": "2026-11-21T12:01:13Z",
@@ -470,13 +526,6 @@
 "published": "2026-11-21T12:01:00Z",
 "summary": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
 "source": "Wired"
-},
-{
-"title": "Harbinger is building the unsexy EVs that keep the economy moving",
-"url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
-"published": "2026-11-21T12:00:00Z",
-"summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round…",
-"source": "The Verge"
 },
 {
 "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
@@ -612,6 +661,13 @@
 "source": "Tom's Hardware"
 },
 {
+"title": "Omi CLI",
+"url": "https://www.producthunt.com/products/omi-cli",
+"published": "2026-11-21T08:05:31Z",
+"summary": "An AI coding agent in your terminal, on 13 models Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "Samsung’s gorgeous 49-inch Odyssey OLED G9 hits a new all-time low price of $854 — Amazon Black Friday deal slashes 33% off gaming monitor upgrade",
 "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsungs-gorgeous-49-inch-odyssey-oled-g9-hits-a-new-all-time-low-price-of-usd854-amazon-black-friday-deal-slashes-33-percent-off-gaming-monitor-upgrade",
 "published": "2026-11-21T08:02:41Z",
@@ -619,17 +675,17 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "Why has North Korea redesigned its flag? It's not about aesthetics...",
-"url": "https://www.creativebloq.com/news/why-has-north-korea-redesigned-its-flag-its-not-about-aesthetics",
-"published": "2026-11-21T08:00:00Z",
-"summary": "The new proportions are more about power than design.",
-"source": "Creative Bloq"
-},
-{
 "title": "How to pick the right website template for your creative business",
 "url": "https://www.creativebloq.com/features/how-to-pick-the-right-website-template-for-your-creative-business",
 "published": "2026-11-21T08:00:00Z",
 "summary": "Avoid the common mistakes to make sure your website template matches your vision for your brand.",
+"source": "Creative Bloq"
+},
+{
+"title": "Why has North Korea redesigned its flag? It's not about aesthetics...",
+"url": "https://www.creativebloq.com/news/why-has-north-korea-redesigned-its-flag-its-not-about-aesthetics",
+"published": "2026-11-21T08:00:00Z",
+"summary": "The new proportions are more about power than design.",
 "source": "Creative Bloq"
 },
 {
@@ -661,6 +717,34 @@
 "source": "Wired"
 },
 {
+"title": "Nike Promo Codes and Discounts: 30% for November 2026",
+"url": "https://www.wired.com/story/nike-promo-code/",
+"published": "2026-11-21T06:00:00Z",
+"summary": "Check out our deals for Nike this November 2026, including 15% off select purchases.",
+"source": "Wired"
+},
+{
+"title": "Therabody Promo Codes: 15% Off November 2026",
+"url": "https://www.wired.com/story/therabody-promo-code/",
+"published": "2026-11-21T06:00:00Z",
+"summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+"source": "Wired"
+},
+{
+"title": "Ulta Promo Codes: Up to 20% Off in November 2026",
+"url": "https://www.wired.com/story/ulta-coupon/",
+"published": "2026-11-21T06:00:00Z",
+"summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+"source": "Wired"
+},
+{
+"title": "20% Off Brooks Promo Code | November 2026",
+"url": "https://www.wired.com/story/brooks-promo-code/",
+"published": "2026-11-21T06:00:00Z",
+"summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+"source": "Wired"
+},
+{
 "title": "Motorola Coupon Code for November 2026",
 "url": "https://www.wired.com/story/motorola-coupon-code/",
 "published": "2026-11-21T06:00:00Z",
@@ -675,41 +759,6 @@
 "source": "Wired"
 },
 {
-"title": "Nike Promo Codes and Discounts: 30% for November 2026",
-"url": "https://www.wired.com/story/nike-promo-code/",
-"published": "2026-11-21T06:00:00Z",
-"summary": "Check out our deals for Nike this November 2026, including 15% off select purchases.",
-"source": "Wired"
-},
-{
-"title": "Ulta Promo Codes: Up to 20% Off in November 2026",
-"url": "https://www.wired.com/story/ulta-coupon/",
-"published": "2026-11-21T06:00:00Z",
-"summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-"source": "Wired"
-},
-{
-"title": "Therabody Promo Codes: 15% Off November 2026",
-"url": "https://www.wired.com/story/therabody-promo-code/",
-"published": "2026-11-21T06:00:00Z",
-"summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
-"source": "Wired"
-},
-{
-"title": "20% Off Brooks Promo Code | November 2026",
-"url": "https://www.wired.com/story/brooks-promo-code/",
-"published": "2026-11-21T06:00:00Z",
-"summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-"source": "Wired"
-},
-{
-"title": "Uplift Promo Codes: $300 Off",
-"url": "https://www.wired.com/story/uplift-desk-coupon-code/",
-"published": "2026-11-21T06:00:00Z",
-"summary": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
-"source": "Wired"
-},
-{
 "title": "Hostinger Promo Code: 85% Off for November 2026",
 "url": "https://www.wired.com/story/hostinger-coupon-code/",
 "published": "2026-11-21T06:00:00Z",
@@ -721,6 +770,13 @@
 "url": "https://www.wired.com/story/hostgator-coupon/",
 "published": "2026-11-21T06:00:00Z",
 "summary": "Unlock massive savings on HostGator web hosting, WordPress, VPS, and business email plans with our exclusive HostGator promo codes and deals.",
+"source": "Wired"
+},
+{
+"title": "Uplift Promo Codes: $300 Off",
+"url": "https://www.wired.com/story/uplift-desk-coupon-code/",
+"published": "2026-11-21T06:00:00Z",
+"summary": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
 "source": "Wired"
 },
 {
@@ -822,6 +878,13 @@
 "source": "The Register"
 },
 {
+"title": "Creavit Studio 4.0",
+"url": "https://www.producthunt.com/products/creavit-studio",
+"published": "2026-11-20T21:11:32Z",
+"summary": "Screen recording, iPhone camera and cinematic demos for Mac Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "South Korea busts 54 students cheating on national college admission exam by deploying emergency disaster alert during test",
 "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/south-korea-busts-54-students-cheating-on-national-college-admission-exam-by-deploying-emergency-disaster-alert-during-test-ai-micro-cameras-and-phones-drive-cheating-epidemic-that-forced-government-crackdown",
 "published": "2026-11-20T21:00:00Z",
@@ -885,13 +948,6 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "WaitFeed",
-"url": "https://www.producthunt.com/products/waitfeed-2",
-"published": "2026-11-20T20:01:06Z",
-"summary": "Tech feed inside agent wait time Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
 "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
 "published": "2026-11-20T19:53:41Z",
@@ -920,25 +976,11 @@
 "source": "9to5Mac"
 },
 {
-"title": "Stitch Loop",
-"url": "https://www.producthunt.com/products/stitch-loop",
-"published": "2026-11-20T19:38:38Z",
-"summary": "Google’s AI agent that ships fixes and watches the metric Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
 "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
 "published": "2026-11-20T19:32:08Z",
 "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
 "source": "TechCrunch"
-},
-{
-"title": "Smorza",
-"url": "https://www.producthunt.com/products/smorza",
-"published": "2026-11-20T19:28:10Z",
-"summary": "Every Mac app gets its own volume and output Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
@@ -1354,13 +1396,6 @@
 "source": "Ars Technica"
 },
 {
-"title": "Lawyer’s $9,450 private AI server with 12 used Nvidia V100s now runs every DeepSeek V4.1 Flash expert",
-"url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyers-usd9-450-private-ai-server-of-12-used-nvidia-v100s-now-runs-every-deepseek-v4-1-flash-expert-at-4-bit-nvfp4-up-to-184-tokens-per-second-on-code-and-long-documents-start-answering-in-about-half-the-time",
-"published": "2026-11-20T12:30:00Z",
-"summary": "A lawyer’s private AI server now runs DeepSeek V4.1 Flash on 12 used Nvidia V100 GPUs, with every expert at 4-bit NVFP4.",
-"source": "Tom's Hardware"
-},
-{
 "title": "Best Apple Black Friday deals now live: AirPods, MacBook Neo, Series 12, M6 MacBook Pro, more [Updated]",
 "url": "https://9to5mac.com/2026/11/20/best-apple-black-friday-deals-now-live/",
 "published": "2026-11-20T12:28:00Z",
@@ -1464,6 +1499,13 @@
 "published": "2026-11-20T10:57:43Z",
 "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
 "source": "BleepingComputer"
+},
+{
+"title": "30yr-uptime",
+"url": "https://www.producthunt.com/products/30yr-uptime",
+"published": "2026-11-20T10:55:49Z",
+"summary": "Claude Code mod for taking care of your body Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Host the perfect craft night with 15% off pottery painting kits",
@@ -1585,13 +1627,6 @@
 "source": "Creative Bloq"
 },
 {
-"title": "Lumyna Community Challenge",
-"url": "https://www.producthunt.com/products/lumyna-community-challenge",
-"published": "2026-11-20T04:55:57Z",
-"summary": "A million virtual meters. A small pledge against hunger. Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "Big Tech's compliance with EU market rules is performative, consumer group says",
 "url": "https://www.theregister.com/legal/2026/11/20/big-techs-compliance-with-eu-market-rules-is-performative-consumer-group-says/5311066",
 "published": "2026-11-20T04:30:00Z",
@@ -1611,6 +1646,13 @@
 "published": "2026-11-20T02:06:01Z",
 "summary": "GitHub Desktop now lets you sign in with more than one account on the same host, including GitHub.com, GitHub Enterprise Server, and GHE.com. This has been one of the most… The post GitHub Desktop…",
 "source": "GitHub Changelog"
+},
+{
+"title": "Mockreel",
+"url": "https://www.producthunt.com/products/mockreel",
+"published": "2026-11-20T02:04:14Z",
+"summary": "your screen recording, but in a 3D phone. free, no signup Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "WhatsApp is raising group chat limit to 1,500 participants",
@@ -1669,6 +1711,13 @@
 "source": "9to5Mac"
 },
 {
+"title": "Pushback: Flight Tracker",
+"url": "https://www.producthunt.com/products/pushback-flight-tracker",
+"published": "2026-11-19T23:48:07Z",
+"summary": "The flight tracker that knows which lounge you can use Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "OpenAI begins testing dots with ChatGPT Plus users, expands Business access",
 "url": "https://9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access/",
 "published": "2026-11-19T23:47:30Z",
@@ -1723,13 +1772,6 @@
 "published": "2026-11-19T20:00:00Z",
 "summary": "Security shop buys the hand that feeds it",
 "source": "The Register"
-},
-{
-"title": "UndoGuard",
-"url": "https://www.producthunt.com/products/undoguard",
-"published": "2026-11-19T19:15:42Z",
-"summary": "The Ctrl+Z button for autonomous AI agents Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Nvidia adds possible hack to list of very bad things under investigation",
@@ -1816,6 +1858,13 @@
 "source": "The Register"
 },
 {
+"title": "TeaserKit",
+"url": "https://www.producthunt.com/products/teaserkit",
+"published": "2026-11-19T15:08:42Z",
+"summary": "your coding agent directs your launch video Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "scroll-state()",
 "url": "https://css-tricks.com/almanac/functions/s/scroll-state/",
 "published": "2026-11-19T14:57:54Z",
@@ -1879,17 +1928,10 @@
 "source": "UX Collective"
 },
 {
-"title": "I dare Apple to make this delightful AirPods design a reality",
-"url": "https://www.creativebloq.com/news/i-dare-apple-to-make-this-delightful-airpods-design-a-reality",
-"published": "2026-11-19T12:27:59Z",
-"summary": "The company has rediscovered its playful side lately – but this would take the cake.",
-"source": "Creative Bloq"
-},
-{
-"title": "Andromon",
-"url": "https://www.producthunt.com/products/andromon",
-"published": "2026-11-19T12:20:09Z",
-"summary": "Your Android phone, on your computer. Free. Discussion | Link",
+"title": "Rankhog",
+"url": "https://www.producthunt.com/products/rankhog",
+"published": "2026-11-19T12:43:48Z",
+"summary": "Get customers from Reddit on autopilot Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -1907,13 +1949,6 @@
 "source": "InfoQ"
 },
 {
-"title": "Producing Healthy Code with Artificial Intelligence Costs Fewer Tokens",
-"url": "https://www.infoq.com/news/2026/11/healthy-code-AI-tokens/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-"published": "2026-11-19T11:09:00Z",
-"summary": "Agentic AI can speed up velocity, but the gains vanish within months as code complexity grows. Healthy code makes AI perform better and costs fewer tokens. Safeguarding means keeping code health high…",
-"source": "InfoQ"
-},
-{
 "title": "What a billion-dollar deal says about the US battery market",
 "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
 "published": "2026-11-19T11:00:00Z",
@@ -1921,11 +1956,11 @@
 "source": "MIT Technology Review"
 },
 {
-"title": "Presentation: RIIIR: Rewrite It In *Idiomatic* Rust (with AI)",
-"url": "https://www.infoq.com/presentations/rust-ai-symposium-agent-client-protocol/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-"published": "2026-11-19T11:00:00Z",
-"summary": "Nicholas Matsakis shares why AI makes Rust the ideal choice for modern production systems, skipping steep adoption hurdles via compiler guardrails. He discusses Symposium - an open-source…",
-"source": "InfoQ"
+"title": "Raccoon Kids",
+"url": "https://www.producthunt.com/products/raccoon-kids",
+"published": "2026-11-19T10:33:05Z",
+"summary": "Gamify Chores for Kids: no more nagging, just a cute raccoon Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "Making a website in 2026",
@@ -1963,13 +1998,6 @@
 "source": "Sidebar"
 },
 {
-"title": "Baby's Day In",
-"url": "https://www.producthunt.com/products/baby-s-day-in",
-"published": "2026-11-19T08:50:55Z",
-"summary": "Turn two phones into a baby monitor Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
 "url": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
 "published": "2026-11-19T08:27:16Z",
@@ -1977,17 +2005,10 @@
 "source": "GitHub Changelog"
 },
 {
-"title": "InteraOne",
-"url": "https://www.producthunt.com/products/interaone",
-"published": "2026-11-19T06:13:43Z",
-"summary": "Open-source Intercom & Zendesk alternative with AI agents Discussion | Link",
-"source": "Product Hunt"
-},
-{
-"title": "Doddle",
-"url": "https://www.producthunt.com/products/doddle-3",
-"published": "2026-11-19T03:30:17Z",
-"summary": "Draw on what your videos for 3D effects Discussion | Link",
+"title": "DeNotch",
+"url": "https://www.producthunt.com/products/denotch",
+"published": "2026-11-19T07:57:34Z",
+"summary": "Hide the MacBook notch and tame your menu bar Discussion | Link",
 "source": "Product Hunt"
 },
 {
@@ -2061,53 +2082,11 @@
 "source": "MIT Technology Review"
 },
 {
-"title": "CROON",
-"url": "https://www.producthunt.com/products/croon",
-"published": "2026-11-18T11:51:36Z",
-"summary": "Live dubbing for whatever's playing on your iPhone Discussion | Link",
-"source": "Product Hunt"
-},
-{
 "title": "This smell startup says its AI nose is as good as a human’s",
 "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
 "published": "2026-11-18T10:20:30Z",
 "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,”…",
 "source": "MIT Technology Review"
-},
-{
-"title": "Tomjohnville",
-"url": "https://www.tomjohn.design/content/tomjohnville",
-"published": "2026-11-18T07:51:44Z",
-"summary": "This town from the first idea to now: my prompts, and the screenshots and videos in between.",
-"source": "Sidebar"
-},
-{
-"title": "I love markers",
-"url": "https://www.kooslooijesteijn.net/blog/alcohol-markers",
-"published": "2026-11-18T07:51:10Z",
-"summary": "Alcohol marker maintenance, color systems, and physical drawing benefits: analog methods to balance digital workflows.",
-"source": "Sidebar"
-},
-{
-"title": "Design writing: working with AI agents",
-"url": "https://automattic.design/2026/11/16/design-writing-working-with-ai-agents/",
-"published": "2026-11-18T07:49:32Z",
-"summary": "How Automattic's design writing team turned insights into two installable agent skills.",
-"source": "Sidebar"
-},
-{
-"title": "Glimm",
-"url": "https://glimm.dev/",
-"published": "2026-11-18T07:48:08Z",
-"summary": "A single WebGL band sweeps across the screen while routes swap underneath. About 11 KB, GPU-composited, drop-in.",
-"source": "Sidebar"
-},
-{
-"title": "Designing with html",
-"url": "https://shiftnudge.com/archive/26905760",
-"published": "2026-11-18T07:46:33Z",
-"summary": "Thirty-six commits later, the page was live. I explored ideas directly in HTML and built on top of whatever worked.",
-"source": "Sidebar"
 }
 ]
 }
