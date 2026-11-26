@@ -1,13 +1,69 @@
 {
-"updated": "2026-11-25T23:29:44.193434Z",
+"updated": "2026-11-26T05:23:30.845821Z",
 "count": 312,
 "items": [
+{
+"title": "Apple pulls popular Chinese AI chatbot from the App Store amid child safety concerns",
+"url": "https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns/",
+"published": "2026-11-26T02:12:24Z",
+"summary": "Following reports that its characters sent inappropriate messages to minors, Apple has removed the popular Chinese AI companion app Talkie from the App Store. Here are the details. more…",
+"source": "9to5Mac"
+},
+{
+"title": "Wispr Flow improves dictation accuracy with new Canto-2 speech-to-text model",
+"url": "https://9to5mac.com/2026/11/25/wispr-flow-improves-dictation-accuracy-with-new-canto-2-speech-to-text-model/",
+"published": "2026-11-26T00:35:52Z",
+"summary": "Popular AI dictation app Wispr Flow is rolling out a new speech-to-text model for Mac, iPhone, and other platforms, promising fewer transcription errors and better recognition of names and technical…",
+"source": "9to5Mac"
+},
+{
+"title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+"url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+"published": "2026-11-26T00:04:34Z",
+"summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings…",
+"source": "The Verge"
+},
+{
+"title": "Amazon loses its latest attempt to get out of handling more recall notices",
+"url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+"published": "2026-11-25T23:56:44Z",
+"summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of…",
+"source": "The Verge"
+},
+{
+"title": "9to5Mac Daily: November 25, 2026 – CarPlay Ultra update, iPad rumors",
+"url": "https://9to5mac.com/2026/11/25/daily-november-25-2026/",
+"published": "2026-11-25T23:46:20Z",
+"summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for…",
+"source": "9to5Mac"
+},
+{
+"title": "We reviewed these 10 gadgets, and they're now on sale for Black Friday",
+"url": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/",
+"published": "2026-11-25T23:36:46Z",
+"summary": "Multiple gadgets from Engadget's Best of 2026 list are already on sale, including Samsung's flagship foldable and Apple's ultra-popular entry-level laptop.",
+"source": "Engadget"
+},
+{
+"title": "1Password confirms security incident, here’s what you need to know",
+"url": "https://9to5mac.com/2026/11/25/1password-confirms-security-incident-heres-what-you-need-to-know/",
+"published": "2026-11-25T23:30:05Z",
+"summary": "Password management platform 1Password today disclosed a security incident in which an attacker gained access to internal systems and stole select customer account information. Here are the details.…",
+"source": "9to5Mac"
+},
 {
 "title": "Get an RTX 5060 prebuilt for just $750 in deal that seems too good to be true",
 "url": "https://www.tomshardware.com/desktops/gaming-pcs/get-an-rtx-5060-prebuilt-for-just-usd750-in-deal-that-seems-too-good-to-be-true-deep-usd650-discount-on-gaming-pc-offers-core-i5-14400f-16gb-ddr4-and-a-1tb-ssd",
 "published": "2026-11-25T23:18:00Z",
 "summary": "Walmart has an exceptional deal on an RTX 5060-powered gaming desktop, which is on sale for just $750 right now.",
 "source": "Tom's Hardware"
+},
+{
+"title": "The sky was once full of stars, kids; then the FCC let Elon Musk launch a million datacenter satellites",
+"url": "https://www.theregister.com/off-prem/2026/11/25/the-sky-was-once-full-of-stars-kids-then-the-fcc-let-elon-musk-launch-a-million-datacenter-satellites/5312268",
+"published": "2026-11-25T22:54:07Z",
+"summary": "Approval for ‘Starmind’ granted but it’s a long way from the launchpad, or making sense",
+"source": "The Register"
 },
 {
 "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
@@ -451,13 +507,6 @@
 "source": "Tom's Hardware"
 },
 {
-"title": "The Verge’s guide to the best gifts under $100",
-"url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
-"published": "2026-11-25T17:00:00Z",
-"summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey…",
-"source": "The Verge"
-},
-{
 "title": "How data centers are driving a US natural-gas boom",
 "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
 "published": "2026-11-25T17:00:00Z",
@@ -561,13 +610,6 @@
 "published": "2026-11-25T16:03:17Z",
 "summary": "The company has promised to share more details on December 8.",
 "source": "Engadget"
-},
-{
-"title": "Nothing offers a full look at its AI earbuds and charging case",
-"url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-"published": "2026-11-25T16:00:59Z",
-"summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record…",
-"source": "The Verge"
 },
 {
 "title": "From $125 to $1,000, the best ergonomic office chair Black Friday deals all tested by our reviewers",
@@ -1326,18 +1368,18 @@
 "source": "The Register"
 },
 {
+"title": "Omi X 2.0",
+"url": "https://www.producthunt.com/products/omi-x",
+"published": "2026-11-25T02:11:54Z",
+"summary": "Omi can build anything. Your $1B idea, live in production Discussion | Link",
+"source": "Product Hunt"
+},
+{
 "title": "These Black Friday laptops are perfect for graphic designers who work on the move",
 "url": "https://www.creativebloq.com/deals/black-friday-laptop-picks",
 "published": "2026-11-25T02:00:00Z",
 "summary": "All built for graphic design, there’s a laptop here to suit every budget.",
 "source": "Creative Bloq"
-},
-{
-"title": "Statefold",
-"url": "https://www.producthunt.com/products/statefold-2",
-"published": "2026-11-25T01:45:57Z",
-"summary": "Coding agents that keep working while you're away Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Sen Việt (VieLotus-IM)",
@@ -1373,6 +1415,13 @@
 "published": "2026-11-25T01:00:00Z",
 "summary": "Your TV's refresh rate might be set to 60fps by default, but you can change that.",
 "source": "Engadget"
+},
+{
+"title": "Notely",
+"url": "https://www.producthunt.com/products/notely-8",
+"published": "2026-11-25T00:50:46Z",
+"summary": "Notion-grade power & BYOK AI, stored locally in SQLite Discussion | Link",
+"source": "Product Hunt"
 },
 {
 "title": "This helpful Apple Watch feature works seamlessly with Apple CarPlay",
@@ -1585,25 +1634,11 @@
 "source": "9to5Mac"
 },
 {
-"title": "This underrated Pixel feature is more versatile than you realize",
-"url": "https://www.engadget.com/2321246/underrated-pixel-feature-more-versatile-realize-quick-tap/",
-"published": "2026-11-24T21:00:00Z",
-"summary": "Google's Pixel phones have a very cool feature that will make your phone easier to use one-handed. Here's what it does.",
-"source": "Engadget"
-},
-{
 "title": "AI godfather Yann LeCun torches Anthropic CEO over AI gatekeeping",
 "url": "https://www.theregister.com/ai-and-ml/2026/11/24/ai-godfather-yann-lecun-torches-anthropic-ceo-over-ai-gatekeeping/5311986",
 "published": "2026-11-24T20:57:08Z",
 "summary": "‘It’s like the Ottoman Empire banning the printing press for Arabic so they would keep in control of the dogma,’ he says",
 "source": "The Register"
-},
-{
-"title": "TikTok is currently down for some users",
-"url": "https://9to5mac.com/2026/11/24/tiktok-is-currently-down-for-some-users/",
-"published": "2026-11-24T20:44:37Z",
-"summary": "TikTok loading slowly or not at all? The service is apparently experiencing an outage for some users. more…",
-"source": "9to5Mac"
 },
 {
 "title": "What's going on with the Riemann hypothesis?",
@@ -1641,20 +1676,6 @@
 "source": "Ars Technica"
 },
 {
-"title": "Anthropic just gave Claude users a new way to make Mac apps",
-"url": "https://9to5mac.com/2026/11/24/anthropic-just-gave-claude-users-a-new-way-to-make-mac-apps/",
-"published": "2026-11-24T19:56:34Z",
-"summary": "Use Claude on Mac or Windows? Anthropic just released a new way to make personalized desktop apps using AI tools. more…",
-"source": "9to5Mac"
-},
-{
-"title": "AirTag 2 has two big improvements that make it worth the upgrade",
-"url": "https://9to5mac.com/2026/11/24/airtag-2-has-two-big-improvements-that-make-it-worth-the-upgrade/",
-"published": "2026-11-24T19:53:22Z",
-"summary": "AirTag 2 ( now only $18 , down from $29 ) launched earlier this year after a five-year wait, and in my experience there are two big improvements that make it worth the upgrade. more…",
-"source": "9to5Mac"
-},
-{
 "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
 "url": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
 "published": "2026-11-24T19:33:23Z",
@@ -1681,13 +1702,6 @@
 "published": "2026-11-24T18:59:52Z",
 "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
 "source": "BleepingComputer"
-},
-{
-"title": "Disney+, HBO Max, Apple TV, more: Here are the best Black Friday deals",
-"url": "https://9to5mac.com/2026/11/24/hbo-max-peacock-apple-tv-more-here-are-the-best-black-friday-deals/",
-"published": "2026-11-24T18:54:37Z",
-"summary": "The holidays are often the best time to subscribe to streaming services at deep discounts, and that’s true again this year. Here are the best Black Friday deals that are already live for HBO Max…",
-"source": "9to5Mac"
 },
 {
 "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
@@ -1935,13 +1949,6 @@
 "source": "Wired"
 },
 {
-"title": "CrowdStrike splashes $44B on Zscaler, customers brace for the bill",
-"url": "https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877",
-"published": "2026-11-24T12:22:17Z",
-"summary": "Record-breaking cybersecurity deal promises tighter integration, but sysadmins fear higher prices and vendor lock-in",
-"source": "The Register"
-},
-{
 "title": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
 "url": "https://www.wired.com/story/gifts-for-friends/",
 "published": "2026-11-24T12:03:00Z",
@@ -2038,13 +2045,6 @@
 "published": "2026-11-24T06:32:00Z",
 "summary": "At QCon San Francisco 2026, OpenAI's Brian Yang described building the ChatGPT ads product with Codex agents and no human-written code. He outlined layered testing, sandboxes, and batched pull…",
 "source": "InfoQ"
-},
-{
-"title": "Snag by Parallel",
-"url": "https://www.producthunt.com/products/snag",
-"published": "2026-11-24T01:50:08Z",
-"summary": "Find the best deals on products from your agents Discussion | Link",
-"source": "Product Hunt"
 },
 {
 "title": "Is product design a people industry or a tech industry?",
